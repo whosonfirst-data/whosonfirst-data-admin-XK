@@ -1,0 +1,82 @@
+{
+  "id": 1310241367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14833,43.01389,21.14833,43.01389",
+    "geom:latitude":43.01389,
+    "geom:longitude":21.14833,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Metohija",
+    "gn:country_code":"XK",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788009,
+    "gn:latitude":43.01389,
+    "gn:longitude":21.14833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Metohija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Metohi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u0445\u0438\u0458\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Metohija"
+    ],
+    "name:und_x_variant":[
+        "Metohi",
+        "Metehia",
+        "Metehi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788009
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ebd090770b2c8cc2ba75ff3467e406c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1310241367,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1310241367,
+    "wof:lastmodified":1537714841,
+    "wof:name":"Metohija",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14833,
+    43.01389,
+    21.14833,
+    43.01389
+],
+  "geometry": {"coordinates":[21.14833,43.01389],"type":"Point"}
+}

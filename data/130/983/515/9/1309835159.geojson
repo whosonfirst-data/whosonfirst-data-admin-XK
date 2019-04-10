@@ -1,0 +1,80 @@
+{
+  "id": 1309835159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9725,42.91389,20.9725,42.91389",
+    "geom:latitude":42.91389,
+    "geom:longitude":20.9725,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Trstena",
+    "gn:country_code":"XK",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784881,
+    "gn:latitude":42.91389,
+    "gn:longitude":20.9725,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Trstena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "T\u00ebrsten\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Trstena"
+    ],
+    "name:und_x_variant":[
+        "T\u00ebrsten\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784881
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"649bb16116856ec3d2bf13406eab2b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1309835159,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1309835159,
+    "wof:lastmodified":1537714780,
+    "wof:name":"Trstena",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9725,
+    42.91389,
+    20.9725,
+    42.91389
+],
+  "geometry": {"coordinates":[20.9725,42.91389],"type":"Point"}
+}

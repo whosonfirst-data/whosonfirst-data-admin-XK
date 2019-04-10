@@ -1,0 +1,87 @@
+{
+  "id": 1326963923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20924,42.98662,21.20924,42.98662",
+    "geom:latitude":42.98662,
+    "geom:longitude":21.20924,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Gornja Dubnica",
+    "gn:country_code":"XK",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790509,
+    "gn:latitude":42.98662,
+    "gn:longitude":21.20924,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gornja Dubnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dumnica e Ep\u00ebrme"
+    ],
+    "name:sqi_x_variant":[
+        "Dumnic\u00eb e Ep\u00ebrme",
+        "Dubnica e Ep\u00ebrme",
+        "Livadhia e Ep\u00ebrme"
+    ],
+    "name:srp_x_preferred":[
+        "Gornja Dubnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0414\u0443\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Livadhia e Ep\u00ebrme",
+        "Dubnica e Ep\u00ebrme",
+        "Dumnic\u00eb e Ep\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790509
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c5d57bf2c478bbc43e5f7d7ff42826c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1326963923,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1326963923,
+    "wof:lastmodified":1537714902,
+    "wof:name":"Gornja Dubnica",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20924,
+    42.98662,
+    21.20924,
+    42.98662
+],
+  "geometry": {"coordinates":[21.20924,42.98662],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1276152199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17306,42.48861,21.17306,42.48861",
+    "geom:latitude":42.48861,
+    "geom:longitude":21.17306,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Llugagji",
+    "gn:country_code":"XK",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788441,
+    "gn:latitude":42.48861,
+    "gn:longitude":21.17306,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Llugagji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Llugaxhi"
+    ],
+    "name:sqi_x_variant":[
+        "Llugagji",
+        "Lugaxhi"
+    ],
+    "name:srp_x_preferred":[
+        "Lugad\u017eija"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0443\u0433\u0430\u045f\u0438\u0458\u0430",
+        "Luga\u0111ija"
+    ],
+    "name:und_x_variant":[
+        "Luga\u0111ija",
+        "Lugaxhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809575,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788441
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"53b3e93f80850eefdcfec5bab43d089d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809575,
+            "locality_id":1276152199,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1276152199,
+    "wof:lastmodified":1537714850,
+    "wof:name":"Llugagji",
+    "wof:parent_id":1108809575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17306,
+    42.48861,
+    21.17306,
+    42.48861
+],
+  "geometry": {"coordinates":[21.17306,42.48861],"type":"Point"}
+}

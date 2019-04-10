@@ -1,0 +1,87 @@
+{
+  "id": 1226276337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97333,42.87444,20.97333,42.87444",
+    "geom:latitude":42.87444,
+    "geom:longitude":20.97333,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Trlabuc",
+    "gn:country_code":"XK",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830477,
+    "gn:latitude":42.87444,
+    "gn:longitude":20.97333,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Trlabu\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "T\u00ebrllobuq"
+    ],
+    "name:sqi_x_variant":[
+        "Terllabuc"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u043b\u0430\u0431\u0443\u045b"
+    ],
+    "name:srp_x_variant":[
+        "Trlabu\u0107",
+        "Tarlabu\u0107",
+        "Trlobu\u0107"
+    ],
+    "name:und_x_variant":[
+        "Trlobu\u0107",
+        "Terllabuc",
+        "Tarlabu\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830477
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"482f8905b761076d3dabcf57c830efb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1226276337,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1226276337,
+    "wof:lastmodified":1537715003,
+    "wof:name":"Trlabuc",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97333,
+    42.87444,
+    20.97333,
+    42.87444
+],
+  "geometry": {"coordinates":[20.97333,42.87444],"type":"Point"}
+}

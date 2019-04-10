@@ -1,0 +1,83 @@
+{
+  "id": 1343889197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12139,42.59833,21.12139,42.59833",
+    "geom:latitude":42.59833,
+    "geom:longitude":21.12139,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Preoce",
+    "gn:country_code":"XK",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786782,
+    "gn:latitude":42.59833,
+    "gn:longitude":21.12139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Preoce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Preoc"
+    ],
+    "name:sqi_x_variant":[
+        "P\u00ebroc"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u043e\u0446\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Preoce"
+    ],
+    "name:und_x_variant":[
+        "P\u00ebroc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809537,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786782
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0db154db99836fb249dbf789be9c859a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809537,
+            "locality_id":1343889197,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1343889197,
+    "wof:lastmodified":1537714815,
+    "wof:name":"Preoce",
+    "wof:parent_id":1108809537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12139,
+    42.59833,
+    21.12139,
+    42.59833
+],
+  "geometry": {"coordinates":[21.12139,42.59833],"type":"Point"}
+}

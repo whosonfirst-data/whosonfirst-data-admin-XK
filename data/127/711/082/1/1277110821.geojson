@@ -1,0 +1,85 @@
+{
+  "id": 1277110821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99167,42.84889,20.99167,42.84889",
+    "geom:latitude":42.84889,
+    "geom:longitude":20.99167,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Gojbulja",
+    "gn:country_code":"XK",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790656,
+    "gn:latitude":42.84889,
+    "gn:longitude":20.99167,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gojbulja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gojbul\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Gojbuj\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0458\u0431\u0443\u0459\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Gojbulja"
+    ],
+    "name:und_x_variant":[
+        "Gojbul\u00eb",
+        "Gojbuj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790656,
+        "wk:page":"Gojbulja"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"98b06919787944593e7ca22fdb40d78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1277110821,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1277110821,
+    "wof:lastmodified":1537714903,
+    "wof:name":"Gojbulja",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99167000000001,
+    42.84889,
+    20.99167000000001,
+    42.84889
+],
+  "geometry": {"coordinates":[20.99167000000001,42.84889],"type":"Point"}
+}

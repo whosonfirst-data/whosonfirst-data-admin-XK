@@ -1,0 +1,80 @@
+{
+  "id": 1242813813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46389,42.64694,20.46389,42.64694",
+    "geom:latitude":42.64694,
+    "geom:longitude":20.46389,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Sferke",
+    "gn:country_code":"XK",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785165,
+    "gn:latitude":42.64694,
+    "gn:longitude":20.46389,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sferk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Svrk\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Sverk\u00eb",
+        "Sferk\u00eb"
+    ],
+    "name:und_x_variant":[
+        "Sferk\u00eb",
+        "Svrhe",
+        "Sverk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785165
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d1d55dbf0066e3d7390366ec22735c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1242813813,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1242813813,
+    "wof:lastmodified":1537714785,
+    "wof:name":"Sferke",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46389,
+    42.64694,
+    20.46389,
+    42.64694
+],
+  "geometry": {"coordinates":[20.46389,42.64694],"type":"Point"}
+}

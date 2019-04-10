@@ -1,0 +1,74 @@
+{
+  "id": 1209140725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8175,42.17417,20.8175,42.17417",
+    "geom:latitude":42.17417,
+    "geom:longitude":20.8175,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Recane",
+    "gn:country_code":"XK",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786379,
+    "gn:latitude":42.17417,
+    "gn:longitude":20.8175,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Re\u010dane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Re\u00e7an"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0447\u0430\u043d\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Re\u010dane"
+    ],
+    "name:und_x_variant":[
+        "Re\u00e7an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786379
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"3ab4b43e36728f5a4a5f32fa778cffe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209140725
+        }
+    ],
+    "wof:id":1209140725,
+    "wof:lastmodified":1537714809,
+    "wof:name":"Recane",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8175,
+    42.17417,
+    20.8175,
+    42.17417
+],
+  "geometry": {"coordinates":[20.8175,42.17417],"type":"Point"}
+}

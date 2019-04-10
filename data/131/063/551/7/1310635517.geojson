@@ -1,0 +1,84 @@
+{
+  "id": 1310635517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2225,42.60972,21.2225,42.60972",
+    "geom:latitude":42.60972,
+    "geom:longitude":21.2225,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Badovac",
+    "gn:country_code":"XK",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793004,
+    "gn:latitude":42.60972,
+    "gn:longitude":21.2225,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Badovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Badoc"
+    ],
+    "name:sqi_x_variant":[
+        "Badovc",
+        "Badofc"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434\u043e\u0432\u0430\u0446"
+    ],
+    "name:srp_x_variant":[
+        "Badovac"
+    ],
+    "name:und_x_variant":[
+        "Badofc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809537,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793004
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6426df220c9b72c6ff128edf348df5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809537,
+            "locality_id":1310635517,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1310635517,
+    "wof:lastmodified":1537714962,
+    "wof:name":"Badovac",
+    "wof:parent_id":1108809537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2225,
+    42.60972,
+    21.2225,
+    42.60972
+],
+  "geometry": {"coordinates":[21.2225,42.60972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309748125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66417,42.76278,20.66417,42.76278",
+    "geom:latitude":42.76278,
+    "geom:longitude":20.66417,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Dragaj",
+    "gn:country_code":"XK",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831846,
+    "gn:latitude":42.76278,
+    "gn:longitude":20.66417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Dragaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dragaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809553,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831846
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c87c18bde6e528f58d0daf830e419b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809553,
+            "locality_id":1309748125,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1309748125,
+    "wof:lastmodified":1537715022,
+    "wof:name":"Dragaj",
+    "wof:parent_id":1108809553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66417,
+    42.76278,
+    20.66417,
+    42.76278
+],
+  "geometry": {"coordinates":[20.66417,42.76278],"type":"Point"}
+}

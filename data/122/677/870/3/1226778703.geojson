@@ -1,0 +1,84 @@
+{
+  "id": 1226778703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70167,42.91889,20.70167,42.91889",
+    "geom:latitude":42.91889,
+    "geom:longitude":20.70167,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Dobrosevina",
+    "gn:country_code":"XK",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830321,
+    "gn:latitude":42.91889,
+    "gn:longitude":20.70167,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Dobro\u0161evina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dobroshevin\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Dobro\u0161evina"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u0448\u0435\u0432\u0438\u043d\u0430",
+        "Donja Dobro\u0161evina",
+        "\u0414\u043e\u045a\u0435 \u0414\u043e\u0431\u0440\u043e\u0448\u0435\u0432\u0438\u043d\u0430",
+        "\u0414\u043e\u045a\u0430 \u0414\u043e\u0431\u0440\u043e\u0448\u0435\u0432\u0438\u043d\u0430",
+        "Donje Dobro\u0161evina"
+    ],
+    "name:und_x_variant":[
+        "Donje Dobro\u0161evina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830321
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b615551637e670dfaa02178c17d5b3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1226778703,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1226778703,
+    "wof:lastmodified":1537714992,
+    "wof:name":"Dobrosevina",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70167,
+    42.91889000000001,
+    20.70167,
+    42.91889000000001
+],
+  "geometry": {"coordinates":[20.70167,42.91889000000001],"type":"Point"}
+}

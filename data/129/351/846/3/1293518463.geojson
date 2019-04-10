@@ -1,0 +1,77 @@
+{
+  "id": 1293518463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82917,43.10889,20.82917,43.10889",
+    "geom:latitude":43.10889,
+    "geom:longitude":20.82917,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Zaberxhe",
+    "gn:country_code":"XK",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830119,
+    "gn:latitude":43.10889,
+    "gn:longitude":20.82917,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Zab\u00ebrxh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zab\u00ebrxh\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Zabr\u0111e"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0431\u0440\u0452\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830119
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0e7a4c5b67f2bfb910a578091f81fe9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1293518463,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293518463,
+    "wof:lastmodified":1537714978,
+    "wof:name":"Zaberxhe",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82917,
+    43.10889,
+    20.82917,
+    43.10889
+],
+  "geometry": {"coordinates":[20.82917,43.10889],"type":"Point"}
+}

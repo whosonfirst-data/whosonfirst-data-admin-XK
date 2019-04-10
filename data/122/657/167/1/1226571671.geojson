@@ -1,0 +1,71 @@
+{
+  "id": 1226571671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78083,43.20889,20.78083,43.20889",
+    "geom:latitude":43.20889,
+    "geom:longitude":20.78083,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Kurelje",
+    "gn:country_code":"XK",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830083,
+    "gn:latitude":43.20889,
+    "gn:longitude":20.78083,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kurelje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kurelje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830083
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4709fee223ba80d7d74ae4cc8693c043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1226571671,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1226571671,
+    "wof:lastmodified":1537714975,
+    "wof:name":"Kurelje",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78083,
+    43.20889,
+    20.78083,
+    43.20889
+],
+  "geometry": {"coordinates":[20.78083,43.20889],"type":"Point"}
+}

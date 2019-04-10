@@ -1,0 +1,89 @@
+{
+  "id": 1310041789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.455,42.67583,20.455,42.67583",
+    "geom:latitude":42.67583,
+    "geom:longitude":20.455,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Trstenik",
+    "gn:country_code":"XK",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784874,
+    "gn:latitude":42.67583,
+    "gn:longitude":20.455,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Trstenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Trestenik"
+    ],
+    "name:sqi_x_variant":[
+        "T\u00ebrstenik",
+        "Saradrani",
+        "Dasami"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Trstenik"
+    ],
+    "name:und_x_variant":[
+        "Dasam",
+        "Saradran",
+        "Dasami",
+        "T\u00ebrstenik",
+        "Saradrani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784874
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f06052295a23dc0cf701697dafac908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1310041789,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1310041789,
+    "wof:lastmodified":1537714780,
+    "wof:name":"Trstenik",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.455,
+    42.67583,
+    20.455,
+    42.67583
+],
+  "geometry": {"coordinates":[20.455,42.67583],"type":"Point"}
+}

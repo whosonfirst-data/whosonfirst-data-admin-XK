@@ -1,0 +1,71 @@
+{
+  "id": 1343994087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64472,42.97861,20.64472,42.97861",
+    "geom:latitude":42.97861,
+    "geom:longitude":20.64472,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Ledenik",
+    "gn:country_code":"XK",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832341,
+    "gn:latitude":42.97861,
+    "gn:longitude":20.64472,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ledenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ledenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832341
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"3d08b6a9e2e24fce276c1884d2cefbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1343994087,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1343994087,
+    "wof:lastmodified":1537715028,
+    "wof:name":"Ledenik",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64472,
+    42.97861,
+    20.64472,
+    42.97861
+],
+  "geometry": {"coordinates":[20.64472,42.97861],"type":"Point"}
+}

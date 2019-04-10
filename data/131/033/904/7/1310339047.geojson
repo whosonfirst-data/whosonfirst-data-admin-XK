@@ -1,0 +1,88 @@
+{
+  "id": 1310339047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02933,42.79641,21.02933,42.79641",
+    "geom:latitude":42.79641,
+    "geom:longitude":21.02933,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Viljance",
+    "gn:country_code":"XK",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830098,
+    "gn:latitude":42.79641,
+    "gn:longitude":21.02933,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Viljance",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Vilanc\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Viqanc\u00eb",
+        "Viljanc\u00eb",
+        "Vilanc",
+        "Vllanic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Viljance"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0459\u0430\u043d\u0446\u0435",
+        "Vi\u0107ance",
+        "\u0412\u0438\u045b\u0430\u043d\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vllanic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830098
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"69cb333d64c55b7f0f12e39b2290ec09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1310339047,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1310339047,
+    "wof:lastmodified":1537714976,
+    "wof:name":"Viljance",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02933,
+    42.79641,
+    21.02933,
+    42.79641
+],
+  "geometry": {"coordinates":[21.02933,42.79641],"type":"Point"}
+}

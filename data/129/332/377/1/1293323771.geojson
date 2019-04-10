@@ -1,0 +1,74 @@
+{
+  "id": 1293323771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12444,42.26611,21.12444,42.26611",
+    "geom:latitude":42.26611,
+    "geom:longitude":21.12444,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Don Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859758,
+    "gn:latitude":42.26611,
+    "gn:longitude":21.12444,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Don Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043d \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Don Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859758
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6397d297388f9d9baa71794f9e11bd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1293323771,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1293323771,
+    "wof:lastmodified":1537715036,
+    "wof:name":"Don Mahala",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12444,
+    42.26611,
+    21.12444,
+    42.26611
+],
+  "geometry": {"coordinates":[21.12444,42.26611],"type":"Point"}
+}

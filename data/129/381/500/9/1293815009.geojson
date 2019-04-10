@@ -1,0 +1,82 @@
+{
+  "id": 1293815009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87639,42.99778,20.87639,42.99778",
+    "geom:latitude":42.99778,
+    "geom:longitude":20.87639,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Bataire",
+    "gn:country_code":"XK",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830388,
+    "gn:latitude":42.99778,
+    "gn:longitude":20.87639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Bataire",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Batahir"
+    ],
+    "name:srp_x_preferred":[
+        "Bataire"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0442\u0430\u0438\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Batahiri",
+        "Batahire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830388,
+        "wk:page":"Batahir"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f6c33fe683d900b6bc1fd3947ff3a072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1293815009,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293815009,
+    "wof:lastmodified":1537714997,
+    "wof:name":"Bataire",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87639,
+    42.99778,
+    20.87639,
+    42.99778
+],
+  "geometry": {"coordinates":[20.87639,42.99778],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1225978513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92056,42.93694,20.92056,42.93694",
+    "geom:latitude":42.93694,
+    "geom:longitude":20.92056,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Stari Trg",
+    "gn:country_code":"XK",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785528,
+    "gn:latitude":42.93694,
+    "gn:longitude":20.92056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Stari Trg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Starit\u00ebrg"
+    ],
+    "name:sqi_x_variant":[
+        "Stant\u00ebrg Fshati",
+        "Stant\u00ebrg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0422\u0440\u0433"
+    ],
+    "name:srp_x_variant":[
+        "Stari Trg"
+    ],
+    "name:und_x_variant":[
+        "Stant\u00ebrg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785528
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d0b19d01484c0364e802192808ef509f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1225978513,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1225978513,
+    "wof:lastmodified":1537714791,
+    "wof:name":"Stari Trg",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92056,
+    42.93694,
+    20.92056,
+    42.93694
+],
+  "geometry": {"coordinates":[20.92056,42.93694],"type":"Point"}
+}

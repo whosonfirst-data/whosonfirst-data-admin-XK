@@ -1,0 +1,82 @@
+{
+  "id": 1293420949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82333,42.73778,20.82333,42.73778",
+    "geom:latitude":42.73778,
+    "geom:longitude":20.82333,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Poljance",
+    "gn:country_code":"XK",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832110,
+    "gn:latitude":42.73778,
+    "gn:longitude":20.82333,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Poljance",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Polac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0430\u043d\u0446\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Poljance",
+        "Velji\u0107 Mahala"
+    ],
+    "name:und_x_variant":[
+        "Velji\u0107 Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809553,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832110,
+        "wk:page":"Poljance"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ad98e441a6c0ceb700ca45e8d2c8418d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809553,
+            "locality_id":1293420949,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293420949,
+    "wof:lastmodified":1537715026,
+    "wof:name":"Poljance",
+    "wof:parent_id":1108809553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82333,
+    42.73778,
+    20.82333,
+    42.73778
+],
+  "geometry": {"coordinates":[20.82333,42.73778],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 890492869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38694,42.76778,20.38694,42.76778",
+    "geom:latitude":42.76778,
+    "geom:longitude":20.38694,
+    "gn:country":"XK",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Studenic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Sudenic\u00eb",
+        "Gurras",
+        "Gurrasi"
+    ],
+    "name:srp_x_preferred":[
+        "Studenica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Gurras"
+    ],
+    "qs:name":"Studencia",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Rashka",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785349,
+        "gp:id":536969,
+        "qs:id":1165764
+    },
+    "wof:country":"XK",
+    "wof:created":1469054909,
+    "wof:geomhash":"6467db85ded12d3a2a2ef6c48148cab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":890492869,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":890492869,
+    "wof:lastmodified":1505343801,
+    "wof:name":"Studencia",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38694,
+    42.76778,
+    20.38694,
+    42.76778
+],
+  "geometry": {"coordinates":[20.38694,42.76778],"type":"Point"}
+}

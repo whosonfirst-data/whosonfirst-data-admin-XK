@@ -1,0 +1,69 @@
+{
+  "id": 890492783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33556,42.54583,20.33556,42.54583",
+    "geom:latitude":42.54583,
+    "geom:longitude":20.33556,
+    "gn:country":"XK",
+    "gn:fcode":"PPL",
+    "gn:pop":700,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lluk\u00eb e Poshtme"
+    ],
+    "qs:name":"Lluka e Poshtme",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809529,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830409,
+        "gp:id":533316,
+        "qs:id":554292
+    },
+    "wof:country":"XK",
+    "wof:created":1469054906,
+    "wof:geomhash":"15e7a1a72c57ea65023f15255e58aad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809529,
+            "locality_id":890492783,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":890492783,
+    "wof:lastmodified":1505343800,
+    "wof:name":"Lluka e Poshtme",
+    "wof:parent_id":1108809529,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33556,
+    42.54583,
+    20.33556,
+    42.54583
+],
+  "geometry": {"coordinates":[20.33556,42.54583],"type":"Point"}
+}

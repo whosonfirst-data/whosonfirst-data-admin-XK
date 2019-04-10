@@ -1,0 +1,84 @@
+{
+  "id": 1293523787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08028,42.52387,21.08028,42.52387",
+    "geom:latitude":42.52387,
+    "geom:longitude":21.08028,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Novo Rujce",
+    "gn:country_code":"XK",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830003,
+    "gn:latitude":42.52387,
+    "gn:longitude":21.08028,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Novo Rujce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Rufc i Ri"
+    ],
+    "name:sqi_x_variant":[
+        "Novorujic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Novo Rujce"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u043e \u0420\u0443\u0458\u0446\u0435",
+        "Novo Ruici"
+    ],
+    "name:und_x_variant":[
+        "Novo Ruici"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809575,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830003
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f920edd115fb8a69e6464c397bec98b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809575,
+            "locality_id":1293523787,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1293523787,
+    "wof:lastmodified":1537714969,
+    "wof:name":"Novo Rujce",
+    "wof:parent_id":1108809575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08028,
+    42.52387,
+    21.08028,
+    42.52387
+],
+  "geometry": {"coordinates":[21.08028,42.52387],"type":"Point"}
+}

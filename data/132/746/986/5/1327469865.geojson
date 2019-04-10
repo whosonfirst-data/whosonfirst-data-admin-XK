@@ -1,0 +1,88 @@
+{
+  "id": 1327469865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67528,42.59167,20.67528,42.59167",
+    "geom:latitude":42.59167,
+    "geom:longitude":20.67528,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Iglarevo",
+    "gn:country_code":"XK",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790032,
+    "gn:latitude":42.59167,
+    "gn:longitude":20.67528,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Iglarevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gllarev\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Gllareva",
+        "Q\u00ebndres\u00eb",
+        "Q\u00ebndresa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0433\u043b\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:srp_x_variant":[
+        "Iglarevo"
+    ],
+    "name:und_x_variant":[
+        "Q\u00ebndresa",
+        "Gllareva",
+        "Q\u00ebndres\u00eb",
+        "Gllarev\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809541,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790032
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bedd9f051364030ac6e8098a2f8cc0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809541,
+            "locality_id":1327469865,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1327469865,
+    "wof:lastmodified":1537714886,
+    "wof:name":"Iglarevo",
+    "wof:parent_id":1108809541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67528,
+    42.59167,
+    20.67528,
+    42.59167
+],
+  "geometry": {"coordinates":[20.67528,42.59167],"type":"Point"}
+}

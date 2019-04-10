@@ -1,0 +1,71 @@
+{
+  "id": 1309741105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5875,42.98167,20.5875,42.98167",
+    "geom:latitude":42.98167,
+    "geom:longitude":20.5875,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Sovrlice",
+    "gn:country_code":"XK",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832344,
+    "gn:latitude":42.98167,
+    "gn:longitude":20.5875,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sovrli\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sovrli\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832344
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"9ffcfba898eec2bf739df9891ba7aa4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1309741105,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1309741105,
+    "wof:lastmodified":1537715028,
+    "wof:name":"Sovrlice",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5875,
+    42.98167,
+    20.5875,
+    42.98167
+],
+  "geometry": {"coordinates":[20.5875,42.98167],"type":"Point"}
+}

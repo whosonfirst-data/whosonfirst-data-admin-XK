@@ -1,0 +1,90 @@
+{
+  "id": 1226576777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32833,42.44778,21.32833,42.44778",
+    "geom:latitude":42.44778,
+    "geom:longitude":21.32833,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Gornje Slakovce",
+    "gn:country_code":"XK",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790416,
+    "gn:latitude":42.44778,
+    "gn:longitude":21.32833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gornje Slakovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Sllakov i Ep\u00ebrm"
+    ],
+    "name:sqi_x_variant":[
+        "Sllakov\u00eb i Ep\u00ebrm",
+        "Sllakofc i Ep\u00ebrm",
+        "Sllakovc i Ep\u00ebrm",
+        "Sllakoc i Ep\u00ebrm",
+        "Sllakovi i Ep\u00ebrm",
+        "Sllakoci i Ep\u00ebrm"
+    ],
+    "name:srp_x_preferred":[
+        "Gornje Slakovce"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0421\u043b\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sllakoc i Ep\u00ebrm",
+        "Sllakoci i Ep\u00ebrm",
+        "Sllakovi i Ep\u00ebrm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809535,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790416
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"2fd1fd7d99e4a6dbcfef1bf9ae1a585a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809535,
+            "locality_id":1226576777,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1226576777,
+    "wof:lastmodified":1537714896,
+    "wof:name":"Gornje Slakovce",
+    "wof:parent_id":1108809535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32833,
+    42.44778,
+    21.32833,
+    42.44778
+],
+  "geometry": {"coordinates":[21.32833,42.44778],"type":"Point"}
+}

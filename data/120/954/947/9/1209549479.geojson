@@ -1,0 +1,76 @@
+{
+  "id": 1209549479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86972,42.83417,20.86972,42.83417",
+    "geom:latitude":42.83417,
+    "geom:longitude":20.86972,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Pirq",
+    "gn:country_code":"XK",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830500,
+    "gn:latitude":42.83417,
+    "gn:longitude":20.86972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Pirq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Pirq"
+    ],
+    "name:srp_x_preferred":[
+        "Pir\u010de"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0438\u0440\u045b\u0435",
+        "Pir\u010da"
+    ],
+    "name:und_x_variant":[
+        "Pir\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830500,
+        "wk:page":"Pir%C4%8De%2C_Mitrovica"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d5da7c6ca500be9dfa8c05f8ca6572d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209549479
+        }
+    ],
+    "wof:id":1209549479,
+    "wof:lastmodified":1537715005,
+    "wof:name":"Pirq",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86972,
+    42.83417,
+    20.86972,
+    42.83417
+],
+  "geometry": {"coordinates":[20.86972,42.83417],"type":"Point"}
+}

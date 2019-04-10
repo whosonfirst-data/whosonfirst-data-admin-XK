@@ -1,0 +1,77 @@
+{
+  "id": 1310139721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81528,43.15472,20.81528,43.15472",
+    "geom:latitude":43.15472,
+    "geom:longitude":20.81528,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Rodel",
+    "gn:country_code":"XK",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786272,
+    "gn:latitude":43.15472,
+    "gn:longitude":20.81528,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Rodel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Rodel"
+    ],
+    "name:srp_x_preferred":[
+        "Rodelj"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u043e\u0434\u0435\u0459"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786272
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"51f1632f85f6e124bded27b36cdb5cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1310139721,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1310139721,
+    "wof:lastmodified":1537714806,
+    "wof:name":"Rodel",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81528,
+    43.15472000000001,
+    20.81528,
+    43.15472000000001
+],
+  "geometry": {"coordinates":[20.81528,43.15472000000001],"type":"Point"}
+}

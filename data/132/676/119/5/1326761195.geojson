@@ -1,0 +1,88 @@
+{
+  "id": 1326761195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65278,43.00444,20.65278,43.00444",
+    "geom:latitude":43.00444,
+    "geom:longitude":20.65278,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Zecevice",
+    "gn:country_code":"XK",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783952,
+    "gn:latitude":43.00444,
+    "gn:longitude":20.65278,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ze\u010devi\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zeqeviq"
+    ],
+    "name:sqi_x_variant":[
+        "Zeqevi\u00e7",
+        "Ze\u00e7evic\u00eb",
+        "Ze\u00e7eviq"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u0447\u0435\u0432\u0438\u045b\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0435\u0458\u045b\u0435\u0432\u0438\u045b\u0435",
+        "Ze\u010devi\u0107e",
+        "Zej\u0107evi\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Ze\u00e7eviq",
+        "Zej\u0107evi\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783952
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0499bfa93065e0e53299044b88a4d8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1326761195,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1326761195,
+    "wof:lastmodified":1537714759,
+    "wof:name":"Zecevice",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65278,
+    43.00444,
+    20.65278,
+    43.00444
+],
+  "geometry": {"coordinates":[20.65278,43.00444],"type":"Point"}
+}

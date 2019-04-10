@@ -1,0 +1,81 @@
+{
+  "id": 1293723755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8625,42.42306,20.8625,42.42306",
+    "geom:latitude":42.42306,
+    "geom:longitude":20.8625,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Blace",
+    "gn:country_code":"XK",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792565,
+    "gn:latitude":42.42306,
+    "gn:longitude":20.8625,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Blace",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bllac\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0446\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Blace"
+    ],
+    "name:und_x_variant":[
+        "Bllac\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792565,
+        "wk:page":"Bllac%C3%AB"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8baa47709b612794318a5bc8b2054962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1293723755,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1293723755,
+    "wof:lastmodified":1537714952,
+    "wof:name":"Blace",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8625,
+    42.42306,
+    20.8625,
+    42.42306
+],
+  "geometry": {"coordinates":[20.8625,42.42306],"type":"Point"}
+}

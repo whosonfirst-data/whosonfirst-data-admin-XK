@@ -1,0 +1,75 @@
+{
+  "id": 1209549605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61972,42.40861,20.61972,42.40861",
+    "geom:latitude":42.40861,
+    "geom:longitude":20.61972,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Patacan i Eperm",
+    "gn:country_code":"XK",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790422,
+    "gn:latitude":42.40861,
+    "gn:longitude":20.61972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Pata\u00e7an i Ep\u00ebrm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Potoqan i Ep\u00ebrm"
+    ],
+    "name:sqi_x_variant":[
+        "Pataqan i Ep\u00ebrm",
+        "Pata\u00e7an i Ep\u00ebrm"
+    ],
+    "name:srp_x_preferred":[
+        "Gornje Poto\u010dane"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u041f\u043e\u0442\u043e\u0447\u0430\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790422
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"68d23a337351792fc7b73d2503843cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209549605
+        }
+    ],
+    "wof:id":1209549605,
+    "wof:lastmodified":1537714897,
+    "wof:name":"Patacan i Eperm",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61972,
+    42.40861,
+    20.61972,
+    42.40861
+],
+  "geometry": {"coordinates":[20.61972,42.40861],"type":"Point"}
+}

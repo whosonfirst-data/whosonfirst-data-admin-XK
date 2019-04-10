@@ -1,0 +1,81 @@
+{
+  "id": 1259412017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17639,42.34222,21.17639,42.34222",
+    "geom:latitude":42.34222,
+    "geom:longitude":21.17639,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Varosh",
+    "gn:country_code":"XK",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784708,
+    "gn:latitude":42.34222,
+    "gn:longitude":21.17639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Varosh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Varosh"
+    ],
+    "name:srp_x_preferred":[
+        "Varo\u0161 Selo"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0430\u0440\u043e\u0448 \u0421\u0435\u043b\u043e",
+        "Varo\u0161"
+    ],
+    "name:und_x_variant":[
+        "Varo\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809521,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784708
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"aaa54c4b84fe290fc83c5381a71fe52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809521,
+            "locality_id":1259412017,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1259412017,
+    "wof:lastmodified":1537714775,
+    "wof:name":"Varosh",
+    "wof:parent_id":1108809521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17639,
+    42.34222000000001,
+    21.17639,
+    42.34222000000001
+],
+  "geometry": {"coordinates":[21.17639,42.34222000000001],"type":"Point"}
+}

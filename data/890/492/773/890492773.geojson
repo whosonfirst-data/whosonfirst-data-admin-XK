@@ -1,0 +1,83 @@
+{
+  "id": 890492773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28194,42.50889,20.28194,42.50889",
+    "geom:latitude":42.50889,
+    "geom:longitude":20.28194,
+    "gn:country":"XK",
+    "gn:fcode":"PPLL",
+    "gn:pop":700,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:sqi_x_preferred":[
+        "Sllup"
+    ],
+    "name:sqi_x_variant":[
+        "Sllupi"
+    ],
+    "name:srp_x_preferred":[
+        "Slup"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043b\u0443\u043f"
+    ],
+    "name:unk_x_variant":[
+        "Slub"
+    ],
+    "qs:name":"Slup",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        1108809529,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785760,
+        "gp:id":534449,
+        "qs:id":83585,
+        "wk:page":"Slup"
+    },
+    "wof:country":"XK",
+    "wof:created":1469054906,
+    "wof:geomhash":"1efe69b83d2cf3cea8ba32f117f07c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809529,
+            "locality_id":890492773,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":890492773,
+    "wof:lastmodified":1527793030,
+    "wof:name":"Slup",
+    "wof:parent_id":1108809529,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28194,
+    42.50889,
+    20.28194,
+    42.50889
+],
+  "geometry": {"coordinates":[20.28194,42.50889],"type":"Point"}
+}

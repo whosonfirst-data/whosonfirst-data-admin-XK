@@ -1,0 +1,84 @@
+{
+  "id": 1327268177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.735,42.95944,20.735,42.95944",
+    "geom:latitude":42.95944,
+    "geom:longitude":20.735,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Kozarevo",
+    "gn:country_code":"XK",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789161,
+    "gn:latitude":42.95944,
+    "gn:longitude":20.735,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kozarevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kozarev\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Kosarev\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:srp_x_variant":[
+        "Kozarevo"
+    ],
+    "name:und_x_variant":[
+        "Kozarev\u00eb",
+        "Kosarev\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789161
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c8208c1b3d8a6f34e5e7ad77dbe1c1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1327268177,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1327268177,
+    "wof:lastmodified":1537714869,
+    "wof:name":"Kozarevo",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.735,
+    42.95944,
+    20.735,
+    42.95944
+],
+  "geometry": {"coordinates":[20.735,42.95944],"type":"Point"}
+}

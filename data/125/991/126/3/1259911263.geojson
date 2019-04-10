@@ -1,0 +1,89 @@
+{
+  "id": 1259911263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51111,42.725,21.51111,42.725",
+    "geom:latitude":42.725,
+    "geom:longitude":21.51111,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Zajcevce",
+    "gn:country_code":"XK",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784025,
+    "gn:latitude":42.725,
+    "gn:longitude":21.51111,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Zaj\u010devce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zaj\u00e7ec"
+    ],
+    "name:sqi_x_variant":[
+        "Zaj\u00e7eci",
+        "Qaf\u00ebmal",
+        "Qaf\u00ebmali"
+    ],
+    "name:srp_x_preferred":[
+        "Zaj\u010devce"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0458\u0447\u0435\u0432\u0446\u0435",
+        "Zaj\u010devac"
+    ],
+    "name:und_x_variant":[
+        "Qaf\u00ebmali",
+        "Zaj\u00e7eci",
+        "Qaf\u00ebmal",
+        "Zaj\u010devac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784025
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1e8e8fdeb43b37550270b4bdd66de77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1259911263,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1259911263,
+    "wof:lastmodified":1537714761,
+    "wof:name":"Zajcevce",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51111,
+    42.725,
+    21.51111,
+    42.725
+],
+  "geometry": {"coordinates":[21.51111,42.725],"type":"Point"}
+}

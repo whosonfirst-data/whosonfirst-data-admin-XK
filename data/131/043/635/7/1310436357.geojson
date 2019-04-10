@@ -1,0 +1,68 @@
+{
+  "id": 1310436357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06,42.74111,20.06,42.74111",
+    "geom:latitude":42.74111,
+    "geom:longitude":20.06,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Beqiraj",
+    "gn:country_code":"XK",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":855036,
+    "gn:latitude":42.74111,
+    "gn:longitude":20.06,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Beqiraj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":855036
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d876ea3fdb9583b333ccd90949170744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1310436357,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1310436357,
+    "wof:lastmodified":1537016096,
+    "wof:name":"Beqiraj",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06,
+    42.74111,
+    20.06,
+    42.74111
+],
+  "geometry": {"coordinates":[20.06,42.74111],"type":"Point"}
+}

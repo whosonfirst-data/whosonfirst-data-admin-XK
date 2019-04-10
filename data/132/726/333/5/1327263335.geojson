@@ -1,0 +1,77 @@
+{
+  "id": 1327263335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37694,42.57389,20.37694,42.57389",
+    "geom:latitude":42.57389,
+    "geom:longitude":20.37694,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Rashiq",
+    "gn:country_code":"XK",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786464,
+    "gn:latitude":42.57389,
+    "gn:longitude":20.37694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Rashiq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Rashiq"
+    ],
+    "name:srp_x_preferred":[
+        "Ra\u0161i\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0448\u0438\u045b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786464
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bd404fcd187ee26243630bcedf0af758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1327263335,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1327263335,
+    "wof:lastmodified":1537714810,
+    "wof:name":"Rashiq",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37694,
+    42.57389000000001,
+    20.37694,
+    42.57389000000001
+],
+  "geometry": {"coordinates":[20.37694,42.57389000000001],"type":"Point"}
+}

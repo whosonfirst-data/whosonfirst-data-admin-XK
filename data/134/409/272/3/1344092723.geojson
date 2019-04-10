@@ -1,0 +1,93 @@
+{
+  "id": 1344092723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69417,42.60111,20.69417,42.60111",
+    "geom:latitude":42.60111,
+    "geom:longitude":20.69417,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Dobri Do",
+    "gn:country_code":"XK",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791440,
+    "gn:latitude":42.60111,
+    "gn:longitude":20.69417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Dobri Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dob\u00ebrdol"
+    ],
+    "name:sqi_x_variant":[
+        "Lugmir\u00eb",
+        "Dobridoll",
+        "Dob\u00ebrdoli",
+        "Mirash",
+        "Mirashi"
+    ],
+    "name:srp_x_preferred":[
+        "Dobri Do"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u0438 \u0414\u043e",
+        "Dobri Dol"
+    ],
+    "name:und_x_variant":[
+        "Mirash",
+        "Dobri Dol",
+        "Mirashi",
+        "Dob\u00ebrdoli",
+        "Lugmir\u00eb",
+        "Dobridoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809541,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791440
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8619bbd141bed5eef1719ad9506f1a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809541,
+            "locality_id":1344092723,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1344092723,
+    "wof:lastmodified":1537714931,
+    "wof:name":"Dobri Do",
+    "wof:parent_id":1108809541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69417,
+    42.60111,
+    20.69417,
+    42.60111
+],
+  "geometry": {"coordinates":[20.69417,42.60111],"type":"Point"}
+}

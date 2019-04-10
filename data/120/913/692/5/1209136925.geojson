@@ -1,0 +1,85 @@
+{
+  "id": 1209136925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02028,42.785,21.02028,42.785",
+    "geom:latitude":42.785,
+    "geom:longitude":21.02028,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Novo Selo",
+    "gn:country_code":"XK",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787555,
+    "gn:latitude":42.785,
+    "gn:longitude":21.02028,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Novo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Novosell\u00eb Magjun"
+    ],
+    "name:sqi_x_variant":[
+        "Maxhunaj",
+        "Novosell\u00eb e Magjunit"
+    ],
+    "name:srp_x_preferred":[
+        "Novo Selo Ma\u0111unsko"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e \u041c\u0430\u0452\u0443\u043d\u0441\u043a\u043e",
+        "Novo Selo Mad\u017eunsko",
+        "Novo Selo Madjunsko",
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e \u041c\u0430\u045f\u0443\u043d\u0441\u043a\u043e",
+        "Novo Selo",
+        "Mad\u017eun"
+    ],
+    "name:und_x_variant":[
+        "Mad\u017eun",
+        "Novosell\u00eb e Magjunit",
+        "Novo Selo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787555
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"74d183c7a35b8ade0c3d35e2141484aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209136925
+        }
+    ],
+    "wof:id":1209136925,
+    "wof:lastmodified":1537714831,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02028,
+    42.785,
+    21.02028,
+    42.785
+],
+  "geometry": {"coordinates":[21.02028,42.785],"type":"Point"}
+}

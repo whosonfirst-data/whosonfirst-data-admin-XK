@@ -1,0 +1,70 @@
+{
+  "id": 1108710519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000393,
+    "geom:area_square_m":3586426.068115,
+    "geom:bbox":"21.548232,42.475454,21.589498,42.4978045",
+    "geom:latitude":42.487955,
+    "geom:longitude":21.571856,
+    "iso:country":"XK",
+    "lbl:latitude":42.489212,
+    "lbl:longitude":21.573263,
+    "meso:admin_1":"Gjilan",
+    "meso:gadm_adm2":"Gnjilane",
+    "meso:gadm_alt":"\u0413\u045a\u0438\u043b\u0430\u043d\u0435",
+    "meso:iscgm_adm2":"Kosovska Kamenica",
+    "meso:mps_x":21.573263,
+    "meso:mps_y":42.489212,
+    "meso:name_alt1":"Kamenic\u00eb",
+    "meso:name_alt2":"Kamenica",
+    "meso:name_alt3":"Kamenic\u00eb",
+    "meso:name_local":"Kamenice",
+    "meso:source":"AOTM",
+    "mps:latitude":42.489212,
+    "mps:longitude":21.573263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633259,
+        85673343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"XK",
+    "wof:created":1474676061,
+    "wof:geomhash":"96c7ec33df39a795f850ef6d08218a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "county_id":1108710519,
+            "region_id":85673343
+        }
+    ],
+    "wof:id":1108710519,
+    "wof:lastmodified":1504912133,
+    "wof:name":"Kamenice",
+    "wof:parent_id":85673343,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[
+        1108809581
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54823199999979,
+    42.47545399999984,
+    21.58949799999976,
+    42.49780449999986
+],
+  "geometry": {"coordinates":[[[21.58474999999979,42.48365099999984],[21.57858199999978,42.48388049999986],[21.57886599999978,42.48192749999984],[21.57580299999978,42.48150249999986],[21.56472049999977,42.48207849999986],[21.54823199999979,42.47545399999984],[21.55274949999978,42.48295649999986],[21.55945649999978,42.48419499999986],[21.56492599999979,42.49395499999986],[21.57624899999979,42.49780449999986],[21.58695449999979,42.49659549999984],[21.58430199999978,42.49187899999984],[21.58949799999976,42.48927449999985],[21.58474999999979,42.48365099999984]]],"type":"Polygon"}
+}

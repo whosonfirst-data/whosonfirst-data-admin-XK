@@ -1,0 +1,71 @@
+{
+  "id": 1360115813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80611,43.03806,20.80611,43.03806",
+    "geom:latitude":43.03806,
+    "geom:longitude":20.80611,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Sarci",
+    "gn:country_code":"XK",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834885,
+    "gn:latitude":43.03806,
+    "gn:longitude":20.80611,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sarci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834885
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"911451b199d9c14bd7832dc9ca0b86e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1360115813,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1360115813,
+    "wof:lastmodified":1537715033,
+    "wof:name":"Sarci",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80611,
+    43.03806,
+    20.80611,
+    43.03806
+],
+  "geometry": {"coordinates":[20.80611,43.03806],"type":"Point"}
+}

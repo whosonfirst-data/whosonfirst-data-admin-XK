@@ -1,0 +1,77 @@
+{
+  "id": 1327060405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78639,43.16694,20.78639,43.16694",
+    "geom:latitude":43.16694,
+    "geom:longitude":20.78639,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Mihaliq",
+    "gn:country_code":"XK",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830097,
+    "gn:latitude":43.16694,
+    "gn:longitude":20.78639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mihaliq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mihaliq"
+    ],
+    "name:srp_x_preferred":[
+        "Mioli\u0107e"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043e\u043b\u0438\u045b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830097
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1f338fd781e14b76fd4b16ff14f40995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1327060405,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1327060405,
+    "wof:lastmodified":1537714976,
+    "wof:name":"Mihaliq",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78639,
+    43.16694,
+    20.78639,
+    43.16694
+],
+  "geometry": {"coordinates":[20.78639,43.16694],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209953599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5475,42.65528,20.5475,42.65528",
+    "geom:latitude":42.65528,
+    "geom:longitude":20.5475,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Potocani",
+    "gn:country_code":"XK",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830224,
+    "gn:latitude":42.65528,
+    "gn:longitude":20.5475,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Poto\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Poto\u010dani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809541,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830224
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"189a10285ab5a63a571532dc5eee7a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809541,
+            "locality_id":1209953599,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1209953599,
+    "wof:lastmodified":1537714984,
+    "wof:name":"Potocani",
+    "wof:parent_id":1108809541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5475,
+    42.65528,
+    20.5475,
+    42.65528
+],
+  "geometry": {"coordinates":[20.5475,42.65528],"type":"Point"}
+}

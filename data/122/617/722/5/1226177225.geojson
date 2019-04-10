@@ -1,0 +1,71 @@
+{
+  "id": 1226177225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40277,42.54923,21.40277,42.54923",
+    "geom:latitude":42.54923,
+    "geom:longitude":21.40277,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Manutari",
+    "gn:country_code":"XK",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830504,
+    "gn:latitude":42.54923,
+    "gn:longitude":21.40277,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Manutari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Manutari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809543,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830504
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"aef778df148ca466fa0849fee5885ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809543,
+            "locality_id":1226177225,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1226177225,
+    "wof:lastmodified":1537715005,
+    "wof:name":"Manutari",
+    "wof:parent_id":1108809543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40277,
+    42.54923,
+    21.40277,
+    42.54923
+],
+  "geometry": {"coordinates":[21.40277,42.54923],"type":"Point"}
+}

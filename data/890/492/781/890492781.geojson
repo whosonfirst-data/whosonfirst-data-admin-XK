@@ -1,0 +1,104 @@
+{
+  "id": 890492781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19583,42.60111,21.19583,42.60111",
+    "geom:latitude":42.60111,
+    "geom:longitude":21.19583,
+    "gn:country":"XK",
+    "gn:fcode":"PPL",
+    "gn:pop":1000,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03c4\u03c3\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0580\u0561\u0579\u0561\u0576\u056b\u0581\u0561"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Gra\u00e7anic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Gracanic\u00eb",
+        "Graqanic\u00eb",
+        "Gra\u00e7anica"
+    ],
+    "name:srp_x_preferred":[
+        "Gra\u010danica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0447\u0430\u043d\u0438\u0446\u0430",
+        "Manastir Gra\u010danica"
+    ],
+    "name:tur_x_preferred":[
+        "Gra\u00e7ani\u00e7a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0430\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Manastir Gra\u010danica"
+    ],
+    "qs:name":"Gra\u010danica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        1108809537,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790265,
+        "gp:id":534162,
+        "qs:id":553925,
+        "wk:page":"Gra\u010danica"
+    },
+    "wof:country":"XK",
+    "wof:created":1469054906,
+    "wof:geomhash":"84f062f6144198c35ff67ebaff137f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809537,
+            "locality_id":890492781,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":890492781,
+    "wof:lastmodified":1527793030,
+    "wof:name":"Gra\u010danica",
+    "wof:parent_id":1108809537,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19583,
+    42.60111,
+    21.19583,
+    42.60111
+],
+  "geometry": {"coordinates":[21.19583,42.60111],"type":"Point"}
+}

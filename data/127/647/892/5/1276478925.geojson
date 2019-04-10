@@ -1,0 +1,81 @@
+{
+  "id": 1276478925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75361,42.60833,20.75361,42.60833",
+    "geom:latitude":42.60833,
+    "geom:longitude":20.75361,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Murga",
+    "gn:country_code":"XK",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787781,
+    "gn:latitude":42.60833,
+    "gn:longitude":20.75361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Murga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Murg\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0440\u0433\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Murga"
+    ],
+    "name:und_x_variant":[
+        "Murg\u00eb",
+        "Mugra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809553,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787781
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"9a720ebb20e8dd978a28e0135b32920e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809553,
+            "locality_id":1276478925,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1276478925,
+    "wof:lastmodified":1537714837,
+    "wof:name":"Murga",
+    "wof:parent_id":1108809553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75361,
+    42.60833,
+    20.75361,
+    42.60833
+],
+  "geometry": {"coordinates":[20.75361,42.60833],"type":"Point"}
+}

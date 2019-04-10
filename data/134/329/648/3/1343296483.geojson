@@ -1,0 +1,71 @@
+{
+  "id": 1343296483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93972,42.42333,20.93972,42.42333",
+    "geom:latitude":42.42333,
+    "geom:longitude":20.93972,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Sefer",
+    "gn:country_code":"XK",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860197,
+    "gn:latitude":42.42333,
+    "gn:longitude":20.93972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sefer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sefer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860197
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4bb718d4776656ce8eecba18c381dd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1343296483,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1343296483,
+    "wof:lastmodified":1537715038,
+    "wof:name":"Sefer",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93972,
+    42.42333,
+    20.93972,
+    42.42333
+],
+  "geometry": {"coordinates":[20.93972,42.42333],"type":"Point"}
+}

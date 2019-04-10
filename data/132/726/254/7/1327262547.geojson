@@ -1,0 +1,81 @@
+{
+  "id": 1327262547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50194,42.42361,20.50194,42.42361",
+    "geom:latitude":42.42361,
+    "geom:longitude":20.50194,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Doblibare",
+    "gn:country_code":"XK",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791470,
+    "gn:latitude":42.42361,
+    "gn:longitude":20.50194,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Doblibare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Doblibar\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u043b\u0438\u0431\u0430\u0440\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Doblibare"
+    ],
+    "name:und_x_variant":[
+        "Doblari",
+        "Doblibari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791470
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ec42e5d451a2023eba132091ed261a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1327262547,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1327262547,
+    "wof:lastmodified":1537714933,
+    "wof:name":"Doblibare",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50194,
+    42.42361,
+    20.50194,
+    42.42361
+],
+  "geometry": {"coordinates":[20.50194,42.42361],"type":"Point"}
+}

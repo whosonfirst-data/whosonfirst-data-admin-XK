@@ -1,0 +1,84 @@
+{
+  "id": 1210047027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27361,42.11361,21.27361,42.11361",
+    "geom:latitude":42.11361,
+    "geom:longitude":21.27361,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Krivenik",
+    "gn:country_code":"XK",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789034,
+    "gn:latitude":42.11361,
+    "gn:longitude":21.27361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Krivenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "K\u00ebrvenik"
+    ],
+    "name:sqi_x_variant":[
+        "Krinyink"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0435\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Krivenik"
+    ],
+    "name:und_x_variant":[
+        "Krinyink",
+        "Krvenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809497,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789034
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"064eb794012b332f2c78a8105fac878b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809497,
+            "locality_id":1210047027,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1210047027,
+    "wof:lastmodified":1537714866,
+    "wof:name":"Krivenik",
+    "wof:parent_id":1108809497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27361,
+    42.11361,
+    21.27361,
+    42.11361
+],
+  "geometry": {"coordinates":[21.27361,42.11361],"type":"Point"}
+}

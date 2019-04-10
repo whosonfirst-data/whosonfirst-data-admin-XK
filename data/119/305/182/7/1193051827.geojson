@@ -1,0 +1,71 @@
+{
+  "id": 1193051827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72667,42.68333,20.72667,42.68333",
+    "geom:latitude":42.68333,
+    "geom:longitude":20.72667,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Kurut",
+    "gn:country_code":"XK",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832077,
+    "gn:latitude":42.68333,
+    "gn:longitude":20.72667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kurut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kurut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809553,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832077
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8d44b0ffba359988a9b05f1aa0c26bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809553,
+            "locality_id":1193051827,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1193051827,
+    "wof:lastmodified":1537715026,
+    "wof:name":"Kurut",
+    "wof:parent_id":1108809553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72667,
+    42.68333,
+    20.72667,
+    42.68333
+],
+  "geometry": {"coordinates":[20.72667,42.68333],"type":"Point"}
+}

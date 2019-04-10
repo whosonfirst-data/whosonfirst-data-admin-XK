@@ -1,0 +1,83 @@
+{
+  "id": 1260218569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30611,42.17556,21.30611,42.17556",
+    "geom:latitude":42.17556,
+    "geom:longitude":21.30611,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Drobnjak",
+    "gn:country_code":"XK",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791014,
+    "gn:latitude":42.17556,
+    "gn:longitude":21.30611,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Drobnjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dromjak"
+    ],
+    "name:sqi_x_variant":[
+        "D\u00ebrmjak"
+    ],
+    "name:srp_x_preferred":[
+        "Drobnjak"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u043e\u0431\u045a\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "D\u00ebrmjak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809497,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791014
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"498f0690b7ee398d31adf7e6b720ae89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809497,
+            "locality_id":1260218569,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1260218569,
+    "wof:lastmodified":1537714914,
+    "wof:name":"Drobnjak",
+    "wof:parent_id":1108809497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30611,
+    42.17556,
+    21.30611,
+    42.17556
+],
+  "geometry": {"coordinates":[21.30611,42.17556],"type":"Point"}
+}

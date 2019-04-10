@@ -1,0 +1,83 @@
+{
+  "id": 1310439847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25,42.48556,20.25,42.48556",
+    "geom:latitude":42.48556,
+    "geom:longitude":20.25,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Gjocaj",
+    "gn:country_code":"XK",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791405,
+    "gn:latitude":42.48556,
+    "gn:longitude":20.25,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gjocaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Jasiq-Gjocaj"
+    ],
+    "name:sqi_x_variant":[
+        "Gjocaj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0402\u043e\u0446\u0430\u0458"
+    ],
+    "name:srp_x_variant":[
+        "Jasi\u0107-\u0110ocaj",
+        "Jasi\u0107-Djocaj",
+        "\u0408\u0430\u0441\u0438\u045b-\u0402\u043e\u0446\u0430\u0458",
+        "\u0110ocaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809515,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791405
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"2a0ee3affec045a18454ba7ed335e398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809515,
+            "locality_id":1310439847,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1310439847,
+    "wof:lastmodified":1537714929,
+    "wof:name":"Gjocaj",
+    "wof:parent_id":1108809515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25,
+    42.48556,
+    20.25,
+    42.48556
+],
+  "geometry": {"coordinates":[20.25,42.48556],"type":"Point"}
+}

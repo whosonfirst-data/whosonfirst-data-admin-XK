@@ -1,0 +1,74 @@
+{
+  "id": 1360215875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07372,42.8003,21.07372,42.8003",
+    "geom:latitude":42.8003,
+    "geom:longitude":21.07372,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Ramovic Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335691,
+    "gn:latitude":42.8003,
+    "gn:longitude":21.07372,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ramovi\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mahalla e Rames"
+    ],
+    "name:srp_x_preferred":[
+        "Ramovi\u0107 Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335691
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0dce7738b0c9bb30f40a1808dceddfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1360215875,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1360215875,
+    "wof:lastmodified":1537715043,
+    "wof:name":"Ramovic Mahala",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07372,
+    42.8003,
+    21.07372,
+    42.8003
+],
+  "geometry": {"coordinates":[21.07372,42.8003],"type":"Point"}
+}

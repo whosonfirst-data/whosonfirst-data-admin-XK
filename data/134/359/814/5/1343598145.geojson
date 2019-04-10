@@ -1,0 +1,83 @@
+{
+  "id": 1343598145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93861,43.05861,20.93861,43.05861",
+    "geom:latitude":43.05861,
+    "geom:longitude":20.93861,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Brzance",
+    "gn:country_code":"XK",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792218,
+    "gn:latitude":43.05861,
+    "gn:longitude":20.93861,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Brzance",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "B\u00ebrzanc\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Breznic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Brzance"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0437\u0430\u043d\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Breznic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792218
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6dac35079755f83669b3ba54b728fe03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1343598145,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1343598145,
+    "wof:lastmodified":1537714946,
+    "wof:name":"Brzance",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93861,
+    43.05861,
+    20.93861,
+    43.05861
+],
+  "geometry": {"coordinates":[20.93861,43.05861],"type":"Point"}
+}

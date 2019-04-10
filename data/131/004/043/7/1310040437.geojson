@@ -1,0 +1,77 @@
+{
+  "id": 1310040437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69083,42.95944,20.69083,42.95944",
+    "geom:latitude":42.95944,
+    "geom:longitude":20.69083,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Vrba",
+    "gn:country_code":"XK",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830585,
+    "gn:latitude":42.95944,
+    "gn:longitude":20.69083,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vrba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "V\u00ebrb\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0431\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Vrba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830585
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"76e3ef70c751a3f3c149ff178b2e90ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1310040437,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1310040437,
+    "wof:lastmodified":1537715011,
+    "wof:name":"Vrba",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69083,
+    42.95944,
+    20.69083,
+    42.95944
+],
+  "geometry": {"coordinates":[20.69083,42.95944],"type":"Point"}
+}

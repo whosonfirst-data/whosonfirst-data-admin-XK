@@ -1,0 +1,92 @@
+{
+  "id": 1326965003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30167,42.17111,21.30167,42.17111",
+    "geom:latitude":42.17111,
+    "geom:longitude":21.30167,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Naqafc",
+    "gn:country_code":"XK",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787723,
+    "gn:latitude":42.17111,
+    "gn:longitude":21.30167,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Naqafc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ne\u00e7avac"
+    ],
+    "name:sqi_x_variant":[
+        "Naqafc",
+        "Ne\u00e7avc\u00eb",
+        "Ne\u00e7ac",
+        "Ne\u00e7avc"
+    ],
+    "name:srp_x_preferred":[
+        "Ne\u0107avce"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0435\u045b\u0430\u0432\u0446\u0435",
+        "Ne\u010davce",
+        "\u041d\u0435\u0447\u0430\u0432\u0446\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Ne\u00e7ava\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Ne\u00e7avc",
+        "Ne\u00e7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809497,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787723
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ee22fbda64cdcb86156f1808e8d7481e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809497,
+            "locality_id":1326965003,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1326965003,
+    "wof:lastmodified":1537714835,
+    "wof:name":"Naqafc",
+    "wof:parent_id":1108809497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30167,
+    42.17111,
+    21.30167,
+    42.17111
+],
+  "geometry": {"coordinates":[21.30167,42.17111],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243399335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82472,43.15083,20.82472,43.15083",
+    "geom:latitude":43.15083,
+    "geom:longitude":20.82472,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Krusheica",
+    "gn:country_code":"XK",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788982,
+    "gn:latitude":43.15083,
+    "gn:longitude":20.82472,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Krusheica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Krush\u00e7ic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Krusheica"
+    ],
+    "name:srp_x_preferred":[
+        "Kru\u0161\u010dica"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0443\u0448\u0447\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788982
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"07a23effb8364ca50d4af3f9f2de0016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1243399335,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1243399335,
+    "wof:lastmodified":1537714865,
+    "wof:name":"Krusheica",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82472000000001,
+    43.15083,
+    20.82472000000001,
+    43.15083
+],
+  "geometry": {"coordinates":[20.82472000000001,43.15083],"type":"Point"}
+}

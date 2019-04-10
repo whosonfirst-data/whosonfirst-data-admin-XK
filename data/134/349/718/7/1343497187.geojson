@@ -1,0 +1,80 @@
+{
+  "id": 1343497187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40833,42.31778,21.40833,42.31778",
+    "geom:latitude":42.31778,
+    "geom:longitude":21.40833,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Podgorc",
+    "gn:country_code":"XK",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786965,
+    "gn:latitude":42.31778,
+    "gn:longitude":21.40833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Podgorc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Podgorci"
+    ],
+    "name:sqi_x_variant":[
+        "Podgorc"
+    ],
+    "name:srp_x_preferred":[
+        "Podgorce"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809519,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786965
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ba5e2740e0d96792e0ad4a04b405dc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809519,
+            "locality_id":1343497187,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1343497187,
+    "wof:lastmodified":1537714819,
+    "wof:name":"Podgorc",
+    "wof:parent_id":1108809519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40833,
+    42.31778,
+    21.40833,
+    42.31778
+],
+  "geometry": {"coordinates":[21.40833,42.31778],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259514025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83306,43.07,20.83306,43.07",
+    "geom:latitude":43.07,
+    "geom:longitude":20.83306,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Krs Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830211,
+    "gn:latitude":43.07,
+    "gn:longitude":20.83306,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kr\u0161 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kr\u0161 Mahala"
+    ],
+    "name:srp_x_variant":[
+        "Kr\u0161 Mala"
+    ],
+    "name:und_x_variant":[
+        "Kr\u0161 Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830211
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"2c8e50768072281a44cfb1f8920174b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1259514025,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1259514025,
+    "wof:lastmodified":1537714983,
+    "wof:name":"Krs Mahala",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83306,
+    43.07,
+    20.83306,
+    43.07
+],
+  "geometry": {"coordinates":[20.83306,43.07],"type":"Point"}
+}

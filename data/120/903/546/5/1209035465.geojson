@@ -1,0 +1,68 @@
+{
+  "id": 1209035465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21056,42.57667,20.21056,42.57667",
+    "geom:latitude":42.57667,
+    "geom:longitude":20.21056,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Belleja",
+    "gn:country_code":"XK",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":830401,
+    "gn:latitude":42.57667,
+    "gn:longitude":20.21056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Belleja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bellej\u00eb",
+        "Belleja",
+        "Belle",
+        "Belaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830401
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"eab81ef0d448975210b223c395e06b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209035465
+        }
+    ],
+    "wof:id":1209035465,
+    "wof:lastmodified":1537714998,
+    "wof:name":"Belleja",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21056,
+    42.57667,
+    20.21056,
+    42.57667
+],
+  "geometry": {"coordinates":[20.21056,42.57667],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1276151891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58833,42.6825,21.58833,42.6825",
+    "geom:latitude":42.6825,
+    "geom:longitude":21.58833,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Gmince",
+    "gn:country_code":"XK",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790679,
+    "gn:latitude":42.6825,
+    "gn:longitude":21.58833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gmince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gmic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Gmiz\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Gmince"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043c\u0438\u043d\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gmiza",
+        "Gmica",
+        "Gmiz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790679
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"067ec3fee75170ad0776f95a62ea6d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1276151891,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1276151891,
+    "wof:lastmodified":1537714905,
+    "wof:name":"Gmince",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58833,
+    42.6825,
+    21.58833,
+    42.6825
+],
+  "geometry": {"coordinates":[21.58833,42.6825],"type":"Point"}
+}

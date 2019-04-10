@@ -1,0 +1,84 @@
+{
+  "id": 1276474135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.59111,42.16389,20.59111,42.16389",
+    "geom:latitude":42.16389,
+    "geom:longitude":20.59111,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Shkoza",
+    "gn:country_code":"XK",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785834,
+    "gn:latitude":42.16389,
+    "gn:longitude":20.59111,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Shkoza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Shkoz\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Shkoza"
+    ],
+    "name:srp_x_preferred":[
+        "\u0160koza"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u043a\u043e\u0437\u0430",
+        "\u0160koze"
+    ],
+    "name:und_x_variant":[
+        "\u0160koze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809499,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785834
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a9c871a01b9d7053adde00dd54adfafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809499,
+            "locality_id":1276474135,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1276474135,
+    "wof:lastmodified":1537714796,
+    "wof:name":"Shkoza",
+    "wof:parent_id":1108809499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.59111,
+    42.16389,
+    20.59111,
+    42.16389
+],
+  "geometry": {"coordinates":[20.59111,42.16389],"type":"Point"}
+}

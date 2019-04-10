@@ -1,0 +1,90 @@
+{
+  "id": 1242709097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22667,42.92389,21.22667,42.92389",
+    "geom:latitude":42.92389,
+    "geom:longitude":21.22667,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Livadica",
+    "gn:country_code":"XK",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788593,
+    "gn:latitude":42.92389,
+    "gn:longitude":21.22667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Livadica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Livadic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Livadhi",
+        "Livadhia",
+        "Livadhia e Poshtme"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0432\u0430\u0434\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Livadica"
+    ],
+    "name:und_x_variant":[
+        "Livadhia",
+        "Livadic\u00eb",
+        "Livadhia e Poshtme",
+        "Livadhi",
+        "Livadce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788593,
+        "wk:page":"Livadica%2C_Podujevo"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b5ef225ce3d1900c4431f880fef0249c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1242709097,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1242709097,
+    "wof:lastmodified":1537714856,
+    "wof:name":"Livadica",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22667,
+    42.92389,
+    21.22667,
+    42.92389
+],
+  "geometry": {"coordinates":[21.22667,42.92389],"type":"Point"}
+}

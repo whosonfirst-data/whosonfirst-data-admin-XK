@@ -1,0 +1,99 @@
+{
+  "id": 890492849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78111,42.32778,20.78111,42.32778",
+    "geom:latitude":42.32778,
+    "geom:longitude":20.78111,
+    "gn:country":"XK",
+    "gn:fcode":"PPL",
+    "gn:pop":1575,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Leshani"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e50\u5c71\u6751"
+    ],
+    "name:dut_x_preferred":[
+        "Le\u0161ane"
+    ],
+    "name:eng_x_preferred":[
+        "Le\u0161ane"
+    ],
+    "name:fre_x_preferred":[
+        "Le\u0161ane"
+    ],
+    "name:sqi_x_preferred":[
+        "Leshan"
+    ],
+    "name:sqi_x_variant":[
+        "Leshtane"
+    ],
+    "name:srp_x_preferred":[
+        "Le\u0161ane"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0448\u0430\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Leshtane"
+    ],
+    "qs:name":"Leshan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":1088,
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788726,
+        "gp:id":536968,
+        "qs:id":1029044,
+        "wd:id":"Q12754540",
+        "wk:page":"Leshan"
+    },
+    "wof:country":"XK",
+    "wof:created":1469054908,
+    "wof:geomhash":"afad940f65c9e35f6bfd78942ae7ad63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":890492849,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":890492849,
+    "wof:lastmodified":1527793027,
+    "wof:name":"Leshan",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:population":1575,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78111,
+    42.32778,
+    20.78111,
+    42.32778
+],
+  "geometry": {"coordinates":[20.78111,42.32778],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209142027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33139,42.86028,21.33139,42.86028",
+    "geom:latitude":42.86028,
+    "geom:longitude":21.33139,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Turucica",
+    "gn:country_code":"XK",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784804,
+    "gn:latitude":42.86028,
+    "gn:longitude":21.33139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Turu\u010dica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Turu\u00e7ic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Turu\u00e7i\u00e7\u00eb",
+        "Turan\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Turu\u010dica"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0443\u0440\u0443\u0447\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Turana",
+        "Turudica",
+        "Turu\u00e7i\u00e7\u00eb",
+        "Turan\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784804
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"3b55f7a31cd204125489c9c861f19d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209142027
+        }
+    ],
+    "wof:id":1209142027,
+    "wof:lastmodified":1537714778,
+    "wof:name":"Turucica",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33139,
+    42.86028,
+    21.33139,
+    42.86028
+],
+  "geometry": {"coordinates":[21.33139,42.86028],"type":"Point"}
+}

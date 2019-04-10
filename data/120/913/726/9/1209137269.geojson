@@ -1,0 +1,82 @@
+{
+  "id": 1209137269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73861,42.62028,21.73861,42.62028",
+    "geom:latitude":42.62028,
+    "geom:longitude":21.73861,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Sedlare",
+    "gn:country_code":"XK",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786028,
+    "gn:latitude":42.62028,
+    "gn:longitude":21.73861,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sedlare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Sedllar"
+    ],
+    "name:sqi_x_variant":[
+        "Sedllari",
+        "Shal\u00ebz",
+        "Shal\u00ebza"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0434\u043b\u0430\u0440\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Sedlare"
+    ],
+    "name:und_x_variant":[
+        "Shal\u00ebz",
+        "Sedllari",
+        "Shal\u00ebza",
+        "Sedlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786028
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"db0cee1a63f8e5719d4853ac5a79d5c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209137269
+        }
+    ],
+    "wof:id":1209137269,
+    "wof:lastmodified":1537714800,
+    "wof:name":"Sedlare",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73861,
+    42.62028,
+    21.73861,
+    42.62028
+],
+  "geometry": {"coordinates":[21.73861,42.62028],"type":"Point"}
+}

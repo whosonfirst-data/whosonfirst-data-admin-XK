@@ -1,0 +1,71 @@
+{
+  "id": 1344191617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47667,42.68472,20.47667,42.68472",
+    "geom:latitude":42.68472,
+    "geom:longitude":20.47667,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Mahala Baljevac",
+    "gn:country_code":"XK",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830236,
+    "gn:latitude":42.68472,
+    "gn:longitude":20.47667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mahala Baljevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mahala Baljevac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830236
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"96caf1ca6e4c3a5c08a87bb643b44976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1344191617,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1344191617,
+    "wof:lastmodified":1537714985,
+    "wof:name":"Mahala Baljevac",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47667,
+    42.68472,
+    20.47667,
+    42.68472
+],
+  "geometry": {"coordinates":[20.47667,42.68472],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1327061589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91861,42.91778,20.91861,42.91778",
+    "geom:latitude":42.91778,
+    "geom:longitude":20.91861,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kutlloc",
+    "gn:country_code":"XK",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788833,
+    "gn:latitude":42.91778,
+    "gn:longitude":20.91861,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kutlloc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kutllovc"
+    ],
+    "name:sqi_x_variant":[
+        "Kutlloc"
+    ],
+    "name:srp_x_preferred":[
+        "Kutlovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u0442\u043b\u043e\u0432\u0430\u0446"
+    ],
+    "name:und_x_variant":[
+        "Kutlovc",
+        "Kutilovc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788833,
+        "wk:page":"Kutlloc%2C_Mitrovica"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b0aab166fcffe51e4e941d30659a0bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1327061589,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1327061589,
+    "wof:lastmodified":1537714861,
+    "wof:name":"Kutlloc",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91861,
+    42.91778,
+    20.91861,
+    42.91778
+],
+  "geometry": {"coordinates":[20.91861,42.91778],"type":"Point"}
+}

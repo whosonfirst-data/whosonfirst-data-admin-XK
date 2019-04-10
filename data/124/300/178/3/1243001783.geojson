@@ -1,0 +1,80 @@
+{
+  "id": 1243001783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37222,42.40444,21.37222,42.40444",
+    "geom:latitude":42.40444,
+    "geom:longitude":21.37222,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Zhiti",
+    "gn:country_code":"XK",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783889,
+    "gn:latitude":42.40444,
+    "gn:longitude":21.37222,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Zhiti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zhitia"
+    ],
+    "name:sqi_x_variant":[
+        "Zhiti"
+    ],
+    "name:srp_x_preferred":[
+        "\u017ditinje"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0438\u0442\u0438\u045a\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809519,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783889
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"3f86c92cf454aec84da5e0628522bfae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809519,
+            "locality_id":1243001783,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1243001783,
+    "wof:lastmodified":1537714758,
+    "wof:name":"Zhiti",
+    "wof:parent_id":1108809519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37222,
+    42.40444,
+    21.37222,
+    42.40444
+],
+  "geometry": {"coordinates":[21.37222,42.40444],"type":"Point"}
+}

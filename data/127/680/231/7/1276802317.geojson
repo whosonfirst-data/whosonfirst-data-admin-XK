@@ -1,0 +1,85 @@
+{
+  "id": 1276802317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50722,42.45278,21.50722,42.45278",
+    "geom:latitude":42.45278,
+    "geom:longitude":21.50722,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Malisevo",
+    "gn:country_code":"XK",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788240,
+    "gn:latitude":42.45278,
+    "gn:longitude":21.50722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mali\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Malishev\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Malishte-a"
+    ],
+    "name:srp_x_preferred":[
+        "Mali\u0161evo"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0438\u0448\u0435\u0432\u043e",
+        "Male\u0161evo"
+    ],
+    "name:und_x_variant":[
+        "Malishte-a",
+        "Male\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809535,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788240
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"7e88b6a81810afb4cf28046a1f6ea31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809535,
+            "locality_id":1276802317,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1276802317,
+    "wof:lastmodified":1537714847,
+    "wof:name":"Malisevo",
+    "wof:parent_id":1108809535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50722,
+    42.45278,
+    21.50722,
+    42.45278
+],
+  "geometry": {"coordinates":[21.50722,42.45278],"type":"Point"}
+}

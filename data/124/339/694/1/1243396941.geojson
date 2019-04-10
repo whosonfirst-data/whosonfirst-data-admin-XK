@@ -1,0 +1,80 @@
+{
+  "id": 1243396941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44972,42.54333,20.44972,42.54333",
+    "geom:latitude":42.54333,
+    "geom:longitude":20.44972,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Maznik",
+    "gn:country_code":"XK",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788087,
+    "gn:latitude":42.54333,
+    "gn:longitude":20.44972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Maznik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mazniku"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0437\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Maznik"
+    ],
+    "name:und_x_variant":[
+        "Mazniku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809529,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788087
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1aff1d76def1be6a7e96e96c86cffe46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809529,
+            "locality_id":1243396941,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1243396941,
+    "wof:lastmodified":1537714843,
+    "wof:name":"Maznik",
+    "wof:parent_id":1108809529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44972000000001,
+    42.54333,
+    20.44972000000001,
+    42.54333
+],
+  "geometry": {"coordinates":[20.44972000000001,42.54333],"type":"Point"}
+}

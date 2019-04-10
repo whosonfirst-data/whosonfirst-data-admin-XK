@@ -1,0 +1,81 @@
+{
+  "id": 1293037075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04056,42.44944,21.04056,42.44944",
+    "geom:latitude":42.44944,
+    "geom:longitude":21.04056,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Petroviq",
+    "gn:country_code":"XK",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787071,
+    "gn:latitude":42.44944,
+    "gn:longitude":21.04056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Petroviq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Petroviq"
+    ],
+    "name:srp_x_preferred":[
+        "Petrovi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0438\u045b",
+        "Petrovi\u0107i"
+    ],
+    "name:und_x_variant":[
+        "Petrovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809523,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787071
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"7fb10441fde7eab1b0c04945f200177f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809523,
+            "locality_id":1293037075,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1293037075,
+    "wof:lastmodified":1537714822,
+    "wof:name":"Petroviq",
+    "wof:parent_id":1108809523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04056,
+    42.44944,
+    21.04056,
+    42.44944
+],
+  "geometry": {"coordinates":[21.04056,42.44944],"type":"Point"}
+}

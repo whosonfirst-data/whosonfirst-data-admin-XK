@@ -1,0 +1,85 @@
+{
+  "id": 1310441179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84417,42.33639,20.84417,42.33639",
+    "geom:latitude":42.33639,
+    "geom:longitude":20.84417,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Sopina",
+    "gn:country_code":"XK",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785680,
+    "gn:latitude":42.33639,
+    "gn:longitude":20.84417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sopina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Sopin"
+    ],
+    "name:sqi_x_variant":[
+        "Sopij\u00eb",
+        "Sopi"
+    ],
+    "name:srp_x_preferred":[
+        "Sopina"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043e\u043f\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sopi",
+        "Sopia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785680
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d7954ab2b0b20fa4a7e9b609bf593d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1310441179,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1310441179,
+    "wof:lastmodified":1537714793,
+    "wof:name":"Sopina",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84417,
+    42.33639,
+    20.84417,
+    42.33639
+],
+  "geometry": {"coordinates":[20.84417,42.33639],"type":"Point"}
+}

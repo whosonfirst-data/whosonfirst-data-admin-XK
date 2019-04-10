@@ -1,0 +1,98 @@
+{
+  "id": 1259517257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64722,42.66667,20.64722,42.66667",
+    "geom:latitude":42.66667,
+    "geom:longitude":20.64722,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Josanica",
+    "gn:country_code":"XK",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789771,
+    "gn:latitude":42.66667,
+    "gn:longitude":20.64722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Jo\u0161anica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Jashanic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Joshanic\u00eb",
+        "Jashanica e Ep\u00ebrme",
+        "Jashanica e Poshtme",
+        "Bardhaj",
+        "Bardhani",
+        "Bardhan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u043e\u0448\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Jo\u0161anica",
+        "Donja Jo\u0161anica",
+        "Gornja Jo\u0161anica"
+    ],
+    "name:und_x_variant":[
+        "Bardhaj",
+        "Donja Jo\u0161anica",
+        "Bardhani",
+        "Gornja Jo\u0161anica",
+        "Bardhan",
+        "Jashanic\u00eb",
+        "Jashanica e Poshtme",
+        "Joshanic\u00eb",
+        "Jashanica e Ep\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809541,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789771
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c9fdc01798009e8366fb408ef50e1b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809541,
+            "locality_id":1259517257,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1259517257,
+    "wof:lastmodified":1537714882,
+    "wof:name":"Josanica",
+    "wof:parent_id":1108809541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64722,
+    42.66667,
+    20.64722,
+    42.66667
+],
+  "geometry": {"coordinates":[20.64722,42.66667],"type":"Point"}
+}

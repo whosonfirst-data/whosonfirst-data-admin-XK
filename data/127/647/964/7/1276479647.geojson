@@ -1,0 +1,71 @@
+{
+  "id": 1276479647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61389,42.09111,20.61389,42.09111",
+    "geom:latitude":42.09111,
+    "geom:longitude":20.61389,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Gornja Rapca",
+    "gn:country_code":"XK",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830588,
+    "gn:latitude":42.09111,
+    "gn:longitude":20.61389,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gornja Rap\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Rap\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809493,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830588
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c83f47437f9d16786f23163780b197e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809493,
+            "locality_id":1276479647,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1276479647,
+    "wof:lastmodified":1537715011,
+    "wof:name":"Gornja Rapca",
+    "wof:parent_id":1108809493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61389,
+    42.09111,
+    20.61389,
+    42.09111
+],
+  "geometry": {"coordinates":[20.61389,42.09111],"type":"Point"}
+}

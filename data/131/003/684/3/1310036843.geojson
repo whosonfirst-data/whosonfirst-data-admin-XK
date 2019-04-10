@@ -1,0 +1,90 @@
+{
+  "id": 1310036843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13501,42.98856,21.13501,42.98856",
+    "geom:latitude":42.98856,
+    "geom:longitude":21.13501,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Donja Pakastica",
+    "gn:country_code":"XK",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791277,
+    "gn:latitude":42.98856,
+    "gn:longitude":21.13501,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donja Paka\u0161tica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Pakashtic\u00eb e Poshtme"
+    ],
+    "name:sqi_x_variant":[
+        "Pakashtic\u00eb e Posht\u00ebme",
+        "Pakashtica e Poshtme",
+        "Albona e Poshtme"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041f\u0430\u043a\u0430\u0448\u0442\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Donja Paka\u0161tica",
+        "Paka\u0161tica"
+    ],
+    "name:und_x_variant":[
+        "Pakashtica e Poshtme",
+        "Albona e Poshtme",
+        "Paka\u0161tica",
+        "Pakashtic\u00eb e Posht\u00ebme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791277,
+        "wk:page":"Paka%C5%A1tica"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"baefc0c3520e62b63b6f69fcaea687da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1310036843,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1310036843,
+    "wof:lastmodified":1537714924,
+    "wof:name":"Donja Pakastica",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13501,
+    42.98856,
+    21.13501,
+    42.98856
+],
+  "geometry": {"coordinates":[21.13501,42.98856],"type":"Point"}
+}

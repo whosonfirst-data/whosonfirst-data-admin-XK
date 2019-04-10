@@ -1,0 +1,86 @@
+{
+  "id": 1243485343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25722,42.14667,21.25722,42.14667",
+    "geom:latitude":42.14667,
+    "geom:longitude":21.25722,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Rezance",
+    "gn:country_code":"XK",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829501,
+    "gn:latitude":42.14667,
+    "gn:longitude":21.25722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Re\u017eance",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "R\u00ebzhanc\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Rezhanc\u00eb",
+        "Rezhanc",
+        "Rashanic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Re\u017eance"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0435\u0436\u0430\u043d\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Rashanic\u00eb",
+        "Rezhanc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809497,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829501
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a254bc5b0df739bef6fd06440cdcfece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809497,
+            "locality_id":1243485343,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1243485343,
+    "wof:lastmodified":1537714966,
+    "wof:name":"Rezance",
+    "wof:parent_id":1108809497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25722,
+    42.14667,
+    21.25722,
+    42.14667
+],
+  "geometry": {"coordinates":[21.25722,42.14667],"type":"Point"}
+}

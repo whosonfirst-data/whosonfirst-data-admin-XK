@@ -1,0 +1,86 @@
+{
+  "id": 1326761877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7475,42.53333,20.7475,42.53333",
+    "geom:latitude":42.53333,
+    "geom:longitude":20.7475,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Llashkadrenoc",
+    "gn:country_code":"XK",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784323,
+    "gn:latitude":42.53333,
+    "gn:longitude":20.7475,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Llashkadrenoc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Llashkadrenoc"
+    ],
+    "name:sqi_x_variant":[
+        "Vllashkidrenovc",
+        "Llashkadr\u00ebnoc",
+        "Vlavshki Drenovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u0430\u0448\u043a\u0438 \u0414\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:srp_x_variant":[
+        "Vla\u0161ki Drenovac"
+    ],
+    "name:und_x_variant":[
+        "Llashkadr\u00ebnoc",
+        "Vlavshki Drenovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809533,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784323
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"2835f28ee794b9665416eeb143e0c369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809533,
+            "locality_id":1326761877,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1326761877,
+    "wof:lastmodified":1537714769,
+    "wof:name":"Llashkadrenoc",
+    "wof:parent_id":1108809533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7475,
+    42.53333,
+    20.7475,
+    42.53333
+],
+  "geometry": {"coordinates":[20.7475,42.53333],"type":"Point"}
+}

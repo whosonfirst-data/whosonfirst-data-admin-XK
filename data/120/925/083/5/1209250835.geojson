@@ -1,0 +1,75 @@
+{
+  "id": 1209250835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76778,42.89611,20.76778,42.89611",
+    "geom:latitude":42.89611,
+    "geom:longitude":20.76778,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Zupc",
+    "gn:country_code":"XK",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783781,
+    "gn:latitude":42.89611,
+    "gn:longitude":20.76778,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Zup\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zup\u00e7\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Zup\u00e7"
+    ],
+    "name:srp_x_preferred":[
+        "Zup\u010de"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0443\u043f\u0447\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783781,
+        "wk:page":"Zup%C4%8De"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"10f947d92dfcabced23f7f4ebf5989a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209250835
+        }
+    ],
+    "wof:id":1209250835,
+    "wof:lastmodified":1537714754,
+    "wof:name":"Zupc",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76778,
+    42.89611,
+    20.76778,
+    42.89611
+],
+  "geometry": {"coordinates":[20.76778,42.89611],"type":"Point"}
+}

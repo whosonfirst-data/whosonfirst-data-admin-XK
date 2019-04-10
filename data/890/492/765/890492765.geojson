@@ -1,0 +1,72 @@
+{
+  "id": 890492765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36972,42.71194,20.36972,42.71194",
+    "geom:latitude":42.71194,
+    "geom:longitude":20.36972,
+    "gn:country":"XK",
+    "gn:fcode":"PPLL",
+    "gn:pop":1050,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dubov\u00eb"
+    ],
+    "name:unk_x_variant":[
+        "Dubova"
+    ],
+    "qs:name":"Dubova (Driloni)",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790977,
+        "gp:id":537465,
+        "qs:id":129626
+    },
+    "wof:country":"XK",
+    "wof:created":1469054905,
+    "wof:geomhash":"dadb3a50d660ed71bd1915f2b902ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":890492765,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":890492765,
+    "wof:lastmodified":1505343800,
+    "wof:name":"Dubova (Driloni)",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:population":1050,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36972,
+    42.71194,
+    20.36972,
+    42.71194
+],
+  "geometry": {"coordinates":[20.36972,42.71194],"type":"Point"}
+}

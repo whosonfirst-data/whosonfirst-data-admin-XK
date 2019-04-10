@@ -1,0 +1,80 @@
+{
+  "id": 1260317137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10806,42.30222,21.10806,42.30222",
+    "geom:latitude":42.30222,
+    "geom:longitude":21.10806,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Burnik",
+    "gn:country_code":"XK",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792104,
+    "gn:latitude":42.30222,
+    "gn:longitude":21.10806,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Burnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Burrnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0440\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Burnik"
+    ],
+    "name:und_x_variant":[
+        "Burrnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809521,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792104
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8e763e2538d2aea751378f0f9b95154e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809521,
+            "locality_id":1260317137,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1260317137,
+    "wof:lastmodified":1537714944,
+    "wof:name":"Burnik",
+    "wof:parent_id":1108809521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10806,
+    42.30222,
+    21.10806,
+    42.30222
+],
+  "geometry": {"coordinates":[21.10806,42.30222],"type":"Point"}
+}

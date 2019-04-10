@@ -1,0 +1,78 @@
+{
+  "id": 1209140277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82917,42.8525,20.82917,42.8525",
+    "geom:latitude":42.8525,
+    "geom:longitude":20.82917,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ljusta",
+    "gn:country_code":"XK",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788533,
+    "gn:latitude":42.8525,
+    "gn:longitude":20.82917,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Lju\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ljust\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Lusht\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0448\u0442\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Lju\u0161ta"
+    ],
+    "name:und_x_variant":[
+        "Lusht\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788533,
+        "wk:page":"Lusht%C3%AB"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1d3b80c2e58ddb15bb8e7b492f6c41a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209140277
+        }
+    ],
+    "wof:id":1209140277,
+    "wof:lastmodified":1537714852,
+    "wof:name":"Ljusta",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82917,
+    42.8525,
+    20.82917,
+    42.8525
+],
+  "geometry": {"coordinates":[20.82917,42.8525],"type":"Point"}
+}

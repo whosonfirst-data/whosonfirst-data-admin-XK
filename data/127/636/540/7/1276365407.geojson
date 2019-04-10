@@ -1,0 +1,84 @@
+{
+  "id": 1276365407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12944,42.44278,21.12944,42.44278",
+    "geom:latitude":42.44278,
+    "geom:longitude":21.12944,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Trn",
+    "gn:country_code":"XK",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784930,
+    "gn:latitude":42.44278,
+    "gn:longitude":21.12944,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Trn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "T\u00ebrrn"
+    ],
+    "name:sqi_x_variant":[
+        "T\u00ebrn",
+        "T\u00ebrna"
+    ],
+    "name:srp_x_preferred":[
+        "Trn"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u043d"
+    ],
+    "name:und_x_variant":[
+        "T\u00ebrna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809521,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784930
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"80f963a49fbba4214af0facdaa4818f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809521,
+            "locality_id":1276365407,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1276365407,
+    "wof:lastmodified":1537714782,
+    "wof:name":"Trn",
+    "wof:parent_id":1108809521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12944,
+    42.44278,
+    21.12944,
+    42.44278
+],
+  "geometry": {"coordinates":[21.12944,42.44278],"type":"Point"}
+}

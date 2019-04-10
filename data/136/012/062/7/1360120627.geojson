@@ -1,0 +1,75 @@
+{
+  "id": 1360120627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39417,42.65611,20.39417,42.65611",
+    "geom:latitude":42.65611,
+    "geom:longitude":20.39417,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Llabjan",
+    "gn:country_code":"XK",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788822,
+    "gn:latitude":42.65611,
+    "gn:longitude":20.39417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Llabjan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Llabjan"
+    ],
+    "name:und_x_variant":[
+        "Labjan",
+        "Llabjan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788822
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"02860b463f7ade8b808245f71c142bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1360120627,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1360120627,
+    "wof:lastmodified":1537714861,
+    "wof:name":"Llabjan",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39417000000001,
+    42.65611,
+    20.39417000000001,
+    42.65611
+],
+  "geometry": {"coordinates":[20.39417000000001,42.65611],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1226078971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00722,43.05583,21.00722,43.05583",
+    "geom:latitude":43.05583,
+    "geom:longitude":21.00722,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Rzana",
+    "gn:country_code":"XK",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786162,
+    "gn:latitude":43.05583,
+    "gn:longitude":21.00722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"R\u017eana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Rrzhan\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Rzhan\u00eb",
+        "Rezhan\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "R\u017eana"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0436\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rzhan\u00eb",
+        "Rezhan\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786162
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"e8f2688d78b3752c46958d46955568c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1226078971,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1226078971,
+    "wof:lastmodified":1537714804,
+    "wof:name":"Rzana",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00722,
+    43.05583,
+    21.00722,
+    43.05583
+],
+  "geometry": {"coordinates":[21.00722,43.05583],"type":"Point"}
+}

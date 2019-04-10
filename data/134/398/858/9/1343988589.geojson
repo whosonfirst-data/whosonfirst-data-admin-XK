@@ -1,0 +1,71 @@
+{
+  "id": 1343988589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17806,42.25167,21.17806,42.25167",
+    "geom:latitude":42.25167,
+    "geom:longitude":21.17806,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Dulovi",
+    "gn:country_code":"XK",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859753,
+    "gn:latitude":42.25167,
+    "gn:longitude":21.17806,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Dulovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dulovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809505,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859753
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4251a8f31f6fde494bcbf431d404c205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809505,
+            "locality_id":1343988589,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1343988589,
+    "wof:lastmodified":1537715036,
+    "wof:name":"Dulovi",
+    "wof:parent_id":1108809505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17806,
+    42.25167,
+    21.17806,
+    42.25167
+],
+  "geometry": {"coordinates":[21.17806,42.25167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343796647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05847,42.81216,21.05847,42.81216",
+    "geom:latitude":42.81216,
+    "geom:longitude":21.05847,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Cerovici",
+    "gn:country_code":"XK",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335693,
+    "gn:latitude":42.81216,
+    "gn:longitude":21.05847,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Cerovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Cerovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335693
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a8d1e0f250619a7b023f05171dec24d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1343796647,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1343796647,
+    "wof:lastmodified":1537715043,
+    "wof:name":"Cerovici",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05847,
+    42.81216,
+    21.05847,
+    42.81216
+],
+  "geometry": {"coordinates":[21.05847,42.81216],"type":"Point"}
+}

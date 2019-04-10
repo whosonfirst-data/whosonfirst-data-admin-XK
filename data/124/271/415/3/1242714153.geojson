@@ -1,0 +1,84 @@
+{
+  "id": 1242714153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56583,42.92944,20.56583,42.92944",
+    "geom:latitude":42.92944,
+    "geom:longitude":20.56583,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Brnjak",
+    "gn:country_code":"XK",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792265,
+    "gn:latitude":42.92944,
+    "gn:longitude":20.56583,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Brnjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "B\u00ebrnjak"
+    ],
+    "name:sqi_x_variant":[
+        "B\u00ebmjak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u045a\u0430\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Brnjak"
+    ],
+    "name:und_x_variant":[
+        "B\u00ebrnjak",
+        "B\u00ebmjak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792265
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"133f125c125495b7baa0461c8fe16907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1242714153,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1242714153,
+    "wof:lastmodified":1537714947,
+    "wof:name":"Brnjak",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56583,
+    42.92944,
+    20.56583,
+    42.92944
+],
+  "geometry": {"coordinates":[20.56583,42.92944],"type":"Point"}
+}

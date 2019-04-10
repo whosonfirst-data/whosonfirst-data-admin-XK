@@ -1,0 +1,71 @@
+{
+  "id": 1243587959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52944,42.35194,20.52944,42.35194",
+    "geom:latitude":42.35194,
+    "geom:longitude":20.52944,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Gradis",
+    "gn:country_code":"XK",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830488,
+    "gn:latitude":42.35194,
+    "gn:longitude":20.52944,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gradi\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gradi\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830488
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"3008343ea1ba049e86f3410d3a208b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1243587959,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1243587959,
+    "wof:lastmodified":1537715004,
+    "wof:name":"Gradis",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52944,
+    42.35194,
+    20.52944,
+    42.35194
+],
+  "geometry": {"coordinates":[20.52944,42.35194],"type":"Point"}
+}

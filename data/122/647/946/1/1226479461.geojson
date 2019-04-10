@@ -1,0 +1,71 @@
+{
+  "id": 1226479461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1942,42.88816,21.1942,42.88816",
+    "geom:latitude":42.88816,
+    "geom:longitude":21.1942,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Poljanica",
+    "gn:country_code":"XK",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310794,
+    "gn:latitude":42.88816,
+    "gn:longitude":21.1942,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Poljanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Poljanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310794
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c06484d7346880462d2df34333d36c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1226479461,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1226479461,
+    "wof:lastmodified":1537715042,
+    "wof:name":"Poljanica",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1942,
+    42.88816,
+    21.1942,
+    42.88816
+],
+  "geometry": {"coordinates":[21.1942,42.88816],"type":"Point"}
+}

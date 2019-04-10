@@ -1,0 +1,87 @@
+{
+  "id": 1343497737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84306,42.65361,20.84306,42.65361",
+    "geom:latitude":42.65361,
+    "geom:longitude":20.84306,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Trstenik",
+    "gn:country_code":"XK",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784875,
+    "gn:latitude":42.65361,
+    "gn:longitude":20.84306,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Trstenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "T\u00ebrstenik"
+    ],
+    "name:sqi_x_variant":[
+        "T\u00ebrsteniku",
+        "Qendres\u00eb",
+        "Qendresa"
+    ],
+    "name:srp_x_preferred":[
+        "Trstenik"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Qendresa",
+        "T\u00ebrsteniku",
+        "Qendres\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809545,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784875
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a07e8d7297f3648beeec0213f33394c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809545,
+            "locality_id":1343497737,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1343497737,
+    "wof:lastmodified":1537714780,
+    "wof:name":"Trstenik",
+    "wof:parent_id":1108809545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84306,
+    42.65361,
+    20.84306,
+    42.65361
+],
+  "geometry": {"coordinates":[20.84306,42.65361],"type":"Point"}
+}

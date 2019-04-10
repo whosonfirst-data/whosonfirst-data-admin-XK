@@ -1,0 +1,87 @@
+{
+  "id": 1343799083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56667,42.53667,21.56667,42.53667",
+    "geom:latitude":42.53667,
+    "geom:longitude":21.56667,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Odevce",
+    "gn:country_code":"XK",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787504,
+    "gn:latitude":42.53667,
+    "gn:longitude":21.56667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Odevce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Hodevc"
+    ],
+    "name:sqi_x_variant":[
+        "Hodec",
+        "Hodefc",
+        "Hodefci"
+    ],
+    "name:srp_x_preferred":[
+        "Odevce"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0434\u0435\u0432\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Hodefci",
+        "Hodeci",
+        "Hodefc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809579,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787504
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"2532d5bdb4a5831e93080db0c56d3ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809579,
+            "locality_id":1343799083,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1343799083,
+    "wof:lastmodified":1537714829,
+    "wof:name":"Odevce",
+    "wof:parent_id":1108809579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56667,
+    42.53667,
+    21.56667,
+    42.53667
+],
+  "geometry": {"coordinates":[21.56667,42.53667],"type":"Point"}
+}

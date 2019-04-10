@@ -1,0 +1,77 @@
+{
+  "id": 1260015661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40917,42.41833,21.40917,42.41833",
+    "geom:latitude":42.41833,
+    "geom:longitude":21.40917,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Vrapcic",
+    "gn:country_code":"XK",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784213,
+    "gn:latitude":42.41833,
+    "gn:longitude":21.40917,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vrap\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Vrap\u00e7iq"
+    ],
+    "name:srp_x_preferred":[
+        "Vrap\u010di\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0430\u043f\u0447\u0438\u045b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809535,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784213
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d2ac38076e1ebc8949ebd6378465325e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809535,
+            "locality_id":1260015661,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1260015661,
+    "wof:lastmodified":1537714766,
+    "wof:name":"Vrapcic",
+    "wof:parent_id":1108809535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40917,
+    42.41833,
+    21.40917,
+    42.41833
+],
+  "geometry": {"coordinates":[21.40917,42.41833],"type":"Point"}
+}

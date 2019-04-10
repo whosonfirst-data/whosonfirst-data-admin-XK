@@ -1,0 +1,88 @@
+{
+  "id": 1292935177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86722,42.94333,20.86722,42.94333",
+    "geom:latitude":42.94333,
+    "geom:longitude":20.86722,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Zaza",
+    "gn:country_code":"XK",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":783978,
+    "gn:latitude":42.94333,
+    "gn:longitude":20.86722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"\u017da\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zhah\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Zhazh\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u017da\u017ea"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0430\u0436\u0430",
+        "\u0416\u043e\u0436\u0430",
+        "\u0416\u0430\u0436\u0435",
+        "\u017da\u017ee",
+        "\u017do\u017ea"
+    ],
+    "name:und_x_variant":[
+        "\u017da\u017ee",
+        "\u017do\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783978
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a816d91808eea98571b299746616c41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1292935177,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1292935177,
+    "wof:lastmodified":1537714759,
+    "wof:name":"Zaza",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86722,
+    42.94333,
+    20.86722,
+    42.94333
+],
+  "geometry": {"coordinates":[20.86722,42.94333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327065941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75583,43.00944,20.75583,43.00944",
+    "geom:latitude":43.00944,
+    "geom:longitude":20.75583,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Kadijaca Han Kadijaca",
+    "gn:country_code":"XK",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830162,
+    "gn:latitude":43.00944,
+    "gn:longitude":20.75583,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kadija\u010da Han Kadija\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kadija\u010da Han Kadija\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830162
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a76d97d3306912eb0c906be9ed3f4adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1327065941,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1327065941,
+    "wof:lastmodified":1537714980,
+    "wof:name":"Kadijaca Han Kadijaca",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75583,
+    43.00944000000001,
+    20.75583,
+    43.00944000000001
+],
+  "geometry": {"coordinates":[20.75583,43.00944000000001],"type":"Point"}
+}

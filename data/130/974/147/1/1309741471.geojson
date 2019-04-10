@@ -1,0 +1,86 @@
+{
+  "id": 1309741471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04077,42.74115,21.04077,42.74115",
+    "geom:latitude":42.74115,
+    "geom:longitude":21.04077,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Donje Stanovce",
+    "gn:country_code":"XK",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791221,
+    "gn:latitude":42.74115,
+    "gn:longitude":21.04077,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donje Stanovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Stanoc i Posht\u00ebm"
+    ],
+    "name:sqi_x_variant":[
+        "Stanovci i Posht\u00ebm",
+        "Stanofc i Posht\u00ebm"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0435 \u0421\u0442\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Donje Stanovce",
+        "\u010cerkez-kej"
+    ],
+    "name:und_x_variant":[
+        "Stanofc i Posht\u00ebm",
+        "\u010cerkez-kej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791221
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"755aef09d673f91d6550fdc83f26954c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1309741471,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1309741471,
+    "wof:lastmodified":1537714920,
+    "wof:name":"Donje Stanovce",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04077,
+    42.74115,
+    21.04077,
+    42.74115
+],
+  "geometry": {"coordinates":[21.04077,42.74115],"type":"Point"}
+}

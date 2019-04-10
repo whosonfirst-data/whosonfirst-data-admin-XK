@@ -1,0 +1,86 @@
+{
+  "id": 1276694047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66694,42.01028,20.66694,42.01028",
+    "geom:latitude":42.01028,
+    "geom:longitude":20.66694,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Backe",
+    "gn:country_code":"XK",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793016,
+    "gn:latitude":42.01028,
+    "gn:longitude":20.66694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ba\u00e7k\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Baqk\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Ba\u00e7k\u00eb",
+        "Bo\u00e7ka"
+    ],
+    "name:srp_x_preferred":[
+        "Ba\u010dka"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0447\u043a\u0430",
+        "Ba\u0107ka",
+        "\u0411\u0430\u045b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00e7ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809493,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793016
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f8fdcf86c57c59155359dc18ba052618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809493,
+            "locality_id":1276694047,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1276694047,
+    "wof:lastmodified":1537714963,
+    "wof:name":"Backe",
+    "wof:parent_id":1108809493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66694,
+    42.01028,
+    20.66694,
+    42.01028
+],
+  "geometry": {"coordinates":[20.66694,42.01028],"type":"Point"}
+}

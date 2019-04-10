@@ -1,0 +1,80 @@
+{
+  "id": 1293136555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47286,42.54314,21.47286,42.54314",
+    "geom:latitude":42.54314,
+    "geom:longitude":21.47286,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Draganac",
+    "gn:country_code":"XK",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791125,
+    "gn:latitude":42.54314,
+    "gn:longitude":21.47286,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Draganac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Draganc\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u0430\u0446"
+    ],
+    "name:srp_x_variant":[
+        "Draganac"
+    ],
+    "name:und_x_variant":[
+        "Draganoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809543,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791125
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"94941e22dcb03f6cac101846003c338e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809543,
+            "locality_id":1293136555,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1293136555,
+    "wof:lastmodified":1537714917,
+    "wof:name":"Draganac",
+    "wof:parent_id":1108809543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47286,
+    42.54314,
+    21.47286,
+    42.54314
+],
+  "geometry": {"coordinates":[21.47286,42.54314],"type":"Point"}
+}

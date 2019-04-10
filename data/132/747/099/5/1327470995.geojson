@@ -1,0 +1,77 @@
+{
+  "id": 1327470995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81361,43.10611,20.81361,43.10611",
+    "geom:latitude":43.10611,
+    "geom:longitude":20.81361,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Ulinje",
+    "gn:country_code":"XK",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784772,
+    "gn:latitude":43.10611,
+    "gn:longitude":20.81361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ulinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ulinje"
+    ],
+    "name:srp_x_preferred":[
+        "Ulije"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u043b\u0438\u0458\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784772
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1f74d03fa7647cb057ca7c8ad7f0e1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1327470995,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1327470995,
+    "wof:lastmodified":1537714776,
+    "wof:name":"Ulinje",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81361,
+    43.10611,
+    20.81361,
+    43.10611
+],
+  "geometry": {"coordinates":[20.81361,43.10611],"type":"Point"}
+}

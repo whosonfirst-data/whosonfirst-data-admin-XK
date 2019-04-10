@@ -1,0 +1,86 @@
+{
+  "id": 1327470011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57639,42.51972,21.57639,42.51972",
+    "geom:latitude":42.51972,
+    "geom:longitude":21.57639,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"37.0",
+    "gn:asciiname":"Malo Ropotovo",
+    "gn:country_code":"XK",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788200,
+    "gn:latitude":42.51972,
+    "gn:longitude":21.57639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Malo Ropotovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ropotov\u00eb e Vog\u00ebl"
+    ],
+    "name:sqi_x_variant":[
+        "Ropotova e Vog\u00ebl",
+        "Rropotova e Vog\u00ebl"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u043e \u0420\u043e\u043f\u043e\u0442\u043e\u0432\u043e"
+    ],
+    "name:srp_x_variant":[
+        "Malo Ropotovo"
+    ],
+    "name:und_x_variant":[
+        "Ropotovo",
+        "Ropotova e Vog\u00ebl",
+        "Rropotova e Vog\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809579,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788200
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a1a1422e0c250a8664669fb077bd4815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809579,
+            "locality_id":1327470011,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1327470011,
+    "wof:lastmodified":1537714846,
+    "wof:name":"Malo Ropotovo",
+    "wof:parent_id":1108809579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57639,
+    42.51972,
+    21.57639,
+    42.51972
+],
+  "geometry": {"coordinates":[21.57639,42.51972],"type":"Point"}
+}

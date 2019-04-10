@@ -1,0 +1,81 @@
+{
+  "id": 1260217983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85722,42.93556,20.85722,42.93556",
+    "geom:latitude":42.93556,
+    "geom:longitude":20.85722,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Boljetin",
+    "gn:country_code":"XK",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830470,
+    "gn:latitude":42.93556,
+    "gn:longitude":20.85722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Boljetin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Boletin"
+    ],
+    "name:srp_x_preferred":[
+        "Boljetin"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0459\u0435\u0442\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Boletini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830470,
+        "wk:page":"Boljetin%2C_Zve%C4%8Dan"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d35f13272d772d2c24f3ca5a0adb985d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1260217983,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1260217983,
+    "wof:lastmodified":1537715002,
+    "wof:name":"Boljetin",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85722,
+    42.93556,
+    20.85722,
+    42.93556
+],
+  "geometry": {"coordinates":[20.85722,42.93556],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226479353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05389,42.84778,21.05389,42.84778",
+    "geom:latitude":42.84778,
+    "geom:longitude":21.05389,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Cecelija",
+    "gn:country_code":"XK",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792025,
+    "gn:latitude":42.84778,
+    "gn:longitude":21.05389,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Cecelija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ceceli"
+    ],
+    "name:srp_x_preferred":[
+        "Cecelija"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0435\u0446\u0435\u043b\u0438\u0458\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792025
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4fd5cdef41274aafdd9028ce3282e7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1226479353,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1226479353,
+    "wof:lastmodified":1537714942,
+    "wof:name":"Cecelija",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05389,
+    42.84778,
+    21.05389,
+    42.84778
+],
+  "geometry": {"coordinates":[21.05389,42.84778],"type":"Point"}
+}

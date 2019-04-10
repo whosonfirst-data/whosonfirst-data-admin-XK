@@ -1,0 +1,84 @@
+{
+  "id": 1276374399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03569,42.68456,21.03569,42.68456",
+    "geom:latitude":42.68456,
+    "geom:longitude":21.03569,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Leshkoshiq",
+    "gn:country_code":"XK",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830025,
+    "gn:latitude":42.68456,
+    "gn:longitude":21.03569,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Leshkoshiq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Leskov\u00e7ic"
+    ],
+    "name:sqi_x_variant":[
+        "Leshkoshiq",
+        "L\u00ebskoshic"
+    ],
+    "name:srp_x_preferred":[
+        "Leskov\u010di\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0447\u0438\u045b"
+    ],
+    "name:und_x_variant":[
+        "L\u00ebskoshic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809551,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830025
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"31ab4fc284dd3cb1a06d8b287f34b6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809551,
+            "locality_id":1276374399,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1276374399,
+    "wof:lastmodified":1537714970,
+    "wof:name":"Leshkoshiq",
+    "wof:parent_id":1108809551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03569,
+    42.68456,
+    21.03569,
+    42.68456
+],
+  "geometry": {"coordinates":[21.03569,42.68456],"type":"Point"}
+}

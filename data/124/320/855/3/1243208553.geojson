@@ -1,0 +1,86 @@
+{
+  "id": 1243208553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55056,42.39639,21.55056,42.39639",
+    "geom:latitude":42.39639,
+    "geom:longitude":21.55056,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Burince",
+    "gn:country_code":"XK",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792108,
+    "gn:latitude":42.39639,
+    "gn:longitude":21.55056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Burince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Burinc\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Burinica",
+        "Burinic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Burince"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u0440\u0438\u043d\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Burinica",
+        "Burinic\u00eb",
+        "Burinice-a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809535,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792108
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4cc115515b588bffb6367e061ef9c5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809535,
+            "locality_id":1243208553,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1243208553,
+    "wof:lastmodified":1537714945,
+    "wof:name":"Burince",
+    "wof:parent_id":1108809535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55056,
+    42.39639,
+    21.55056,
+    42.39639
+],
+  "geometry": {"coordinates":[21.55056,42.39639],"type":"Point"}
+}

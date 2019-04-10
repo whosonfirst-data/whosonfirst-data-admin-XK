@@ -1,0 +1,81 @@
+{
+  "id": 1327270219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97472,42.2425,20.97472,42.2425",
+    "geom:latitude":42.2425,
+    "geom:longitude":20.97472,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Stanisavljeva Mala",
+    "gn:country_code":"XK",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830556,
+    "gn:latitude":42.2425,
+    "gn:longitude":20.97472,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Stanisavljeva Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stanisavljeva Mala"
+    ],
+    "name:srp_x_variant":[
+        "Orli\u0107evo",
+        "Orla\u0107evo",
+        "Orlo\u0107evo"
+    ],
+    "name:und_x_variant":[
+        "Orla\u0107evo",
+        "Orli\u0107evo",
+        "Orlo\u0107evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830556
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bf90469222632bb5306e3a665edf4fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1327270219,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1327270219,
+    "wof:lastmodified":1537715009,
+    "wof:name":"Stanisavljeva Mala",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97472,
+    42.2425,
+    20.97472,
+    42.2425
+],
+  "geometry": {"coordinates":[20.97472,42.2425],"type":"Point"}
+}

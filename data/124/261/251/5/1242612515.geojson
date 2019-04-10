@@ -1,0 +1,86 @@
+{
+  "id": 1242612515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44833,42.28472,21.44833,42.28472",
+    "geom:latitude":42.28472,
+    "geom:longitude":21.44833,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Shashare",
+    "gn:country_code":"XK",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786066,
+    "gn:latitude":42.28472,
+    "gn:longitude":21.44833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Shashare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Shoshare"
+    ],
+    "name:sqi_x_variant":[
+        "Shashare",
+        "Shashar\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0160a\u0161are"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0430\u0448\u0430\u0440\u0435",
+        "\u0160o\u0161are"
+    ],
+    "name:und_x_variant":[
+        "\u0160o\u0161are",
+        "Shashar\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809519,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786066
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b6ff7885ebcb2a496ae8bc862235df6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809519,
+            "locality_id":1242612515,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1242612515,
+    "wof:lastmodified":1537714801,
+    "wof:name":"Shashare",
+    "wof:parent_id":1108809519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44833,
+    42.28472,
+    21.44833,
+    42.28472
+],
+  "geometry": {"coordinates":[21.44833,42.28472],"type":"Point"}
+}

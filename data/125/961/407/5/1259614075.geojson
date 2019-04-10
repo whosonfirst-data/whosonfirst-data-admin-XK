@@ -1,0 +1,86 @@
+{
+  "id": 1259614075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75861,42.35861,20.75861,42.35861",
+    "geom:latitude":42.35861,
+    "geom:longitude":20.75861,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Studencane",
+    "gn:country_code":"XK",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785350,
+    "gn:latitude":42.35861,
+    "gn:longitude":20.75861,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Studen\u010dane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Studenqan"
+    ],
+    "name:sqi_x_variant":[
+        "Studen\u00e7an",
+        "Strude\u00e7ane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0447\u0430\u043d\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Studen\u010dane"
+    ],
+    "name:und_x_variant":[
+        "Strude\u00e7ane",
+        "Studen\u00e7an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785350,
+        "wk:page":"Studen%C3%A7an"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"47c5456dd78a68b97eb59fb101df1a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1259614075,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1259614075,
+    "wof:lastmodified":1537714788,
+    "wof:name":"Studencane",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75861,
+    42.35861,
+    20.75861,
+    42.35861
+],
+  "geometry": {"coordinates":[20.75861,42.35861],"type":"Point"}
+}

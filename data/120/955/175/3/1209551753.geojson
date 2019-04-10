@@ -1,0 +1,65 @@
+{
+  "id": 1209551753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60639,42.23389,20.60639,42.23389",
+    "geom:latitude":42.23389,
+    "geom:longitude":20.60639,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Hamelj",
+    "gn:country_code":"XK",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860343,
+    "gn:latitude":42.23389,
+    "gn:longitude":20.60639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Hamelj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Hamelj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860343
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"76cd6516cb784bc4375d3d7dae23f766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209551753
+        }
+    ],
+    "wof:id":1209551753,
+    "wof:lastmodified":1537715039,
+    "wof:name":"Hamelj",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60639,
+    42.23389,
+    20.60639,
+    42.23389
+],
+  "geometry": {"coordinates":[20.60639,42.23389],"type":"Point"}
+}

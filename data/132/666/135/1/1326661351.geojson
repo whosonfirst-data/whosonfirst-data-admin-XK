@@ -1,0 +1,83 @@
+{
+  "id": 1326661351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25472,42.34639,21.25472,42.34639",
+    "geom:latitude":42.34639,
+    "geom:longitude":21.25472,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Trstenik",
+    "gn:country_code":"XK",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784876,
+    "gn:latitude":42.34639,
+    "gn:longitude":21.25472,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Trstenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "T\u00ebrsteniku"
+    ],
+    "name:sqi_x_variant":[
+        "T\u00ebrstenik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Trstenik"
+    ],
+    "name:und_x_variant":[
+        "T\u00ebrstenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809519,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784876
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a6a82c107d7a85663e7fde74e94511d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809519,
+            "locality_id":1326661351,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1326661351,
+    "wof:lastmodified":1537714780,
+    "wof:name":"Trstenik",
+    "wof:parent_id":1108809519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25472,
+    42.34639,
+    21.25472,
+    42.34639
+],
+  "geometry": {"coordinates":[21.25472,42.34639],"type":"Point"}
+}

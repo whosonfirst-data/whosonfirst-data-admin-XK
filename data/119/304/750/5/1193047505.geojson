@@ -1,0 +1,94 @@
+{
+  "id": 1193047505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89083,42.55306,20.89083,42.55306",
+    "geom:latitude":42.55306,
+    "geom:longitude":20.89083,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Kisna Reka",
+    "gn:country_code":"XK",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789502,
+    "gn:latitude":42.55306,
+    "gn:longitude":20.89083,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ki\u0161na Reka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kishnarek\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "K\u00ebrzharek\u00eb",
+        "Kisha e Nrek\u00ebs",
+        "Kishna Reka",
+        "Kizhareka",
+        "Lumisht\u00eb",
+        "Lumishta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0448\u043d\u0430 \u0420\u0435\u043a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Ki\u0161na Reka",
+        "Kr\u017ena Reka"
+    ],
+    "name:und_x_variant":[
+        "Lumisht\u00eb",
+        "Kishna Reka",
+        "Lumishta",
+        "Kizhareka",
+        "Kr\u017ena Reka",
+        "Kisha e Nrek\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809545,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789502
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"fae22ae2e069f795cbf6726fb6c4825d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809545,
+            "locality_id":1193047505,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1193047505,
+    "wof:lastmodified":1537714877,
+    "wof:name":"Kisna Reka",
+    "wof:parent_id":1108809545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89083,
+    42.55306,
+    20.89083,
+    42.55306
+],
+  "geometry": {"coordinates":[20.89083,42.55306],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1277105187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39167,42.41472,20.39167,42.41472",
+    "geom:latitude":42.41472,
+    "geom:longitude":20.39167,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Osek",
+    "gn:country_code":"XK",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787373,
+    "gn:latitude":42.41472,
+    "gn:longitude":20.39167,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Osek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Osek Hyl\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Osek Hilja"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u0435\u043a \u0425\u0438\u0459\u0430"
+    ],
+    "name:und_x_variant":[
+        "Osek Hil\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787373
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"53b973ef6c2123f52d8c353010c2ae12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1277105187,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1277105187,
+    "wof:lastmodified":1537714826,
+    "wof:name":"Osek",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39167,
+    42.41472,
+    20.39167,
+    42.41472
+],
+  "geometry": {"coordinates":[20.39167,42.41472],"type":"Point"}
+}

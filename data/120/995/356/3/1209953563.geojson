@@ -1,0 +1,90 @@
+{
+  "id": 1209953563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62722,42.61111,21.62722,42.61111",
+    "geom:latitude":42.61111,
+    "geom:longitude":21.62722,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Koprivnica",
+    "gn:country_code":"XK",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789296,
+    "gn:latitude":42.61111,
+    "gn:longitude":21.62722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Koprivnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kop\u00ebrnic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Kopernic\u00eb",
+        "Kap\u00ebrnic\u00eb",
+        "Kop\u00ebrnica",
+        "Kop\u00ebr"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Koprivnica"
+    ],
+    "name:und_x_variant":[
+        "Kopra",
+        "Kap\u00ebrnic\u00eb",
+        "Kop\u00ebrnica",
+        "Kop\u00ebr",
+        "Kopernic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789296
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"5ef2890a0a0a6ca1c654a48b8f15f066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1209953563,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1209953563,
+    "wof:lastmodified":1537714873,
+    "wof:name":"Koprivnica",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62722,
+    42.61111,
+    21.62722,
+    42.61111
+],
+  "geometry": {"coordinates":[21.62722,42.61111],"type":"Point"}
+}

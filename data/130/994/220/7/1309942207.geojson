@@ -1,0 +1,80 @@
+{
+  "id": 1309942207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95389,42.85861,20.95389,42.85861",
+    "geom:latitude":42.85861,
+    "geom:longitude":20.95389,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Banjska",
+    "gn:country_code":"XK",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792911,
+    "gn:latitude":42.85861,
+    "gn:longitude":20.95389,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Banjska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Banjsk\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u045a\u0441\u043a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Banjska"
+    ],
+    "name:und_x_variant":[
+        "Banjsk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792911
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ad22cbebf872d5b8f5982c2843dcbc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1309942207,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1309942207,
+    "wof:lastmodified":1537714960,
+    "wof:name":"Banjska",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95389,
+    42.85861,
+    20.95389,
+    42.85861
+],
+  "geometry": {"coordinates":[20.95389,42.85861],"type":"Point"}
+}

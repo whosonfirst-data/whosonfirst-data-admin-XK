@@ -1,0 +1,92 @@
+{
+  "id": 1310342461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65833,42.81694,20.65833,42.81694",
+    "geom:latitude":42.81694,
+    "geom:longitude":20.65833,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Suvo Grlo",
+    "gn:country_code":"XK",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785218,
+    "gn:latitude":42.81694,
+    "gn:longitude":20.65833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Suvo Grlo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Suvog\u00ebrll"
+    ],
+    "name:sqi_x_variant":[
+        "Suhog\u00ebrll\u00eb",
+        "Syrigan\u00eb",
+        "Suhog\u00ebril\u00eb",
+        "Suhog\u00ebrlla",
+        "Syrigon\u00eb",
+        "Syrigona"
+    ],
+    "name:srp_x_preferred":[
+        "Suvo Grlo"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0443\u0432\u043e \u0413\u0440\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "Suhog\u00ebril\u00eb",
+        "Syrigon\u00eb",
+        "Suhogrlo",
+        "Syrigona",
+        "Suhog\u00ebrlla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809553,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785218
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d7e6b46b3c4c7fbd24b687aa8b6dfc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809553,
+            "locality_id":1310342461,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1310342461,
+    "wof:lastmodified":1537714786,
+    "wof:name":"Suvo Grlo",
+    "wof:parent_id":1108809553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65833,
+    42.81694,
+    20.65833,
+    42.81694
+],
+  "geometry": {"coordinates":[20.65833,42.81694],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1293920429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04306,42.25306,21.04306,42.25306",
+    "geom:latitude":42.25306,
+    "geom:longitude":21.04306,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Donja Bitinja",
+    "gn:country_code":"XK",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791312,
+    "gn:latitude":42.25306,
+    "gn:longitude":21.04306,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donja Bitinja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Biti e Poshtme"
+    ],
+    "name:sqi_x_variant":[
+        "Bitia e Posht\u00ebme",
+        "Biti e Posht\u00ebme"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0411\u0438\u0442\u0438\u045a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Donja Bitinja"
+    ],
+    "name:und_x_variant":[
+        "Bitia e Posht\u00ebme",
+        "Biti e Posht\u00ebme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791312
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4fdfb761cc8190601024e23c705d47b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1293920429,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1293920429,
+    "wof:lastmodified":1537714927,
+    "wof:name":"Donja Bitinja",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04306,
+    42.25306,
+    21.04306,
+    42.25306
+],
+  "geometry": {"coordinates":[21.04306,42.25306],"type":"Point"}
+}

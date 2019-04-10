@@ -1,0 +1,82 @@
+{
+  "id": 1343296263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78444,43.00972,20.78444,43.00972",
+    "geom:latitude":43.00972,
+    "geom:longitude":20.78444,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Meki Dio",
+    "gn:country_code":"XK",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830160,
+    "gn:latitude":43.00972,
+    "gn:longitude":20.78444,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Meki Dio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mekidoll"
+    ],
+    "name:srp_x_preferred":[
+        "Meki Dio"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u043a\u0438 \u0414\u0438\u043e",
+        "\u041c\u0435\u043a\u0438 \u0414\u043e",
+        "Meki Do"
+    ],
+    "name:und_x_variant":[
+        "Meki Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830160
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b95212d93d5399f2b03ad941b180c119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1343296263,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1343296263,
+    "wof:lastmodified":1537714979,
+    "wof:name":"Meki Dio",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78444,
+    43.00972,
+    20.78444,
+    43.00972
+],
+  "geometry": {"coordinates":[20.78444,43.00972],"type":"Point"}
+}

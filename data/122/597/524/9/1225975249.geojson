@@ -1,0 +1,68 @@
+{
+  "id": 1225975249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29139,42.56889,20.29139,42.56889",
+    "geom:latitude":42.56889,
+    "geom:longitude":20.29139,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Lebushe e Vogel",
+    "gn:country_code":"XK",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":855504,
+    "gn:latitude":42.56889,
+    "gn:longitude":20.29139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"L\u00ebbush\u00eb e Vog\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809529,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":855504
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"9494ba196084e052f52cbca3252ddd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809529,
+            "locality_id":1225975249,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1225975249,
+    "wof:lastmodified":1536825929,
+    "wof:name":"Lebushe e Vogel",
+    "wof:parent_id":1108809529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29139,
+    42.56889,
+    20.29139,
+    42.56889
+],
+  "geometry": {"coordinates":[20.29139,42.56889],"type":"Point"}
+}

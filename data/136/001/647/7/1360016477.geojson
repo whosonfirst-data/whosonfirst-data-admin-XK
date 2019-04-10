@@ -1,0 +1,77 @@
+{
+  "id": 1360016477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7875,42.43972,20.7875,42.43972",
+    "geom:latitude":42.43972,
+    "geom:longitude":20.7875,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Kodrali",
+    "gn:country_code":"XK",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860137,
+    "gn:latitude":42.43972,
+    "gn:longitude":20.7875,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kodrali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kodrali"
+    ],
+    "name:srp_x_preferred":[
+        "Kodralji"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0434\u0440\u0430\u043b\u0438\u0458\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809533,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860137
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0268876414d83b9a4bdbe95b3d27654f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809533,
+            "locality_id":1360016477,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1360016477,
+    "wof:lastmodified":1537715038,
+    "wof:name":"Kodrali",
+    "wof:parent_id":1108809533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7875,
+    42.43972,
+    20.7875,
+    42.43972
+],
+  "geometry": {"coordinates":[20.7875,42.43972],"type":"Point"}
+}

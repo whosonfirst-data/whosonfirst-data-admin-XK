@@ -1,0 +1,86 @@
+{
+  "id": 1360118525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12892,42.98933,21.12892,42.98933",
+    "geom:latitude":42.98933,
+    "geom:longitude":21.12892,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Revuq",
+    "gn:country_code":"XK",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786325,
+    "gn:latitude":42.98933,
+    "gn:longitude":21.12892,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Revuq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Revu\u00e7"
+    ],
+    "name:sqi_x_variant":[
+        "Revuq",
+        "Revuq\u00eb",
+        "Revuqi"
+    ],
+    "name:srp_x_preferred":[
+        "Revu\u0107e"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0435\u0432\u0443\u045b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Revuqi",
+        "Revuq\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786325
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"483db2d72290e0123672ea155e17fb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1360118525,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1360118525,
+    "wof:lastmodified":1537714807,
+    "wof:name":"Revuq",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12892,
+    42.98933,
+    21.12892,
+    42.98933
+],
+  "geometry": {"coordinates":[21.12892,42.98933],"type":"Point"}
+}

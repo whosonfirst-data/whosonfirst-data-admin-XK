@@ -1,0 +1,79 @@
+{
+  "id": 1360016167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35361,42.75833,20.35361,42.75833",
+    "geom:latitude":42.75833,
+    "geom:longitude":20.35361,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Kalicani",
+    "gn:country_code":"XK",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789671,
+    "gn:latitude":42.75833,
+    "gn:longitude":20.35361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kali\u00e7ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kali\u00e7an"
+    ],
+    "name:sqi_x_variant":[
+        "Kaliqan",
+        "Kali\u00e7ani"
+    ],
+    "name:und_x_variant":[
+        "Kali\u00e7ani",
+        "Kaligan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789671
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"aa956f1c7ce23ce0eb6f57069dcf29ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1360016167,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1360016167,
+    "wof:lastmodified":1537714879,
+    "wof:name":"Kalicani",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35361,
+    42.75833,
+    20.35361,
+    42.75833
+],
+  "geometry": {"coordinates":[20.35361,42.75833],"type":"Point"}
+}

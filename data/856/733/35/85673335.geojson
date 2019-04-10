@@ -1,0 +1,131 @@
+{
+  "id": 85673335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.033199,
+    "geom:area_square_m":303569674.116363,
+    "geom:bbox":"21.231068188,42.2150212613,21.4880243941,42.4273869768",
+    "geom:latitude":42.311388,
+    "geom:longitude":21.358374,
+    "gn:id":"",
+    "iso:country":"XK",
+    "lbl:latitude":42.308195,
+    "lbl:longitude":21.355926,
+    "mps:latitude":42.308195,
+    "mps:longitude":21.355926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u062a\u064a\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Vitia"
+    ],
+    "name:eng_x_preferred":[
+        "Kosovsko Pomoravlje"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Vitina"
+    ],
+    "name:hbs_x_preferred":[
+        "Vitina"
+    ],
+    "name:hrv_x_preferred":[
+        "Vitina"
+    ],
+    "name:ita_x_preferred":[
+        "Vitina"
+    ],
+    "name:lit_x_preferred":[
+        "Vitina"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0442\u0438\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Viti"
+    ],
+    "name:pol_x_preferred":[
+        "Vitina"
+    ],
+    "name:ron_x_preferred":[
+        "Vitia"
+    ],
+    "name:sqi_x_preferred":[
+        "Vitia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0442\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Viti"
+    ],
+    "name:und_x_preferred":[
+        "Kosovsko-Pomoravski"
+    ],
+    "name:und_x_variant":[
+        "Kosovsko-Pomoravski Okrug"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u8482\u7d0d"
+    ],
+    "qs:a0":"Kosovo",
+    "qs:a0_lc":"-1",
+    "qs:a1":"Vitina",
+    "qs:a1_lc":"KOS-5905",
+    "qs:a1r":"Gnjilane",
+    "qs:adm0":"Kosovo",
+    "qs:adm0_a3":"KOS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":565,
+    "wof:belongsto":[
+        102191581,
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389218,
+        "qs:id":379846,
+        "wd:id":"Q1021775"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"2a280c5b5f8ffad96bca008f021ba774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "region_id":85673335
+        }
+    ],
+    "wof:id":85673335,
+    "wof:lastmodified":1529540259,
+    "wof:name":"Vitina",
+    "wof:parent_id":85633259,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23106818804649,
+    42.21502126132219,
+    21.48802439411054,
+    42.42738697682756
+],
+  "geometry": {"coordinates":[[[21.48151005144774,42.24778411924177],[21.47197316472983,42.23913027953881],[21.4675574134439,42.23512339333001],[21.45722212749922,42.23703542124775],[21.44792036942954,42.24414093145884],[21.43634484823622,42.24687978257595],[21.41991174333236,42.24005849230565],[21.4214620360442,42.2313510134386],[21.42869673746452,42.2225660202057],[21.42983361812702,42.21584808452155],[21.419084920133,42.21502126132219],[21.38425500466479,42.22494313611691],[21.36678837098657,42.22385793049915],[21.36060206503333,42.22011423358504],[21.3603813012561,42.22049815506585],[21.33290287946437,42.2387759799276],[21.30629741969022,42.24061083881924],[21.27143509265545,42.24978513507597],[21.24574706187747,42.27547316585395],[21.24849935156385,42.29198689947589],[21.26593051508127,42.31400521157133],[21.26226079639866,42.32317950782806],[21.24442701989108,42.3171271127261],[21.23106818804649,42.32960151529772],[21.23106818804649,42.3497849676022],[21.28703139638191,42.35437211618029],[21.27519721398028,42.40174514782035],[21.30581098808671,42.41544749640491],[21.3418659690393,42.42738697682756],[21.35212270100192,42.40943769589302],[21.37007198103714,42.40174514782035],[21.38770601452103,42.38754051977924],[21.40853472409827,42.3632824038599],[21.44186910207748,42.35815403877791],[21.45212583314071,42.337640575752],[21.46238256510333,42.31969129481746],[21.4752034791573,42.30430619777286],[21.48802439411054,42.27866436876565],[21.48151005144774,42.24778411924177]]],"type":"Polygon"}
+}

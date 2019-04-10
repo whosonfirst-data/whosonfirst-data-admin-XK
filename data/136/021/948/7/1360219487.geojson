@@ -1,0 +1,93 @@
+{
+  "id": 1360219487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82639,42.57917,20.82639,42.57917",
+    "geom:latitude":42.57917,
+    "geom:longitude":20.82639,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Negrovc",
+    "gn:country_code":"XK",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787708,
+    "gn:latitude":42.57917,
+    "gn:longitude":20.82639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Negrovc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Negrovc"
+    ],
+    "name:sqi_x_variant":[
+        "Negrovci",
+        "Negroc",
+        "Fatosi"
+    ],
+    "name:srp_x_preferred":[
+        "Negrovce"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0435\u0433\u0440\u043e\u0432\u0446\u0435",
+        "Bujub Mahala"
+    ],
+    "name:und_x_variant":[
+        "Bujub Mahala",
+        "Negroci",
+        "Fatos",
+        "Negroc",
+        "Fatosi",
+        "Negrovci",
+        "Grejkovc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809545,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787708,
+        "wk:page":"Negroc"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6365bed2d659bbd5f190521d350ba081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809545,
+            "locality_id":1360219487,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1360219487,
+    "wof:lastmodified":1537714834,
+    "wof:name":"Negrovc",
+    "wof:parent_id":1108809545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82639,
+    42.57917,
+    20.82639,
+    42.57917
+],
+  "geometry": {"coordinates":[20.82639,42.57917],"type":"Point"}
+}

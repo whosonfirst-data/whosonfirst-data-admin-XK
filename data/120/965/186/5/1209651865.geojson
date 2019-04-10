@@ -1,0 +1,77 @@
+{
+  "id": 1209651865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07694,42.79915,21.07694,42.79915",
+    "geom:latitude":42.79915,
+    "geom:longitude":21.07694,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Lug Dubnica",
+    "gn:country_code":"XK",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":832796,
+    "gn:latitude":42.79915,
+    "gn:longitude":21.07694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Lug Dubnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dumnic\u00eb e Llug\u00ebs"
+    ],
+    "name:sqi_x_variant":[
+        "Lluga",
+        "Dumenica e Llugave"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0433 \u0414\u0443\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Lug",
+        "\u041b\u0443\u0433",
+        "Lug Dubnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832796
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"fb2afbe2a3978e6868e767ec531bc516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209651865
+        }
+    ],
+    "wof:id":1209651865,
+    "wof:lastmodified":1537715031,
+    "wof:name":"Lug Dubnica",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07694,
+    42.79915,
+    21.07694,
+    42.79915
+],
+  "geometry": {"coordinates":[21.07694,42.79915],"type":"Point"}
+}

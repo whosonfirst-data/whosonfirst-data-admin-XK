@@ -1,0 +1,81 @@
+{
+  "id": 1243400167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90694,43.01417,20.90694,43.01417",
+    "geom:latitude":43.01417,
+    "geom:longitude":20.90694,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ovcare",
+    "gn:country_code":"XK",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830261,
+    "gn:latitude":43.01417,
+    "gn:longitude":20.90694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ov\u010dare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ov\u00e7are"
+    ],
+    "name:sqi_x_variant":[
+        "Ofqar",
+        "Of\u00e7ar"
+    ],
+    "name:srp_x_preferred":[
+        "Ov\u010dare"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0432\u0447\u0430\u0440\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830261
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8bbb8e850d1723acb2eceef2d56b5b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1243400167,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1243400167,
+    "wof:lastmodified":1537714987,
+    "wof:name":"Ovcare",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90694,
+    43.01417,
+    20.90694,
+    43.01417
+],
+  "geometry": {"coordinates":[20.90694,43.01417],"type":"Point"}
+}

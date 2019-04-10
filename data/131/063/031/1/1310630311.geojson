@@ -1,0 +1,88 @@
+{
+  "id": 1310630311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74806,42.38583,20.74806,42.38583",
+    "geom:latitude":42.38583,
+    "geom:longitude":20.74806,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Dobrodeljane",
+    "gn:country_code":"XK",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791433,
+    "gn:latitude":42.38583,
+    "gn:longitude":20.74806,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Dobrodeljane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dob\u00ebrodelan"
+    ],
+    "name:sqi_x_variant":[
+        "Dobrodelan",
+        "Dob\u00ebrdelan",
+        "Dob\u00ebrdolan"
+    ],
+    "name:srp_x_preferred":[
+        "Dobrodeljane"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u0434\u0435\u0459\u0430\u043d\u0435",
+        "Dobrodoljane"
+    ],
+    "name:und_x_variant":[
+        "Bobradolan",
+        "Dobrodoljane",
+        "Dob\u00ebrdolan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791433
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"80508baca93fd05a1af8f1ba488c64cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1310630311,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1310630311,
+    "wof:lastmodified":1537714931,
+    "wof:name":"Dobrodeljane",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74806,
+    42.38583,
+    20.74806,
+    42.38583
+],
+  "geometry": {"coordinates":[20.74806,42.38583],"type":"Point"}
+}

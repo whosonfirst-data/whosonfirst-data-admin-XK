@@ -1,0 +1,87 @@
+{
+  "id": 1293231545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50472,42.40417,20.50472,42.40417",
+    "geom:latitude":42.40417,
+    "geom:longitude":20.50472,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Bardosan",
+    "gn:country_code":"XK",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792878,
+    "gn:latitude":42.40417,
+    "gn:longitude":20.50472,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Bardosan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bardhasan"
+    ],
+    "name:sqi_x_variant":[
+        "Bardosan\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u043e\u0441\u0430\u043d"
+    ],
+    "name:srp_x_variant":[
+        "Bardosan"
+    ],
+    "name:und_x_variant":[
+        "Brdasan",
+        "Bardusan",
+        "Brdosan",
+        "Bardosan\u00eb",
+        "Berdosan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792878
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"475791850185df49f8537924b8b0c7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1293231545,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1293231545,
+    "wof:lastmodified":1537714959,
+    "wof:name":"Bardosan",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50472,
+    42.40417,
+    20.50472,
+    42.40417
+],
+  "geometry": {"coordinates":[20.50472,42.40417],"type":"Point"}
+}

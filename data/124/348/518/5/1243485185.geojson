@@ -1,0 +1,82 @@
+{
+  "id": 1243485185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73556,42.12417,20.73556,42.12417",
+    "geom:latitude":42.12417,
+    "geom:longitude":20.73556,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Blaq",
+    "gn:country_code":"XK",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792540,
+    "gn:latitude":42.12417,
+    "gn:longitude":20.73556,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Blaq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Blas"
+    ],
+    "name:sqi_x_variant":[
+        "Bla\u00e7",
+        "Blaq"
+    ],
+    "name:srp_x_preferred":[
+        "Blja\u010d"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0459\u0430\u0447"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809493,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792540,
+        "wk:page":"Bla%C3%A7i"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ddab04d8bcdbc9a83a87ebb969a0ce2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809493,
+            "locality_id":1243485185,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1243485185,
+    "wof:lastmodified":1537714952,
+    "wof:name":"Blaq",
+    "wof:parent_id":1108809493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73556,
+    42.12417,
+    20.73556,
+    42.12417
+],
+  "geometry": {"coordinates":[20.73556,42.12417],"type":"Point"}
+}

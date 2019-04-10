@@ -1,0 +1,77 @@
+{
+  "id": 1310240787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79944,43.06194,20.79944,43.06194",
+    "geom:latitude":43.06194,
+    "geom:longitude":20.79944,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Pridvorica",
+    "gn:country_code":"XK",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786745,
+    "gn:latitude":43.06194,
+    "gn:longitude":20.79944,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Pridvorica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Pridvoric\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Pridvorica"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0434\u0432\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786745
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f6ace1fb66fa79c42a13edc34724bfd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1310240787,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1310240787,
+    "wof:lastmodified":1537714815,
+    "wof:name":"Pridvorica",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79944,
+    43.06194,
+    20.79944,
+    43.06194
+],
+  "geometry": {"coordinates":[20.79944,43.06194],"type":"Point"}
+}

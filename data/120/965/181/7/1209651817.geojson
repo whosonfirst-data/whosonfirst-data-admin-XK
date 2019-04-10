@@ -1,0 +1,71 @@
+{
+  "id": 1209651817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52139,42.67694,21.52139,42.67694",
+    "geom:latitude":42.67694,
+    "geom:longitude":21.52139,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Kremenata",
+    "gn:country_code":"XK",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789068,
+    "gn:latitude":42.67694,
+    "gn:longitude":21.52139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kremenata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kremenat\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Kremenata"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0430\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789068
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"885f5e00c8efe79b1c6bc6d10fa2095e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209651817
+        }
+    ],
+    "wof:id":1209651817,
+    "wof:lastmodified":1537714867,
+    "wof:name":"Kremenata",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52139,
+    42.67694,
+    21.52139,
+    42.67694
+],
+  "geometry": {"coordinates":[21.52139,42.67694],"type":"Point"}
+}

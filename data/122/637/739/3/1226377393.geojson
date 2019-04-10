@@ -1,0 +1,80 @@
+{
+  "id": 1226377393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49417,42.38861,20.49417,42.38861",
+    "geom:latitude":42.38861,
+    "geom:longitude":20.49417,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Rezina",
+    "gn:country_code":"XK",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830489,
+    "gn:latitude":42.38861,
+    "gn:longitude":20.49417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Rezina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Rezin\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Rrezin\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Rezina"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830489
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"df24e647a34fe11a9bdaee0b973a442b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1226377393,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1226377393,
+    "wof:lastmodified":1537715004,
+    "wof:name":"Rezina",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49417,
+    42.38861,
+    20.49417,
+    42.38861
+],
+  "geometry": {"coordinates":[20.49417,42.38861],"type":"Point"}
+}

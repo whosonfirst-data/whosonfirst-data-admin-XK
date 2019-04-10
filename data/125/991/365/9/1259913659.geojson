@@ -1,0 +1,84 @@
+{
+  "id": 1259913659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20056,42.51,21.20056,42.51",
+    "geom:latitude":42.51,
+    "geom:longitude":21.20056,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Smolusa",
+    "gn:country_code":"XK",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785730,
+    "gn:latitude":42.51,
+    "gn:longitude":21.20056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Smolu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Smallush\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0443\u0448\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Smolu\u0161a",
+        "Smalu\u0161a",
+        "Smolu\u0161"
+    ],
+    "name:und_x_variant":[
+        "Smallush\u00eb",
+        "Smalu\u0161a",
+        "Smolu\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809575,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785730
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"cf3dac4457c996d28e174a61a022442b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809575,
+            "locality_id":1259913659,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1259913659,
+    "wof:lastmodified":1537714794,
+    "wof:name":"Smolusa",
+    "wof:parent_id":1108809575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20056,
+    42.51,
+    21.20056,
+    42.51
+],
+  "geometry": {"coordinates":[21.20056,42.51],"type":"Point"}
+}

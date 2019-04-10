@@ -1,0 +1,80 @@
+{
+  "id": 1259619607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31667,42.75944,20.31667,42.75944",
+    "geom:latitude":42.75944,
+    "geom:longitude":20.31667,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Jabllanice e Madhe",
+    "gn:country_code":"XK",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784652,
+    "gn:latitude":42.75944,
+    "gn:longitude":20.31667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Jabllanic\u00eb e Madhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Jabllanica e Madhe"
+    ],
+    "name:sqi_x_variant":[
+        "Jabllanic\u00eb e Madhe",
+        "Jablanice e Madhe",
+        "Jablanic\u00eb"
+    ],
+    "name:und_x_variant":[
+        "Jablanic\u00eb",
+        "Jablanice e Madhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784652
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a9d8e3f42aa53ba57b5bfaff5f7e57e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1259619607,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1259619607,
+    "wof:lastmodified":1537714774,
+    "wof:name":"Jabllanice e Madhe",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31667,
+    42.75944000000001,
+    20.31667,
+    42.75944000000001
+],
+  "geometry": {"coordinates":[20.31667,42.75944000000001],"type":"Point"}
+}

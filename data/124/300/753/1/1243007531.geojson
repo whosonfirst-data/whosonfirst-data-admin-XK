@@ -1,0 +1,87 @@
+{
+  "id": 1243007531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5375,42.27556,20.5375,42.27556",
+    "geom:latitude":42.27556,
+    "geom:longitude":20.5375,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Kushnin",
+    "gn:country_code":"XK",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788839,
+    "gn:latitude":42.27556,
+    "gn:longitude":20.5375,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kushnin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kushnin"
+    ],
+    "name:sqi_x_variant":[
+        "Kushnik",
+        "Kushin"
+    ],
+    "name:srp_x_preferred":[
+        "Ku\u0161nin"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u0448\u043d\u0438\u043d",
+        "Ku\u0161neni"
+    ],
+    "name:und_x_variant":[
+        "Ku\u0161neni",
+        "Kushnik",
+        "Kushin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809499,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788839
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f1c3ee8d36aff6e35c8d9263b1179471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809499,
+            "locality_id":1243007531,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1243007531,
+    "wof:lastmodified":1537714861,
+    "wof:name":"Kushnin",
+    "wof:parent_id":1108809499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5375,
+    42.27556,
+    20.5375,
+    42.27556
+],
+  "geometry": {"coordinates":[20.5375,42.27556],"type":"Point"}
+}

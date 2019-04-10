@@ -1,0 +1,71 @@
+{
+  "id": 1260113991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11778,42.26389,21.11778,42.26389",
+    "geom:latitude":42.26389,
+    "geom:longitude":21.11778,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Elez Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859760,
+    "gn:latitude":42.26389,
+    "gn:longitude":21.11778,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Elez Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Elez Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859760
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a26abed2410c3193a8ec7c8cb8ee53b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1260113991,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1260113991,
+    "wof:lastmodified":1537715036,
+    "wof:name":"Elez Mahala",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11778,
+    42.26389,
+    21.11778,
+    42.26389
+],
+  "geometry": {"coordinates":[21.11778,42.26389],"type":"Point"}
+}

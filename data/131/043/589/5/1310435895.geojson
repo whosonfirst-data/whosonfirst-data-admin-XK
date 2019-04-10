@@ -1,0 +1,84 @@
+{
+  "id": 1310435895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60667,42.91889,20.60667,42.91889",
+    "geom:latitude":42.91889,
+    "geom:longitude":20.60667,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Ceceve",
+    "gn:country_code":"XK",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792024,
+    "gn:latitude":42.91889,
+    "gn:longitude":20.60667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"\u00c7e\u00e7ev\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "\u00c7eqev\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "\u00c7e\u00e7ev\u00eb",
+        "\u00c7eqov\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u010ce\u010devo"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0435\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "\u00c7eqov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792024
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"fc0cf232ededd3cb01f08772b537f057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1310435895,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1310435895,
+    "wof:lastmodified":1537714942,
+    "wof:name":"Ceceve",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60667,
+    42.91889000000001,
+    20.60667,
+    42.91889000000001
+],
+  "geometry": {"coordinates":[20.60667,42.91889000000001],"type":"Point"}
+}

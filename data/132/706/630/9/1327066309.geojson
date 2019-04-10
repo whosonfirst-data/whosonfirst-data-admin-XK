@@ -1,0 +1,83 @@
+{
+  "id": 1327066309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54833,42.45361,21.54833,42.45361",
+    "geom:latitude":42.45361,
+    "geom:longitude":21.54833,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Capar",
+    "gn:country_code":"XK",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786101,
+    "gn:latitude":42.45361,
+    "gn:longitude":21.54833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Capar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Capar"
+    ],
+    "name:sqi_x_variant":[
+        "Capari"
+    ],
+    "name:srp_x_preferred":[
+        "Sapar"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u043f\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Capari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809535,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786101
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"9f4ea8842b1766a3070f6af439fc616e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809535,
+            "locality_id":1327066309,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1327066309,
+    "wof:lastmodified":1537714801,
+    "wof:name":"Capar",
+    "wof:parent_id":1108809535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54833,
+    42.45361,
+    21.54833,
+    42.45361
+],
+  "geometry": {"coordinates":[21.54833,42.45361],"type":"Point"}
+}

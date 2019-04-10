@@ -1,0 +1,80 @@
+{
+  "id": 1343989349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81028,42.93639,20.81028,42.93639",
+    "geom:latitude":42.93639,
+    "geom:longitude":20.81028,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Sendo",
+    "gn:country_code":"XK",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830317,
+    "gn:latitude":42.93639,
+    "gn:longitude":20.81028,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sendo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Send\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Sendoj\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Sendo"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u043d\u0434\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830317
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"55ea397bc4418c2a43b37a3a662cda0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1343989349,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1343989349,
+    "wof:lastmodified":1537714992,
+    "wof:name":"Sendo",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81028,
+    42.93639,
+    20.81028,
+    42.93639
+],
+  "geometry": {"coordinates":[20.81028,42.93639],"type":"Point"}
+}

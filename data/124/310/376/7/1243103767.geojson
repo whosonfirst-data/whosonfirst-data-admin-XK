@@ -1,0 +1,71 @@
+{
+  "id": 1243103767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89083,43.11972,20.89083,43.11972",
+    "geom:latitude":43.11972,
+    "geom:longitude":20.89083,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Strzin",
+    "gn:country_code":"XK",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830943,
+    "gn:latitude":43.11972,
+    "gn:longitude":20.89083,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Str\u017ein",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Str\u017ein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830943
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8e70083c18532532b3159f5683bb2aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1243103767,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1243103767,
+    "wof:lastmodified":1537715022,
+    "wof:name":"Strzin",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89083,
+    43.11972,
+    20.89083,
+    43.11972
+],
+  "geometry": {"coordinates":[20.89083,43.11972],"type":"Point"}
+}

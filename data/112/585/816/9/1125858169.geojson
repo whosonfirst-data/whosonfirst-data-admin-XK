@@ -1,0 +1,232 @@
+{
+  "id": 1125858169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86667,42.88333,20.86667,42.88333",
+    "geom:latitude":42.88333,
+    "geom:longitude":20.86667,
+    "gn:gn_country":"XK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":107045,
+    "gn:population":107045,
+    "iso:country":"XK",
+    "lbl:latitude":42.88333,
+    "lbl:longitude":20.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a\u0631\u0648\u0641\u064a\u062a\u0633\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u057d\u0578\u057e\u057d\u056f\u0561 \u0544\u056b\u057f\u0580\u0578\u057e\u056b\u0581\u0561"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u045e\u0441\u043a\u0430-\u041c\u0456\u0442\u0440\u0430\u0432\u0456\u0446\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u7d22\u6c83\u7c73\u7279\u7f57\u7ef4\u5bdf"
+    ],
+    "name:cze_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:dan_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:deu_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:dut_x_preferred":[
+        "Mitrovic\u00eb"
+    ],
+    "name:eng_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:eng_x_variant":[
+        "Mitrovica"
+    ],
+    "name:epo_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:est_x_preferred":[
+        "Mitrovic\u00eb"
+    ],
+    "name:fin_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:fre_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:ger_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:gle_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:glg_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03cc\u03c3\u03bf\u03b2\u03c3\u03ba\u03b1 \u039c\u03b9\u03c4\u03c1\u03cc\u03b2\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d8\u05e8\u05d5\u05d1\u05d9\u05e6\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:hun_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:ile_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:ita_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c8\u30ed\u30f4\u30a3\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\uc18c\ube0c\uc2a4\uce74\ubbf8\ud2b8\ub85c\ube44\ucc28"
+    ],
+    "name:lat_x_preferred":[
+        "Civitas Sancti Demetrii"
+    ],
+    "name:lit_x_preferred":[
+        "Kosovo Mitrovica"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:nob_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:nor_x_preferred":[
+        "Mitrovic\u00eb"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0441\u043a\u00e6-\u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u00e6"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u0633\u0648\u0641\u0633\u06a9\u0627 \u0645\u062a\u0631\u0648\u0648\u06cc\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kosowska Mitrowica"
+    ],
+    "name:por_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:rum_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0441\u043a\u0430-\u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:slv_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:spa_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:sqi_x_preferred":[
+        "Mitrovic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:szl_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Mitrovi\u00e7a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0441\u044c\u043a\u0430 \u041c\u0456\u0442\u0440\u043e\u0432\u0456\u0446\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062a\u0631\u0648\u0648\u06cc\u062a\u0633\u0627\u060c \u06a9\u0648\u0633\u0648\u0648\u06c1"
+    ],
+    "qs_pg:aaroncc":"XK",
+    "qs_pg:gn_country":"XK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":789225,
+    "qs_pg:gn_pop":107045,
+    "qs_pg:name":"Mitrovic\u00eb",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":129571,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789225,
+        "qs_pg:id":129571,
+        "wd:id":"Q178168"
+    },
+    "wof:country":"XK",
+    "wof:created":1497293709,
+    "wof:geomhash":"42ab100d20f364d8b64dd32621cfeb9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1125858169,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1125858169,
+    "wof:lastmodified":1514502944,
+    "wof:name":"Mitrovic\u00eb",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:population":107045,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86667,
+    42.88333,
+    20.86667,
+    42.88333
+],
+  "geometry": {"coordinates":[20.86667,42.88333],"type":"Point"}
+}

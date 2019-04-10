@@ -1,0 +1,82 @@
+{
+  "id": 1243103591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15278,42.76694,21.15278,42.76694",
+    "geom:latitude":42.76694,
+    "geom:longitude":21.15278,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Vrani Do",
+    "gn:country_code":"XK",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784233,
+    "gn:latitude":42.76694,
+    "gn:longitude":21.15278,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vrani Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Vranidoll"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u0438 \u0414\u043e"
+    ],
+    "name:srp_x_variant":[
+        "Vrani Do"
+    ],
+    "name:und_x_variant":[
+        "Vranidoll",
+        "Vrani Dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809557,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784233,
+        "wk:page":"Vranidoll"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f6c338ce7243186e262e63cf2a4223ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809557,
+            "locality_id":1243103591,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1243103591,
+    "wof:lastmodified":1537714767,
+    "wof:name":"Vrani Do",
+    "wof:parent_id":1108809557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15278,
+    42.76694000000001,
+    21.15278,
+    42.76694000000001
+],
+  "geometry": {"coordinates":[21.15278,42.76694000000001],"type":"Point"}
+}

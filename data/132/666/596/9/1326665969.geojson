@@ -1,0 +1,83 @@
+{
+  "id": 1326665969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44778,42.52528,20.44778,42.52528",
+    "geom:latitude":42.52528,
+    "geom:longitude":20.44778,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Bardhaniq",
+    "gn:country_code":"XK",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830169,
+    "gn:latitude":42.52528,
+    "gn:longitude":20.44778,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Bardhaniq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bardhaniq"
+    ],
+    "name:sqi_x_variant":[
+        "Bordeni\u00e7"
+    ],
+    "name:srp_x_preferred":[
+        "Bardoni\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0440\u0434\u043e\u043d\u0438\u045b"
+    ],
+    "name:und_x_variant":[
+        "Bordeni\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830169
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bd65de4c1079b966dac8de6f5f4fc53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1326665969,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1326665969,
+    "wof:lastmodified":1537714980,
+    "wof:name":"Bardhaniq",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44778,
+    42.52528,
+    20.44778,
+    42.52528
+],
+  "geometry": {"coordinates":[20.44778,42.52528],"type":"Point"}
+}

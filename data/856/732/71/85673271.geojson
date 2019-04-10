@@ -1,0 +1,113 @@
+{
+  "id": 85673271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.014815,
+    "geom:area_square_m":134043052.421332,
+    "geom:bbox":"20.6172733975,42.8889398963,20.8700563176,43.0522569795",
+    "geom:latitude":42.969034,
+    "geom:longitude":20.764774,
+    "gn:id":"",
+    "iso:country":"XK",
+    "lbl:latitude":42.968168,
+    "lbl:longitude":20.773391,
+    "mps:latitude":42.968168,
+    "mps:longitude":20.773391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:deu_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:eng_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0686\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:fra_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:hrv_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:ita_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:lit_x_preferred":[
+        "Zve\u010danas"
+    ],
+    "name:nld_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:pol_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:spa_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:und_x_preferred":[
+        "Kosovsko-Mitrovachki"
+    ],
+    "name:und_x_variant":[
+        "Kosovsko-Mitrovachki Okrug"
+    ],
+    "qs:a0":"Kosovo",
+    "qs:a0_lc":"-1",
+    "qs:a1":"Zve\u010dan",
+    "qs:a1_lc":"KOS-5892",
+    "qs:a1r":"Kosovska Mitrovica",
+    "qs:adm0":"Kosovo",
+    "qs:adm0_a3":"KOS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":853,
+    "wof:belongsto":[
+        102191581,
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389207,
+        "qs:id":1290502,
+        "wd:id":"Q62172"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bbdd392dc992fe3d0fa8b12bfb0ffd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "region_id":85673271
+        }
+    ],
+    "wof:id":85673271,
+    "wof:lastmodified":1529540255,
+    "wof:name":"Zve\u010dan",
+    "wof:parent_id":85633259,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6172733975493,
+    42.88893989625927,
+    20.87005631764498,
+    43.05225697947606
+],
+  "geometry": {"coordinates":[[[20.81364429454862,42.97099374836284],[20.83928612355578,42.95048028533694],[20.87005631764498,42.93765937128302],[20.86749213465436,42.90945335928518],[20.85723540359106,42.88893989625927],[20.83159357458385,42.89406826224058],[20.79056664853204,42.89663244523121],[20.77005318550613,42.91201754227581],[20.74184717350829,42.94535192025495],[20.72133371048238,42.96330120029023],[20.72902625945437,42.97868629733483],[20.70851279552915,42.99407139437938],[20.66748586947733,43.01458485740528],[20.6172733975493,43.02212961898675],[20.64383508282287,43.05225697947606],[20.68287096742125,43.0453550523938],[20.70338443044716,43.02740577235858],[20.74441135649897,43.02740577235858],[20.77518155148744,43.01458485740528],[20.7982591966047,43.00176394335136],[20.80595174557664,42.98381466331614],[20.81364429454862,42.97099374836284]]],"type":"Polygon"}
+}

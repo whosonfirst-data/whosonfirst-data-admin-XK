@@ -1,0 +1,84 @@
+{
+  "id": 1276795687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36972,42.73972,20.36972,42.73972",
+    "geom:latitude":42.73972,
+    "geom:longitude":20.36972,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Arbane",
+    "gn:country_code":"XK",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":787385,
+    "gn:latitude":42.73972,
+    "gn:longitude":20.36972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Arban\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Orob\u00ebrd\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Ornb\u00ebrd\u00eb",
+        "Orob\u00ebrda",
+        "Orrob\u00ebrda",
+        "Arban\u00eb"
+    ],
+    "name:und_x_variant":[
+        "Orrob\u00ebrda",
+        "Arban\u00eb",
+        "Orob\u00ebrda",
+        "Arban-a",
+        "Ornb\u00ebrd\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787385
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0b590ab9085bccb9a1769f3e72795c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1276795687,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1276795687,
+    "wof:lastmodified":1537714827,
+    "wof:name":"Arbane",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36972,
+    42.73972,
+    20.36972,
+    42.73972
+],
+  "geometry": {"coordinates":[20.36972,42.73972],"type":"Point"}
+}

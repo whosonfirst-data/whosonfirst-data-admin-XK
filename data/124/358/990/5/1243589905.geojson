@@ -1,0 +1,79 @@
+{
+  "id": 1243589905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38056,42.505,21.38056,42.505",
+    "geom:latitude":42.505,
+    "geom:longitude":21.38056,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Sosivarci",
+    "gn:country_code":"XK",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830473,
+    "gn:latitude":42.505,
+    "gn:longitude":21.38056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"\u0160o\u0161ivarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160o\u0161ivarci"
+    ],
+    "name:srp_x_variant":[
+        "\u0160a\u0161ivarci",
+        "\u0160a\u0161warci"
+    ],
+    "name:und_x_variant":[
+        "\u0160a\u0161warci",
+        "\u0160a\u0161ivarci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809535,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830473
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"555e2d8a19dd52864035ca5675853130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809535,
+            "locality_id":1243589905,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1243589905,
+    "wof:lastmodified":1537715003,
+    "wof:name":"Sosivarci",
+    "wof:parent_id":1108809535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38056,
+    42.505,
+    21.38056,
+    42.505
+],
+  "geometry": {"coordinates":[21.38056,42.505],"type":"Point"}
+}

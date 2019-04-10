@@ -1,0 +1,71 @@
+{
+  "id": 1226785433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.765,42.63583,21.765,42.63583",
+    "geom:latitude":42.63583,
+    "geom:longitude":21.765,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Gagicka Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830761,
+    "gn:latitude":42.63583,
+    "gn:longitude":21.765,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gagi\u010dka Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gagi\u010dka Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830761
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"12b07beedac9941661a04812d202c73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1226785433,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1226785433,
+    "wof:lastmodified":1537715020,
+    "wof:name":"Gagicka Mahala",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.765,
+    42.63583,
+    21.765,
+    42.63583
+],
+  "geometry": {"coordinates":[21.765,42.63583],"type":"Point"}
+}

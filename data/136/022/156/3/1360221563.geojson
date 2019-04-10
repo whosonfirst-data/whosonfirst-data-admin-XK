@@ -1,0 +1,88 @@
+{
+  "id": 1360221563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91917,42.32556,20.91917,42.32556",
+    "geom:latitude":42.32556,
+    "geom:longitude":20.91917,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Vraniq",
+    "gn:country_code":"XK",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784238,
+    "gn:latitude":42.32556,
+    "gn:longitude":20.91917,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vraniq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Vrani\u00e7"
+    ],
+    "name:sqi_x_variant":[
+        "Vraniq",
+        "Uraniq"
+    ],
+    "name:srp_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0430\u043d\u0438\u045b",
+        "Vrani\u0107e",
+        "Vrani\u0107i"
+    ],
+    "name:und_x_variant":[
+        "Uraniq",
+        "Vrani\u0107e",
+        "Vrani\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784238
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bdaacbdc1bc7ae955e2add757a5747c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1360221563,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1360221563,
+    "wof:lastmodified":1537714767,
+    "wof:name":"Vraniq",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91917,
+    42.32556,
+    20.91917,
+    42.32556
+],
+  "geometry": {"coordinates":[20.91917,42.32556],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1226273011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87333,42.80944,20.87333,42.80944",
+    "geom:latitude":42.80944,
+    "geom:longitude":20.87333,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Oshlan",
+    "gn:country_code":"XK",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787362,
+    "gn:latitude":42.80944,
+    "gn:longitude":20.87333,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Oshlan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Oshlan"
+    ],
+    "name:sqi_x_variant":[
+        "Ashlan"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0448\u0459\u0430\u043d\u0435"
+    ],
+    "name:srp_x_variant":[
+        "O\u0161ljane"
+    ],
+    "name:und_x_variant":[
+        "Ashlan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787362
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8591449345194ec045ef4262724436f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1226273011,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1226273011,
+    "wof:lastmodified":1537714826,
+    "wof:name":"Oshlan",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87333,
+    42.80944,
+    20.87333,
+    42.80944
+],
+  "geometry": {"coordinates":[20.87333,42.80944],"type":"Point"}
+}

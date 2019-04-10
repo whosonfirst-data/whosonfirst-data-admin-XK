@@ -1,0 +1,87 @@
+{
+  "id": 1343298211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62611,42.50694,21.62611,42.50694",
+    "geom:latitude":42.50694,
+    "geom:longitude":21.62611,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"37.0",
+    "gn:asciiname":"Donje Korminjane",
+    "gn:country_code":"XK",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791237,
+    "gn:latitude":42.50694,
+    "gn:longitude":21.62611,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donje Korminjane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kormnjani i Ult\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Kormnjan i Posht\u00ebm",
+        "Kormnjan i Ul\u00ebt",
+        "Kormnjani i Posht\u00ebm",
+        "Kormiani i Posht\u00ebm"
+    ],
+    "name:srp_x_preferred":[
+        "Donje Korminjane"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0435 \u041a\u043e\u0440\u043c\u0438\u045a\u0430\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kormiani i Posht\u00ebm",
+        "Kormnjani i Posht\u00ebm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809579,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791237
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a6f039811d8feabc2de3577fb61efd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809579,
+            "locality_id":1343298211,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1343298211,
+    "wof:lastmodified":1537714922,
+    "wof:name":"Donje Korminjane",
+    "wof:parent_id":1108809579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62611,
+    42.50694,
+    21.62611,
+    42.50694
+],
+  "geometry": {"coordinates":[21.62611,42.50694],"type":"Point"}
+}

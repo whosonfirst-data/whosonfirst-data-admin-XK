@@ -1,0 +1,74 @@
+{
+  "id": 1226176117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95028,42.49806,20.95028,42.49806",
+    "geom:latitude":42.49806,
+    "geom:longitude":20.95028,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Oluri",
+    "gn:country_code":"XK",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860122,
+    "gn:latitude":42.49806,
+    "gn:longitude":20.95028,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Oluri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0443\u0440\u0438"
+    ],
+    "name:srp_x_variant":[
+        "Oluri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809575,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860122
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"15cd19de7c1a12a80acf0b617ef87a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809575,
+            "locality_id":1226176117,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1226176117,
+    "wof:lastmodified":1537715037,
+    "wof:name":"Oluri",
+    "wof:parent_id":1108809575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95028,
+    42.49806,
+    20.95028,
+    42.49806
+],
+  "geometry": {"coordinates":[20.95028,42.49806],"type":"Point"}
+}

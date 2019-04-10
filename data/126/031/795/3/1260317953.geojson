@@ -1,0 +1,85 @@
+{
+  "id": 1260317953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75472,42.57028,20.75472,42.57028",
+    "geom:latitude":42.57028,
+    "geom:longitude":20.75472,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Mleqan",
+    "gn:country_code":"XK",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787886,
+    "gn:latitude":42.57028,
+    "gn:longitude":20.75472,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mleqan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mleqan"
+    ],
+    "name:sqi_x_variant":[
+        "Me\u00e7an"
+    ],
+    "name:srp_x_preferred":[
+        "Mle\u010dane"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u043b\u0435\u0447\u0430\u043d\u0435",
+        "Mle\u010dan"
+    ],
+    "name:und_x_variant":[
+        "Me\u00e7an",
+        "Mle\u010dan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809533,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787886
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bcfc884a3a466fe979c5b65fecd8090f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809533,
+            "locality_id":1260317953,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1260317953,
+    "wof:lastmodified":1537714839,
+    "wof:name":"Mleqan",
+    "wof:parent_id":1108809533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75472,
+    42.57028,
+    20.75472,
+    42.57028
+],
+  "geometry": {"coordinates":[20.75472,42.57028],"type":"Point"}
+}

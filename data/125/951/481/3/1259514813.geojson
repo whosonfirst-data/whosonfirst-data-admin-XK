@@ -1,0 +1,84 @@
+{
+  "id": 1259514813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52944,42.76139,20.52944,42.76139",
+    "geom:latitude":42.76139,
+    "geom:longitude":20.52944,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Dubrava",
+    "gn:country_code":"XK",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833428,
+    "gn:latitude":42.76139,
+    "gn:longitude":20.52944,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Dubrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Dubrav\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Drejan\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Dubrava"
+    ],
+    "name:und_x_variant":[
+        "Drejana",
+        "Drejan\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833428
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"41e9b9d2a435dc9f4ef2eac7ea58b7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1259514813,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1259514813,
+    "wof:lastmodified":1537715033,
+    "wof:name":"Dubrava",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52944,
+    42.76139000000001,
+    20.52944,
+    42.76139000000001
+],
+  "geometry": {"coordinates":[20.52944,42.76139000000001],"type":"Point"}
+}

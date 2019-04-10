@@ -1,0 +1,83 @@
+{
+  "id": 1193170857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6725,42.81417,20.6725,42.81417",
+    "geom:latitude":42.81417,
+    "geom:longitude":20.6725,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Banja",
+    "gn:country_code":"XK",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792927,
+    "gn:latitude":42.81417,
+    "gn:longitude":20.6725,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Banja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Banj\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Baj\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u045a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Banja"
+    ],
+    "name:und_x_variant":[
+        "Baj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809553,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792927
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a35dfa6b13532368c7477359862177f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809553,
+            "locality_id":1193170857,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1193170857,
+    "wof:lastmodified":1537714961,
+    "wof:name":"Banja",
+    "wof:parent_id":1108809553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6725,
+    42.81417,
+    20.6725,
+    42.81417
+],
+  "geometry": {"coordinates":[20.6725,42.81417],"type":"Point"}
+}

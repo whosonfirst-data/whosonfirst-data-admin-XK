@@ -1,0 +1,89 @@
+{
+  "id": 1327467765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49694,42.69583,21.49694,42.69583",
+    "geom:latitude":42.69583,
+    "geom:longitude":21.49694,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Gragjenik",
+    "gn:country_code":"XK",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790245,
+    "gn:latitude":42.69583,
+    "gn:longitude":21.49694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gragjenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gragjenik"
+    ],
+    "name:sqi_x_variant":[
+        "Gardhenik",
+        "Gragjeniku",
+        "Gardheshi",
+        "Gardhesh"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0452\u0435\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Gra\u0111enik"
+    ],
+    "name:und_x_variant":[
+        "Gragjeniku",
+        "Gardhesh",
+        "Gardhenik",
+        "Gardheshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790245
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"76744d4a3bf47670d5f5ab7c1b7decf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1327467765,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1327467765,
+    "wof:lastmodified":1537714892,
+    "wof:name":"Gragjenik",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49694,
+    42.69583,
+    21.49694,
+    42.69583
+],
+  "geometry": {"coordinates":[21.49694,42.69583],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1293726099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63444,42.11194,20.63444,42.11194",
+    "geom:latitude":42.11194,
+    "geom:longitude":20.63444,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Buce",
+    "gn:country_code":"XK",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792204,
+    "gn:latitude":42.11194,
+    "gn:longitude":20.63444,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Bu\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bu\u00e7e"
+    ],
+    "name:sqi_x_variant":[
+        "Buqe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0447\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Bu\u010de",
+        "Bu\u010da"
+    ],
+    "name:und_x_variant":[
+        "Buqe",
+        "Bu\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809493,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792204
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"e0a70778dff6d180c9d20b0b08adc3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809493,
+            "locality_id":1293726099,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1293726099,
+    "wof:lastmodified":1537714946,
+    "wof:name":"Buce",
+    "wof:parent_id":1108809493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63444,
+    42.11194,
+    20.63444,
+    42.11194
+],
+  "geometry": {"coordinates":[20.63444,42.11194],"type":"Point"}
+}

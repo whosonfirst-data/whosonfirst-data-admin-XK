@@ -1,0 +1,87 @@
+{
+  "id": 1226681251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64056,42.58667,21.64056,42.58667",
+    "geom:latitude":42.58667,
+    "geom:longitude":21.64056,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Kolloleq",
+    "gn:country_code":"XK",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789359,
+    "gn:latitude":42.58667,
+    "gn:longitude":21.64056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kolloleq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kolloleq"
+    ],
+    "name:sqi_x_variant":[
+        "Kollole\u00e7",
+        "Kolloleqi",
+        "Kollole\u00e7i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043b\u0435\u0447"
+    ],
+    "name:srp_x_variant":[
+        "Kolole\u010d"
+    ],
+    "name:und_x_variant":[
+        "Kolloleqi",
+        "Kollole\u00e7",
+        "Kollole\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789359
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1dc88ec9e21ae701d2502a981600abe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1226681251,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1226681251,
+    "wof:lastmodified":1537714874,
+    "wof:name":"Kolloleq",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64056,
+    42.58667,
+    21.64056,
+    42.58667
+],
+  "geometry": {"coordinates":[21.64056,42.58667],"type":"Point"}
+}

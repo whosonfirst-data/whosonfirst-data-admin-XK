@@ -1,0 +1,77 @@
+{
+  "id": 1309936211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77361,43.01944,20.77361,43.01944",
+    "geom:latitude":43.01944,
+    "geom:longitude":20.77361,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Danovici",
+    "gn:country_code":"XK",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830804,
+    "gn:latitude":43.01944,
+    "gn:longitude":20.77361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Danovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Danovi\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "Danovi\u0107"
+    ],
+    "name:und_x_variant":[
+        "Danovi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830804
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d5fbb410795828cd7210f04911462b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1309936211,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1309936211,
+    "wof:lastmodified":1537715022,
+    "wof:name":"Danovici",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77361,
+    43.01944,
+    20.77361,
+    43.01944
+],
+  "geometry": {"coordinates":[20.77361,43.01944],"type":"Point"}
+}

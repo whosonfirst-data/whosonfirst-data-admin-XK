@@ -1,0 +1,71 @@
+{
+  "id": 1226778149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55639,42.19417,20.55639,42.19417",
+    "geom:latitude":42.19417,
+    "geom:longitude":20.55639,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Raskaj",
+    "gn:country_code":"XK",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860322,
+    "gn:latitude":42.19417,
+    "gn:longitude":20.55639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ra\u0161kaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ra\u0161kaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809499,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860322
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"7c75fc19a6abf3f15b781d59f543915c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809499,
+            "locality_id":1226778149,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1226778149,
+    "wof:lastmodified":1537715039,
+    "wof:name":"Raskaj",
+    "wof:parent_id":1108809499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55639,
+    42.19417,
+    20.55639,
+    42.19417
+],
+  "geometry": {"coordinates":[20.55639,42.19417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327268535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56639,42.30583,20.56639,42.30583",
+    "geom:latitude":42.30583,
+    "geom:longitude":20.56639,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Morselj",
+    "gn:country_code":"XK",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832522,
+    "gn:latitude":42.30583,
+    "gn:longitude":20.56639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Morselj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Morselj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809499,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832522
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"677cd5aebafda692e115fc811200c2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809499,
+            "locality_id":1327268535,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1327268535,
+    "wof:lastmodified":1537715029,
+    "wof:name":"Morselj",
+    "wof:parent_id":1108809499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56639,
+    42.30583,
+    20.56639,
+    42.30583
+],
+  "geometry": {"coordinates":[20.56639,42.30583],"type":"Point"}
+}

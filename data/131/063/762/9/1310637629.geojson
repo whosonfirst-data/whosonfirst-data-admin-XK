@@ -1,0 +1,90 @@
+{
+  "id": 1310637629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28389,42.61583,20.28389,42.61583",
+    "geom:latitude":42.61583,
+    "geom:longitude":20.28389,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Zagerma",
+    "gn:country_code":"XK",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784033,
+    "gn:latitude":42.61583,
+    "gn:longitude":20.28389,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Zagerma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zagrmle"
+    ],
+    "name:sqi_x_variant":[
+        "Zag\u00ebrm",
+        "Zg\u00ebrmle",
+        "Rrezina",
+        "Zag\u00ebrma",
+        "Zag\u00ebrm\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Zagrmlje"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0433\u0440\u043c\u0459\u0435"
+    ],
+    "name:und_x_variant":[
+        "Rrezina",
+        "Zag\u00ebrma",
+        "Zg\u00ebrmle",
+        "Zag\u00ebrm\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784033
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"55c4782d8829c6c7c480ce508e124a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1310637629,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1310637629,
+    "wof:lastmodified":1537714761,
+    "wof:name":"Zagerma",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28389,
+    42.61583,
+    20.28389,
+    42.61583
+],
+  "geometry": {"coordinates":[20.28389,42.61583],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1210050683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81778,43.18667,20.81778,43.18667",
+    "geom:latitude":43.18667,
+    "geom:longitude":20.81778,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Zemanica",
+    "gn:country_code":"XK",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830094,
+    "gn:latitude":43.18667,
+    "gn:longitude":20.81778,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Zemanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zemanic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Zernanic\u00eb",
+        "Z\u00ebrnelic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Zemanica"
+    ],
+    "name:und_x_variant":[
+        "Zeman",
+        "Z\u00ebrnelic\u00eb",
+        "Zernanic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830094
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"47b9559ff1d907d9b3021181b0dbf43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1210050683,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1210050683,
+    "wof:lastmodified":1537714976,
+    "wof:name":"Zemanica",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81778,
+    43.18667,
+    20.81778,
+    43.18667
+],
+  "geometry": {"coordinates":[20.81778,43.18667],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1293518181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68722,43.17917,20.68722,43.17917",
+    "geom:latitude":43.17917,
+    "geom:longitude":20.68722,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Rvatska",
+    "gn:country_code":"XK",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786164,
+    "gn:latitude":43.17917,
+    "gn:longitude":20.68722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Rvatska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "R\u00ebvatsk\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Rvatsk\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Rvatska"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0432\u0430\u0442\u0441\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rvacka",
+        "Rvatsk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786164
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"17f7adb396273b422a07ddcb4604fa97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1293518181,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293518181,
+    "wof:lastmodified":1537714804,
+    "wof:name":"Rvatska",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68722,
+    43.17917,
+    20.68722,
+    43.17917
+],
+  "geometry": {"coordinates":[20.68722,43.17917],"type":"Point"}
+}

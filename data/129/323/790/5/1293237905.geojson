@@ -1,0 +1,87 @@
+{
+  "id": 1293237905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46222,42.6775,21.46222,42.6775",
+    "geom:latitude":42.6775,
+    "geom:longitude":21.46222,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Kriljevo",
+    "gn:country_code":"XK",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789054,
+    "gn:latitude":42.6775,
+    "gn:longitude":21.46222,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kriljevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Krilev\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Kryelum",
+        "Kryelumi"
+    ],
+    "name:srp_x_preferred":[
+        "Kriljevo"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0438\u0459\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Krljevo",
+        "Krileva",
+        "Kryelum",
+        "Kryelumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789054
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"7686bb8420ac22812b2c127cf01f99ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1293237905,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1293237905,
+    "wof:lastmodified":1537714867,
+    "wof:name":"Kriljevo",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46222,
+    42.6775,
+    21.46222,
+    42.6775
+],
+  "geometry": {"coordinates":[21.46222,42.6775],"type":"Point"}
+}

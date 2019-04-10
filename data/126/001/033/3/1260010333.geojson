@@ -1,0 +1,77 @@
+{
+  "id": 1260010333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70222,42.94861,20.70222,42.94861",
+    "geom:latitude":42.94861,
+    "geom:longitude":20.70222,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Kobilja Glava",
+    "gn:country_code":"XK",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789409,
+    "gn:latitude":42.94861,
+    "gn:longitude":20.70222,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kobilja Glava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kobillogllav\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Kobilja Glava"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0431\u0438\u0459\u0430 \u0413\u043b\u0430\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789409
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d60fa84b1a4a9c0e1e103330a7d125c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1260010333,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1260010333,
+    "wof:lastmodified":1537714876,
+    "wof:name":"Kobilja Glava",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70222,
+    42.94861,
+    20.70222,
+    42.94861
+],
+  "geometry": {"coordinates":[20.70222,42.94861],"type":"Point"}
+}

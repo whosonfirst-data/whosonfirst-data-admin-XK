@@ -1,0 +1,80 @@
+{
+  "id": 1360020577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09917,42.52167,21.09917,42.52167",
+    "geom:latitude":42.52167,
+    "geom:longitude":21.09917,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mali Alas",
+    "gn:country_code":"XK",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788278,
+    "gn:latitude":42.52167,
+    "gn:longitude":21.09917,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mali Ala\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Alashi i Vog\u00ebl"
+    ],
+    "name:sqi_x_variant":[
+        "Hallaq i Vog\u00ebl"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0410\u043b\u0430\u0448"
+    ],
+    "name:srp_x_variant":[
+        "Mali Ala\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809575,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788278
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6f623e2085d2f086a1e692cb32725bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809575,
+            "locality_id":1360020577,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1360020577,
+    "wof:lastmodified":1537714847,
+    "wof:name":"Mali Alas",
+    "wof:parent_id":1108809575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09917,
+    42.52167,
+    21.09917,
+    42.52167
+],
+  "geometry": {"coordinates":[21.09917,42.52167],"type":"Point"}
+}

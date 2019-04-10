@@ -1,0 +1,83 @@
+{
+  "id": 1360118389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00639,42.55167,21.00639,42.55167",
+    "geom:latitude":42.55167,
+    "geom:longitude":21.00639,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Medvece",
+    "gn:country_code":"XK",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788058,
+    "gn:latitude":42.55167,
+    "gn:longitude":21.00639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Medvece",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Medvec"
+    ],
+    "name:sqi_x_variant":[
+        "Metefc"
+    ],
+    "name:srp_x_preferred":[
+        "Medvece"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0434\u0432\u0435\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Metefc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809575,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788058
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"cacb3872b7bc0afe2e08b0bd156304b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809575,
+            "locality_id":1360118389,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1360118389,
+    "wof:lastmodified":1537714842,
+    "wof:name":"Medvece",
+    "wof:parent_id":1108809575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00639,
+    42.55167,
+    21.00639,
+    42.55167
+],
+  "geometry": {"coordinates":[21.00639,42.55167],"type":"Point"}
+}

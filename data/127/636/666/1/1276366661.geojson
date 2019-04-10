@@ -1,0 +1,82 @@
+{
+  "id": 1276366661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66417,43.02972,20.66417,43.02972",
+    "geom:latitude":43.02972,
+    "geom:longitude":20.66417,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Zarevi",
+    "gn:country_code":"XK",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783998,
+    "gn:latitude":43.02972,
+    "gn:longitude":20.66417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"\u017darevi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zharev\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u0440\u0435\u0432\u0438"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0430\u0440\u0435\u0432\u0435",
+        "\u017darevi",
+        "\u017dareve"
+    ],
+    "name:und_x_variant":[
+        "\u017dareve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783998
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"35e3f559ff9213bd3fadb224295dd33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1276366661,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1276366661,
+    "wof:lastmodified":1537714760,
+    "wof:name":"Zarevi",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66417,
+    43.02972000000001,
+    20.66417,
+    43.02972000000001
+],
+  "geometry": {"coordinates":[20.66417,43.02972000000001],"type":"Point"}
+}

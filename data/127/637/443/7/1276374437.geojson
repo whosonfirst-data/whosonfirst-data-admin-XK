@@ -1,0 +1,90 @@
+{
+  "id": 1276374437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19654,42.81116,21.19654,42.81116",
+    "geom:latitude":42.81116,
+    "geom:longitude":21.19654,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Belo Polje",
+    "gn:country_code":"XK",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792702,
+    "gn:latitude":42.81116,
+    "gn:longitude":21.19654,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Belo Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bellopoj\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Bellopoja",
+        "Dardhisht\u00eb",
+        "Dardhishta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Belo Polje",
+        "Gornje Belopolje"
+    ],
+    "name:und_x_variant":[
+        "Gornje Belopolje",
+        "Bellopoj\u00eb",
+        "Dardhisht\u00eb",
+        "Bellopoja",
+        "Dardhishta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792702
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8f6ac8253959e864440097292ec1fa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1276374437,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1276374437,
+    "wof:lastmodified":1537714955,
+    "wof:name":"Belo Polje",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19654,
+    42.81116,
+    21.19654,
+    42.81116
+],
+  "geometry": {"coordinates":[21.19654,42.81116],"type":"Point"}
+}

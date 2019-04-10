@@ -1,0 +1,76 @@
+{
+  "id": 1293237219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08167,42.6975,20.08167,42.6975",
+    "geom:latitude":42.6975,
+    "geom:longitude":20.08167,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Kuqishte",
+    "gn:country_code":"XK",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":788931,
+    "gn:latitude":42.6975,
+    "gn:longitude":20.08167,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kuqishte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u045b\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kuqisht\u00eb",
+        "Ku\u00e7isht\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788931,
+        "wk:page":"Kuqisht%C3%AB"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"be136f33fec9b7b85abd97973a5c84eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1293237219,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1293237219,
+    "wof:lastmodified":1537714863,
+    "wof:name":"Kuqishte",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08167000000001,
+    42.6975,
+    20.08167000000001,
+    42.6975
+],
+  "geometry": {"coordinates":[20.08167000000001,42.6975],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209646041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65694,42.9925,20.65694,42.9925",
+    "geom:latitude":42.9925,
+    "geom:longitude":20.65694,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Rancice",
+    "gn:country_code":"XK",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786481,
+    "gn:latitude":42.9925,
+    "gn:longitude":20.65694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ran\u010di\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ran\u00e7iq"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043d\u0447\u0438\u045b\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0438\u0447\u0438\u045b\u0435",
+        "Ran\u010di\u0107e",
+        "Rai\u010di\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Rai\u010di\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786481
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"23a5a2f7999e8ce462b9653ab4b9afb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209646041
+        }
+    ],
+    "wof:id":1209646041,
+    "wof:lastmodified":1537714810,
+    "wof:name":"Rancice",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65694,
+    42.9925,
+    20.65694,
+    42.9925
+],
+  "geometry": {"coordinates":[20.65694,42.9925],"type":"Point"}
+}

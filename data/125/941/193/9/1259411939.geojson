@@ -1,0 +1,77 @@
+{
+  "id": 1259411939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91722,42.89278,20.91722,42.89278",
+    "geom:latitude":42.89278,
+    "geom:longitude":20.91722,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Strana",
+    "gn:country_code":"XK",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830465,
+    "gn:latitude":42.89278,
+    "gn:longitude":20.91722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Strana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Stran\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Strana"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0440\u0430\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830465
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"353513b255d20bb24bda7cd7bcf43b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1259411939,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1259411939,
+    "wof:lastmodified":1537715002,
+    "wof:name":"Strana",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91722,
+    42.89278,
+    20.91722,
+    42.89278
+],
+  "geometry": {"coordinates":[20.91722,42.89278],"type":"Point"}
+}

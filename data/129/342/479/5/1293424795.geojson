@@ -1,0 +1,80 @@
+{
+  "id": 1293424795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75972,42.99444,20.75972,42.99444",
+    "geom:latitude":42.99444,
+    "geom:longitude":20.75972,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Jankov Potok",
+    "gn:country_code":"XK",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830263,
+    "gn:latitude":42.99444,
+    "gn:longitude":20.75972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Jankov Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Potok i Jankut"
+    ],
+    "name:sqi_x_variant":[
+        "Potoku i Jankut"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043d\u043a\u043e\u0432 \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Jankov Potok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830263
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"108ff513a43e83d6abd25c43ded9c3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1293424795,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293424795,
+    "wof:lastmodified":1537714987,
+    "wof:name":"Jankov Potok",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75972,
+    42.99444,
+    20.75972,
+    42.99444
+],
+  "geometry": {"coordinates":[20.75972,42.99444],"type":"Point"}
+}

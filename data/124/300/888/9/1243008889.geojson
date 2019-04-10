@@ -1,0 +1,88 @@
+{
+  "id": 1243008889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41639,42.32722,21.41639,42.32722",
+    "geom:latitude":42.32722,
+    "geom:longitude":21.41639,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Grncar",
+    "gn:country_code":"XK",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790138,
+    "gn:latitude":42.32722,
+    "gn:longitude":21.41639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Grncar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "G\u00ebrnqar"
+    ],
+    "name:sqi_x_variant":[
+        "Grncar",
+        "G\u00ebrn\u00e7ar",
+        "G\u00ebr\u00e7ar"
+    ],
+    "name:srp_x_preferred":[
+        "Grn\u010dar"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u043d\u0447\u0430\u0440",
+        "\u0413\u0440\u043d\u0447\u0430\u0440\u0435",
+        "Grn\u010dare"
+    ],
+    "name:und_x_variant":[
+        "G\u00ebr\u00e7ar",
+        "Grn\u010dare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809507,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790138
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6950b37206390acd6aef9b678617a957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809507,
+            "locality_id":1243008889,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1243008889,
+    "wof:lastmodified":1537714888,
+    "wof:name":"Grncar",
+    "wof:parent_id":1108809507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41639,
+    42.32722,
+    21.41639,
+    42.32722
+],
+  "geometry": {"coordinates":[21.41639,42.32722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309936541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91556,42.56306,20.91556,42.56306",
+    "geom:latitude":42.56306,
+    "geom:longitude":20.91556,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Zogici",
+    "gn:country_code":"XK",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831995,
+    "gn:latitude":42.56306,
+    "gn:longitude":20.91556,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Zogi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zogi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809545,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831995
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"ba9bcba7a3cf2fca254f14a26e36a1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809545,
+            "locality_id":1309936541,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1309936541,
+    "wof:lastmodified":1537715024,
+    "wof:name":"Zogici",
+    "wof:parent_id":1108809545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91556,
+    42.56306,
+    20.91556,
+    42.56306
+],
+  "geometry": {"coordinates":[20.91556,42.56306],"type":"Point"}
+}

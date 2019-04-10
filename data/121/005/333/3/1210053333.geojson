@@ -1,0 +1,91 @@
+{
+  "id": 1210053333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25912,42.91489,21.25912,42.91489",
+    "geom:latitude":42.91489,
+    "geom:longitude":21.25912,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Mirovac",
+    "gn:country_code":"XK",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787913,
+    "gn:latitude":42.91489,
+    "gn:longitude":21.25912,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mirovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Miroc"
+    ],
+    "name:sqi_x_variant":[
+        "Mirofc",
+        "Mirovc",
+        "Mirofci",
+        "Mirosh",
+        "Miroshi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:srp_x_variant":[
+        "Mirovac"
+    ],
+    "name:und_x_variant":[
+        "Miroshi",
+        "Mirosh",
+        "Mirofci",
+        "Mirovce",
+        "Mirovc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787913
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8340f3e54ba83f9434e9271be5fa1d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1210053333,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1210053333,
+    "wof:lastmodified":1537714840,
+    "wof:name":"Mirovac",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25912000000001,
+    42.91489,
+    21.25912000000001,
+    42.91489
+],
+  "geometry": {"coordinates":[21.25912000000001,42.91489],"type":"Point"}
+}

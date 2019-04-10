@@ -1,0 +1,74 @@
+{
+  "id": 1259916923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21618,42.98033,21.21618,42.98033",
+    "geom:latitude":42.98033,
+    "geom:longitude":21.21618,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Mahalla Dudoviqa",
+    "gn:country_code":"XK",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8217141,
+    "gn:latitude":42.98033,
+    "gn:longitude":21.21618,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mahalla Dudoviqa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mahalla Dudoviqa"
+    ],
+    "name:srp_x_preferred":[
+        "Dudovi\u0107a Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217141
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f5118999c9fb716fd6a6aa63ebdc5102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1259916923,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1259916923,
+    "wof:lastmodified":1537715041,
+    "wof:name":"Mahalla Dudoviqa",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21618,
+    42.98033,
+    21.21618,
+    42.98033
+],
+  "geometry": {"coordinates":[21.21618,42.98033],"type":"Point"}
+}

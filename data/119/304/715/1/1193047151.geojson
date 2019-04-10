@@ -1,0 +1,80 @@
+{
+  "id": 1193047151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62667,42.93167,20.62667,42.93167",
+    "geom:latitude":42.93167,
+    "geom:longitude":20.62667,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Rezala",
+    "gn:country_code":"XK",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786323,
+    "gn:latitude":42.93167,
+    "gn:longitude":20.62667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Rezala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Rezall\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0437\u0430\u043b\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Rezala"
+    ],
+    "name:und_x_variant":[
+        "Rezall\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786323
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b878f45367dcaa18c9e5e8e3dee51f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1193047151,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1193047151,
+    "wof:lastmodified":1537714807,
+    "wof:name":"Rezala",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62667,
+    42.93167,
+    20.62667,
+    42.93167
+],
+  "geometry": {"coordinates":[20.62667,42.93167],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 890492825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42611,42.60139,21.42611,42.60139",
+    "geom:latitude":42.60139,
+    "geom:longitude":21.42611,
+    "gn:country":"XK",
+    "gn:fcode":"PPL",
+    "gn:pop":288,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u0430\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Bostane"
+    ],
+    "name:eng_x_preferred":[
+        "Bostane"
+    ],
+    "name:fre_x_preferred":[
+        "Bostane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u0430\u043d\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Bostane"
+    ],
+    "name:swe_x_preferred":[
+        "Bostane"
+    ],
+    "name:unk_x_variant":[
+        "Bostani"
+    ],
+    "qs:name":"Bostane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809543,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792409,
+        "gp:id":535662,
+        "qs:id":129660,
+        "wd:id":"Q15710469"
+    },
+    "wof:country":"XK",
+    "wof:created":1469054908,
+    "wof:geomhash":"5716c75d87e69a68cc7967035c0d7dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809543,
+            "locality_id":890492825,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":890492825,
+    "wof:lastmodified":1514502938,
+    "wof:name":"Bostane",
+    "wof:parent_id":1108809543,
+    "wof:placetype":"locality",
+    "wof:population":288,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42611,
+    42.60139,
+    21.42611,
+    42.60139
+],
+  "geometry": {"coordinates":[21.42611,42.60139],"type":"Point"}
+}

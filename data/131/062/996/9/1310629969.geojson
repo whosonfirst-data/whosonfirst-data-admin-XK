@@ -1,0 +1,83 @@
+{
+  "id": 1310629969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70333,42.11111,20.70333,42.11111",
+    "geom:latitude":42.11111,
+    "geom:longitude":20.70333,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Buzec",
+    "gn:country_code":"XK",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829499,
+    "gn:latitude":42.11111,
+    "gn:longitude":20.70333,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Buzec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Buzez"
+    ],
+    "name:sqi_x_variant":[
+        "Buz\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0437\u0435\u0446"
+    ],
+    "name:srp_x_variant":[
+        "Buzec"
+    ],
+    "name:und_x_variant":[
+        "Buz\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809493,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829499
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8572524638e5b395113d6f3ff8fab7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809493,
+            "locality_id":1310629969,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1310629969,
+    "wof:lastmodified":1537714965,
+    "wof:name":"Buzec",
+    "wof:parent_id":1108809493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70333,
+    42.11111,
+    20.70333,
+    42.11111
+],
+  "geometry": {"coordinates":[20.70333,42.11111],"type":"Point"}
+}

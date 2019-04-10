@@ -1,0 +1,86 @@
+{
+  "id": 1343989099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03211,42.86637,21.03211,42.86637",
+    "geom:latitude":42.86637,
+    "geom:longitude":21.03211,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Skocna",
+    "gn:country_code":"XK",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785843,
+    "gn:latitude":42.86637,
+    "gn:longitude":21.03211,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sko\u010dna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Sko\u00e7an"
+    ],
+    "name:sqi_x_variant":[
+        "Skocan",
+        "Sko\u00e7n\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u043e\u0447\u043d\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Sko\u010dna",
+        "Sko\u010dina"
+    ],
+    "name:und_x_variant":[
+        "Sko\u010dina",
+        "Sko\u00e7n\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785843
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"2c91cf44a216d1f276c6e9f3c3d18a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1343989099,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1343989099,
+    "wof:lastmodified":1537714797,
+    "wof:name":"Skocna",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03211,
+    42.86637,
+    21.03211,
+    42.86637
+],
+  "geometry": {"coordinates":[21.03211,42.86637],"type":"Point"}
+}

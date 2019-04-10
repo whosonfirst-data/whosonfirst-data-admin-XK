@@ -1,0 +1,77 @@
+{
+  "id": 1343296111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25139,42.20056,21.25139,42.20056",
+    "geom:latitude":42.20056,
+    "geom:longitude":21.25139,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Gajre",
+    "gn:country_code":"XK",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790788,
+    "gn:latitude":42.20056,
+    "gn:longitude":21.25139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gajre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gajr\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0458\u0440\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Gajre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809505,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790788
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6b01e37471346127fb2265cf2c2ddd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809505,
+            "locality_id":1343296111,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1343296111,
+    "wof:lastmodified":1537714908,
+    "wof:name":"Gajre",
+    "wof:parent_id":1108809505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25139,
+    42.20056,
+    21.25139,
+    42.20056
+],
+  "geometry": {"coordinates":[21.25139,42.20056],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1360321127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47083,42.30472,21.47083,42.30472",
+    "geom:latitude":42.30472,
+    "geom:longitude":21.47083,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Vrnovo Kolo",
+    "gn:country_code":"XK",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784145,
+    "gn:latitude":42.30472,
+    "gn:longitude":21.47083,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vrnovo Kolo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "V\u00ebrnakolla"
+    ],
+    "name:sqi_x_variant":[
+        "V\u00ebrnavokoll\u00eb",
+        "V\u00ebrnakoll\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Vrnovo Kolo"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u043d\u043e\u0432\u043e \u041a\u043e\u043b\u043e",
+        "Vrnavokolo",
+        "\u0412\u0440\u043d\u0430\u0432\u043e\u043a\u043e\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vrnaokolo",
+        "Vrnavo Kolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809519,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784145
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"43020f73572cc4bff68439e9121e7d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809519,
+            "locality_id":1360321127,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1360321127,
+    "wof:lastmodified":1537714764,
+    "wof:name":"Vrnovo Kolo",
+    "wof:parent_id":1108809519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47083,
+    42.30472,
+    21.47083,
+    42.30472
+],
+  "geometry": {"coordinates":[21.47083,42.30472],"type":"Point"}
+}

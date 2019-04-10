@@ -1,0 +1,71 @@
+{
+  "id": 1326864481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13111,42.26472,21.13111,42.26472",
+    "geom:latitude":42.26472,
+    "geom:longitude":21.13111,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Emrla-Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830354,
+    "gn:latitude":42.26472,
+    "gn:longitude":21.13111,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Emrla-Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Emrla-Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830354
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"85c5bdfe9b443d893c12739453e594cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1326864481,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1326864481,
+    "wof:lastmodified":1537714995,
+    "wof:name":"Emrla-Mahala",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13111,
+    42.26472,
+    21.13111,
+    42.26472
+],
+  "geometry": {"coordinates":[21.13111,42.26472],"type":"Point"}
+}

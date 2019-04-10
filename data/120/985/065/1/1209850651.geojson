@@ -1,0 +1,71 @@
+{
+  "id": 1209850651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67417,42.72917,20.67417,42.72917",
+    "geom:latitude":42.72917,
+    "geom:longitude":20.67417,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Vragodol",
+    "gn:country_code":"XK",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":832307,
+    "gn:latitude":42.72917,
+    "gn:longitude":20.67417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vragodol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vragodol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809553,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832307
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"520512d27c97c2616b592562430542fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809553,
+            "locality_id":1209850651,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1209850651,
+    "wof:lastmodified":1537715027,
+    "wof:name":"Vragodol",
+    "wof:parent_id":1108809553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67417,
+    42.72917,
+    20.67417,
+    42.72917
+],
+  "geometry": {"coordinates":[20.67417,42.72917],"type":"Point"}
+}

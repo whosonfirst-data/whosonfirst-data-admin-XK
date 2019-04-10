@@ -1,0 +1,81 @@
+{
+  "id": 1293031329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30361,42.70111,20.30361,42.70111",
+    "geom:latitude":42.70111,
+    "geom:longitude":20.30361,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Brestovik",
+    "gn:country_code":"XK",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792303,
+    "gn:latitude":42.70111,
+    "gn:longitude":20.30361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Brestovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Brestoviku"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "Brestovik"
+    ],
+    "name:und_x_variant":[
+        "Gurina",
+        "Brestoviku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792303
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a9c0a1fb6052fddf0dbfd65eac5c40bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1293031329,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1293031329,
+    "wof:lastmodified":1537714948,
+    "wof:name":"Brestovik",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30361,
+    42.70111,
+    20.30361,
+    42.70111
+],
+  "geometry": {"coordinates":[20.30361,42.70111],"type":"Point"}
+}

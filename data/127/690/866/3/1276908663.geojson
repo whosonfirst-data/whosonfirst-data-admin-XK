@@ -1,0 +1,80 @@
+{
+  "id": 1276908663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86583,43.01056,20.86583,43.01056",
+    "geom:latitude":43.01056,
+    "geom:longitude":20.86583,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Bistrica",
+    "gn:country_code":"XK",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792588,
+    "gn:latitude":43.01056,
+    "gn:longitude":20.86583,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Bistrica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bistric\u00eb e Shal\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "Bistrica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430",
+        "\u0160aljska Bistrica",
+        "\u0428\u0430\u0459\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792588,
+        "wk:page":"%C5%A0aljska_Bistrica"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"e1cec2754e45a4c01fd4c95bad1ebb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1276908663,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1276908663,
+    "wof:lastmodified":1537714952,
+    "wof:name":"Bistrica",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86583,
+    43.01056,
+    20.86583,
+    43.01056
+],
+  "geometry": {"coordinates":[20.86583,43.01056],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209040833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41917,42.375,21.41917,42.375",
+    "geom:latitude":42.375,
+    "geom:longitude":21.41917,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Gornja Budriga",
+    "gn:country_code":"XK",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790517,
+    "gn:latitude":42.375,
+    "gn:longitude":21.41917,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gornja Budriga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Budrika e Ep\u00ebrme"
+    ],
+    "name:sqi_x_variant":[
+        "Budrik\u00eb e Ep\u00ebrme",
+        "Budriga e Ep\u00ebrme"
+    ],
+    "name:srp_x_preferred":[
+        "Gornja Budriga"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0411\u0443\u0434\u0440\u0438\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Budriga e Ep\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790517
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"71a65d0a3f0f23284343c09b8b76d580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209040833
+        }
+    ],
+    "wof:id":1209040833,
+    "wof:lastmodified":1537714902,
+    "wof:name":"Gornja Budriga",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41917,
+    42.375,
+    21.41917,
+    42.375
+],
+  "geometry": {"coordinates":[21.41917,42.375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209749475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08361,42.29417,21.08361,42.29417",
+    "geom:latitude":42.29417,
+    "geom:longitude":21.08361,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Lasarc",
+    "gn:country_code":"XK",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830360,
+    "gn:latitude":42.29417,
+    "gn:longitude":21.08361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"La\u0161arc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "La\u0161arc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830360
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0fd7e784bd960c8db3f3f6b2f93f24d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1209749475,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1209749475,
+    "wof:lastmodified":1537714995,
+    "wof:name":"Lasarc",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08361,
+    42.29417,
+    21.08361,
+    42.29417
+],
+  "geometry": {"coordinates":[21.08361,42.29417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326767113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3625,42.76833,20.3625,42.76833",
+    "geom:latitude":42.76833,
+    "geom:longitude":20.3625,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Cakutic",
+    "gn:country_code":"XK",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830732,
+    "gn:latitude":42.76833,
+    "gn:longitude":20.3625,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Cakuti\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Cakuti\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830732
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"eef7fb439e9a72487c46903460762008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1326767113,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1326767113,
+    "wof:lastmodified":1537715018,
+    "wof:name":"Cakutic",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3625,
+    42.76833,
+    20.3625,
+    42.76833
+],
+  "geometry": {"coordinates":[20.3625,42.76833],"type":"Point"}
+}

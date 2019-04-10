@@ -1,0 +1,78 @@
+{
+  "id": 1209850339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00639,42.95652,21.00639,42.95652",
+    "geom:latitude":42.95652,
+    "geom:longitude":21.00639,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Bajgora",
+    "gn:country_code":"XK",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792995,
+    "gn:latitude":42.95652,
+    "gn:longitude":21.00639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Bajgora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bajgor\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Bajgora"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0458\u0433\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792995,
+        "wk:page":"Bajgora"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4499c21132783366da42cc216ed2cb12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1209850339,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1209850339,
+    "wof:lastmodified":1537714962,
+    "wof:name":"Bajgora",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00639,
+    42.95652000000001,
+    21.00639,
+    42.95652000000001
+],
+  "geometry": {"coordinates":[21.00639,42.95652000000001],"type":"Point"}
+}

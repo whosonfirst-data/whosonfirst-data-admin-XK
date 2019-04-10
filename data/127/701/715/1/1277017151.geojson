@@ -1,0 +1,83 @@
+{
+  "id": 1277017151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03533,42.9153,21.03533,42.9153",
+    "geom:latitude":42.9153,
+    "geom:longitude":21.03533,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Kurilovo",
+    "gn:country_code":"XK",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":788856,
+    "gn:latitude":42.9153,
+    "gn:longitude":21.03533,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kurilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kurillov\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Kurilov\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Kurilovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kurilov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788856
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b3351a4e6946752a5ba6939954685b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1277017151,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1277017151,
+    "wof:lastmodified":1537714862,
+    "wof:name":"Kurilovo",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03533,
+    42.9153,
+    21.03533,
+    42.9153
+],
+  "geometry": {"coordinates":[21.03533,42.9153],"type":"Point"}
+}

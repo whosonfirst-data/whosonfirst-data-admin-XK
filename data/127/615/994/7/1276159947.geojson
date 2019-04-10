@@ -1,0 +1,81 @@
+{
+  "id": 1276159947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20722,42.67278,20.20722,42.67278",
+    "geom:latitude":42.67278,
+    "geom:longitude":20.20722,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Shtupeli i Vogel",
+    "gn:country_code":"XK",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":788235,
+    "gn:latitude":42.67278,
+    "gn:longitude":20.20722,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Shtupeli i Vog\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Shtupeq i Vog\u00ebl"
+    ],
+    "name:sqi_x_variant":[
+        "Shtupeli i Vog\u00ebl",
+        "Shtuqepi i Vog\u00ebl",
+        "Shtuqep i Vog\u00ebl"
+    ],
+    "name:und_x_variant":[
+        "Shtuqepi i Vog\u00ebl",
+        "Shtupeli i Vog\u00ebl",
+        "Shtuqep i Vog\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788235
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"7ad712d052bc979a443ea701ccfb2ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1276159947,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1276159947,
+    "wof:lastmodified":1537714847,
+    "wof:name":"Shtupeli i Vogel",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20722,
+    42.67278,
+    20.20722,
+    42.67278
+],
+  "geometry": {"coordinates":[20.20722,42.67278],"type":"Point"}
+}

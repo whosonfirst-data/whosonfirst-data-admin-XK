@@ -1,0 +1,76 @@
+{
+  "id": 1243208321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36111,42.65667,20.36111,42.65667",
+    "geom:latitude":42.65667,
+    "geom:longitude":20.36111,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Pavllan",
+    "gn:country_code":"XK",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787009,
+    "gn:latitude":42.65667,
+    "gn:longitude":20.36111,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Pavllan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Pllavlane"
+    ],
+    "name:und_x_variant":[
+        "Plakani",
+        "Pavlani",
+        "Panlan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787009
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"73745fe9c595aff4d59dc5d6060f3523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1243208321,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1243208321,
+    "wof:lastmodified":1537714821,
+    "wof:name":"Pavllan",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36111,
+    42.65667,
+    20.36111,
+    42.65667
+],
+  "geometry": {"coordinates":[20.36111,42.65667],"type":"Point"}
+}

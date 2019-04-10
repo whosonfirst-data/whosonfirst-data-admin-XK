@@ -1,0 +1,77 @@
+{
+  "id": 1243590809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81694,42.45861,20.81694,42.45861",
+    "geom:latitude":42.45861,
+    "geom:longitude":20.81694,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Belanica",
+    "gn:country_code":"XK",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792790,
+    "gn:latitude":42.45861,
+    "gn:longitude":20.81694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Belanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bellanic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Belanica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809533,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792790
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b8ae7cc4dd2136ba05f0e8c1ef4ec564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809533,
+            "locality_id":1243590809,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1243590809,
+    "wof:lastmodified":1537714957,
+    "wof:name":"Belanica",
+    "wof:parent_id":1108809533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81694,
+    42.45861,
+    20.81694,
+    42.45861
+],
+  "geometry": {"coordinates":[20.81694,42.45861],"type":"Point"}
+}

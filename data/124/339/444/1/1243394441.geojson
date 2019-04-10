@@ -1,0 +1,71 @@
+{
+  "id": 1243394441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55944,42.43139,20.55944,42.43139",
+    "geom:latitude":42.43139,
+    "geom:longitude":20.55944,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Bobovac",
+    "gn:country_code":"XK",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832437,
+    "gn:latitude":42.43139,
+    "gn:longitude":20.55944,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Bobovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bobovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809509,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832437
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"e16182feb24a48208b39aa9333198697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809509,
+            "locality_id":1243394441,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1243394441,
+    "wof:lastmodified":1537715028,
+    "wof:name":"Bobovac",
+    "wof:parent_id":1108809509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55944,
+    42.43139,
+    20.55944,
+    42.43139
+],
+  "geometry": {"coordinates":[20.55944,42.43139],"type":"Point"}
+}

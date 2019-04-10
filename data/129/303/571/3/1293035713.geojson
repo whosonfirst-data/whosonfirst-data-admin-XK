@@ -1,0 +1,74 @@
+{
+  "id": 1293035713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13835,42.89718,21.13835,42.89718",
+    "geom:latitude":42.89718,
+    "geom:longitude":21.13835,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Gornja Lapastica",
+    "gn:country_code":"XK",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8310305,
+    "gn:latitude":42.89718,
+    "gn:longitude":21.13835,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gornja Lapa\u0161tica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Llapashtic\u00eb e Ep\u00ebrme"
+    ],
+    "name:srp_x_preferred":[
+        "Gornja Lapa\u0161tica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310305
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"3cddd3427a7b1ba67fd08d5137411811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1293035713,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1293035713,
+    "wof:lastmodified":1537715042,
+    "wof:name":"Gornja Lapastica",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13835,
+    42.89718,
+    21.13835,
+    42.89718
+],
+  "geometry": {"coordinates":[21.13835,42.89718],"type":"Point"}
+}

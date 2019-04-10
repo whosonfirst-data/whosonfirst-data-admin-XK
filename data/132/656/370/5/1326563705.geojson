@@ -1,0 +1,83 @@
+{
+  "id": 1326563705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54556,42.64972,21.54556,42.64972",
+    "geom:latitude":42.64972,
+    "geom:longitude":21.54556,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Mesina",
+    "gn:country_code":"XK",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":788017,
+    "gn:latitude":42.64972,
+    "gn:longitude":21.54556,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Me\u0161ina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Meshin\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Meshina"
+    ],
+    "name:srp_x_preferred":[
+        "Me\u0161ina"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0448\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Meshina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788017
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"019a23ca8aaeed60d7e89f86f29a0d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1326563705,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1326563705,
+    "wof:lastmodified":1537714842,
+    "wof:name":"Mesina",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54556,
+    42.64972,
+    21.54556,
+    42.64972
+],
+  "geometry": {"coordinates":[21.54556,42.64972],"type":"Point"}
+}

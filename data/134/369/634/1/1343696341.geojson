@@ -1,0 +1,71 @@
+{
+  "id": 1343696341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60833,42.27222,20.60833,42.27222",
+    "geom:latitude":42.27222,
+    "geom:longitude":20.60833,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Mahala Cakaj",
+    "gn:country_code":"XK",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832508,
+    "gn:latitude":42.27222,
+    "gn:longitude":20.60833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mahala Cakaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mahala Cakaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809499,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832508
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"29421a4e6b1e515ff448e4d86134d378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809499,
+            "locality_id":1343696341,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1343696341,
+    "wof:lastmodified":1537715029,
+    "wof:name":"Mahala Cakaj",
+    "wof:parent_id":1108809499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60833,
+    42.27222,
+    20.60833,
+    42.27222
+],
+  "geometry": {"coordinates":[20.60833,42.27222],"type":"Point"}
+}

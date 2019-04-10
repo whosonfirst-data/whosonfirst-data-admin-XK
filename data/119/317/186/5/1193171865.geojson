@@ -1,0 +1,85 @@
+{
+  "id": 1193171865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77889,42.41083,20.77889,42.41083",
+    "geom:latitude":42.41083,
+    "geom:longitude":20.77889,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Breshanc",
+    "gn:country_code":"XK",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830432,
+    "gn:latitude":42.41083,
+    "gn:longitude":20.77889,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Breshanc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Breshanc"
+    ],
+    "name:sqi_x_variant":[
+        "Bresen\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Bre\u0161ance"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0435\u0448\u0430\u043d\u0446\u0435",
+        "Bre\u0161ance Mehana"
+    ],
+    "name:und_x_variant":[
+        "Bre\u0161ance Mehana",
+        "Bresen\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830432
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"594f8d1dcb8ecb84f6b2d7d81e4466a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1193171865,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1193171865,
+    "wof:lastmodified":1537715000,
+    "wof:name":"Breshanc",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77889,
+    42.41083,
+    20.77889,
+    42.41083
+],
+  "geometry": {"coordinates":[20.77889,42.41083],"type":"Point"}
+}

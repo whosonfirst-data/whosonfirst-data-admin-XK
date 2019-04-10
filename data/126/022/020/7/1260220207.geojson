@@ -1,0 +1,71 @@
+{
+  "id": 1260220207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07926,42.80702,21.07926,42.80702",
+    "geom:latitude":42.80702,
+    "geom:longitude":21.07926,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Balevic Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335666,
+    "gn:latitude":42.80702,
+    "gn:longitude":21.07926,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Balevi\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Balevi\u0107 Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335666
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"40f1615e27ff8c3626f027c9eec4c822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1260220207,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1260220207,
+    "wof:lastmodified":1537715042,
+    "wof:name":"Balevic Mahala",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07926,
+    42.80702,
+    21.07926,
+    42.80702
+],
+  "geometry": {"coordinates":[21.07926,42.80702],"type":"Point"}
+}

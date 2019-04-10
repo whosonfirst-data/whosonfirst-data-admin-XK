@@ -1,0 +1,87 @@
+{
+  "id": 1243208311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80306,43.11694,20.80306,43.11694",
+    "geom:latitude":43.11694,
+    "geom:longitude":20.80306,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Tvrgjan",
+    "gn:country_code":"XK",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784797,
+    "gn:latitude":43.11694,
+    "gn:longitude":20.80306,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Tvrgjan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Tvrgjan"
+    ],
+    "name:sqi_x_variant":[
+        "Tvardzhan"
+    ],
+    "name:srp_x_preferred":[
+        "Tvr\u0111an"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0432\u0440\u0452\u0430\u043d",
+        "Tvr\u0111ani",
+        "Tvr\u0111ane"
+    ],
+    "name:und_x_variant":[
+        "Tvardzhan",
+        "Tvr\u0111ane",
+        "Tvr\u0111ani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784797
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d484741e0f4ed6dbcb6fa71b2d0e3a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1243208311,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1243208311,
+    "wof:lastmodified":1537714777,
+    "wof:name":"Tvrgjan",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80306,
+    43.11694,
+    20.80306,
+    43.11694
+],
+  "geometry": {"coordinates":[20.80306,43.11694],"type":"Point"}
+}

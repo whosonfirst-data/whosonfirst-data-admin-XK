@@ -1,0 +1,78 @@
+{
+  "id": 1226577329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28611,42.77333,21.28611,42.77333",
+    "geom:latitude":42.77333,
+    "geom:longitude":21.28611,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Koliq",
+    "gn:country_code":"XK",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789364,
+    "gn:latitude":42.77333,
+    "gn:longitude":21.28611,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Koliq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Koliq"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u045b"
+    ],
+    "name:srp_x_variant":[
+        "Koli\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809557,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789364,
+        "wk:page":"Koliq"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a666e14a71f2ff2f48294d76434d8c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809557,
+            "locality_id":1226577329,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1226577329,
+    "wof:lastmodified":1537714875,
+    "wof:name":"Koliq",
+    "wof:parent_id":1108809557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28611,
+    42.77333,
+    21.28611,
+    42.77333
+],
+  "geometry": {"coordinates":[21.28611,42.77333],"type":"Point"}
+}

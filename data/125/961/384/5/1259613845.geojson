@@ -1,0 +1,71 @@
+{
+  "id": 1259613845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24087,42.76379,21.24087,42.76379",
+    "geom:latitude":42.76379,
+    "geom:longitude":21.24087,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Aljsic Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374311,
+    "gn:latitude":42.76379,
+    "gn:longitude":21.24087,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Alj\u0161i\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Alj\u0161i\u0107 Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809557,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374311
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1e1c1333dc93429c3f05f70f17f7c8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809557,
+            "locality_id":1259613845,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1259613845,
+    "wof:lastmodified":1537715044,
+    "wof:name":"Aljsic Mahala",
+    "wof:parent_id":1108809557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24087,
+    42.76379,
+    21.24087,
+    42.76379
+],
+  "geometry": {"coordinates":[21.24087,42.76379],"type":"Point"}
+}

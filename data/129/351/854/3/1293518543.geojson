@@ -1,0 +1,77 @@
+{
+  "id": 1293518543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66028,42.9025,20.66028,42.9025",
+    "geom:latitude":42.9025,
+    "geom:longitude":20.66028,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Jabuka",
+    "gn:country_code":"XK",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789937,
+    "gn:latitude":42.9025,
+    "gn:longitude":20.66028,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Jabuka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Jabuk\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0431\u0443\u043a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Jabuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789937
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"6b47cc7ab2a4e8e645511e91ff8eb97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1293518543,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293518543,
+    "wof:lastmodified":1537714884,
+    "wof:name":"Jabuka",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66028,
+    42.9025,
+    20.66028,
+    42.9025
+],
+  "geometry": {"coordinates":[20.66028,42.9025],"type":"Point"}
+}

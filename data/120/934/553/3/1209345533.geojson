@@ -1,0 +1,71 @@
+{
+  "id": 1209345533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88972,42.80972,20.88972,42.80972",
+    "geom:latitude":42.80972,
+    "geom:longitude":20.88972,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Balince",
+    "gn:country_code":"XK",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792970,
+    "gn:latitude":42.80972,
+    "gn:longitude":20.88972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Balince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Balinc\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Balince"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043b\u0438\u043d\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792970
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1be60a86092bc7fec8d55b01ea516d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209345533
+        }
+    ],
+    "wof:id":1209345533,
+    "wof:lastmodified":1537714961,
+    "wof:name":"Balince",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88972,
+    42.80972,
+    20.88972,
+    42.80972
+],
+  "geometry": {"coordinates":[20.88972,42.80972],"type":"Point"}
+}

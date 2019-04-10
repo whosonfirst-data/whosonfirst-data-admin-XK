@@ -1,0 +1,80 @@
+{
+  "id": 1226473577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90361,42.79083,20.90361,42.79083",
+    "geom:latitude":42.79083,
+    "geom:longitude":20.90361,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Taradza",
+    "gn:country_code":"XK",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785126,
+    "gn:latitude":42.79083,
+    "gn:longitude":20.90361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Tarad\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Taraxh\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u045f\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Tarad\u017ea"
+    ],
+    "name:und_x_variant":[
+        "Taraxh\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785126
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"47ff828a7dcd2628f1bbac08228d0855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1226473577,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1226473577,
+    "wof:lastmodified":1537714784,
+    "wof:name":"Taradza",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90361,
+    42.79083,
+    20.90361,
+    42.79083
+],
+  "geometry": {"coordinates":[20.90361,42.79083],"type":"Point"}
+}

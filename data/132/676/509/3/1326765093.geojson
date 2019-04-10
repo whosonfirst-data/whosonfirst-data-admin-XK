@@ -1,0 +1,80 @@
+{
+  "id": 1326765093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03349,42.80438,21.03349,42.80438",
+    "geom:latitude":42.80438,
+    "geom:longitude":21.03349,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Ropica",
+    "gn:country_code":"XK",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786247,
+    "gn:latitude":42.80438,
+    "gn:longitude":21.03349,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ropica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Ropic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u043f\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Ropica"
+    ],
+    "name:und_x_variant":[
+        "Ropic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809559,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786247
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"43567826a7c89da2a9174ba487d8a869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809559,
+            "locality_id":1326765093,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1326765093,
+    "wof:lastmodified":1537714806,
+    "wof:name":"Ropica",
+    "wof:parent_id":1108809559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03349,
+    42.80438,
+    21.03349,
+    42.80438
+],
+  "geometry": {"coordinates":[21.03349,42.80438],"type":"Point"}
+}

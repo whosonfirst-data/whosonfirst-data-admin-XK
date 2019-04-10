@@ -1,0 +1,84 @@
+{
+  "id": 1276264717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54444,42.40056,21.54444,42.40056",
+    "geom:latitude":42.40056,
+    "geom:longitude":21.54444,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Lipovica",
+    "gn:country_code":"XK",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":788633,
+    "gn:latitude":42.40056,
+    "gn:longitude":21.54444,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Lipovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Lipovic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Lupovic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Lipovica"
+    ],
+    "name:und_x_variant":[
+        "Blinaje-a",
+        "Lupovic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809535,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788633
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d74c4c6941ffd3879f3816525db08a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809535,
+            "locality_id":1276264717,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1276264717,
+    "wof:lastmodified":1537714857,
+    "wof:name":"Lipovica",
+    "wof:parent_id":1108809535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54444,
+    42.40056,
+    21.54444,
+    42.40056
+],
+  "geometry": {"coordinates":[21.54444,42.40056],"type":"Point"}
+}

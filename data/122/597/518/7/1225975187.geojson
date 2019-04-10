@@ -1,0 +1,77 @@
+{
+  "id": 1225975187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21056,42.25944,21.21056,42.25944",
+    "geom:latitude":42.25944,
+    "geom:longitude":21.21056,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Reka",
+    "gn:country_code":"XK",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829507,
+    "gn:latitude":42.25944,
+    "gn:longitude":21.21056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Reka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Rek\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Reka"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0435\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809505,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829507
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0a431ec5205efa2e5cd9c6b76101be69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809505,
+            "locality_id":1225975187,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1225975187,
+    "wof:lastmodified":1537714966,
+    "wof:name":"Reka",
+    "wof:parent_id":1108809505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21056,
+    42.25944000000001,
+    21.21056,
+    42.25944000000001
+],
+  "geometry": {"coordinates":[21.21056,42.25944000000001],"type":"Point"}
+}

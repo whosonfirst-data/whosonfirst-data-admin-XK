@@ -1,0 +1,84 @@
+{
+  "id": 1344091765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95667,42.20972,20.95667,42.20972",
+    "geom:latitude":42.20972,
+    "geom:longitude":20.95667,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Sevc",
+    "gn:country_code":"XK",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785944,
+    "gn:latitude":42.20972,
+    "gn:longitude":20.95667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Sevc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Sevc\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Sevc"
+    ],
+    "name:srp_x_preferred":[
+        "Sevce"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u0432\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sjevce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785944,
+        "wk:page":"Sevce%2C_%C5%A0trpce"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"17053f6deab3a588b0240ae5125a00eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1344091765,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1344091765,
+    "wof:lastmodified":1537714799,
+    "wof:name":"Sevc",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95667000000001,
+    42.20972,
+    20.95667000000001,
+    42.20972
+],
+  "geometry": {"coordinates":[20.95667000000001,42.20972],"type":"Point"}
+}

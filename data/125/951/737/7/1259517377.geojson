@@ -1,0 +1,86 @@
+{
+  "id": 1259517377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07278,42.24861,21.07278,42.24861",
+    "geom:latitude":42.24861,
+    "geom:longitude":21.07278,
+    "gn:admin1_code":"10096138.0",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Gotovusa",
+    "gn:country_code":"XK",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790291,
+    "gn:latitude":42.24861,
+    "gn:longitude":21.07278,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gotovu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gotovush\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "G\u00ebtovush\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0442\u043e\u0432\u0443\u0448\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Gotovu\u0161a",
+        "Gotovu\u0161e"
+    ],
+    "name:und_x_variant":[
+        "Gotovu\u0161e",
+        "G\u00ebtovush\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809503,
+        85633259,
+        1108808599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790291,
+        "wk:page":"Gotovu%C5%A1a"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"fdfb91941ac9d0b6f2f12f0820f6fac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809503,
+            "locality_id":1259517377,
+            "region_id":1108808599
+        }
+    ],
+    "wof:id":1259517377,
+    "wof:lastmodified":1537714893,
+    "wof:name":"Gotovusa",
+    "wof:parent_id":1108809503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07278,
+    42.24861,
+    21.07278,
+    42.24861
+],
+  "geometry": {"coordinates":[21.07278,42.24861],"type":"Point"}
+}

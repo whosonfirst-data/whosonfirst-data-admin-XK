@@ -1,0 +1,71 @@
+{
+  "id": 1310440071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45139,42.70028,20.45139,42.70028",
+    "geom:latitude":42.70028,
+    "geom:longitude":20.45139,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Donja Dobrusa",
+    "gn:country_code":"XK",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":831967,
+    "gn:latitude":42.70028,
+    "gn:longitude":20.45139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donja Dobru\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Dobru\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831967
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bedf981a71144eeea230b5d5294d7b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1310440071,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1310440071,
+    "wof:lastmodified":1537715024,
+    "wof:name":"Donja Dobrusa",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45139,
+    42.70028,
+    20.45139,
+    42.70028
+],
+  "geometry": {"coordinates":[20.45139,42.70028],"type":"Point"}
+}

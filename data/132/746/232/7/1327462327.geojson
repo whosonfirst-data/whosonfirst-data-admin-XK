@@ -1,0 +1,71 @@
+{
+  "id": 1327462327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43806,42.49472,20.43806,42.49472",
+    "geom:latitude":42.49472,
+    "geom:longitude":20.43806,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Parotica",
+    "gn:country_code":"XK",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832428,
+    "gn:latitude":42.49472,
+    "gn:longitude":20.43806,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Parotica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Parotica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832428
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"5bcbde3d75d79aaba38a2ca2cdbd26e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1327462327,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1327462327,
+    "wof:lastmodified":1537715028,
+    "wof:name":"Parotica",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43806,
+    42.49472,
+    20.43806,
+    42.49472
+],
+  "geometry": {"coordinates":[20.43806,42.49472],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1292934893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88194,42.62917,20.88194,42.62917",
+    "geom:latitude":42.62917,
+    "geom:longitude":20.88194,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Novo Cikatovo",
+    "gn:country_code":"XK",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832049,
+    "gn:latitude":42.62917,
+    "gn:longitude":20.88194,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Novo \u010cikatovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Qikatov\u00eb e Re"
+    ],
+    "name:sqi_x_variant":[
+        "Cikatov\u00eb e Re",
+        "\u00c7ikatov\u00eb e Re"
+    ],
+    "name:srp_x_preferred":[
+        "Novo \u010cikatovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u043e \u0427\u0438\u043a\u0430\u0442\u043e\u0432\u043e",
+        "Novo \u0106ikatovo",
+        "\u041d\u043e\u0432\u043e \u040b\u0438\u043a\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809545,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832049
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"33eaf292b666191714fcdc560def324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809545,
+            "locality_id":1292934893,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1292934893,
+    "wof:lastmodified":1537715025,
+    "wof:name":"Novo Cikatovo",
+    "wof:parent_id":1108809545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88194,
+    42.62917,
+    20.88194,
+    42.62917
+],
+  "geometry": {"coordinates":[20.88194,42.62917],"type":"Point"}
+}

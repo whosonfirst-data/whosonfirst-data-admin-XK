@@ -1,0 +1,84 @@
+{
+  "id": 1225875725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42944,42.7525,20.42944,42.7525",
+    "geom:latitude":42.7525,
+    "geom:longitude":20.42944,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Prigoda",
+    "gn:country_code":"XK",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786740,
+    "gn:latitude":42.7525,
+    "gn:longitude":20.42944,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Prigoda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Prigod\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Godeni"
+    ],
+    "name:srp_x_preferred":[
+        "Prigoda"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0433\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Goden",
+        "Godeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786740
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a01e8af0c948a5f95d580f47415e5470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1225875725,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1225875725,
+    "wof:lastmodified":1537714815,
+    "wof:name":"Prigoda",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42944,
+    42.7525,
+    20.42944,
+    42.7525
+],
+  "geometry": {"coordinates":[20.42944,42.7525],"type":"Point"}
+}

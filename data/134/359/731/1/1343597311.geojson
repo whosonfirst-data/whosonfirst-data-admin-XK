@@ -1,0 +1,71 @@
+{
+  "id": 1343597311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85139,42.41611,20.85139,42.41611",
+    "geom:latitude":42.41611,
+    "geom:longitude":20.85139,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Kucuk Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860185,
+    "gn:latitude":42.41611,
+    "gn:longitude":20.85139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ku\u010duk Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ku\u010duk Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860185
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"865d1e672280d811bf4225ef7e1641ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1343597311,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1343597311,
+    "wof:lastmodified":1537715038,
+    "wof:name":"Kucuk Mahala",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85139,
+    42.41611,
+    20.85139,
+    42.41611
+],
+  "geometry": {"coordinates":[20.85139,42.41611],"type":"Point"}
+}

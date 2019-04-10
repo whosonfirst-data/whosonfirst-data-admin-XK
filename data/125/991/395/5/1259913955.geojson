@@ -1,0 +1,77 @@
+{
+  "id": 1259913955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43925,42.59365,21.43925,42.59365",
+    "geom:latitude":42.59365,
+    "geom:longitude":21.43925,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Culjkova Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830513,
+    "gn:latitude":42.59365,
+    "gn:longitude":21.43925,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"\u010culjkova Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010culjkova Mahala"
+    ],
+    "name:srp_x_variant":[
+        "\u010culjkova"
+    ],
+    "name:und_x_variant":[
+        "\u010culjkova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809543,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830513
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0a5ec6134cc9bb307888be47b0a40f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809543,
+            "locality_id":1259913955,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1259913955,
+    "wof:lastmodified":1537715006,
+    "wof:name":"Culjkova Mahala",
+    "wof:parent_id":1108809543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43925,
+    42.59365,
+    21.43925,
+    42.59365
+],
+  "geometry": {"coordinates":[21.43925,42.59365],"type":"Point"}
+}

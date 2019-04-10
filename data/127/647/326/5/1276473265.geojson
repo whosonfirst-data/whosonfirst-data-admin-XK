@@ -1,0 +1,83 @@
+{
+  "id": 1276473265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57833,42.98333,20.57833,42.98333",
+    "geom:latitude":42.98333,
+    "geom:longitude":20.57833,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Gornje Varage",
+    "gn:country_code":"XK",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830571,
+    "gn:latitude":42.98333,
+    "gn:longitude":20.57833,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gornje Varage",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Varrag\u00eb e Ep\u00ebrme"
+    ],
+    "name:sqi_x_variant":[
+        "Varag\u00eb e Eperm\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Gornje Varage"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0412\u0430\u0440\u0430\u0433\u0435"
+    ],
+    "name:und_x_variant":[
+        "Varag\u00eb e Eperm\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809561,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830571
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"37651a05547e61fe591b3668d960a3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":1276473265,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1276473265,
+    "wof:lastmodified":1537715010,
+    "wof:name":"Gornje Varage",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57833,
+    42.98333,
+    20.57833,
+    42.98333
+],
+  "geometry": {"coordinates":[20.57833,42.98333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243101335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7975,43.09167,20.7975,43.09167",
+    "geom:latitude":43.09167,
+    "geom:longitude":20.7975,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Kutnje",
+    "gn:country_code":"XK",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830122,
+    "gn:latitude":43.09167,
+    "gn:longitude":20.7975,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kutnje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kutnje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0442\u045a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kutine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830122
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"0bfc6856d83603335ac5bf6a2469e6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1243101335,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1243101335,
+    "wof:lastmodified":1537714978,
+    "wof:name":"Kutnje",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7975,
+    43.09167,
+    20.7975,
+    43.09167
+],
+  "geometry": {"coordinates":[20.7975,43.09167],"type":"Point"}
+}

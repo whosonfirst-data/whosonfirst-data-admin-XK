@@ -1,0 +1,77 @@
+{
+  "id": 1344193211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67972,43.20167,20.67972,43.20167",
+    "geom:latitude":43.20167,
+    "geom:longitude":20.67972,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Kamenica",
+    "gn:country_code":"XK",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":830037,
+    "gn:latitude":43.20167,
+    "gn:longitude":20.67972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kamenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kamenic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Kamenica"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830037
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"366c9d29e7f9e4209966487a0f88e006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1344193211,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1344193211,
+    "wof:lastmodified":1537714972,
+    "wof:name":"Kamenica",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67972,
+    43.20167,
+    20.67972,
+    43.20167
+],
+  "geometry": {"coordinates":[20.67972,43.20167],"type":"Point"}
+}

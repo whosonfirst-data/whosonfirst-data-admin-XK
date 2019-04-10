@@ -1,0 +1,83 @@
+{
+  "id": 1226785341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71278,42.42167,20.71278,42.42167",
+    "geom:latitude":42.42167,
+    "geom:longitude":20.71278,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Millanoviq",
+    "gn:country_code":"XK",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787982,
+    "gn:latitude":42.42167,
+    "gn:longitude":20.71278,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Millanoviq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Millanoviq"
+    ],
+    "name:sqi_x_variant":[
+        "Shkoz\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Milanovi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043b\u0430\u043d\u043e\u0432\u0438\u045b"
+    ],
+    "name:und_x_variant":[
+        "Shkoz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809533,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787982
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"34f3239f37a13c316acae57a75d88b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809533,
+            "locality_id":1226785341,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1226785341,
+    "wof:lastmodified":1537714841,
+    "wof:name":"Millanoviq",
+    "wof:parent_id":1108809533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71278,
+    42.42167,
+    20.71278,
+    42.42167
+],
+  "geometry": {"coordinates":[20.71278,42.42167],"type":"Point"}
+}

@@ -1,0 +1,149 @@
+{
+  "id": 85673339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009173,
+    "geom:area_square_m":83518093.771443,
+    "geom:bbox":"21.2934086437,42.527390109,21.4803318451,42.61713651",
+    "geom:latitude":42.577423,
+    "geom:longitude":21.390744,
+    "gn:id":"",
+    "iso:country":"XK",
+    "lbl:latitude":42.581877,
+    "lbl:longitude":21.376584,
+    "mps:latitude":42.581877,
+    "mps:longitude":21.376584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0431\u044a\u0440\u0434\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:eng_x_preferred":[
+        "Kosovsko Pomoravlje"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648 \u0628\u0631\u062f\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:hbs_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05d1\u05e8\u05d3\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:ita_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:lit_x_preferred":[
+        "Novo Brdas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Novob\u00ebrd\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:ron_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0411\u0440\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:sqi_x_preferred":[
+        "Artana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Novo Brdo"
+    ],
+    "name:tur_x_preferred":[
+        "Nob\u0131rda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0411\u0440\u0434\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Kosovsko-Pomoravski"
+    ],
+    "name:und_x_variant":[
+        "Kosovsko-Pomoravski Okrug"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e03\u723e\u591a"
+    ],
+    "qs:a0":"Kosovo",
+    "qs:a0_lc":"-1",
+    "qs:a1":"Novo Brdo",
+    "qs:a1_lc":"KOS-5906",
+    "qs:a1r":"Pristina",
+    "qs:adm0":"Kosovo",
+    "qs:adm0_a3":"KOS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":668,
+    "wof:belongsto":[
+        102191581,
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389218,
+        "qs:id":379846,
+        "wd:id":"Q994263"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"e1848cb27ba016719168c84b71234be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "region_id":85673339
+        }
+    ],
+    "wof:id":85673339,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1529540259,
+    "wof:name":"Novo Brdo",
+    "wof:parent_id":85633259,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29340864369402,
+    42.52739010896642,
+    21.48033184513861,
+    42.61713651004197
+],
+  "geometry": {"coordinates":[[[21.46494674809401,42.55816030395493],[21.43930491908679,42.55816030395493],[21.42135563905157,42.56841703501823],[21.40084217602566,42.56072448694556],[21.40597054110765,42.53764684092903],[21.38289289509106,42.52739010896642],[21.36494361505584,42.53764684092903],[21.34443015202993,42.55303193797363],[21.3213525060134,42.54790357199232],[21.29340864369402,42.55662750935215],[21.30622440013599,42.57151032244349],[21.32648156087538,42.58143219723814],[21.34673872161477,42.60003571247819],[21.36587079270299,42.61576500255291],[21.38652181962635,42.61576500255291],[21.42391982204219,42.61713651004197],[21.45212583314071,42.604315595988],[21.46751093108463,42.59662304701607],[21.48033184513861,42.57610958399016],[21.46494674809401,42.55816030395493]]],"type":"Polygon"}
+}

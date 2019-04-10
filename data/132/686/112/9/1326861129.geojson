@@ -1,0 +1,84 @@
+{
+  "id": 1326861129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13898,42.70473,21.13898,42.70473",
+    "geom:latitude":42.70473,
+    "geom:longitude":21.13898,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Donja Brnjica",
+    "gn:country_code":"XK",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791310,
+    "gn:latitude":42.70473,
+    "gn:longitude":21.13898,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donja Brnjica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "B\u00ebrnic\u00eb i Poshtme"
+    ],
+    "name:sqi_x_variant":[
+        "B\u00ebrnic\u00eb e Poshtme",
+        "B\u00ebrnic\u00eb e Posht\u00ebme"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0411\u0440\u045a\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Donja Brnjica"
+    ],
+    "name:und_x_variant":[
+        "B\u00ebrnic\u00eb e Posht\u00ebme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809557,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791310
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c070228c1e31cda11c2c7201bd9d52d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809557,
+            "locality_id":1326861129,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1326861129,
+    "wof:lastmodified":1537714926,
+    "wof:name":"Donja Brnjica",
+    "wof:parent_id":1108809557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13898,
+    42.70473,
+    21.13898,
+    42.70473
+],
+  "geometry": {"coordinates":[21.13898,42.70473],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209953677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73972,43.02528,20.73972,43.02528",
+    "geom:latitude":43.02528,
+    "geom:longitude":20.73972,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Erce",
+    "gn:country_code":"XK",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830171,
+    "gn:latitude":43.02528,
+    "gn:longitude":20.73972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Erce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Erce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809563,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830171
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"5a24eedadb40799183e85b23a5fa67ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809563,
+            "locality_id":1209953677,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1209953677,
+    "wof:lastmodified":1537714980,
+    "wof:name":"Erce",
+    "wof:parent_id":1108809563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73972,
+    43.02528,
+    20.73972,
+    43.02528
+],
+  "geometry": {"coordinates":[20.73972,43.02528],"type":"Point"}
+}

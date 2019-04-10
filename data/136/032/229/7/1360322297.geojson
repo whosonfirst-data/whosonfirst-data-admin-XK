@@ -1,0 +1,71 @@
+{
+  "id": 1360322297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14167,42.77972,21.14167,42.77972",
+    "geom:latitude":42.77972,
+    "geom:longitude":21.14167,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Pireva Mahala",
+    "gn:country_code":"XK",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830065,
+    "gn:latitude":42.77972,
+    "gn:longitude":21.14167,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Pireva Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pireva Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830065
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"65b78bd62fc9b77696154fd8f9eb8ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1360322297,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1360322297,
+    "wof:lastmodified":1537714973,
+    "wof:name":"Pireva Mahala",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14167,
+    42.77972000000001,
+    21.14167,
+    42.77972000000001
+],
+  "geometry": {"coordinates":[21.14167,42.77972000000001],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1210052301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41028,42.56833,21.41028,42.56833",
+    "geom:latitude":42.56833,
+    "geom:longitude":21.41028,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Manisince",
+    "gn:country_code":"XK",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788171,
+    "gn:latitude":42.56833,
+    "gn:longitude":21.41028,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mani\u0161ince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Manishinc\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Manishinc",
+        "Manishinic\u00eb",
+        "Manishinca"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u0448\u0438\u043d\u0446\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Mani\u0161ince",
+        "Manj\u0161ince"
+    ],
+    "name:und_x_variant":[
+        "Manj\u0161ince",
+        "Manishinc\u00eb",
+        "Manishinic\u00eb",
+        "Manishinc",
+        "Manishinca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809543,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788171
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b15b89c5858516dad3f10ec0833a24f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809543,
+            "locality_id":1210052301,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1210052301,
+    "wof:lastmodified":1537714845,
+    "wof:name":"Manisince",
+    "wof:parent_id":1108809543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41028,
+    42.56833,
+    21.41028,
+    42.56833
+],
+  "geometry": {"coordinates":[21.41028,42.56833],"type":"Point"}
+}

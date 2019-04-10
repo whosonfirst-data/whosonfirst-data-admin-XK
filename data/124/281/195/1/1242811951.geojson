@@ -1,0 +1,86 @@
+{
+  "id": 1242811951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93639,42.63111,20.93639,42.63111",
+    "geom:latitude":42.63111,
+    "geom:longitude":20.93639,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Vasiljevo",
+    "gn:country_code":"XK",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784696,
+    "gn:latitude":42.63111,
+    "gn:longitude":20.93639,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vasiljevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Vasilev\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Blerimi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u0459\u0435\u0432\u043e"
+    ],
+    "name:srp_x_variant":[
+        "Vasiljevo"
+    ],
+    "name:und_x_variant":[
+        "Blerimi",
+        "Vasilev\u00eb",
+        "Blerim",
+        "Vasileva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809545,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784696
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"edaa1b84986128bae920d5893ce7206b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809545,
+            "locality_id":1242811951,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1242811951,
+    "wof:lastmodified":1537714775,
+    "wof:name":"Vasiljevo",
+    "wof:parent_id":1108809545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93639,
+    42.63111,
+    20.93639,
+    42.63111
+],
+  "geometry": {"coordinates":[20.93639,42.63111],"type":"Point"}
+}

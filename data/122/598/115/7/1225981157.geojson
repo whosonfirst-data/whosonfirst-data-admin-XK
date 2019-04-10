@@ -1,0 +1,82 @@
+{
+  "id": 1225981157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78333,43.15278,20.78333,43.15278",
+    "geom:latitude":43.15278,
+    "geom:longitude":20.78333,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Mekiniqe",
+    "gn:country_code":"XK",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788043,
+    "gn:latitude":43.15278,
+    "gn:longitude":20.78333,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mekiniqe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mekiniqe"
+    ],
+    "name:srp_x_preferred":[
+        "Mekini\u0107e"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u043a\u0438\u043d\u0438\u045b\u0435",
+        "Mekini\u0107"
+    ],
+    "name:und_x_variant":[
+        "Drenska",
+        "Mekini\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788043
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"28ec4b591b5c9952b297dd31c0cdafcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1225981157,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1225981157,
+    "wof:lastmodified":1537714842,
+    "wof:name":"Mekiniqe",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78333,
+    43.15278,
+    20.78333,
+    43.15278
+],
+  "geometry": {"coordinates":[20.78333,43.15278],"type":"Point"}
+}

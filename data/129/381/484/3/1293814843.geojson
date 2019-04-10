@@ -1,0 +1,71 @@
+{
+  "id": 1293814843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13864,42.76847,21.13864,42.76847",
+    "geom:latitude":42.76847,
+    "geom:longitude":21.13864,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Vrbovac",
+    "gn:country_code":"XK",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374360,
+    "gn:latitude":42.76847,
+    "gn:longitude":21.13864,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vrbovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vrbovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809557,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374360
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"dacf01b588756eca40d811f2568b4f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809557,
+            "locality_id":1293814843,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1293814843,
+    "wof:lastmodified":1537715044,
+    "wof:name":"Vrbovac",
+    "wof:parent_id":1108809557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13864,
+    42.76847,
+    21.13864,
+    42.76847
+],
+  "geometry": {"coordinates":[21.13864,42.76847],"type":"Point"}
+}

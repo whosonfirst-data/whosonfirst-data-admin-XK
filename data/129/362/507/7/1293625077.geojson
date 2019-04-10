@@ -1,0 +1,80 @@
+{
+  "id": 1293625077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71028,43.09389,20.71028,43.09389",
+    "geom:latitude":43.09389,
+    "geom:longitude":20.71028,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Gnezhdani",
+    "gn:country_code":"XK",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830134,
+    "gn:latitude":43.09389,
+    "gn:longitude":20.71028,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gnezhdani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gnezhdan\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Gnezhdani"
+    ],
+    "name:srp_x_preferred":[
+        "Gnje\u017edane"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u045a\u0435\u0436\u0434\u0430\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830134
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d3f6b3a40d3f84f498fedc8b1ab44e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1293625077,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293625077,
+    "wof:lastmodified":1537714978,
+    "wof:name":"Gnezhdani",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71028,
+    43.09389,
+    20.71028,
+    43.09389
+],
+  "geometry": {"coordinates":[20.71028,43.09389],"type":"Point"}
+}

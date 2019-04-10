@@ -1,0 +1,74 @@
+{
+  "id": 1226373073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31167,42.45972,20.31167,42.45972",
+    "geom:latitude":42.45972,
+    "geom:longitude":20.31167,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Kalavaj",
+    "gn:country_code":"XK",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861493,
+    "gn:latitude":42.45972,
+    "gn:longitude":20.31167,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kalavaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0432\u0430\u0458"
+    ],
+    "name:srp_x_variant":[
+        "Kalavaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809515,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861493
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"b91d9ff614bcb5bead2166bdd22cd736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809515,
+            "locality_id":1226373073,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1226373073,
+    "wof:lastmodified":1537715039,
+    "wof:name":"Kalavaj",
+    "wof:parent_id":1108809515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31167,
+    42.45972,
+    20.31167,
+    42.45972
+],
+  "geometry": {"coordinates":[20.31167,42.45972],"type":"Point"}
+}

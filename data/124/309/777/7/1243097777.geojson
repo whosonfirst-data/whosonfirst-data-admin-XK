@@ -1,0 +1,80 @@
+{
+  "id": 1243097777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05403,42.57326,21.05403,42.57326",
+    "geom:latitude":42.57326,
+    "geom:longitude":21.05403,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Radevo",
+    "gn:country_code":"XK",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786606,
+    "gn:latitude":42.57326,
+    "gn:longitude":21.05403,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Radevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Radev\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0435\u0432\u043e"
+    ],
+    "name:srp_x_variant":[
+        "Radevo"
+    ],
+    "name:und_x_variant":[
+        "Radev\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809537,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786606
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"5a4b28c82798e0d58c871514e1d86280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809537,
+            "locality_id":1243097777,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1243097777,
+    "wof:lastmodified":1537714813,
+    "wof:name":"Radevo",
+    "wof:parent_id":1108809537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05403,
+    42.57326,
+    21.05403,
+    42.57326
+],
+  "geometry": {"coordinates":[21.05403,42.57326],"type":"Point"}
+}

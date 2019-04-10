@@ -1,0 +1,80 @@
+{
+  "id": 1293037161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50417,42.74833,20.50417,42.74833",
+    "geom:latitude":42.74833,
+    "geom:longitude":20.50417,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Kovrace (Krasniqaj)",
+    "gn:country_code":"XK",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789163,
+    "gn:latitude":42.74833,
+    "gn:longitude":20.50417,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Kovra\u00e7\u00eb (Krasniqaj)",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Kovrag\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Kovra\u00e7\u00eb",
+        "Krasniqaj"
+    ],
+    "name:und_x_variant":[
+        "Kovra\u00e7\u00eb",
+        "Kovraga",
+        "Krasniqaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789163
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"65a13b84e47b1195a4fcc33e92ec6c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1293037161,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1293037161,
+    "wof:lastmodified":1537714869,
+    "wof:name":"Kovrace (Krasniqaj)",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50417,
+    42.74833,
+    20.50417,
+    42.74833
+],
+  "geometry": {"coordinates":[20.50417,42.74833],"type":"Point"}
+}

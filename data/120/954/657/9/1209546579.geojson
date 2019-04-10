@@ -1,0 +1,78 @@
+{
+  "id": 1209546579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76194,42.54361,20.76194,42.54361",
+    "geom:latitude":42.54361,
+    "geom:longitude":20.76194,
+    "gn:admin1_code":"10097361.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Vrmnica",
+    "gn:country_code":"XK",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784146,
+    "gn:latitude":42.54361,
+    "gn:longitude":20.76194,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Vrmnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "V\u00ebrmnic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "V\u00ebrmic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Vrmnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u043c\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "V\u00ebrmic\u00eb",
+        "Vrmica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784146
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"a9fb7c2bd7ca27411834b70b00e32d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209546579
+        }
+    ],
+    "wof:id":1209546579,
+    "wof:lastmodified":1537714764,
+    "wof:name":"Vrmnica",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76194,
+    42.54361,
+    20.76194,
+    42.54361
+],
+  "geometry": {"coordinates":[20.76194,42.54361],"type":"Point"}
+}

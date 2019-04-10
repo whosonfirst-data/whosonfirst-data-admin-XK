@@ -1,0 +1,74 @@
+{
+  "id": 1242613411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40111,42.66611,20.40111,42.66611",
+    "geom:latitude":42.66611,
+    "geom:longitude":20.40111,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Donje Nabrge",
+    "gn:country_code":"XK",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830117,
+    "gn:latitude":42.66611,
+    "gn:longitude":20.40111,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donje Nabr\u0111e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0435 \u041d\u0430\u0431\u0440\u0452\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Donje Nabr\u0111e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830117
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"dd6564c89d7686454ffe8cd042dc6436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1242613411,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1242613411,
+    "wof:lastmodified":1537714977,
+    "wof:name":"Donje Nabrge",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40111,
+    42.66611,
+    20.40111,
+    42.66611
+],
+  "geometry": {"coordinates":[20.40111,42.66611],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1226476853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9,42.60417,20.9,42.60417",
+    "geom:latitude":42.60417,
+    "geom:longitude":20.9,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Donja Koretica",
+    "gn:country_code":"XK",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791294,
+    "gn:latitude":42.60417,
+    "gn:longitude":20.9,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donja Koretica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Korotic\u00eb e Poshtm\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Krotic\u00eb e Posht\u00ebme",
+        "Koretic\u00eb e Ep\u00ebrme",
+        "Korrotic\u00eb e Posht\u00ebme",
+        "Korotica e Ul\u00ebt",
+        "Korratica e Poshtme",
+        "Gentian\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Donja Koretica"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0430 \u041a\u043e\u0440\u0435\u0442\u0438\u0446\u0430",
+        "Donja Korotica",
+        "Donja Koratica"
+    ],
+    "name:und_x_variant":[
+        "Gentian\u00eb",
+        "Donja Koratica",
+        "Korratica e Poshtme",
+        "Donja Korotica",
+        "Gentiana",
+        "Korotica e Ul\u00ebt",
+        "Korrotic\u00eb e Posht\u00ebme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809545,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791294
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"61c0ea85e33c8c473750da9dddd3d2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809545,
+            "locality_id":1226476853,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1226476853,
+    "wof:lastmodified":1537714925,
+    "wof:name":"Donja Koretica",
+    "wof:parent_id":1108809545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9,
+    42.60417,
+    20.9,
+    42.60417
+],
+  "geometry": {"coordinates":[20.9,42.60417],"type":"Point"}
+}

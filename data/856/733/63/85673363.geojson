@@ -1,0 +1,113 @@
+{
+  "id": 85673363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013825,
+    "geom:area_square_m":126200892.989075,
+    "geom:bbox":"20.8931339637,42.3555898558,21.0957044118,42.4684139029",
+    "geom:latitude":42.417891,
+    "geom:longitude":20.99709,
+    "gn:id":"",
+    "iso:country":"XK",
+    "lbl:latitude":42.412167,
+    "lbl:longitude":20.999019,
+    "mps:latitude":42.412167,
+    "mps:longitude":20.999019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:deu_x_preferred":[
+        "Shtime"
+    ],
+    "name:eng_x_preferred":[
+        "Prizren"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u06cc\u0645\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160timlje"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160timlje"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160timlje"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160timl\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0442\u0438\u043c\u043b\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Shtime"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160timlje"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160timlje"
+    ],
+    "name:und_x_preferred":[
+        "Prizrenski"
+    ],
+    "name:und_x_variant":[
+        "Prizrenski Okrug"
+    ],
+    "qs:a0":"Kosovo",
+    "qs:a0_lc":"-1",
+    "qs:a1":"\u0160timlje",
+    "qs:a1_lc":"KOS-5912",
+    "qs:a1r":"Uro\u0161evac",
+    "qs:adm0":"Kosovo",
+    "qs:adm0_a3":"KOS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":271,
+    "wof:belongsto":[
+        102191581,
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389209,
+        "qs:id":220466,
+        "wd:id":"Q994737"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"e3a7537e01a9c26416aaaa882e5c8ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "region_id":85673363
+        }
+    ],
+    "wof:id":85673363,
+    "wof:lastmodified":1529540262,
+    "wof:name":"\u0160timlje",
+    "wof:parent_id":85633259,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89313396366157,
+    42.35558985578729,
+    21.09570441182922,
+    42.46841390287938
+],
+  "geometry": {"coordinates":[[[21.09570441182922,42.45046462284409],[21.09057604584791,42.42995115981824],[21.07262676581263,42.41456606187432],[21.05724166876803,42.40430933081103],[21.0546774857774,42.38379586778512],[21.04698493680542,42.3684107698412],[21.0187789257069,42.36584658685058],[20.97115441304578,42.3612905952848],[20.94698180466662,42.35558985578729],[20.9318976513556,42.36521126079111],[20.93997033925979,42.37621947255064],[20.93703481630376,42.39016320726626],[20.9517124319832,42.40851022596621],[20.93630093533994,42.42759112562999],[20.90694570577978,42.43859933738958],[20.89313396366157,42.45302880493546],[20.92903252463134,42.46841390287938],[20.95723853572991,42.46584971988869],[20.98544454772775,42.46328553689807],[21.02134310869758,42.45559298792608],[21.0546774857774,42.45302880493546],[21.070062582822,42.46328553689807],[21.09570441182922,42.45046462284409]]],"type":"Polygon"}
+}

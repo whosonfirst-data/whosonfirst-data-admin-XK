@@ -1,0 +1,79 @@
+{
+  "id": 1209142123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46694,42.33167,21.46694,42.33167",
+    "geom:latitude":42.33167,
+    "geom:longitude":21.46694,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Godenci i Madh",
+    "gn:country_code":"XK",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830086,
+    "gn:latitude":42.33167,
+    "gn:longitude":21.46694,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Godenci i Madh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Goden i Madh"
+    ],
+    "name:sqi_x_variant":[
+        "Godenci i Madh",
+        "Godeni i Madh"
+    ],
+    "name:srp_x_preferred":[
+        "Veliki Goden"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u0413\u043e\u0434\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Godeni i Madh",
+        "Goden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830086
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"84bed175624f3bb7984ed144ec579f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633259,
+            "locality_id":1209142123
+        }
+    ],
+    "wof:id":1209142123,
+    "wof:lastmodified":1537714975,
+    "wof:name":"Godenci i Madh",
+    "wof:parent_id":85633259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46694,
+    42.33167,
+    21.46694,
+    42.33167
+],
+  "geometry": {"coordinates":[21.46694,42.33167],"type":"Point"}
+}

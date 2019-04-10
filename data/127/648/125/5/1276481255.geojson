@@ -1,0 +1,71 @@
+{
+  "id": 1276481255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1025,43.01056,21.1025,43.01056",
+    "geom:latitude":43.01056,
+    "geom:longitude":21.1025,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Canoga",
+    "gn:country_code":"XK",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835069,
+    "gn:latitude":43.01056,
+    "gn:longitude":21.1025,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"\u010canoga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010canoga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835069
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1a6467bf1026f712f039ff94d50e9c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1276481255,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1276481255,
+    "wof:lastmodified":1537715034,
+    "wof:name":"Canoga",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1025,
+    43.01056,
+    21.1025,
+    43.01056
+],
+  "geometry": {"coordinates":[21.1025,43.01056],"type":"Point"}
+}

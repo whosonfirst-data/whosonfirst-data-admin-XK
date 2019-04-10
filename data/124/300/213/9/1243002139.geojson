@@ -1,0 +1,71 @@
+{
+  "id": 1243002139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6125,42.68694,21.6125,42.68694",
+    "geom:latitude":42.68694,
+    "geom:longitude":21.6125,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Mahala Musovic",
+    "gn:country_code":"XK",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830785,
+    "gn:latitude":42.68694,
+    "gn:longitude":21.6125,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Mahala Musovi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mahala Musovi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809581,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830785
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f3ee3f29786cc113516562daed7d5896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809581,
+            "locality_id":1243002139,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1243002139,
+    "wof:lastmodified":1537715021,
+    "wof:name":"Mahala Musovic",
+    "wof:parent_id":1108809581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6125,
+    42.68694,
+    21.6125,
+    42.68694
+],
+  "geometry": {"coordinates":[21.6125,42.68694],"type":"Point"}
+}

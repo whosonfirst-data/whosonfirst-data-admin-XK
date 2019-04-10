@@ -1,0 +1,85 @@
+{
+  "id": 1259818043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3025,42.30806,21.3025,42.30806",
+    "geom:latitude":42.30806,
+    "geom:longitude":21.3025,
+    "gn:admin1_code":"10097357.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Gushica",
+    "gn:country_code":"XK",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790079,
+    "gn:latitude":42.30806,
+    "gn:longitude":21.3025,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gushica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gushica"
+    ],
+    "name:sqi_x_variant":[
+        "Gushic\u00eb",
+        "Goshic\u00eb",
+        "Lupisht\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Gu\u0161ica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0443\u0448\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lupisht\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809519,
+        85633259,
+        1108808601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790079
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4f20fb63654f85dc46c3cb72d8f41261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809519,
+            "locality_id":1259818043,
+            "region_id":1108808601
+        }
+    ],
+    "wof:id":1259818043,
+    "wof:lastmodified":1537714887,
+    "wof:name":"Gushica",
+    "wof:parent_id":1108809519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3025,
+    42.30806,
+    21.3025,
+    42.30806
+],
+  "geometry": {"coordinates":[21.3025,42.30806],"type":"Point"}
+}

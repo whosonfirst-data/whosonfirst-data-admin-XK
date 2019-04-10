@@ -1,0 +1,134 @@
+{
+  "id": 85673299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.04017,
+    "geom:area_square_m":363725743.530444,
+    "geom:bbox":"20.4509786375,42.7940651292,20.7905666485,43.022129619",
+    "geom:latitude":42.922903,
+    "geom:longitude":20.630301,
+    "gn:id":"",
+    "iso:country":"XK",
+    "lbl:latitude":42.934317,
+    "lbl:longitude":20.641878,
+    "mps:latitude":42.934317,
+    "mps:longitude":20.641878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ces_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:eng_x_preferred":[
+        "Kosovska Mitrovica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0628\u06cc\u0646 \u067e\u0648\u062a\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:hbs_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:hrv_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:hun_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:ita_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:lit_x_preferred":[
+        "Zubin Potokas"
+    ],
+    "name:nld_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:pol_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:ron_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:sco_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:spa_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:sqi_x_preferred":[
+        "Zubin Potoku"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0443\u0431\u0438\u043d \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:und_x_preferred":[
+        "Kosovsko-Mitrovachki"
+    ],
+    "name:und_x_variant":[
+        "Kosovsko-Mitrovachki Okrug"
+    ],
+    "qs:a0":"Kosovo",
+    "qs:a0_lc":"-1",
+    "qs:a1":"Zubin Potok",
+    "qs:a1_lc":"KOS-5897",
+    "qs:a1r":"Kosovska Mitrovica",
+    "qs:adm0":"Kosovo",
+    "qs:adm0_a3":"KOS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":282,
+    "wof:belongsto":[
+        102191581,
+        85633259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389207,
+        "qs:id":1290502,
+        "wd:id":"Q227569"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"8c6e3437b1557c473aa7f02807bfe2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "region_id":85673299
+        }
+    ],
+    "wof:id":85673299,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1529540279,
+    "wof:name":"Zubin Potok",
+    "wof:parent_id":85633259,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45097863745423,
+    42.79406512920241,
+    20.79056664853204,
+    43.02212961898675
+],
+  "geometry": {"coordinates":[[[20.79056664853204,42.89663244523121],[20.76492481952488,42.86586225024269],[20.74441135649897,42.86329806725206],[20.72389789347307,42.85304133618877],[20.74441135649897,42.82996369017224],[20.74184717350829,42.79406512920241],[20.72646207646369,42.79662931219303],[20.70851279552915,42.81714277521894],[20.68799933250324,42.84278460422615],[20.66492168648671,42.84534878721684],[20.64953658944211,42.84278460422615],[20.6307100774082,42.82307119428026],[20.61376020676818,42.84932282209064],[20.59205610520513,42.86957998282998],[20.5641508318954,42.88239573837268],[20.50585981567798,42.88652985346999],[20.49436652579459,42.88746653155522],[20.48890913924544,42.89919138607365],[20.46668827284554,42.90950083449599],[20.45097863745423,42.92203236919852],[20.45945357232455,42.95001515867267],[20.47640344206525,42.96637074831142],[20.49345666549277,42.97019480414696],[20.51113000474595,42.97019480414696],[20.53045699039785,42.97515574244363],[20.5384151613307,42.98065928130086],[20.54389286266553,42.98724802757448],[20.55340132631022,43.00259592686058],[20.56239302601739,43.00949473149672],[20.57283166474957,43.00933970186583],[20.58430383315545,43.00691090911124],[20.59639611828629,43.00709177716385],[20.6172733975493,43.02212961898675],[20.66748586947733,43.01458485740528],[20.70851279552915,42.99407139437938],[20.72902625945437,42.97868629733483],[20.72133371048238,42.96330120029023],[20.74184717350829,42.94535192025495],[20.77005318550613,42.91201754227581],[20.79056664853204,42.89663244523121]]],"type":"Polygon"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1277019597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36972,42.64056,20.36972,42.64056",
+    "geom:latitude":42.64056,
+    "geom:longitude":20.36972,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Gorazhdec",
+    "gn:country_code":"XK",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790546,
+    "gn:latitude":42.64056,
+    "gn:longitude":20.36972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gorazhdec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gorazhdec"
+    ],
+    "name:sqi_x_variant":[
+        "Gorazhdvec",
+        "Gorazhdeci",
+        "Kastrati",
+        "Gorazhdevc"
+    ],
+    "name:srp_x_preferred":[
+        "Gora\u017edevac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u0430\u0436\u0434\u0435\u0432\u0430\u0446"
+    ],
+    "name:und_x_variant":[
+        "Kastrati",
+        "Gorazhdvec",
+        "Kastrat",
+        "Gorazhdec",
+        "Gorazhdeci",
+        "Gorazhdevc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790546,
+        "wk:page":"Gora%C5%BEdevac"
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"adc04edc5b2336753e3c80b403dcea3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1277019597,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1277019597,
+    "wof:lastmodified":1537714903,
+    "wof:name":"Gorazhdec",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36972,
+    42.64056,
+    20.36972,
+    42.64056
+],
+  "geometry": {"coordinates":[20.36972,42.64056],"type":"Point"}
+}

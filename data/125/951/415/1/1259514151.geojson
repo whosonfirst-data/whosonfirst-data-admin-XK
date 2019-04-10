@@ -1,0 +1,86 @@
+{
+  "id": 1259514151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22737,42.99759,21.22737,42.99759",
+    "geom:latitude":42.99759,
+    "geom:longitude":21.22737,
+    "gn:admin1_code":"10097360.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Prepolac",
+    "gn:country_code":"XK",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786779,
+    "gn:latitude":42.99759,
+    "gn:longitude":21.22737,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Prepolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Prepelc"
+    ],
+    "name:sqi_x_variant":[
+        "P\u00ebrpellac",
+        "P\u00ebrp\u00ebllaci",
+        "P\u00ebrp\u00ebllac"
+    ],
+    "name:srp_x_preferred":[
+        "Prepolac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u043f\u043e\u043b\u0430\u0446"
+    ],
+    "name:und_x_variant":[
+        "P\u00ebrp\u00ebllaci",
+        "P\u00ebrp\u00ebllac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809565,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786779
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f056b6c9a45af8ac9f7c6c7d26dbebfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":1259514151,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":1259514151,
+    "wof:lastmodified":1537714815,
+    "wof:name":"Prepolac",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22737,
+    42.99759,
+    21.22737,
+    42.99759
+],
+  "geometry": {"coordinates":[21.22737,42.99759],"type":"Point"}
+}

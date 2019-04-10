@@ -1,0 +1,86 @@
+{
+  "id": 1360118505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6125,42.76083,20.6125,42.76083",
+    "geom:latitude":42.76083,
+    "geom:longitude":20.6125,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Krnjina",
+    "gn:country_code":"XK",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789017,
+    "gn:latitude":42.76083,
+    "gn:longitude":20.6125,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Krnjina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "K\u00ebrnin\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "K\u00ebrrnina",
+        "K\u00ebrrnin\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u045a\u0438\u043d\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Krnjina"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebrrnin\u00eb",
+        "K\u00ebrrnina",
+        "K\u00ebrnin\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809555,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789017
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"237cef82563aac5cef7e3f8497040142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809555,
+            "locality_id":1360118505,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1360118505,
+    "wof:lastmodified":1537714866,
+    "wof:name":"Krnjina",
+    "wof:parent_id":1108809555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6125,
+    42.76083,
+    20.6125,
+    42.76083
+],
+  "geometry": {"coordinates":[20.6125,42.76083],"type":"Point"}
+}

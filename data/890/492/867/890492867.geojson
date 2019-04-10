@@ -1,0 +1,110 @@
+{
+  "id": 890492867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14083,42.59667,21.14083,42.59667",
+    "geom:latitude":42.59667,
+    "geom:longitude":21.14083,
+    "gn:country":"XK",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Llapllasella"
+    ],
+    "name:dut_x_preferred":[
+        "Laplje Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Laplje Selo"
+    ],
+    "name:fre_x_preferred":[
+        "Laplje Selo"
+    ],
+    "name:sqi_x_preferred":[
+        "Llapje Sell\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Llapllasell\u00eb",
+        "Fshati Llap"
+    ],
+    "name:srp_x_preferred":[
+        "Laplje Selo"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0430\u043f\u0459\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Laplje Selo"
+    ],
+    "name:unk_x_variant":[
+        "Kadikej"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0644\u062c\u06cc \u0633\u06cc\u0644\u0648"
+    ],
+    "qs:name":"Laplje Selo",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Kosovo",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":255,
+    "wof:belongsto":[
+        102191581,
+        1108809537,
+        85633259,
+        1108808603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788794,
+        "gp:id":534944,
+        "qs:id":1165760,
+        "wd:id":"Q6488292",
+        "wk:page":"Laplje Selo"
+    },
+    "wof:country":"XK",
+    "wof:created":1469054909,
+    "wof:geomhash":"48e9a5e418b1e204ad52351367a2eeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809537,
+            "locality_id":890492867,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":890492867,
+    "wof:lastmodified":1527793024,
+    "wof:name":"Laplje Selo",
+    "wof:parent_id":1108809537,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14083,
+    42.59667,
+    21.14083,
+    42.59667
+],
+  "geometry": {"coordinates":[21.14083,42.59667],"type":"Point"}
+}

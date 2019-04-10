@@ -1,0 +1,90 @@
+{
+  "id": 1343795795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38139,42.66639,20.38139,42.66639",
+    "geom:latitude":42.66639,
+    "geom:longitude":20.38139,
+    "gn:admin1_code":"10097359.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Donje Naklo",
+    "gn:country_code":"XK",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787745,
+    "gn:latitude":42.66639,
+    "gn:longitude":20.38139,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Donje Naklo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Nak\u00ebll"
+    ],
+    "name:sqi_x_variant":[
+        "Nakll\u00eb",
+        "Nak\u00ebll\u00eb",
+        "Nakill\u00eb",
+        "Naklle"
+    ],
+    "name:srp_x_preferred":[
+        "Donje Naklo"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0435 \u041d\u0430\u043a\u043b\u043e",
+        "\u041d\u0430\u043a\u043b\u043e",
+        "Naklo"
+    ],
+    "name:und_x_variant":[
+        "Nakill\u00eb",
+        "Naklo",
+        "Naklle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809547,
+        85633259,
+        1108808591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787745
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f7799f1aa08383b18d44f1dbc17737db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809547,
+            "locality_id":1343795795,
+            "region_id":1108808591
+        }
+    ],
+    "wof:id":1343795795,
+    "wof:lastmodified":1537714836,
+    "wof:name":"Donje Naklo",
+    "wof:parent_id":1108809547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38139,
+    42.66639,
+    20.38139,
+    42.66639
+],
+  "geometry": {"coordinates":[20.38139,42.66639],"type":"Point"}
+}

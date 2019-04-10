@@ -1,0 +1,80 @@
+{
+  "id": 1209945617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68667,43.12861,20.68667,43.12861",
+    "geom:latitude":43.12861,
+    "geom:longitude":20.68667,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Berberiste",
+    "gn:country_code":"XK",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792673,
+    "gn:latitude":43.12861,
+    "gn:longitude":20.68667,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Berberi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Berberisht\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0440\u0438\u0448\u0442\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Berberi\u0161te"
+    ],
+    "name:und_x_variant":[
+        "Berberisht\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792673
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"1707ffa2af7cd6c86e91fe28f9021a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1209945617,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1209945617,
+    "wof:lastmodified":1537714955,
+    "wof:name":"Berberiste",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68667,
+    43.12861,
+    20.68667,
+    43.12861
+],
+  "geometry": {"coordinates":[20.68667,43.12861],"type":"Point"}
+}

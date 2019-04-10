@@ -1,0 +1,83 @@
+{
+  "id": 1193053891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69,43.21111,20.69,43.21111",
+    "geom:latitude":43.21111,
+    "geom:longitude":20.69,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Kosutica",
+    "gn:country_code":"XK",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830035,
+    "gn:latitude":43.21111,
+    "gn:longitude":20.69,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Ko\u0161utica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Koshutic\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Koshutica"
+    ],
+    "name:srp_x_preferred":[
+        "Ko\u0161utica"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0448\u0443\u0442\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koshutica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830035
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f3c0615e0b72c3ad35672dd435a35632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1193053891,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1193053891,
+    "wof:lastmodified":1537714972,
+    "wof:name":"Kosutica",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69,
+    43.21111,
+    20.69,
+    43.21111
+],
+  "geometry": {"coordinates":[20.69,43.21111],"type":"Point"}
+}

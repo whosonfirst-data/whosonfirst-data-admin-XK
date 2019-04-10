@@ -1,0 +1,87 @@
+{
+  "id": 1293725361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69917,43.19222,20.69917,43.19222",
+    "geom:latitude":43.19222,
+    "geom:longitude":20.69917,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Postenje",
+    "gn:country_code":"XK",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786841,
+    "gn:latitude":43.19222,
+    "gn:longitude":20.69917,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Postenje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Postenj\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Postenj\u00eb e Ibrit",
+        "Postenja e Ibrit"
+    ],
+    "name:srp_x_preferred":[
+        "Postenje"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0441\u0442\u0435\u045a\u0435",
+        "\u0418\u0431\u0430\u0440\u0441\u043a\u043e \u041f\u043e\u0441\u0442\u0435\u045a\u0435",
+        "Ibarsko Postenje"
+    ],
+    "name:und_x_variant":[
+        "Ibarsko Postenje",
+        "Postenja e Ibrit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809569,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786841
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c7f0f536a0c44a85033ec37522969e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":1293725361,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1293725361,
+    "wof:lastmodified":1537714816,
+    "wof:name":"Postenje",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69917,
+    43.19222,
+    20.69917,
+    43.19222
+],
+  "geometry": {"coordinates":[20.69917,43.19222],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1343495159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39056,42.46056,20.39056,42.46056",
+    "geom:latitude":42.46056,
+    "geom:longitude":20.39056,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Gornje Novo Selo",
+    "gn:country_code":"XK",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790424,
+    "gn:latitude":42.46056,
+    "gn:longitude":20.39056,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Gornje Novo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Novosell\u00eb e Ep\u00ebrme"
+    ],
+    "name:sqi_x_variant":[
+        "Novo Sello"
+    ],
+    "name:srp_x_preferred":[
+        "Gornje Novo Selo"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "Novo Sello"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790424
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"20b0fa283a5bb6a4d4ed0907eb5ecb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1343495159,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1343495159,
+    "wof:lastmodified":1537714897,
+    "wof:name":"Gornje Novo Selo",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39056,
+    42.46056,
+    20.39056,
+    42.46056
+],
+  "geometry": {"coordinates":[20.39056,42.46056],"type":"Point"}
+}

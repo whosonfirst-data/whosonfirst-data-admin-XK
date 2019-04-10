@@ -1,0 +1,84 @@
+{
+  "id": 1276909583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49972,42.4575,20.49972,42.4575",
+    "geom:latitude":42.4575,
+    "geom:longitude":20.49972,
+    "gn:admin1_code":"10096859.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Mece",
+    "gn:country_code":"XK",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788084,
+    "gn:latitude":42.4575,
+    "gn:longitude":20.49972,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Me\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Meqe"
+    ],
+    "name:sqi_x_variant":[
+        "Meq\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Me\u0107e"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u045b\u0430",
+        "Me\u0107a"
+    ],
+    "name:und_x_variant":[
+        "Me\u0107a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809525,
+        85633259,
+        1108808593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788084
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"711718491cee00bea75905d31c10bcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809525,
+            "locality_id":1276909583,
+            "region_id":1108808593
+        }
+    ],
+    "wof:id":1276909583,
+    "wof:lastmodified":1537714843,
+    "wof:name":"Mece",
+    "wof:parent_id":1108809525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49972,
+    42.4575,
+    20.49972,
+    42.4575
+],
+  "geometry": {"coordinates":[20.49972,42.4575],"type":"Point"}
+}

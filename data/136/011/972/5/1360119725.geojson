@@ -1,0 +1,71 @@
+{
+  "id": 1360119725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81361,42.83028,20.81361,42.83028",
+    "geom:latitude":42.83028,
+    "geom:longitude":20.81361,
+    "gn:admin1_code":"10097358.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Rosulje",
+    "gn:country_code":"XK",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830329,
+    "gn:latitude":42.83028,
+    "gn:longitude":20.81361,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Rosulje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"XK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rosulje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108809571,
+        85633259,
+        1108808605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830329
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"f43a39dd961f030ffd56436fc9a671ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":1360119725,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":1360119725,
+    "wof:lastmodified":1537714993,
+    "wof:name":"Rosulje",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81361,
+    42.83028,
+    20.81361,
+    42.83028
+],
+  "geometry": {"coordinates":[20.81361,42.83028],"type":"Point"}
+}
