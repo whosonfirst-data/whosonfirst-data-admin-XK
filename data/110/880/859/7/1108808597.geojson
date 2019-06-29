@@ -23,14 +23,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Rajoni i Prizrenit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0631\u064a\u0632\u0631\u0646"
-    ],
-    "name:baq_x_preferred":[
-        "Prizren"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u0437\u0440\u044d\u043d\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
@@ -44,32 +38,29 @@
     "name:cat_x_preferred":[
         "Districte de Prizren"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u91cc\u8332\u502b\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Prizrensk\u00fd okruh"
     ],
     "name:dan_x_preferred":[
         "Prizren District"
     ],
-    "name:dut_x_preferred":[
-        "Prizren"
+    "name:deu_x_preferred":[
+        "Verwaltungsbezirk  Prizren"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03b9\u03b6\u03c1\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
+        "Prizren"
+    ],
+    "name:eus_x_preferred":[
         "Prizren"
     ],
     "name:fin_x_preferred":[
         "Prizrenin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Prizren"
-    ],
-    "name:ger_x_preferred":[
-        "Verwaltungsbezirk  Prizren"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03b9\u03b6\u03c1\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0abf\u0a9d\u0acd\u0ab0\u0ac7\u0aa8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -104,17 +95,20 @@
     "name:lit_x_preferred":[
         "Prizreno sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u0940\u091d\u0930\u0947\u0928 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Prizren"
     ],
     "name:nan_x_preferred":[
         "Prizrenski Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Prizren"
     ],
     "name:nob_x_preferred":[
         "Prizren distrikt"
@@ -125,7 +119,7 @@
     "name:por_x_preferred":[
         "Distrito de Prizren"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Prizren"
     ],
     "name:rus_x_preferred":[
@@ -139,6 +133,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Prizren"
+    ],
+    "name:sqi_x_preferred":[
+        "Rajoni i Prizrenit"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u0437\u0440\u0435\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
@@ -166,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Prizren"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u8332\u502b\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KOS",
@@ -270,7 +270,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1553551430,
+    "wof:lastmodified":1561830964,
     "wof:name":"Prizren",
     "wof:parent_id":85633259,
     "wof:placetype":"region",
