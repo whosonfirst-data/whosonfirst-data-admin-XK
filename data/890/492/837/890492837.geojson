@@ -15,9 +15,6 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:alb_x_preferred":[
-        "Lipjani"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u0644\u064a\u0627\u0646"
     ],
@@ -27,29 +24,29 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u043b\u044f\u043d"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lipljan"
     ],
     "name:dan_x_preferred":[
         "Lipljan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lipjan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03c0\u03bb\u03c4\u03b6\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lipljan"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u067e\u0644\u06cc\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Lipljan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lipljan"
-    ],
-    "name:ger_x_preferred":[
-        "Lipjan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03c0\u03bb\u03c4\u03b6\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aaa\u0acd\u0a9c\u0aa8"
@@ -81,20 +78,20 @@
     "name:lit_x_preferred":[
         "Liplianas"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043f\u0459\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u0940\u092a\u094d\u091c\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043f\u0459\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Lipljan"
+    ],
+    "name:nld_x_preferred":[
+        "Lipjan"
     ],
     "name:nob_x_preferred":[
         "Lipljan"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u067e\u0644\u06cc\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Lipljan"
@@ -102,7 +99,7 @@
     "name:por_x_preferred":[
         "Lipljan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lipljan"
     ],
     "name:rus_x_preferred":[
@@ -116,6 +113,9 @@
     ],
     "name:spa_x_preferred":[
         "Lipljan"
+    ],
+    "name:sqi_x_preferred":[
+        "Lipjani"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u0438\u043f\u0459\u0430\u043d"
@@ -182,7 +182,7 @@
         }
     ],
     "wof:id":890492837,
-    "wof:lastmodified":1534379807,
+    "wof:lastmodified":1561830968,
     "wof:name":"Lipljan",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

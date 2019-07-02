@@ -16,16 +16,13 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Llapllasella"
-    ],
-    "name:dut_x_preferred":[
-        "Laplje Selo"
-    ],
     "name:eng_x_preferred":[
         "Laplje Selo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Laplje Selo"
+    ],
+    "name:nld_x_preferred":[
         "Laplje Selo"
     ],
     "name:sqi_x_preferred":[
@@ -33,7 +30,8 @@
     ],
     "name:sqi_x_variant":[
         "Llapllasell\u00eb",
-        "Fshati Llap"
+        "Fshati Llap",
+        "Llapllasella"
     ],
     "name:srp_x_preferred":[
         "Laplje Selo"
@@ -90,7 +88,7 @@
         }
     ],
     "wof:id":890492867,
-    "wof:lastmodified":1527793024,
+    "wof:lastmodified":1561830968,
     "wof:name":"Laplje Selo",
     "wof:parent_id":1108809537,
     "wof:placetype":"locality",
