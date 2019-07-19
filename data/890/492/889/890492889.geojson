@@ -24,6 +24,9 @@
     "name:nld_x_preferred":[
         "Po\u017ear"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0436\u0430\u0440"
+    ],
     "name:sqi_x_preferred":[
         "Pozhar"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890492889,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578459,
     "wof:name":"Pozhar",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

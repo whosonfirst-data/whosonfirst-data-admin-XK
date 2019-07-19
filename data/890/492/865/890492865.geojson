@@ -16,6 +16,33 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:eng_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:fra_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0566\u0565\u0581\u0565"
+    ],
+    "name:msa_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:nld_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:por_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:slv_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:spa_x_preferred":[
+        "Brze\u0107e"
+    ],
     "name:sqi_x_preferred":[
         "Brec\u00eb"
     ],
@@ -23,10 +50,14 @@
         "\u0411\u0440\u0435\u0446\u0435"
     ],
     "name:srp_x_variant":[
-        "Brece"
+        "Brece",
+        "\u0411\u0440\u0437\u0435\u045b\u0435"
     ],
     "name:unk_x_variant":[
         "Breca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0632\u06d2\u0686\u0627"
     ],
     "qs:name":"Brze\u0107e",
     "qs:name_adm0":"Serbia",
@@ -68,7 +99,7 @@
         }
     ],
     "wof:id":890492865,
-    "wof:lastmodified":1527793028,
+    "wof:lastmodified":1563578474,
     "wof:name":"Brze\u0107e",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

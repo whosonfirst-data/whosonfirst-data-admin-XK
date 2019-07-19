@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Srbica"
     ],
+    "name:eng_x_variant":[
+        "Skenderaj"
+    ],
     "name:fas_x_preferred":[
         "\u0635\u0631\u0628\u06cc\u06a9\u0627"
     ],
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":890492775,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578477,
     "wof:name":"Srbica",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",
