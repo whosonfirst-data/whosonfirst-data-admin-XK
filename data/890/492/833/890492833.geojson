@@ -21,11 +21,17 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u043e\u0432\u043e \u043f\u043e\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kosovo Polje"
+    ],
     "name:ces_x_preferred":[
         "Kosovo Polje"
     ],
     "name:deu_x_preferred":[
         "Kosovo Polje"
+    ],
+    "name:deu_x_variant":[
+        "Fush\u00eb Kosova"
     ],
     "name:eng_x_preferred":[
         "Kosovo Polje"
@@ -101,6 +107,9 @@
     "name:swe_x_preferred":[
         "Kosovo"
     ],
+    "name:swe_x_variant":[
+        "Kosovo Polje"
+    ],
     "name:tur_x_preferred":[
         "Kosova Ovas\u0131"
     ],
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":890492833,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578467,
     "wof:name":"Kosovo Polje",
     "wof:parent_id":1108809551,
     "wof:placetype":"locality",

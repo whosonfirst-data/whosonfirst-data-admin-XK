@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u043b\u044f\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Lipjan"
+    ],
     "name:ces_x_preferred":[
         "Lipljan"
     ],
@@ -157,6 +160,9 @@
     "name:vie_x_preferred":[
         "Lipljan"
     ],
+    "name:zho_x_preferred":[
+        "\u5229\u666e\u9023"
+    ],
     "qs:name":"Lipljan",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":890492843,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578464,
     "wof:name":"Lipljan",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

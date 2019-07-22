@@ -27,6 +27,12 @@
     "name:cat_x_preferred":[
         "Mali\u0161evo"
     ],
+    "name:ceb_x_preferred":[
+        "Mali\u0161evo"
+    ],
+    "name:ces_x_preferred":[
+        "Mali\u0161evo"
+    ],
     "name:dan_x_preferred":[
         "Mali\u0161evo"
     ],
@@ -159,6 +165,9 @@
     "name:vie_x_preferred":[
         "Malisevo"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5229\u820d\u6c83"
+    ],
     "qs:name":"Mali\u0161evo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -192,7 +201,7 @@
         }
     ],
     "wof:id":890492835,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578465,
     "wof:name":"Mali\u0161evo",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

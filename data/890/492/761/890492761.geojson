@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u0438\u043b\u0438\u0447"
     ],
+    "name:ceb_x_preferred":[
+        "Obiliq"
+    ],
     "name:dan_x_preferred":[
         "Obili\u0107"
     ],
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":890492761,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578469,
     "wof:name":"Obiliq",
     "wof:parent_id":1108809551,
     "wof:placetype":"locality",

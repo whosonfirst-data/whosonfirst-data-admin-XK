@@ -16,6 +16,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Laplje Selo"
+    ],
     "name:eng_x_preferred":[
         "Laplje Selo"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890492867,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578466,
     "wof:name":"Laplje Selo",
     "wof:parent_id":1108809537,
     "wof:placetype":"locality",

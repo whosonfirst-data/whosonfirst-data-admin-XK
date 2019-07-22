@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Prizren"
     ],
+    "name:eng_x_variant":[
+        "Prizren District"
+    ],
     "name:eus_x_preferred":[
         "Prizren"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub9ac\uc988\ub80c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub9ac\uc988\ub80c\uad6c"
     ],
     "name:lav_x_preferred":[
         "Prizrenas rajons"
@@ -270,7 +276,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1561830964,
+    "wof:lastmodified":1563578385,
     "wof:name":"Prizren",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

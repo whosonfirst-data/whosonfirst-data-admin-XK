@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09aa\u09cb\u09b8\u09be\u09ad\u09bf\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Leposaviq"
+    ],
     "name:ces_x_preferred":[
         "Leposavi\u0107"
     ],
@@ -129,6 +132,9 @@
     "name:swe_x_preferred":[
         "Komuna e Leposaviqit"
     ],
+    "name:swe_x_variant":[
+        "Leposaviq"
+    ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bc6\u0baa\u0bcb\u0bb7\u0bcd\u0bb5\u0bbf\u0b95\u0bcd"
     ],
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":890492851,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578466,
     "wof:name":"Leposaviq",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

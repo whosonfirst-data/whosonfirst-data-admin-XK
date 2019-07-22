@@ -16,6 +16,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aln_x_preferred":[
+        "Besiana"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u062f\u0648\u064a\u064a\u0641\u0648"
     ],
@@ -32,6 +35,9 @@
         "\u041f\u043e\u0434\u0443\u0435\u0432\u043e"
     ],
     "name:cat_x_preferred":[
+        "Podujevo"
+    ],
+    "name:ceb_x_preferred":[
         "Podujevo"
     ],
     "name:ces_x_preferred":[
@@ -81,6 +87,9 @@
     ],
     "name:hun_x_preferred":[
         "Podujev\u00f3"
+    ],
+    "name:hun_x_variant":[
+        "Podujevo"
     ],
     "name:ind_x_preferred":[
         "Podujevo"
@@ -162,6 +171,12 @@
     "name:swe_x_preferred":[
         "Podujevo"
     ],
+    "name:swe_x_variant":[
+        "Besiana"
+    ],
+    "name:szl_x_preferred":[
+        "Podujevo"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0bb5\u0bcb"
     ],
@@ -173,6 +188,9 @@
     ],
     "name:tur_x_preferred":[
         "Podujeva"
+    ],
+    "name:tur_x_variant":[
+        "Poduyeva"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0443\u0454\u0432\u043e"
@@ -226,7 +244,7 @@
         }
     ],
     "wof:id":890492845,
-    "wof:lastmodified":1561830967,
+    "wof:lastmodified":1563578459,
     "wof:name":"Podujevo",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

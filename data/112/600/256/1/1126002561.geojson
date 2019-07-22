@@ -55,6 +55,12 @@
     "name:hun_x_preferred":[
         "Vu\u010ditrn"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0578\u0582\u0579\u056b\u057f\u0580\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Vu\u010ditrn"
+    ],
     "name:ita_x_preferred":[
         "Vu\u010ditrn"
     ],
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1126002561,
-    "wof:lastmodified":1561830968,
+    "wof:lastmodified":1563578478,
     "wof:name":"Vushtrri",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",
