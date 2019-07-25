@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u0420\u0430\u0442\u043a\u043e\u0432\u0430\u0446"
     ],
+    "name:swe_x_preferred":[
+        "Ratkovac"
+    ],
     "name:und_x_variant":[
         "Ratkovce"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310635307,
-    "wof:lastmodified":1537714809,
+    "wof:lastmodified":1564096470,
     "wof:name":"Ratkovac",
     "wof:parent_id":1108809509,
     "wof:placetype":"locality",

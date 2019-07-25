@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Dolac"
     ],
+    "name:swe_x_preferred":[
+        "Dolac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260320307,
-    "wof:lastmodified":1537714928,
+    "wof:lastmodified":1564096436,
     "wof:name":"Dolac",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

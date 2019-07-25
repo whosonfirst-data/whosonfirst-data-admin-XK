@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Donja Mahala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1242612377,
-    "wof:lastmodified":1537012862,
+    "wof:lastmodified":1564096545,
     "wof:name":"Donja Mahala",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

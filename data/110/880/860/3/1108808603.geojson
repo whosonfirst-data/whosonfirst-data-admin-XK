@@ -23,6 +23,42 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:bcl_x_preferred":[
+        "Pristina"
+    ],
+    "name:ces_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634\u062a\u06cc\u0646\u0627"
+    ],
+    "name:hrv_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:jav_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:lav_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:nor_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0631\u06cc\u0634\u062a\u06cc\u0646\u0627"
+    ],
+    "name:slk_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e34\u0e2a\u0e15\u0e35\u0e19\u0e32"
+    ],
+    "name:war_x_preferred":[
+        "Pristina"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u4ec0\u8482\u7eb3"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +86,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1553626626,
+    "wof:lastmodified":1564096446,
     "wof:name":"Pristina",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

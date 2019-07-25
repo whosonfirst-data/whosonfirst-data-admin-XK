@@ -32,6 +32,9 @@
     "name:srp_x_variant":[
         "Kuzmin"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Kuzmini"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1310340115,
-    "wof:lastmodified":1537714970,
+    "wof:lastmodified":1564096483,
     "wof:name":"Kuzmin",
     "wof:parent_id":1108809539,
     "wof:placetype":"locality",

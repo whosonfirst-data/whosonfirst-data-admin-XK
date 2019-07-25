@@ -41,6 +41,9 @@
     "name:srp_x_variant":[
         "Banjica"
     ],
+    "name:swe_x_preferred":[
+        "Banjica"
+    ],
     "name:und_x_variant":[
         "Llixh\u00eb e Pej\u00ebs",
         "Baica",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1209248429,
-    "wof:lastmodified":1537714960,
+    "wof:lastmodified":1564096376,
     "wof:name":"Banjica",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

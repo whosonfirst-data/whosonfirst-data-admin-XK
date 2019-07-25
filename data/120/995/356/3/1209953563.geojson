@@ -26,6 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057a\u0580\u056b\u057e\u0576\u056b\u0581\u0561"
+    ],
+    "name:nor_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:sot_x_preferred":[
+        "Koprivnica"
+    ],
     "name:sqi_x_preferred":[
         "Kop\u00ebrnic\u00eb"
     ],
@@ -47,6 +59,9 @@
         "Kop\u00ebrnica",
         "Kop\u00ebr",
         "Kopernic\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u666e\u91cc\u592b\u5c3c\u5bdf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":1209953563,
-    "wof:lastmodified":1537714873,
+    "wof:lastmodified":1564096388,
     "wof:name":"Koprivnica",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

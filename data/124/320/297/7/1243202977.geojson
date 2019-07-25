@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "\u0408\u0430\u0433\u045a\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u06af\u0646\u062c\u0646\u06cc\u06a9\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243202977,
-    "wof:lastmodified":1537714884,
+    "wof:lastmodified":1564096569,
     "wof:name":"Jagnjenica",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

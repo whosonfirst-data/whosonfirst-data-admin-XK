@@ -32,6 +32,9 @@
     "name:srp_x_variant":[
         "\u010caglavica"
     ],
+    "name:swe_x_preferred":[
+        "\u010caglavica"
+    ],
     "name:und_x_variant":[
         "Qakllavic\u00eb",
         "\u010caglovica",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343892705,
-    "wof:lastmodified":1537714943,
+    "wof:lastmodified":1564096264,
     "wof:name":"Cagllavica",
     "wof:parent_id":1108809537,
     "wof:placetype":"locality",

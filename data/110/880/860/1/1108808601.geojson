@@ -23,6 +23,18 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:fra_x_preferred":[
+        "Gjilan"
+    ],
+    "name:nld_x_preferred":[
+        "Gjilan"
+    ],
+    "name:szl_x_preferred":[
+        "Gnjilane"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5c3c\u62c9\u5185"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1553626626,
+    "wof:lastmodified":1564096445,
     "wof:name":"Gjilan",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

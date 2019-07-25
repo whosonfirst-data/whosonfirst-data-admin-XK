@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Lipovica"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Blinaje-a",
         "Lupovic\u00eb"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276264717,
-    "wof:lastmodified":1537714857,
+    "wof:lastmodified":1564096319,
     "wof:name":"Lipovica",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

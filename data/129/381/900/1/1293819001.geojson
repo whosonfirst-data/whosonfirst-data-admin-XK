@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "Mahala Vrelo"
     ],
+    "name:swe_x_preferred":[
+        "Vrelo"
+    ],
     "name:und_x_variant":[
         "Mah Vrello",
         "Mahala Vrelo"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293819001,
-    "wof:lastmodified":1537715017,
+    "wof:lastmodified":1564096308,
     "wof:name":"Vrelo",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

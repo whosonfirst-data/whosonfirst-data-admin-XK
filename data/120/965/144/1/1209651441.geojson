@@ -32,6 +32,9 @@
     "name:srp_x_variant":[
         "Konjuh"
     ],
+    "name:swe_x_preferred":[
+        "Konjuh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633259
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209651441,
-    "wof:lastmodified":1537714874,
+    "wof:lastmodified":1564096367,
     "wof:name":"Konjuh",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

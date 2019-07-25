@@ -34,7 +34,8 @@
     ],
     "name:srp_x_variant":[
         "\u041f\u0438\u0440\u045b\u0435",
-        "Pir\u010da"
+        "Pir\u010da",
+        "\u041f\u0438\u0440\u0447\u0435"
     ],
     "name:und_x_variant":[
         "Pir\u010da"
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1209549479,
-    "wof:lastmodified":1537715005,
+    "wof:lastmodified":1564096364,
     "wof:name":"Pirq",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

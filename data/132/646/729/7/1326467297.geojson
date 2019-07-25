@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "\u041f\u0430\u043d\u0442\u0438\u043d\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Pantina"
+    ],
     "name:und_x_variant":[
         "Pantino"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326467297,
-    "wof:lastmodified":1537714825,
+    "wof:lastmodified":1564096212,
     "wof:name":"Pantina",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

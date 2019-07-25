@@ -41,6 +41,9 @@
         "\u0414\u043e\u0431\u0440\u0438\u0452\u0435",
         "Dobri\u0111e"
     ],
+    "name:swe_x_preferred":[
+        "Dobric"
+    ],
     "name:und_x_variant":[
         "Dobri\u0111e",
         "Dobrigzha"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310136983,
-    "wof:lastmodified":1537715006,
+    "wof:lastmodified":1564096458,
     "wof:name":"Dobric",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

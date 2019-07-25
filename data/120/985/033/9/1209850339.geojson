@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "\u0411\u0430\u0458\u0433\u043e\u0440\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Bajgora"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209850339,
-    "wof:lastmodified":1537714962,
+    "wof:lastmodified":1564096380,
     "wof:name":"Bajgora",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

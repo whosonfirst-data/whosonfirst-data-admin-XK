@@ -35,6 +35,9 @@
         "Qyshk",
         "\u00c7yshk"
     ],
+    "name:swe_x_preferred":[
+        "\u00c7yshk"
+    ],
     "name:und_x_variant":[
         "\u00c7yshk"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276263653,
-    "wof:lastmodified":1537714936,
+    "wof:lastmodified":1564096319,
     "wof:name":"Cyshk",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

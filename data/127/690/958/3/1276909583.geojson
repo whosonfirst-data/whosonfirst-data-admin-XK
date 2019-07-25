@@ -39,6 +39,9 @@
         "\u041c\u0435\u045b\u0430",
         "Me\u0107a"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Me\u0107a"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276909583,
-    "wof:lastmodified":1537714843,
+    "wof:lastmodified":1564096350,
     "wof:name":"Mece",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

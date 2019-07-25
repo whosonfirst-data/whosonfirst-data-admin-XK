@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "\u041b\u0435\u0448\u0430\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Leshak"
+    ],
     "name:und_x_variant":[
         "Lezak"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327065017,
-    "wof:lastmodified":1537714859,
+    "wof:lastmodified":1564096176,
     "wof:name":"Leshak",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

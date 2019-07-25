@@ -35,7 +35,8 @@
     "name:srp_x_variant":[
         "Ra\u0161ane",
         "Gornje Ra\u0161ane",
-        "Donje Ra\u0161ane"
+        "Donje Ra\u0161ane",
+        "\u0413\u043e\u0440\u045a\u0435 \u0420\u0430\u0448\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Donje Ra\u0161ane",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1243488895,
-    "wof:lastmodified":1537714897,
+    "wof:lastmodified":1564096548,
     "wof:name":"Rashan",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

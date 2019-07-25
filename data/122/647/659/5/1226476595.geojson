@@ -39,6 +39,9 @@
     "name:srp_x_variant":[
         "\u0411\u0435\u043b\u0430 \u0426\u0440\u043a\u0432\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Bela Crkva"
+    ],
     "name:und_x_variant":[
         "Belac\u00ebrk"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226476595,
-    "wof:lastmodified":1537714957,
+    "wof:lastmodified":1564096632,
     "wof:name":"Bela Crkva",
     "wof:parent_id":1108809509,
     "wof:placetype":"locality",

@@ -36,7 +36,8 @@
         "Trpeza"
     ],
     "name:srp_x_variant":[
-        "\u0422\u0440\u043f\u0435\u0437\u0430"
+        "\u0422\u0440\u043f\u0435\u0437\u0430",
+        "\u0422\u0440\u043f\u0435\u0437\u0435"
     ],
     "name:und_x_variant":[
         "Trpeze"
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1344188101,
-    "wof:lastmodified":1537714780,
+    "wof:lastmodified":1564096258,
     "wof:name":"Trpeza",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

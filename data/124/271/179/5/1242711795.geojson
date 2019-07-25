@@ -29,6 +29,12 @@
     "name:srp_x_preferred":[
         "Bob"
     ],
+    "name:swe_x_preferred":[
+        "Bob"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c2c\u0c4d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242711795,
-    "wof:lastmodified":1537715008,
+    "wof:lastmodified":1564096561,
     "wof:name":"Bob",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

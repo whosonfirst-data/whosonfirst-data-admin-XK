@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "\u0413\u043b\u0430\u0432\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Glavica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633259
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209351351,
-    "wof:lastmodified":1537715030,
+    "wof:lastmodified":1564096389,
     "wof:name":"Glavica",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

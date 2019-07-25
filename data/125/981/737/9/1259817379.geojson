@@ -40,6 +40,9 @@
     "name:srp_x_variant":[
         "\u041e\u0440\u0430\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Oraovica"
+    ],
     "name:und_x_variant":[
         "Rahovica",
         "Orahovica",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1259817379,
-    "wof:lastmodified":1537714828,
+    "wof:lastmodified":1564096601,
     "wof:name":"Oraovica",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

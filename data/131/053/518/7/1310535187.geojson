@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Izvori"
     ],
+    "name:swe_x_preferred":[
+        "Izvori"
+    ],
     "name:und_x_variant":[
         "Izvor\u00eb",
         "Izvor"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310535187,
-    "wof:lastmodified":1537714885,
+    "wof:lastmodified":1564096463,
     "wof:name":"Izvori",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

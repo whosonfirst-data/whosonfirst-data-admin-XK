@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Golubovac"
     ],
+    "name:swe_x_preferred":[
+        "Golubovac"
+    ],
     "name:und_x_variant":[
         "Golluboc"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343891865,
-    "wof:lastmodified":1537714903,
+    "wof:lastmodified":1564096264,
     "wof:name":"Golubovac",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
         "\u0421\u0442\u0430\u0440\u0438 \u041f\u043e\u043a\u043b\u0435\u043a",
         "Stari Poklek"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043a\u043b\u0435\u043a"
+    ],
     "name:und_x_variant":[
         "Stari Poklek",
         "Ploj\u00eb",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1309746111,
-    "wof:lastmodified":1537714819,
+    "wof:lastmodified":1564096515,
     "wof:name":"Poklek",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

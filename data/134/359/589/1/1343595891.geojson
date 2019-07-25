@@ -26,6 +26,21 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Trnava"
+    ],
+    "name:fin_x_preferred":[
+        "Trnava"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30eb\u30ca\u30f4\u30a1"
+    ],
+    "name:nor_x_preferred":[
+        "Trnava"
+    ],
+    "name:slv_x_preferred":[
+        "Trnava"
+    ],
     "name:sqi_x_preferred":[
         "T\u00ebrrnav\u00eb"
     ],
@@ -48,6 +63,12 @@
         "T\u00ebrnav\u00eb",
         "Shpati",
         "T\u00ebrrnava"
+    ],
+    "name:vie_x_preferred":[
+        "Trnava"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u7d0d\u74e6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +93,7 @@
         }
     ],
     "wof:id":1343595891,
-    "wof:lastmodified":1537714781,
+    "wof:lastmodified":1564096248,
     "wof:name":"Trnava",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

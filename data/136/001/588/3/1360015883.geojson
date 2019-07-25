@@ -26,11 +26,23 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kamen"
+    ],
+    "name:nds_x_preferred":[
+        "Kamen"
+    ],
     "name:srp_x_preferred":[
+        "Kamen"
+    ],
+    "name:szl_x_preferred":[
         "Kamen"
     ],
     "name:und_x_variant":[
         "Kameni"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u9580"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1360015883,
-    "wof:lastmodified":1537714977,
+    "wof:lastmodified":1564096494,
     "wof:name":"Kamen",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

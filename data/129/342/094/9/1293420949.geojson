@@ -36,6 +36,9 @@
         "Poljance",
         "Velji\u0107 Mahala"
     ],
+    "name:swe_x_preferred":[
+        "Poljance"
+    ],
     "name:und_x_variant":[
         "Velji\u0107 Mahala"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293420949,
-    "wof:lastmodified":1537715026,
+    "wof:lastmodified":1564096307,
     "wof:name":"Poljance",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
         "\u041a\u043e\u0437\u0430\u0440\u0438\u0446\u0430",
         "Kozarica Mahala"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Kozarica Mahala"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1193054361,
-    "wof:lastmodified":1537714974,
+    "wof:lastmodified":1564096413,
     "wof:name":"Kozarica",
     "wof:parent_id":1108809551,
     "wof:placetype":"locality",

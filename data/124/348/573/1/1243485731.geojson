@@ -39,6 +39,9 @@
     "name:und_x_variant":[
         "Seli\u0161te Mahala"
     ],
+    "name:vol_x_preferred":[
+        "Seliste"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243485731,
-    "wof:lastmodified":1537714979,
+    "wof:lastmodified":1564096549,
     "wof:name":"Seliste",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

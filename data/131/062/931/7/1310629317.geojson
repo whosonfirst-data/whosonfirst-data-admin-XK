@@ -30,7 +30,8 @@
         "Gornja Mala"
     ],
     "name:srp_x_variant":[
-        "Gornje Mali"
+        "Gornje Mali",
+        "\u041a\u043d\u0438\u045b"
     ],
     "name:und_x_variant":[
         "Gornje Mali"
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1310629317,
-    "wof:lastmodified":1537715010,
+    "wof:lastmodified":1564096461,
     "wof:name":"Gornja Mala",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

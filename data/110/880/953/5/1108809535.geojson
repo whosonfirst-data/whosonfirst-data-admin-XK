@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042762,
-    "geom:area_square_m":390280100.515088,
+    "geom:area_square_m":390280100.515081,
     "geom:bbox":"21.271566,42.2473155,21.646467,42.5660515",
     "geom:latitude":42.429532,
     "geom:longitude":21.46756,
@@ -22,9 +22,21 @@
     "meso:name_local":"Gjilan",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Gjilan"
+    ],
+    "name:nld_x_preferred":[
+        "Gjilan"
+    ],
+    "name:szl_x_preferred":[
+        "Gnjilane"
+    ],
     "name:und_x_variant":[
         "Gnjilane",
         "Gjilan"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5c3c\u62c9\u5185"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1108809535,
-    "wof:lastmodified":1512517087,
+    "wof:lastmodified":1564096440,
     "wof:name":"Gjilan",
     "wof:parent_id":1108808601,
     "wof:placetype":"localadmin",

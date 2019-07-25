@@ -29,6 +29,12 @@
     "name:srp_x_preferred":[
         "Ravni"
     ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0432\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ravni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276480933,
-    "wof:lastmodified":1537715033,
+    "wof:lastmodified":1564096348,
     "wof:name":"Ravni",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

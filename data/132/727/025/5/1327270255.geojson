@@ -32,6 +32,9 @@
     "name:srp_x_preferred":[
         "Lukare"
     ],
+    "name:srp_x_variant":[
+        "\u041b\u0443\u043a\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Lukarj\u00eb"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1327270255,
-    "wof:lastmodified":1537714986,
+    "wof:lastmodified":1564096223,
     "wof:name":"Lukare",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

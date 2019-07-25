@@ -32,6 +32,12 @@
     "name:srp_x_preferred":[
         "Markovac"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Markava",
         "Markofc"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1360321215,
-    "wof:lastmodified":1537714972,
+    "wof:lastmodified":1564096501,
     "wof:name":"Markovac",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

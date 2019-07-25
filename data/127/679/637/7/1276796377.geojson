@@ -39,6 +39,9 @@
         "Kori\u0161a",
         "Kori\u0161"
     ],
+    "name:swe_x_preferred":[
+        "Kori\u0161a"
+    ],
     "name:und_x_variant":[
         "Kori\u0161",
         "Korish\u00eb"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276796377,
-    "wof:lastmodified":1537714872,
+    "wof:lastmodified":1564096346,
     "wof:name":"Korisa",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

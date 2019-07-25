@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276260217,
-    "wof:lastmodified":1537714795,
+    "wof:lastmodified":1564096321,
     "wof:name":"Slivovo",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

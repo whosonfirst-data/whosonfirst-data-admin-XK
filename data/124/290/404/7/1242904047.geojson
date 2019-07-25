@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "Glogovica"
     ],
+    "name:swe_x_preferred":[
+        "Glogovica"
+    ],
     "name:und_x_variant":[
         "Gllogovic\u00eb"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1242904047,
-    "wof:lastmodified":1537714905,
+    "wof:lastmodified":1564096564,
     "wof:name":"Glogovica",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

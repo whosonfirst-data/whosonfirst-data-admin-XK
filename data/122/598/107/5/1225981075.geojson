@@ -39,6 +39,9 @@
     "name:srp_x_variant":[
         "Berevce"
     ],
+    "name:swe_x_preferred":[
+        "Berevce"
+    ],
     "name:und_x_variant":[
         "Berevci"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1225981075,
-    "wof:lastmodified":1537714955,
+    "wof:lastmodified":1564096629,
     "wof:name":"Berevce",
     "wof:parent_id":1108809503,
     "wof:placetype":"locality",

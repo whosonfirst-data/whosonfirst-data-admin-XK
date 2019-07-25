@@ -41,6 +41,9 @@
         "\u0411\u0438\u043d\u0430\u0447",
         "Bin\u010da"
     ],
+    "name:swe_x_preferred":[
+        "Binaq"
+    ],
     "name:und_x_variant":[
         "Bin\u010da"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1260318063,
-    "wof:lastmodified":1537714953,
+    "wof:lastmodified":1564096422,
     "wof:name":"Binaq",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

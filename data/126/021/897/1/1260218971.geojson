@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Drenova"
     ],
+    "name:swe_x_preferred":[
+        "Drenova"
+    ],
     "name:und_x_variant":[
         "Drenov"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260218971,
-    "wof:lastmodified":1537714977,
+    "wof:lastmodified":1564096434,
     "wof:name":"Drenova",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

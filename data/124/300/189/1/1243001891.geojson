@@ -26,11 +26,17 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Baks"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043a\u0441"
     ],
     "name:srp_x_variant":[
         "Baks"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u514b\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243001891,
-    "wof:lastmodified":1537714962,
+    "wof:lastmodified":1564096527,
     "wof:name":"Baks",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

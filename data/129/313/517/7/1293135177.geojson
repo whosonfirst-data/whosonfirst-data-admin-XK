@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Le\u0161nica"
     ],
+    "name:swe_x_preferred":[
+        "Lesnica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293135177,
-    "wof:lastmodified":1537714988,
+    "wof:lastmodified":1564096289,
     "wof:name":"Lesnica",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

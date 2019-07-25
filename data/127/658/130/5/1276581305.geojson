@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "Konjsko"
     ],
+    "name:swe_x_preferred":[
+        "Konjsko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276581305,
-    "wof:lastmodified":1537714874,
+    "wof:lastmodified":1564096333,
     "wof:name":"Konjsko",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

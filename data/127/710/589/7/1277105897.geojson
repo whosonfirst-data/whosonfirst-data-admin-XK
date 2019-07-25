@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Leskovica"
     ],
+    "name:swe_x_preferred":[
+        "Leskovica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1277105897,
-    "wof:lastmodified":1537715019,
+    "wof:lastmodified":1564096357,
     "wof:name":"Leskovica",
     "wof:parent_id":1108809505,
     "wof:placetype":"locality",

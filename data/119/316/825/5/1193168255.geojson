@@ -38,8 +38,14 @@
     "name:srp_x_variant":[
         "\u0426\u0435\u0440\u043d\u0438\u0446\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0456\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Cernic\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u723e\u5c3c\u5361\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1193168255,
-    "wof:lastmodified":1537714941,
+    "wof:lastmodified":1564096416,
     "wof:name":"Cernica",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

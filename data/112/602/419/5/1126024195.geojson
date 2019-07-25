@@ -28,11 +28,17 @@
     "name:eng_x_preferred":[
         "Gnjilane"
     ],
+    "name:fra_x_preferred":[
+        "Gjilan"
+    ],
     "name:hbs_x_preferred":[
         "Gnjilane"
     ],
     "name:lit_x_preferred":[
         "Gnjilan\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Gjilan"
     ],
     "name:nor_x_preferred":[
         "Gjilan"
@@ -56,8 +62,14 @@
     "name:swe_x_preferred":[
         "Gnjilane"
     ],
+    "name:szl_x_preferred":[
+        "Gnjilane"
+    ],
     "name:unk_x_variant":[
         "Gilan"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5c3c\u62c9\u5185"
     ],
     "qs_pg:aaroncc":"XK",
     "qs_pg:gn_country":"XK",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1126024195,
-    "wof:lastmodified":1509407425,
+    "wof:lastmodified":1564096524,
     "wof:name":"Gjilan",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

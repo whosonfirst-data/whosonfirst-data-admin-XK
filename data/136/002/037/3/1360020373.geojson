@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Blato"
+    ],
     "name:sqi_x_preferred":[
         "Bllat\u00eb"
     ],
@@ -37,6 +40,9 @@
         "Blato"
     ],
     "name:srp_x_variant":[
+        "\u0411\u043b\u0430\u0442\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0442\u043e"
     ],
     "name:und_x_variant":[
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1360020373,
-    "wof:lastmodified":1537715019,
+    "wof:lastmodified":1564096503,
     "wof:name":"Blato",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:srp_x_variant":[
         "Pe\u0161ter"
     ],
+    "name:swe_x_preferred":[
+        "Pester"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633259
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209451295,
-    "wof:lastmodified":1537715009,
+    "wof:lastmodified":1564096402,
     "wof:name":"Pester",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

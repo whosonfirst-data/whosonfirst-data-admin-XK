@@ -42,6 +42,9 @@
         "Luka\u0161an",
         "Liko\u0161an"
     ],
+    "name:swe_x_preferred":[
+        "Likoshan"
+    ],
     "name:und_x_variant":[
         "Liko\u0161an",
         "Likoshani",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1360220525,
-    "wof:lastmodified":1537714858,
+    "wof:lastmodified":1564096488,
     "wof:name":"Likoshan",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

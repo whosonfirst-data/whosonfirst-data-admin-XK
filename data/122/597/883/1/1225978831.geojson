@@ -30,7 +30,8 @@
         "Kosovica"
     ],
     "name:srp_x_variant":[
-        "Mahala Kosovica"
+        "Mahala Kosovica",
+        "\u041a\u043e\u0441\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Mahala Kosovica"
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1225978831,
-    "wof:lastmodified":1537715011,
+    "wof:lastmodified":1564096627,
     "wof:name":"Kosovica",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

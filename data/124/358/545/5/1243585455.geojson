@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Ra\u010dak"
     ],
+    "name:tur_x_preferred":[
+        "Re\u00e7ak"
+    ],
     "name:und_x_variant":[
         "Re\u00e7ak"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243585455,
-    "wof:lastmodified":1537714988,
+    "wof:lastmodified":1564096554,
     "wof:name":"Racak",
     "wof:parent_id":1108809523,
     "wof:placetype":"locality",

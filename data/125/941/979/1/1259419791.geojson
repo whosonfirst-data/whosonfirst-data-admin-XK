@@ -40,6 +40,9 @@
     "name:srp_x_variant":[
         "Glavnik"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Vendenisi",
         "Gllamnik",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1259419791,
-    "wof:lastmodified":1537714906,
+    "wof:lastmodified":1564096584,
     "wof:name":"Glavnik",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

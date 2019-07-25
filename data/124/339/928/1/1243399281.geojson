@@ -37,7 +37,11 @@
     ],
     "name:srp_x_variant":[
         "\u041a\u043e\u0436\u0438\u0446\u0430",
-        "Ko\u017eince"
+        "Ko\u017eince",
+        "\u041a\u043e\u0437\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kozica"
     ],
     "name:und_x_variant":[
         "Ko\u017eince"
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1243399281,
-    "wof:lastmodified":1537714869,
+    "wof:lastmodified":1564096537,
     "wof:name":"Kozica",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

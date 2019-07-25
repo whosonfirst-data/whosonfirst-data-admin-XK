@@ -41,6 +41,9 @@
     "name:srp_x_variant":[
         "Donji Grabovac"
     ],
+    "name:swe_x_preferred":[
+        "Donji Grabovac"
+    ],
     "name:und_x_variant":[
         "Gurshkaba",
         "Grabovci i Posht\u00ebm",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276911289,
-    "wof:lastmodified":1537714919,
+    "wof:lastmodified":1564096354,
     "wof:name":"Donji Grabovac",
     "wof:parent_id":1108809539,
     "wof:placetype":"locality",

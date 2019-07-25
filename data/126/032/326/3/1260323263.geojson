@@ -39,6 +39,9 @@
     "name:srp_x_variant":[
         "\u0411\u0438\u0448\u0442\u0440\u0430\u0436\u0438\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Bishtazhin"
+    ],
     "name:und_x_variant":[
         "Bistazhini"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260323263,
-    "wof:lastmodified":1537714953,
+    "wof:lastmodified":1564096438,
     "wof:name":"Bishtazhin",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

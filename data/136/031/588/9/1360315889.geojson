@@ -40,6 +40,9 @@
     "name:srp_x_variant":[
         "\u0411\u0430\u045a\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Banjica"
+    ],
     "name:und_x_variant":[
         "Lugdreni",
         "Baica e Elshanit",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1360315889,
-    "wof:lastmodified":1537714960,
+    "wof:lastmodified":1564096491,
     "wof:name":"Banjica",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

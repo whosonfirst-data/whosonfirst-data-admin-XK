@@ -39,6 +39,9 @@
         "Dreja",
         "Drelje"
     ],
+    "name:war_x_preferred":[
+        "Drenje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226074631,
-    "wof:lastmodified":1537714985,
+    "wof:lastmodified":1564096646,
     "wof:name":"Drenje",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

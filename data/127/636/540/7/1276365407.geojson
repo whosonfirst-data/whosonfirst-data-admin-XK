@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Trn"
+    ],
     "name:sqi_x_preferred":[
         "T\u00ebrrn"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_variant":[
         "\u0422\u0440\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Trn"
     ],
     "name:und_x_variant":[
         "T\u00ebrna"
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1276365407,
-    "wof:lastmodified":1537714782,
+    "wof:lastmodified":1564096356,
     "wof:name":"Trn",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

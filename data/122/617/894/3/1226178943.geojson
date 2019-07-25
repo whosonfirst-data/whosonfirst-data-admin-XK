@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Tekija"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u0435\u043a\u0438\u0458\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226178943,
-    "wof:lastmodified":1537715005,
+    "wof:lastmodified":1564096608,
     "wof:name":"Tekija",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

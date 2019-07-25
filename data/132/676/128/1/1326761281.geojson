@@ -26,12 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Staro Selo"
+    ],
     "name:srp_x_preferred":[
         "Staro Selo"
     ],
     "name:srp_x_variant":[
         "Mahala Staro Bu\u0161ince",
         "Mahala Staro Butince"
+    ],
+    "name:swe_x_preferred":[
+        "Staro Selo"
     ],
     "name:und_x_variant":[
         "Mahala Staro Butince",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1326761281,
-    "wof:lastmodified":1537715018,
+    "wof:lastmodified":1564096208,
     "wof:name":"Staro Selo",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Sefer"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0444\u0435\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343296483,
-    "wof:lastmodified":1537715038,
+    "wof:lastmodified":1564096261,
     "wof:name":"Sefer",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

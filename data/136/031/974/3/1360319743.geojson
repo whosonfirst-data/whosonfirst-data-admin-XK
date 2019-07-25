@@ -26,6 +26,12 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Kamenica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
     "name:sqi_x_preferred":[
         "Kamenic\u00eb"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:srp_x_variant":[
         "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1360319743,
-    "wof:lastmodified":1537715022,
+    "wof:lastmodified":1564096493,
     "wof:name":"Kamenica",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

@@ -23,6 +23,18 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:est_x_preferred":[
+        "Ferizaj"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub9ac\uc790\uc774"
+    ],
+    "name:sqi_x_preferred":[
+        "Ferizaj"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u7f57\u820d\u74e6\u8328"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1553626626,
+    "wof:lastmodified":1564096443,
     "wof:name":"Ferizaj",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

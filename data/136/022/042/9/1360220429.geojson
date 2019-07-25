@@ -35,8 +35,14 @@
     "name:srp_x_variant":[
         "Janjevo"
     ],
+    "name:swe_x_preferred":[
+        "Janjevo"
+    ],
     "name:und_x_variant":[
         "Janjev\u00eb"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u062c\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1360220429,
-    "wof:lastmodified":1537714884,
+    "wof:lastmodified":1564096489,
     "wof:name":"Janjevo",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

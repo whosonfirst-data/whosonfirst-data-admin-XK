@@ -39,6 +39,9 @@
         "Dumo\u0161",
         "Duma\u0161"
     ],
+    "name:swe_x_preferred":[
+        "Dumosh"
+    ],
     "name:und_x_variant":[
         "Dumoshi",
         "Duma\u0161",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226579375,
-    "wof:lastmodified":1537714912,
+    "wof:lastmodified":1564096618,
     "wof:name":"Dumosh",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

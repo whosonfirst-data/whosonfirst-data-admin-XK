@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Leskova"
     ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326660445,
-    "wof:lastmodified":1537714976,
+    "wof:lastmodified":1564096199,
     "wof:name":"Leskova",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

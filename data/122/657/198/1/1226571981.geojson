@@ -37,6 +37,9 @@
         "Donji Barani",
         "Donje Barane"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Donje Barane",
         "Baran",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226571981,
-    "wof:lastmodified":1537714969,
+    "wof:lastmodified":1564096620,
     "wof:name":"Baran",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
         "Stubla",
         "\u0421\u0442\u0443\u0431\u043b\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Stubla"
+    ],
     "name:und_x_variant":[
         "Stubella e Ep\u00ebrme",
         "Stub\u00ebll e Ep\u00ebrme"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226783225,
-    "wof:lastmodified":1537714900,
+    "wof:lastmodified":1564096635,
     "wof:name":"Stubla",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
         "Kralani",
         "Kraljan"
     ],
+    "name:vie_x_preferred":[
+        "Kralan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1260322807,
-    "wof:lastmodified":1537714868,
+    "wof:lastmodified":1564096435,
     "wof:name":"Kralan",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

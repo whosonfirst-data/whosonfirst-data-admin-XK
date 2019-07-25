@@ -38,6 +38,12 @@
     "name:srp_x_variant":[
         "\u0414\u0443\u0433\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Duga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0433\u0430"
+    ],
     "name:und_x_variant":[
         "Duk\u00eb"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1276909961,
-    "wof:lastmodified":1537714999,
+    "wof:lastmodified":1564096349,
     "wof:name":"Duga",
     "wof:parent_id":1108809523,
     "wof:placetype":"locality",

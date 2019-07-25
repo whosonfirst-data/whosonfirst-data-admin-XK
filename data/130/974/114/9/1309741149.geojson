@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "\u010caret"
     ],
+    "name:zho_x_preferred":[
+        "\u8131\u5b57\u7b26"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309741149,
-    "wof:lastmodified":1537714988,
+    "wof:lastmodified":1564096517,
     "wof:name":"Caret",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

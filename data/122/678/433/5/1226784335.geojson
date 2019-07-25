@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "Drenovac"
     ],
+    "name:swe_x_preferred":[
+        "Drenovac"
+    ],
     "name:und_x_variant":[
         "Drenovce",
         "Drenoc"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226784335,
-    "wof:lastmodified":1537714915,
+    "wof:lastmodified":1564096636,
     "wof:name":"Drenovac",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

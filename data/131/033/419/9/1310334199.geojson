@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u041f\u0440\u0438\u043b\u0435\u043f\u043d\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Prilepnica"
+    ],
     "name:und_x_variant":[
         "Pritepnica"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310334199,
-    "wof:lastmodified":1537714814,
+    "wof:lastmodified":1564096485,
     "wof:name":"Prilepnica",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

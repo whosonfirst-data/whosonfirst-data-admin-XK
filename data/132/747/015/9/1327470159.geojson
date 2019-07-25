@@ -41,6 +41,9 @@
     "name:srp_x_variant":[
         "\u0412\u0440\u0431\u043e\u0432\u0430\u0446"
     ],
+    "name:swe_x_preferred":[
+        "Vrbovac"
+    ],
     "name:und_x_variant":[
         "Fortesa",
         "Vrbovce",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327470159,
-    "wof:lastmodified":1537714765,
+    "wof:lastmodified":1564096201,
     "wof:name":"Vrbovac",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

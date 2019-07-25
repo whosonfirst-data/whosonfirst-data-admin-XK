@@ -33,7 +33,8 @@
         "Trpeza"
     ],
     "name:srp_x_variant":[
-        "\u0422\u0440\u043f\u0435\u0437\u0430"
+        "\u0422\u0440\u043f\u0435\u0437\u0430",
+        "\u0422\u0440\u043f\u0435\u0437\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1193168251,
-    "wof:lastmodified":1537714780,
+    "wof:lastmodified":1564096416,
     "wof:name":"Trpeza",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:srp_x_variant":[
         "Mu\u0161uti\u0161te"
     ],
+    "name:swe_x_preferred":[
+        "Mu\u0161uti\u0161te"
+    ],
     "name:und_x_variant":[
         "Mushitisht\u00eb",
         "Mushtisht\u00eb"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276473407,
-    "wof:lastmodified":1537714837,
+    "wof:lastmodified":1564096338,
     "wof:name":"Musutiste",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

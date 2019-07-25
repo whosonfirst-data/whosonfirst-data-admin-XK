@@ -39,6 +39,9 @@
         "\u041b\u0435\u0441\u043a\u043e\u0432\u0435\u0446",
         "Leskovac"
     ],
+    "name:swe_x_preferred":[
+        "Leskovec"
+    ],
     "name:und_x_variant":[
         "Leskoc",
         "Leskovo"
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1276473991,
-    "wof:lastmodified":1537714859,
+    "wof:lastmodified":1564096336,
     "wof:name":"Leskovec",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
         "Gornja Korotica",
         "Gornja Koratica"
     ],
+    "name:swe_x_preferred":[
+        "Gornja Koretica"
+    ],
     "name:und_x_variant":[
         "Kruembret",
         "Gornja Koratica",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276151799,
-    "wof:lastmodified":1537714901,
+    "wof:lastmodified":1564096345,
     "wof:name":"Gornja Koretica",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Zaselje"
     ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0441\u0435\u0459\u0435"
+    ],
     "name:und_x_variant":[
         "Zasele"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326964069,
-    "wof:lastmodified":1537714977,
+    "wof:lastmodified":1564096213,
     "wof:name":"Zaselje",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

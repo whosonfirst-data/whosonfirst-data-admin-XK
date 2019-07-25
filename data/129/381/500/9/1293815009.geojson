@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bataire"
+    ],
     "name:sqi_x_preferred":[
         "Batahir"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293815009,
-    "wof:lastmodified":1537714997,
+    "wof:lastmodified":1564096309,
     "wof:name":"Bataire",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

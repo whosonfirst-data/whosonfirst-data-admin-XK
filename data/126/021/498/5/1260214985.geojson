@@ -32,6 +32,9 @@
     "name:srp_x_variant":[
         "Pasjak"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441\u044f\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260214985,
-    "wof:lastmodified":1537714824,
+    "wof:lastmodified":1564096433,
     "wof:name":"Pasjak",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

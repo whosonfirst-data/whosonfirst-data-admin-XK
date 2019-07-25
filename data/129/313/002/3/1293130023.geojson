@@ -26,8 +26,14 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0431\u0430"
+    ],
     "name:srp_x_preferred":[
         "Vrba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0431\u0430"
     ],
     "name:und_x_variant":[
         "Verba"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293130023,
-    "wof:lastmodified":1537714972,
+    "wof:lastmodified":1564096291,
     "wof:name":"Vrba",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

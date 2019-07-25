@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Baksa"
     ],
+    "name:swe_x_preferred":[
+        "Baksa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276371073,
-    "wof:lastmodified":1537715039,
+    "wof:lastmodified":1564096353,
     "wof:name":"Baksa",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

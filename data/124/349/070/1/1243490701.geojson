@@ -32,6 +32,9 @@
     "name:srp_x_preferred":[
         "Donja Mahala"
     ],
+    "name:swe_x_preferred":[
+        "Donja Mahala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243490701,
-    "wof:lastmodified":1537715040,
+    "wof:lastmodified":1564096550,
     "wof:name":"Donja Mahala",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

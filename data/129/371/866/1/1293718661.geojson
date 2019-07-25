@@ -36,6 +36,9 @@
         "\u041c\u0438\u0440\u0430\u0448",
         "Stari Mara\u0161"
     ],
+    "name:swe_x_preferred":[
+        "M\u012br\u0101sh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293718661,
-    "wof:lastmodified":1537714990,
+    "wof:lastmodified":1564096287,
     "wof:name":"Mirash",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Lokvica"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043a\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Llokvic"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276474233,
-    "wof:lastmodified":1537714852,
+    "wof:lastmodified":1564096337,
     "wof:name":"Lokvica",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

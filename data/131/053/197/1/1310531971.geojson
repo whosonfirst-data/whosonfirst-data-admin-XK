@@ -39,6 +39,9 @@
         "Turjak\u00eb",
         "Turijak"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0631\u062c\u0627\u06a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310531971,
-    "wof:lastmodified":1537714778,
+    "wof:lastmodified":1564096464,
     "wof:name":"Turjak",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

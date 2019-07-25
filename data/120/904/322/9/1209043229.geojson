@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Novo Brdas"
+    ],
     "name:nor_x_preferred":[
         "Novo Brdo"
     ],
@@ -42,10 +45,16 @@
     "name:srp_x_variant":[
         "\u041d\u043e\u0432\u043e \u0411\u0440\u0434\u043e"
     ],
+    "name:tur_x_preferred":[
+        "Nob\u0131rda"
+    ],
     "name:und_x_variant":[
         "Novob\u00ebrda",
         "Novaberd",
         "Novus Mons"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e03\u723e\u591a"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1209043229,
-    "wof:lastmodified":1537714832,
+    "wof:lastmodified":1564096394,
     "wof:name":"Novo Brdo",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

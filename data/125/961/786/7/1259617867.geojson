@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Petkovac"
     ],
+    "name:swe_x_preferred":[
+        "Petkovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259617867,
-    "wof:lastmodified":1537715033,
+    "wof:lastmodified":1564096595,
     "wof:name":"Petkovac",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

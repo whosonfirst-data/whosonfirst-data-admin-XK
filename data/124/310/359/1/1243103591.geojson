@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "Vrani Do"
     ],
+    "name:swe_x_preferred":[
+        "Vrani Do"
+    ],
     "name:und_x_variant":[
         "Vranidoll",
         "Vrani Dol"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243103591,
-    "wof:lastmodified":1537714767,
+    "wof:lastmodified":1564096575,
     "wof:name":"Vrani Do",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

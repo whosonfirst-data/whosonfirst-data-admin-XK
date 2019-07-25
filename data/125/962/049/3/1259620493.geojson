@@ -30,7 +30,8 @@
         "Kllokot"
     ],
     "name:sqi_x_variant":[
-        "Kllotkot"
+        "Kllotkot",
+        "Kllokoti"
     ],
     "name:srp_x_preferred":[
         "Klokot"
@@ -41,6 +42,9 @@
     "name:und_x_variant":[
         "Kllotkot",
         "Klokot-Vrbovac"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u6d1b\u79d1\u7279"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1259620493,
-    "wof:lastmodified":1537714876,
+    "wof:lastmodified":1564096582,
     "wof:name":"Klokot",
     "wof:parent_id":1108809507,
     "wof:placetype":"locality",

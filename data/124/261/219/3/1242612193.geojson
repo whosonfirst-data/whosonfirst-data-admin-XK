@@ -30,7 +30,11 @@
         "Kulina"
     ],
     "name:srp_x_variant":[
-        "Mahala Kulina"
+        "Mahala Kulina",
+        "\u041a\u0443\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kulina"
     ],
     "name:und_x_variant":[
         "Mahala Kulina"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242612193,
-    "wof:lastmodified":1537715017,
+    "wof:lastmodified":1564096544,
     "wof:name":"Kulina",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

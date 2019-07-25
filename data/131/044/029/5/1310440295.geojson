@@ -39,9 +39,15 @@
     "name:srp_x_variant":[
         "\u0420\u0430\u043d\u0438\u043b\u0443\u0433"
     ],
+    "name:tur_x_preferred":[
+        "Ranilug"
+    ],
     "name:und_x_variant":[
         "Ranillugu",
         "Ranllug"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5c3c\u76e7\u683c"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1310440295,
-    "wof:lastmodified":1537714810,
+    "wof:lastmodified":1564096473,
     "wof:name":"Ranilug",
     "wof:parent_id":1108809579,
     "wof:placetype":"locality",

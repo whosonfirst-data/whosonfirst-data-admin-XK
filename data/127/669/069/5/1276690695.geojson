@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0448\u0442\u0430\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Bishtan"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276690695,
-    "wof:lastmodified":1537714822,
+    "wof:lastmodified":1564096329,
     "wof:name":"Pishtane",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

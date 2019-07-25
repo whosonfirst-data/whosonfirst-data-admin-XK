@@ -40,6 +40,9 @@
     "name:srp_x_variant":[
         "Brezna"
     ],
+    "name:swe_x_preferred":[
+        "Brezna"
+    ],
     "name:und_x_variant":[
         "Brezn\u00eb",
         "Brez\u00eb",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226178925,
-    "wof:lastmodified":1537714948,
+    "wof:lastmodified":1564096607,
     "wof:name":"Brezna",
     "wof:parent_id":1108809493,
     "wof:placetype":"locality",

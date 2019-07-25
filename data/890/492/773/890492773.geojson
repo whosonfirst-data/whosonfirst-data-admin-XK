@@ -27,6 +27,9 @@
     "name:srp_x_variant":[
         "\u0421\u043b\u0443\u043f"
     ],
+    "name:swe_x_preferred":[
+        "Slup"
+    ],
     "name:unk_x_variant":[
         "Slub"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890492773,
-    "wof:lastmodified":1527793030,
+    "wof:lastmodified":1564096523,
     "wof:name":"Slup",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

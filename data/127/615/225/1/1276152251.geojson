@@ -29,6 +29,12 @@
     "name:srp_x_preferred":[
         "Mirkovci"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u0440\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0440\u043a\u043e\u0432\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276152251,
-    "wof:lastmodified":1537715009,
+    "wof:lastmodified":1564096344,
     "wof:name":"Mirkovci",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

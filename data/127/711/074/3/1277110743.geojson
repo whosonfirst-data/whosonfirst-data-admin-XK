@@ -39,6 +39,9 @@
     "name:srp_x_variant":[
         "\u0414\u043e\u045a\u0435 \u0409\u0443\u043f\u0447\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Donje Ljup\u010de"
+    ],
     "name:und_x_variant":[
         "Lup\u00e7i i Posht\u00ebm",
         "Kulinasi",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1277110743,
-    "wof:lastmodified":1537714921,
+    "wof:lastmodified":1564096361,
     "wof:name":"Donje Ljupce",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

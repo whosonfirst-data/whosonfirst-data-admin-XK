@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0440\u0431\u0438\u0446\u0430"
+    ],
     "name:sqi_x_preferred":[
         "V\u00ebrbic\u00eb e Kmetovcit"
     ],
@@ -44,6 +47,9 @@
         "\u0412\u0440\u0431\u0438\u0446\u0430",
         "Kmetova\u010dka Vrbica",
         "\u041a\u043c\u0435\u0442\u043e\u0432\u0430\u0447\u043a\u0430 \u0412\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0440\u0431\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
         "Verbica e Kmetofcit",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1293723139,
-    "wof:lastmodified":1537714971,
+    "wof:lastmodified":1564096311,
     "wof:name":"Vrbica",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

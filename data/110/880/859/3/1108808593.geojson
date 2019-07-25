@@ -23,6 +23,18 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:fin_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:pol_x_preferred":[
+        "Djakowica"
+    ],
+    "name:szl_x_preferred":[
+        "Djakowica"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u79d1\u7ef4\u5bdf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1553626626,
+    "wof:lastmodified":1564096444,
     "wof:name":"Gjakova",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

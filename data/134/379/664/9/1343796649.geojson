@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u0422\u043e\u043f\u043e\u043d\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Toponica"
+    ],
     "name:und_x_variant":[
         "Troje",
         "Toponic\u00eb",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1343796649,
-    "wof:lastmodified":1537714783,
+    "wof:lastmodified":1564096241,
     "wof:name":"Toponica",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
         "Belo Polje",
         "Gornje Belopolje"
     ],
+    "name:swe_x_preferred":[
+        "Belo Polje"
+    ],
     "name:und_x_variant":[
         "Gornje Belopolje",
         "Bellopoj\u00eb",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1276374437,
-    "wof:lastmodified":1537714955,
+    "wof:lastmodified":1564096353,
     "wof:name":"Belo Polje",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

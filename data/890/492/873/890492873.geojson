@@ -25,6 +25,9 @@
     "name:srp_x_variant":[
         "\u041c\u0430\u0433\u0443\u0440\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0491\u0443\u0440\u0430"
+    ],
     "qs:name":"Magura",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Kosovo",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890492873,
-    "wof:lastmodified":1527793022,
+    "wof:lastmodified":1564096518,
     "wof:name":"Magura",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

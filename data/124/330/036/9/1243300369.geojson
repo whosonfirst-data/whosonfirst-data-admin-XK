@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Mazrek"
     ],
+    "name:swe_x_preferred":[
+        "Mazrek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243300369,
-    "wof:lastmodified":1537715008,
+    "wof:lastmodified":1564096531,
     "wof:name":"Mazrek",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

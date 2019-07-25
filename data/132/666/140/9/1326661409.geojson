@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u041b\u0435\u043e\u0447\u0438\u043d\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Leo\u010dina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326661409,
-    "wof:lastmodified":1537714859,
+    "wof:lastmodified":1564096200,
     "wof:name":"Leocina",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

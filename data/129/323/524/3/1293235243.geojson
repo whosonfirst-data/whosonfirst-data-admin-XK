@@ -39,6 +39,9 @@
         "Vla\u0161nja",
         "Vlja\u0161na"
     ],
+    "name:swe_x_preferred":[
+        "Vlashnje"
+    ],
     "name:und_x_variant":[
         "Vllashnj\u00eb",
         "Vlajsh\u00eb",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1293235243,
-    "wof:lastmodified":1537714769,
+    "wof:lastmodified":1564096285,
     "wof:name":"Vlashnje",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Paljevo"
     ],
+    "name:swe_x_preferred":[
+        "Paljevo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1292941643,
-    "wof:lastmodified":1537714986,
+    "wof:lastmodified":1564096280,
     "wof:name":"Paljevo",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

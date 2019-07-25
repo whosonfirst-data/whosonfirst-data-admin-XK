@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Ko\u0161"
     ],
+    "name:swe_x_preferred":[
+        "Kosh"
+    ],
     "name:und_x_variant":[
         "Koshi"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1226277365,
-    "wof:lastmodified":1537714968,
+    "wof:lastmodified":1564096611,
     "wof:name":"Kosh",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

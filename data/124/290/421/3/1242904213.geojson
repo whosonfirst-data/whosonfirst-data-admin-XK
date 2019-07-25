@@ -36,6 +36,9 @@
         "Preseka",
         "Presjeka"
     ],
+    "name:swe_x_preferred":[
+        "Preseka"
+    ],
     "name:und_x_variant":[
         "Presjeka"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242904213,
-    "wof:lastmodified":1537715015,
+    "wof:lastmodified":1564096563,
     "wof:name":"Preseka",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:srp_x_variant":[
         "\u017da\u010d"
     ],
+    "name:swe_x_preferred":[
+        "Zhaq"
+    ],
     "name:und_x_variant":[
         "Zallq",
         "Zall\u00e7i",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209142823,
-    "wof:lastmodified":1537714762,
+    "wof:lastmodified":1564096385,
     "wof:name":"Zhaq",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dedinje"
+    ],
     "name:sqi_x_preferred":[
         "Dedi"
     ],
@@ -33,6 +36,9 @@
         "\u0414\u0435\u0434\u0438\u045a\u0435"
     ],
     "name:srp_x_variant":[
+        "Dedinje"
+    ],
+    "name:swe_x_preferred":[
         "Dedinje"
     ],
     "src:geom":"geonames",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1260016491,
-    "wof:lastmodified":1537714934,
+    "wof:lastmodified":1564096426,
     "wof:name":"Dedinje",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

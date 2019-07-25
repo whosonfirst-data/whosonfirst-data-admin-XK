@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "\u041b\u0435\u0442\u043d\u0438\u0446\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0442\u043d\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1242909521,
-    "wof:lastmodified":1537714858,
+    "wof:lastmodified":1564096562,
     "wof:name":"Letnica",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Dobrava"
     ],
+    "name:swe_x_preferred":[
+        "Dobrava"
+    ],
     "name:und_x_variant":[
         "Dobrav\u00eb",
         "Dubrav\u00eb"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1343295641,
-    "wof:lastmodified":1537714932,
+    "wof:lastmodified":1564096260,
     "wof:name":"Dobrava",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

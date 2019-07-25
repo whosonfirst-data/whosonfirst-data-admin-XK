@@ -39,6 +39,12 @@
     "name:srp_x_variant":[
         "Kijevo"
     ],
+    "name:swe_x_preferred":[
+        "Kijevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Pleqnor",
         "Kjeva",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1243591159,
-    "wof:lastmodified":1537714878,
+    "wof:lastmodified":1564096552,
     "wof:name":"Kijevo",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

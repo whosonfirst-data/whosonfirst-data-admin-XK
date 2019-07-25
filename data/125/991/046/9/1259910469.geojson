@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Trnova"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259910469,
-    "wof:lastmodified":1537715028,
+    "wof:lastmodified":1564096577,
     "wof:name":"Trnova",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

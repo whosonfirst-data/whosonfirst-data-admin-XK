@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u041e\u0440\u0430\u0445\u043e\u0432\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Orahovo"
+    ],
     "name:und_x_variant":[
         "Rehov\u00eb",
         "Oraovo"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1260320651,
-    "wof:lastmodified":1537714828,
+    "wof:lastmodified":1564096435,
     "wof:name":"Orahovo",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

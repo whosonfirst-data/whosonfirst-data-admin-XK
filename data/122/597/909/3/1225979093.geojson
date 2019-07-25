@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Belja"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u0459\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1225979093,
-    "wof:lastmodified":1537715013,
+    "wof:lastmodified":1564096624,
     "wof:name":"Belja",
     "wof:parent_id":1108809505,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Dubovac"
     ],
+    "name:swe_x_preferred":[
+        "Dubovac"
+    ],
     "name:und_x_variant":[
         "Dubovce",
         "Dubovc"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293725145,
-    "wof:lastmodified":1537714913,
+    "wof:lastmodified":1564096312,
     "wof:name":"Dubovac",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

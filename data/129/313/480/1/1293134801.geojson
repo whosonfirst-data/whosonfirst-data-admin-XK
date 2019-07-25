@@ -39,6 +39,9 @@
         "Marash",
         "Marosh"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u7f57\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293134801,
-    "wof:lastmodified":1537715005,
+    "wof:lastmodified":1564096290,
     "wof:name":"Maros",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

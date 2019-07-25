@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Bobovac"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0431\u043e\u0432\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243394441,
-    "wof:lastmodified":1537715028,
+    "wof:lastmodified":1564096535,
     "wof:name":"Bobovac",
     "wof:parent_id":1108809509,
     "wof:placetype":"locality",

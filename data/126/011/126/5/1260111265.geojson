@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Turjane"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0631\u062c\u06cc\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260111265,
-    "wof:lastmodified":1537715027,
+    "wof:lastmodified":1564096429,
     "wof:name":"Turjane",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

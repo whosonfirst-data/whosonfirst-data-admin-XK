@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "Vrelo"
     ],
+    "name:swe_x_preferred":[
+        "Vrelo"
+    ],
     "name:und_x_variant":[
         "Kroje"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1260323257,
-    "wof:lastmodified":1537714764,
+    "wof:lastmodified":1564096436,
     "wof:name":"Vrelo",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

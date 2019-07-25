@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u041f\u043b\u0430\u043d\u0438\u043d\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Planinica"
+    ],
     "name:und_x_variant":[
         "Pllanini\u00e7\u00eb"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209751793,
-    "wof:lastmodified":1537714984,
+    "wof:lastmodified":1564096406,
     "wof:name":"Planinica",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

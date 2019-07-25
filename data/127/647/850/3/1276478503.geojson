@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Vrelo"
     ],
+    "name:swe_x_preferred":[
+        "Vrelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276478503,
-    "wof:lastmodified":1537715001,
+    "wof:lastmodified":1564096337,
     "wof:name":"Vrelo",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

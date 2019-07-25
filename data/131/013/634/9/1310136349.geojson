@@ -39,6 +39,9 @@
     "name:srp_x_variant":[
         "\u041a\u0440\u0430\u0458\u043a\u043e\u0432\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Krajkovo"
+    ],
     "name:und_x_variant":[
         "Gurrasi",
         "Gurras",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310136349,
-    "wof:lastmodified":1537714868,
+    "wof:lastmodified":1564096457,
     "wof:name":"Krajkovo",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

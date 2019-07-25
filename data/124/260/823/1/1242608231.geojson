@@ -26,7 +26,13 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Breg"
+    ],
     "name:srp_x_preferred":[
+        "Breg"
+    ],
+    "name:swe_x_preferred":[
         "Breg"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242608231,
-    "wof:lastmodified":1537714982,
+    "wof:lastmodified":1564096547,
     "wof:name":"Breg",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

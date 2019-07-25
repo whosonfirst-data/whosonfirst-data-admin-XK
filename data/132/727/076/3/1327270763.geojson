@@ -37,6 +37,9 @@
         "\u0420\u0430\u0434\u0438\u045b \u041f\u043e\u0459\u0435",
         "Radi\u0107 Polje"
     ],
+    "name:swe_x_preferred":[
+        "Pridvorica"
+    ],
     "name:und_x_variant":[
         "Radi\u0107 Polje"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1327270763,
-    "wof:lastmodified":1537714815,
+    "wof:lastmodified":1564096224,
     "wof:name":"Pridvorica",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Topli\u010dane"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u043f\u043b\u0438\u0447\u0430\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1276588509,
-    "wof:lastmodified":1537715033,
+    "wof:lastmodified":1564096331,
     "wof:name":"Toplicane",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

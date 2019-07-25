@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u0420\u043e\u0441\u0443\u0459\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Rosulje"
+    ],
     "name:und_x_variant":[
         "Rosuj\u00eb"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327066149,
-    "wof:lastmodified":1537714982,
+    "wof:lastmodified":1564096176,
     "wof:name":"Rosulje",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

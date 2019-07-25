@@ -32,6 +32,9 @@
     "name:srp_x_variant":[
         "Gavaz"
     ],
+    "name:swe_x_preferred":[
+        "Gavaz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360316909,
-    "wof:lastmodified":1537715037,
+    "wof:lastmodified":1564096492,
     "wof:name":"Gavaz",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

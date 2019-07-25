@@ -29,6 +29,9 @@
     "name:srp_x_preferred":[
         "Bela Stena"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u0430 \u0421\u0442\u0435\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226676697,
-    "wof:lastmodified":1537715021,
+    "wof:lastmodified":1564096615,
     "wof:name":"Bela Stena",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

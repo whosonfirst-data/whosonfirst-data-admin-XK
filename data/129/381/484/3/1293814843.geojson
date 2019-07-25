@@ -29,6 +29,12 @@
     "name:srp_x_preferred":[
         "Vrbovac"
     ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0431\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Vrbovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293814843,
-    "wof:lastmodified":1537715044,
+    "wof:lastmodified":1564096309,
     "wof:name":"Vrbovac",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

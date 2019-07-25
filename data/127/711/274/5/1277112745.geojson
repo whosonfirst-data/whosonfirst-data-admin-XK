@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
+    "name:swe_x_preferred":[
+        "Drenovac"
+    ],
     "name:und_x_variant":[
         "Drenovc"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1277112745,
-    "wof:lastmodified":1537714915,
+    "wof:lastmodified":1564096359,
     "wof:name":"Drenovac",
     "wof:parent_id":1108809509,
     "wof:placetype":"locality",

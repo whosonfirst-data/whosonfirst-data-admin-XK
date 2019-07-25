@@ -39,6 +39,9 @@
     "name:srp_x_variant":[
         "Velika Ho\u010da"
     ],
+    "name:tur_x_preferred":[
+        "B\u00fcy\u00fck Ho\u00e7a"
+    ],
     "name:und_x_variant":[
         "Ho\u00e7\u00eb e Madhe",
         "Vjellika Hor\u00e7a",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1293323071,
-    "wof:lastmodified":1537714774,
+    "wof:lastmodified":1564096297,
     "wof:name":"Velika Hoca",
     "wof:parent_id":1108809509,
     "wof:placetype":"locality",

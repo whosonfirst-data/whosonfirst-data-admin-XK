@@ -45,6 +45,9 @@
         "\u010cerat",
         "Qeret"
     ],
+    "name:war_x_preferred":[
+        "Qerret"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1344194057,
-    "wof:lastmodified":1537714941,
+    "wof:lastmodified":1564096257,
     "wof:name":"Qerret",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:srp_x_variant":[
         "Grebno"
     ],
+    "name:swe_x_preferred":[
+        "Grema"
+    ],
     "name:und_x_variant":[
         "Grem\u00eb"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1210050119,
-    "wof:lastmodified":1537714890,
+    "wof:lastmodified":1564096410,
     "wof:name":"Grebno",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

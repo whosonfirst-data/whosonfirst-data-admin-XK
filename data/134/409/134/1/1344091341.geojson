@@ -35,6 +35,9 @@
     "name:srp_x_variant":[
         "Glavica"
     ],
+    "name:swe_x_preferred":[
+        "Glavica"
+    ],
     "name:und_x_variant":[
         "Gllavic\u00eb"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1344091341,
-    "wof:lastmodified":1537714907,
+    "wof:lastmodified":1564096235,
     "wof:name":"Glavica",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

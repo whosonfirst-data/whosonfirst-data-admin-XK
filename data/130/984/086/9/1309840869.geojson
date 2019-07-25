@@ -30,7 +30,8 @@
         "\u040b\u0435\u0440\u0438\u045b\u0438"
     ],
     "name:srp_x_variant":[
-        "\u0106eri\u0107i"
+        "\u0106eri\u0107i",
+        "\u0426\u0435\u0440\u0438\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1309840869,
-    "wof:lastmodified":1537715037,
+    "wof:lastmodified":1564096509,
     "wof:name":"Cerici",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",
