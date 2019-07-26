@@ -26,11 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kotore"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0440\u0435"
+    ],
     "name:sqi_x_preferred":[
         "Kotor"
     ],
     "name:sqi_x_variant":[
-        "Kotorr"
+        "Kotorr",
+        "Kotorri"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440\u0435"
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":1243101459,
-    "wof:lastmodified":1537714870,
+    "wof:lastmodified":1564100565,
     "wof:name":"Kotore",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

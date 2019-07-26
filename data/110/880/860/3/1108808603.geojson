@@ -23,37 +23,325 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Pristina"
+    ],
+    "name:als_x_preferred":[
+        "Pristina"
+    ],
+    "name:amh_x_preferred":[
+        "\u1355\u122d\u123d\u1272\u1293"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0634\u062a\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Pr\u00edstina"
+    ],
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u06cc\u0634\u062a\u06cc\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Pri\u015ftina"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
     "name:bcl_x_preferred":[
         "Pristina"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0448\u0446\u0456\u043d\u0430"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f54\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f66\u0f72\u0f0b\u0f4a\u0f72\u0f0b\u0f53\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:bre_x_preferred":[
+        "Prishtina"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u0449\u0438\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Pristina"
+    ],
+    "name:cdo_x_preferred":[
+        "Pri\u0161tina"
     ],
     "name:ces_x_preferred":[
         "Pri\u0161tina"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:cor_x_preferred":[
+        "Prishtina"
+    ],
+    "name:cym_x_preferred":[
+        "Prishtina"
+    ],
+    "name:dan_x_preferred":[
+        "Pristina"
+    ],
+    "name:deu_x_preferred":[
+        "Pristina"
+    ],
+    "name:dsb_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03af\u03c3\u03c4\u03b9\u03bd\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Pri\u015dtino"
+    ],
+    "name:est_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:eus_x_preferred":[
+        "Pristina"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u06cc\u0634\u062a\u06cc\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Pristina"
+    ],
+    "name:fra_x_preferred":[
+        "Pristina"
+    ],
+    "name:frr_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:fry_x_preferred":[
+        "Pristina"
+    ],
+    "name:gla_x_preferred":[
+        "Prishtina"
+    ],
+    "name:gle_x_preferred":[
+        "Pristine"
+    ],
+    "name:glg_x_preferred":[
+        "Pristina"
+    ],
+    "name:glv_x_preferred":[
+        "Prishtina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05e9\u05d8\u05d9\u05e0\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Pri\u0161tina"
     ],
+    "name:hsb_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:hun_x_preferred":[
+        "Pristina"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u056b\u0577\u057f\u056b\u0576\u0561"
+    ],
+    "name:ile_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:ina_x_preferred":[
+        "Pristina"
+    ],
+    "name:ind_x_preferred":[
+        "Pristina"
+    ],
+    "name:isl_x_preferred":[
+        "Prist\u00edna"
+    ],
+    "name:ita_x_preferred":[
+        "Pristina"
+    ],
     "name:jav_x_preferred":[
         "Pri\u0161tina"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30b7\u30e5\u30c6\u30a3\u30ca"
+    ],
+    "name:kab_x_preferred":[
+        "Pristina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10e8\u10e2\u10d8\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9ac\uc288\ud2f0\ub098"
+    ],
     "name:lav_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:lim_x_preferred":[
+        "Pristina"
+    ],
+    "name:lit_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:lrc_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc\u0634\u062a\u06cc\u0646\u0627"
+    ],
+    "name:ltz_x_preferred":[
+        "Pristina"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094d\u0930\u093f\u0938\u094d\u091f\u093f\u0928\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Prixtina"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:nah_x_preferred":[
+        "Prixtina"
+    ],
+    "name:nds_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:nld_x_preferred":[
+        "Pristina"
+    ],
+    "name:nno_x_preferred":[
         "Pri\u0161tina"
     ],
     "name:nor_x_preferred":[
         "Pri\u0161tina"
     ],
+    "name:nov_x_preferred":[
+        "Pristina"
+    ],
+    "name:oci_x_preferred":[
+        "Prishtina"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u00e6"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a4d\u0a30\u0a3f\u0a38\u0a3c\u0a24\u0a40\u0a28\u0a3e"
+    ],
+    "name:pap_x_preferred":[
+        "Pristina"
+    ],
+    "name:pih_x_preferred":[
+        "Prishtina"
+    ],
+    "name:pms_x_preferred":[
+        "Pr\u00ecstina"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0631\u06cc\u0633\u0679\u06cc\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Prisztina"
+    ],
+    "name:por_x_preferred":[
+        "Pristina"
+    ],
     "name:pus_x_preferred":[
         "\u067e\u0631\u06cc\u0634\u062a\u06cc\u0646\u0627"
+    ],
+    "name:ron_x_preferred":[
+        "Pri\u0219tina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Pristina"
+    ],
+    "name:sco_x_preferred":[
+        "Pristina"
     ],
     "name:slk_x_preferred":[
         "Pri\u0161tina"
     ],
+    "name:slv_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:smo_x_preferred":[
+        "Pristina"
+    ],
+    "name:sna_x_preferred":[
+        "Pristina"
+    ],
+    "name:spa_x_preferred":[
+        "Pristina"
+    ],
+    "name:sqi_x_preferred":[
+        "Prishtina"
+    ],
+    "name:srd_x_preferred":[
+        "Pristina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Prishtina"
+    ],
+    "name:swe_x_preferred":[
+        "Pristina"
+    ],
+    "name:szl_x_preferred":[
+        "Prisztina"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bbf\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e23\u0e34\u0e2a\u0e15\u0e35\u0e19\u0e32"
     ],
+    "name:tur_x_preferred":[
+        "Pri\u015ftine"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u06cc\u0634\u062a\u06cc\u0646\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Prishtina"
+    ],
+    "name:vep_x_preferred":[
+        "Pri\u0161tin"
+    ],
+    "name:vie_x_preferred":[
+        "Pri\u0161tina"
+    ],
+    "name:vol_x_preferred":[
+        "Prijtina"
+    ],
     "name:war_x_preferred":[
+        "Pristina"
+    ],
+    "name:yor_x_preferred":[
         "Pristina"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +374,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1564096446,
+    "wof:lastmodified":1564100445,
     "wof:name":"Pristina",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

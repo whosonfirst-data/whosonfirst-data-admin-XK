@@ -26,8 +26,14 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u017degra"
+    ],
     "name:sqi_x_preferred":[
         "Zheg\u00ebr"
+    ],
+    "name:sqi_x_variant":[
+        "Zhegra"
     ],
     "name:srp_x_preferred":[
         "\u017degra"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1309741019,
-    "wof:lastmodified":1537714758,
+    "wof:lastmodified":1564100510,
     "wof:name":"Zegra",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

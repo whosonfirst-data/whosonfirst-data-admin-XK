@@ -26,8 +26,17 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pantina"
+    ],
+    "name:fra_x_preferred":[
+        "Pantina"
+    ],
     "name:sqi_x_preferred":[
         "Pantin\u00eb"
+    ],
+    "name:sqi_x_variant":[
+        "Pantina"
     ],
     "name:srp_x_preferred":[
         "Pantina"
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1326467297,
-    "wof:lastmodified":1564096212,
+    "wof:lastmodified":1564100042,
     "wof:name":"Pantina",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

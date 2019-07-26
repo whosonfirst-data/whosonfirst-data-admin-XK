@@ -26,6 +26,15 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baksa"
+    ],
+    "name:fra_x_preferred":[
+        "Baksa"
+    ],
+    "name:hun_x_preferred":[
+        "Baksa"
+    ],
     "name:srp_x_preferred":[
         "Baksa"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276371073,
-    "wof:lastmodified":1564096353,
+    "wof:lastmodified":1564100175,
     "wof:name":"Baksa",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

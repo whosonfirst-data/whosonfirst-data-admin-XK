@@ -26,7 +26,16 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rep"
+    ],
+    "name:ceb_x_preferred":[
+        "Rep"
+    ],
     "name:pol_x_preferred":[
+        "Rep"
+    ],
+    "name:slk_x_preferred":[
         "Rep"
     ],
     "name:sqi_x_preferred":[
@@ -41,7 +50,11 @@
         "Repa"
     ],
     "name:srp_x_variant":[
-        "\u0420\u0435\u043f\u0430"
+        "\u0420\u0435\u043f\u0430",
+        "\u0420\u0435\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Rep"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043f"
@@ -68,7 +81,7 @@
         }
     ],
     "wof:id":1209549355,
-    "wof:lastmodified":1564096365,
+    "wof:lastmodified":1564100185,
     "wof:name":"Rep",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

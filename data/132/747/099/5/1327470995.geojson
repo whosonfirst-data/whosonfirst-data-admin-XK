@@ -26,6 +26,15 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ulinje"
+    ],
+    "name:fra_x_preferred":[
+        "Ulinje"
+    ],
+    "name:hrv_x_preferred":[
+        "Ulinje"
+    ],
     "name:sqi_x_preferred":[
         "Ulinje"
     ],
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1327470995,
-    "wof:lastmodified":1564096202,
+    "wof:lastmodified":1564100033,
     "wof:name":"Ulinje",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

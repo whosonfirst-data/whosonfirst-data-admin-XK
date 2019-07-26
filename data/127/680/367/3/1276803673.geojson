@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pwela"
+    ],
     "name:lat_x_preferred":[
         "Pwela"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276803673,
-    "wof:lastmodified":1564096324,
+    "wof:lastmodified":1564100146,
     "wof:name":"Poila",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

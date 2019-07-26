@@ -23,7 +23,55 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:bos_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:ces_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:deu_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:est_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:eus_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:fra_x_preferred":[
+        "Mitrovica"
+    ],
     "name:hun_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:ind_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:ita_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c8\u30ed\u30f4\u30a3\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ud2b8\ub85c\ube44\ucc28"
+    ],
+    "name:por_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mitrovica"
+    ],
+    "name:spa_x_preferred":[
         "Mitrovica"
     ],
     "name:srp_x_preferred":[
@@ -59,7 +107,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1564096447,
+    "wof:lastmodified":1564100445,
     "wof:name":"Mitrovica",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

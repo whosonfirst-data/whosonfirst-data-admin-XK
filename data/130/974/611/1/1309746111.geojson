@@ -26,6 +26,21 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Poklek"
+    ],
+    "name:hrv_x_preferred":[
+        "Poklek"
+    ],
+    "name:hun_x_preferred":[
+        "Poklek"
+    ],
+    "name:nld_x_preferred":[
+        "Poklek"
+    ],
+    "name:slv_x_preferred":[
+        "Poklek"
+    ],
     "name:sqi_x_preferred":[
         "Poklek i Vjet\u00ebr"
     ],
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1309746111,
-    "wof:lastmodified":1564096515,
+    "wof:lastmodified":1564100509,
     "wof:name":"Poklek",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

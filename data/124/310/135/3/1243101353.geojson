@@ -26,6 +26,12 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Muha"
+    ],
+    "name:slv_x_preferred":[
+        "Muha"
+    ],
     "name:srp_x_preferred":[
         "Muha"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243101353,
-    "wof:lastmodified":1564096574,
+    "wof:lastmodified":1564100564,
     "wof:name":"Muha",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

@@ -26,13 +26,20 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Delovce"
+    ],
+    "name:fra_x_preferred":[
+        "Delovce"
+    ],
     "name:sqi_x_preferred":[
         "Delloc"
     ],
     "name:sqi_x_variant":[
         "Delovc",
         "Dolloc",
-        "Delofc"
+        "Delofc",
+        "Delloci"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u043b\u043e\u0432\u0446\u0435"
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":1327268811,
-    "wof:lastmodified":1564096218,
+    "wof:lastmodified":1564100048,
     "wof:name":"Delovce",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

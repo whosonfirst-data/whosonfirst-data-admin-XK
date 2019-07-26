@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0642\u0627"
+    ],
     "name:fra_x_preferred":[
         "Siga"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276157729,
-    "wof:lastmodified":1564096344,
+    "wof:lastmodified":1564100167,
     "wof:name":"Siga",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ranilug"
+    ],
+    "name:fra_x_preferred":[
+        "Ranilug"
+    ],
+    "name:lit_x_preferred":[
+        "Ranilugas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043d\u0438\u043b\u0443\u0433"
+    ],
+    "name:pol_x_preferred":[
+        "Ranilug"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0438\u043b\u0443\u0433"
+    ],
     "name:sqi_x_preferred":[
         "Ranillug"
     ],
@@ -74,7 +92,7 @@
         }
     ],
     "wof:id":1310440295,
-    "wof:lastmodified":1564096473,
+    "wof:lastmodified":1564100469,
     "wof:name":"Ranilug",
     "wof:parent_id":1108809579,
     "wof:placetype":"locality",

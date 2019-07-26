@@ -26,6 +26,30 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Markovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Markovac"
+    ],
+    "name:deu_x_preferred":[
+        "Markovac"
+    ],
+    "name:fra_x_preferred":[
+        "Markovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Markovac"
+    ],
+    "name:hun_x_preferred":[
+        "Markovac"
+    ],
+    "name:nld_x_preferred":[
+        "Markovac"
+    ],
+    "name:slv_x_preferred":[
+        "Markovac"
+    ],
     "name:sqi_x_preferred":[
         "Markofc"
     ],
@@ -34,6 +58,9 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Markovac"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446\u044c"
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1360321215,
-    "wof:lastmodified":1564096501,
+    "wof:lastmodified":1564100496,
     "wof:name":"Markovac",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

@@ -22,8 +22,44 @@
     "meso:name_local":"Junik",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Junik"
+    ],
+    "name:ces_x_preferred":[
+        "Junik"
+    ],
+    "name:deu_x_preferred":[
+        "Junik"
+    ],
+    "name:fra_x_preferred":[
+        "Junik"
+    ],
+    "name:hrv_x_preferred":[
+        "Junik"
+    ],
+    "name:lit_x_preferred":[
+        "Junikas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0443\u043d\u0438\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Junik"
+    ],
+    "name:pol_x_preferred":[
+        "Junik"
+    ],
     "name:rus_x_preferred":[
         "\u042e\u043d\u0438\u043a"
+    ],
+    "name:sqi_x_preferred":[
+        "Juniku"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0443\u043d\u0438\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Yunik"
     ],
     "name:und_x_variant":[
         "Decane",
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1108809515,
-    "wof:lastmodified":1564096452,
+    "wof:lastmodified":1564100450,
     "wof:name":"Junik",
     "wof:parent_id":1108808593,
     "wof:placetype":"localadmin",

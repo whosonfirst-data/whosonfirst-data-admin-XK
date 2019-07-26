@@ -26,6 +26,27 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tekija"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043a\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Tekija"
+    ],
+    "name:deu_x_preferred":[
+        "Tekija"
+    ],
+    "name:fra_x_preferred":[
+        "Tekija"
+    ],
+    "name:ron_x_preferred":[
+        "Tekija"
+    ],
+    "name:slv_x_preferred":[
+        "Tekija"
+    ],
     "name:srp_x_preferred":[
         "Tekija"
     ],
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226178943,
-    "wof:lastmodified":1564096608,
+    "wof:lastmodified":1564100594,
     "wof:name":"Tekija",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

@@ -26,8 +26,35 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Caret"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30ec\u30c3\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\uce90\ub7ff"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Kareta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Caret"
+    ],
     "name:srp_x_preferred":[
         "\u010caret"
+    ],
+    "name:swe_x_preferred":[
+        "Ins\u00e4ttningstecken"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0442"
     ],
     "name:zho_x_preferred":[
         "\u8131\u5b57\u7b26"
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1309741149,
-    "wof:lastmodified":1564096517,
+    "wof:lastmodified":1564100512,
     "wof:name":"Caret",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

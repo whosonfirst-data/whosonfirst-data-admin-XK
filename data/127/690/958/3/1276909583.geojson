@@ -26,6 +26,24 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mece"
+    ],
+    "name:ceb_x_preferred":[
+        "Mece"
+    ],
+    "name:epo_x_preferred":[
+        "Mece"
+    ],
+    "name:fra_x_preferred":[
+        "Mece"
+    ],
+    "name:hrv_x_preferred":[
+        "Mece"
+    ],
+    "name:slv_x_preferred":[
+        "Mece"
+    ],
     "name:sqi_x_preferred":[
         "Meqe"
     ],
@@ -37,7 +55,8 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0435\u045b\u0430",
-        "Me\u0107a"
+        "Me\u0107a",
+        "\u041c\u0435\u0446\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0446\u0435"
@@ -68,7 +87,7 @@
         }
     ],
     "wof:id":1276909583,
-    "wof:lastmodified":1564096350,
+    "wof:lastmodified":1564100173,
     "wof:name":"Mece",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Planinica"
+    ],
+    "name:fra_x_preferred":[
+        "Planinica"
+    ],
+    "name:hrv_x_preferred":[
+        "Planinica"
+    ],
+    "name:ron_x_preferred":[
+        "Planini\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Planinica"
+    ],
     "name:sqi_x_preferred":[
         "Pllaninic\u00eb"
     ],
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":1209751793,
-    "wof:lastmodified":1564096406,
+    "wof:lastmodified":1564100406,
     "wof:name":"Planinica",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

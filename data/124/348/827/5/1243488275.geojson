@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Donja Budriga"
+    ],
     "name:sqi_x_preferred":[
         "Budriga e Ult\u00eb"
     ],
@@ -34,7 +37,8 @@
         "Budrig\u00eb e Poshtme",
         "Butrik\u00eb e Posht\u00ebme",
         "Budriga e Posht\u00ebme",
-        "Budriga e Sip\u00ebrme"
+        "Budriga e Sip\u00ebrme",
+        "Budrika e Poshtme"
     ],
     "name:srp_x_preferred":[
         "Donja Budriga"
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1243488275,
-    "wof:lastmodified":1537714926,
+    "wof:lastmodified":1564100541,
     "wof:name":"Donja Budriga",
     "wof:parent_id":1108809517,
     "wof:placetype":"locality",

@@ -26,12 +26,22 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Svinjara"
+    ],
+    "name:fra_x_preferred":[
+        "Svinjare"
+    ],
+    "name:ron_x_preferred":[
+        "Svinjare"
+    ],
     "name:sqi_x_preferred":[
         "Svinjar\u00eb"
     ],
     "name:sqi_x_variant":[
         "Svinjar",
-        "Frash\u00ebr"
+        "Frash\u00ebr",
+        "Svinjara"
     ],
     "name:srp_x_preferred":[
         "Svinjare"
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":1344188195,
-    "wof:lastmodified":1537714785,
+    "wof:lastmodified":1564100087,
     "wof:name":"Svinjar",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09a6\u09c1\u09b0\u09be\u099c"
+    ],
     "name:por_x_preferred":[
         "Duraj"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327368709,
-    "wof:lastmodified":1564096182,
+    "wof:lastmodified":1564100018,
     "wof:name":"Duraj",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

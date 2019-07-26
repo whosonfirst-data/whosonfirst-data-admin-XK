@@ -26,6 +26,15 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mojstir"
+    ],
+    "name:ron_x_preferred":[
+        "Mojstir"
+    ],
+    "name:slv_x_preferred":[
+        "Mojstir"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0458\u0441\u0442\u0438\u0440"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1276695703,
-    "wof:lastmodified":1537714839,
+    "wof:lastmodified":1564100152,
     "wof:name":"Mojstir",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

@@ -26,7 +26,43 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grace"
+    ],
+    "name:deu_x_preferred":[
+        "Grace"
+    ],
+    "name:est_x_preferred":[
+        "Grace"
+    ],
+    "name:fin_x_preferred":[
+        "Grace"
+    ],
+    "name:fra_x_preferred":[
+        "Grace"
+    ],
+    "name:ita_x_preferred":[
+        "Grace"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ec\u30fc\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub808\uc774\uc2a4"
+    ],
     "name:nld_x_preferred":[
+        "Grace"
+    ],
+    "name:pol_x_preferred":[
+        "Grace"
+    ],
+    "name:por_x_preferred":[
+        "Grace"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0439\u0441"
+    ],
+    "name:spa_x_preferred":[
         "Grace"
     ],
     "name:sqi_x_preferred":[
@@ -41,8 +77,20 @@
     "name:srp_x_variant":[
         "\u0413\u0440\u0430\u0446\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Grace"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0435\u0439\u0441"
+    ],
     "name:und_x_variant":[
         "Grec\u00eb"
+    ],
+    "name:vie_x_preferred":[
+        "Grace"
+    ],
+    "name:vol_x_preferred":[
+        "Grace"
     ],
     "name:zho_x_preferred":[
         "Grace"
@@ -70,7 +118,7 @@
         }
     ],
     "wof:id":1276473271,
-    "wof:lastmodified":1564096339,
+    "wof:lastmodified":1564100162,
     "wof:name":"Grace",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

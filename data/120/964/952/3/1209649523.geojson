@@ -26,6 +26,24 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Prugovac"
+    ],
+    "name:fra_x_preferred":[
+        "Prugovac"
+    ],
+    "name:msa_x_preferred":[
+        "Prugovac"
+    ],
+    "name:nld_x_preferred":[
+        "Prugovac"
+    ],
+    "name:por_x_preferred":[
+        "Prugovac"
+    ],
+    "name:slv_x_preferred":[
+        "Prugovac"
+    ],
     "name:sqi_x_preferred":[
         "Prugoc"
     ],
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1209649523,
-    "wof:lastmodified":1537714814,
+    "wof:lastmodified":1564100188,
     "wof:name":"Prugovac",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

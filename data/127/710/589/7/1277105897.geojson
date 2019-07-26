@@ -26,8 +26,26 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Leskovica"
+    ],
+    "name:ceb_x_preferred":[
+        "Leskovica"
+    ],
+    "name:fra_x_preferred":[
+        "Leskovica"
+    ],
+    "name:nld_x_preferred":[
+        "Leskovica"
+    ],
+    "name:slv_x_preferred":[
+        "Leskovica"
+    ],
     "name:srp_x_preferred":[
         "Leskovica"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:swe_x_preferred":[
         "Leskovica"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1277105897,
-    "wof:lastmodified":1564096357,
+    "wof:lastmodified":1564100179,
     "wof:name":"Leskovica",
     "wof:parent_id":1108809505,
     "wof:placetype":"locality",

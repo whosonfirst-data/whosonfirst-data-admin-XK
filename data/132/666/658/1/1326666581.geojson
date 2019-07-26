@@ -26,8 +26,17 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabash"
+    ],
+    "name:fra_x_preferred":[
+        "Kaba\u0161"
+    ],
     "name:sqi_x_preferred":[
         "Kabash"
+    ],
+    "name:sqi_x_variant":[
+        "Kabashi"
     ],
     "name:srp_x_preferred":[
         "Kaba\u0161"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326666581,
-    "wof:lastmodified":1537714880,
+    "wof:lastmodified":1564100028,
     "wof:name":"Kabash",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

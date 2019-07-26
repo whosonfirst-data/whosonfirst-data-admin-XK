@@ -26,11 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pozheran"
+    ],
+    "name:fra_x_preferred":[
+        "Po\u017earanje"
+    ],
     "name:sqi_x_preferred":[
         "Pozheran"
     ],
     "name:sqi_x_variant":[
-        "Pozharan"
+        "Pozharan",
+        "Pozharani"
     ],
     "name:srp_x_preferred":[
         "Po\u017earanje"
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":1343497177,
-    "wof:lastmodified":1537714816,
+    "wof:lastmodified":1564100074,
     "wof:name":"Pozharan",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

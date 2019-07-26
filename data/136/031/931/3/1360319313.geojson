@@ -26,6 +26,15 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shkreli"
+    ],
+    "name:fra_x_preferred":[
+        "Shkreli"
+    ],
+    "name:ita_x_preferred":[
+        "Shkreli"
+    ],
     "name:sqi_x_preferred":[
         "Shkreli"
     ],
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1360319313,
-    "wof:lastmodified":1564096490,
+    "wof:lastmodified":1564100485,
     "wof:name":"Shkreli",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

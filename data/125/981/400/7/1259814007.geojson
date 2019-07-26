@@ -26,6 +26,27 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dolovo"
+    ],
+    "name:fra_x_preferred":[
+        "Dolovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Dolovo"
+    ],
+    "name:hun_x_preferred":[
+        "Dolovo"
+    ],
+    "name:msa_x_preferred":[
+        "Dolovo"
+    ],
+    "name:nld_x_preferred":[
+        "Dolovo"
+    ],
+    "name:slv_x_preferred":[
+        "Dolovo"
+    ],
     "name:sqi_x_preferred":[
         "Dollov\u00eb"
     ],
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":1259814007,
-    "wof:lastmodified":1537714928,
+    "wof:lastmodified":1564100590,
     "wof:name":"Dolovo",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

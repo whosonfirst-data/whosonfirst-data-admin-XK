@@ -26,7 +26,22 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lekaj"
+    ],
+    "name:msa_x_preferred":[
+        "Lekaj"
+    ],
+    "name:por_x_preferred":[
+        "Lekaj"
+    ],
     "name:srp_x_preferred":[
+        "Lekaj"
+    ],
+    "name:tur_x_preferred":[
+        "Lekaj"
+    ],
+    "name:vie_x_preferred":[
         "Lekaj"
     ],
     "name:war_x_preferred":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1360120727,
-    "wof:lastmodified":1564096487,
+    "wof:lastmodified":1564100482,
     "wof:name":"Lekaj",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

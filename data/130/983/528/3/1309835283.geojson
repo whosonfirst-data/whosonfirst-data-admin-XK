@@ -26,16 +26,82 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u044f\u043b\u0430\u0441\u0456\u0446\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Belasica"
+    ],
+    "name:cym_x_preferred":[
+        "Belasitsa"
+    ],
+    "name:deu_x_preferred":[
+        "Belasiza"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03bb\u03bb\u03b5\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Belasica"
+    ],
     "name:est_x_preferred":[
+        "Belasitsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0633\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Belasitsa"
+    ],
+    "name:fra_x_preferred":[
+        "Belassitsa"
+    ],
+    "name:hrv_x_preferred":[
+        "Belasica"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u0561\u057d\u056b\u0581\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Belasica"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d0\u10e1\u10d8\u10ea\u10d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:nno_x_preferred":[
         "Belasitsa"
     ],
     "name:pol_x_preferred":[
         "Be\u0142asica"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Belasica"
+    ],
     "name:sqi_x_preferred":[
         "Bellasic\u00eb"
     ],
+    "name:sqi_x_variant":[
+        "Belashica"
+    ],
     "name:srp_x_preferred":[
+        "Belasica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Belasica"
+    ],
+    "name:swe_x_preferred":[
         "Belasica"
     ],
     "name:ukr_x_preferred":[
@@ -67,7 +133,7 @@
         }
     ],
     "wof:id":1309835283,
-    "wof:lastmodified":1564096508,
+    "wof:lastmodified":1564100502,
     "wof:name":"Belasica",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Khao lam"
+    ],
+    "name:khm_x_preferred":[
+        "\u1780\u17d2\u179a\u17a1\u17b6\u1793"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0e82\u0ebb\u0ec9\u0eb2\u0eab\u0ea5\u0eb2\u0ea1"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043e \u041b\u0430\u043c"
+    ],
     "name:sqi_x_preferred":[
         "Kralan\u00eb"
     ],
@@ -37,6 +49,9 @@
     ],
     "name:srp_x_variant":[
         "\u041a\u0440\u0430\u0459\u0430\u043d\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e25\u0e32\u0e21"
     ],
     "name:und_x_variant":[
         "Kraleni",
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":1260322807,
-    "wof:lastmodified":1564096435,
+    "wof:lastmodified":1564100434,
     "wof:name":"Kralan",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

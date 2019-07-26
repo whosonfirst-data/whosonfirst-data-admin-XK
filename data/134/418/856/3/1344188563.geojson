@@ -26,6 +26,30 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dren"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Dren"
+    ],
+    "name:deu_x_preferred":[
+        "Dren"
+    ],
+    "name:fra_x_preferred":[
+        "Dren"
+    ],
+    "name:pol_x_preferred":[
+        "Dren"
+    ],
+    "name:ron_x_preferred":[
+        "Dren"
+    ],
+    "name:sco_x_preferred":[
+        "Dren"
+    ],
     "name:slv_x_preferred":[
         "Dren"
     ],
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1344188563,
-    "wof:lastmodified":1564096258,
+    "wof:lastmodified":1564100088,
     "wof:name":"Dren",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

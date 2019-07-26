@@ -26,6 +26,27 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Deliblato"
+    ],
+    "name:epo_x_preferred":[
+        "Deliblato"
+    ],
+    "name:fra_x_preferred":[
+        "Deliblato"
+    ],
+    "name:hun_x_preferred":[
+        "Delibl\u00e1t"
+    ],
+    "name:ita_x_preferred":[
+        "Deliblato"
+    ],
+    "name:msa_x_preferred":[
+        "Deliblato"
+    ],
+    "name:slv_x_preferred":[
+        "Deliblato"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u043b\u0438\u0431\u043b\u0430\u0442\u043e"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1277111833,
-    "wof:lastmodified":1564096362,
+    "wof:lastmodified":1564100183,
     "wof:name":"Deliblato",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

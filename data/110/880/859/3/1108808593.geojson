@@ -23,14 +23,98 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0643\u0648\u0641\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u044f\u043a\u043e\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Gjakov\u00eb"
+    ],
+    "name:ceb_x_preferred":[
+        "Gjakov\u00eb"
+    ],
+    "name:ces_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:deu_x_preferred":[
+        "Gjakova"
+    ],
+    "name:est_x_preferred":[
+        "Gjakov\u00eb"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u06a9\u0648\u0648\u06cc\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u0110akovica"
+    ],
+    "name:fra_x_preferred":[
+        "Gjakov\u00eb"
+    ],
+    "name:gle_x_preferred":[
+        "Gjakova"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:ita_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30b3\u30f4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ucf54\ubc14"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eiakovica"
+    ],
+    "name:ltz_x_preferred":[
+        "Gjakova"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0403\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:pol_x_preferred":[
         "Djakowica"
     ],
+    "name:por_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:ron_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u044f\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:spa_x_preferred":[
+        "\u0110akovica"
+    ],
+    "name:sqi_x_preferred":[
+        "Gjakova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0402\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gjakova"
+    ],
     "name:szl_x_preferred":[
         "Djakowica"
+    ],
+    "name:tur_x_preferred":[
+        "Yakova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u044f\u043a\u043e\u0432\u0456\u0446\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0627\u06a9\u0648\u0648\u0627"
     ],
     "name:zho_x_preferred":[
         "\u8d3e\u79d1\u7ef4\u5bdf"
@@ -62,7 +146,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1564096444,
+    "wof:lastmodified":1564100442,
     "wof:name":"Gjakova",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

@@ -26,6 +26,15 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Goranci"
+    ],
+    "name:ceb_x_preferred":[
+        "Goranci"
+    ],
+    "name:deu_x_preferred":[
+        "Goranci"
+    ],
     "name:hrv_x_preferred":[
         "Goranci"
     ],
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1326560851,
-    "wof:lastmodified":1564096193,
+    "wof:lastmodified":1564100024,
     "wof:name":"Goranci",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

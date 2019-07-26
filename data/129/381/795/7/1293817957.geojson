@@ -26,6 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rudice"
+    ],
+    "name:ceb_x_preferred":[
+        "Rudice"
+    ],
+    "name:fra_x_preferred":[
+        "Rudice"
+    ],
+    "name:hrv_x_preferred":[
+        "Rudice"
+    ],
     "name:sqi_x_preferred":[
         "Rudic\u00eb"
     ],
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1293817957,
-    "wof:lastmodified":1537714805,
+    "wof:lastmodified":1564100132,
     "wof:name":"Rudice",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

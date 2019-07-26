@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Kraljica"
+    ],
     "name:srp_x_preferred":[
         "Kraljica"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1193171503,
-    "wof:lastmodified":1564096417,
+    "wof:lastmodified":1564100416,
     "wof:name":"Kraljica",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

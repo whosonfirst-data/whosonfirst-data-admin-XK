@@ -26,6 +26,21 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sendo"
+    ],
+    "name:fin_x_preferred":[
+        "Sendo"
+    ],
+    "name:ita_x_preferred":[
+        "Sendo"
+    ],
+    "name:nor_x_preferred":[
+        "Sendo"
+    ],
+    "name:pol_x_preferred":[
+        "Sendo"
+    ],
     "name:sqi_x_preferred":[
         "Send\u00eb"
     ],
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1343989349,
-    "wof:lastmodified":1564096226,
+    "wof:lastmodified":1564100056,
     "wof:name":"Sendo",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

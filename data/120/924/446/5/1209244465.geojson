@@ -26,6 +26,27 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobri Dub"
+    ],
+    "name:fra_x_preferred":[
+        "Dobri Dub"
+    ],
+    "name:hun_x_preferred":[
+        "Dobri Dub"
+    ],
+    "name:msa_x_preferred":[
+        "Dobri Dub"
+    ],
+    "name:nld_x_preferred":[
+        "Dobri Dub"
+    ],
+    "name:por_x_preferred":[
+        "Dobri Dub"
+    ],
+    "name:slv_x_preferred":[
+        "Dobri Dub"
+    ],
     "name:sqi_x_preferred":[
         "Dob\u00ebr Dub"
     ],
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1209244465,
-    "wof:lastmodified":1537714931,
+    "wof:lastmodified":1564100195,
     "wof:name":"Dobri Dub",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

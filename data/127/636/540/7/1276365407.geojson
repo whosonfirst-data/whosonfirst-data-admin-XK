@@ -26,6 +26,30 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Trn"
+    ],
+    "name:ceb_x_preferred":[
+        "Trn"
+    ],
+    "name:ces_x_preferred":[
+        "Trn"
+    ],
+    "name:fra_x_preferred":[
+        "Trn"
+    ],
+    "name:hrv_x_preferred":[
+        "Trn"
+    ],
+    "name:hun_x_preferred":[
+        "Trn"
+    ],
+    "name:pol_x_preferred":[
+        "Trn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043d"
+    ],
     "name:slv_x_preferred":[
         "Trn"
     ],
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1276365407,
-    "wof:lastmodified":1564096356,
+    "wof:lastmodified":1564100178,
     "wof:name":"Trn",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

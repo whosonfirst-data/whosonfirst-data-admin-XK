@@ -26,6 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belja"
+    ],
+    "name:msa_x_preferred":[
+        "Belja"
+    ],
+    "name:por_x_preferred":[
+        "Belja"
+    ],
+    "name:slv_x_preferred":[
+        "Belja"
+    ],
     "name:srp_x_preferred":[
         "Belja"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1225979093,
-    "wof:lastmodified":1564096624,
+    "wof:lastmodified":1564100609,
     "wof:name":"Belja",
     "wof:parent_id":1108809505,
     "wof:placetype":"locality",
