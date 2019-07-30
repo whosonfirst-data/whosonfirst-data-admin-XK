@@ -26,8 +26,29 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Trnova"
+    ],
+    "name:fra_x_preferred":[
+        "Trnova"
+    ],
+    "name:hrv_x_preferred":[
+        "Trnova"
+    ],
+    "name:hun_x_preferred":[
+        "Trnova"
+    ],
+    "name:slv_x_preferred":[
+        "Trnova"
+    ],
     "name:srp_x_preferred":[
         "Trnova"
+    ],
+    "name:swe_x_preferred":[
+        "Trnova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1259910469,
-    "wof:lastmodified":1537715028,
+    "wof:lastmodified":1564100567,
     "wof:name":"Trnova",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0435\u043f\u0447\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Trep\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Trep\u010da"
+    ],
+    "name:hrv_x_preferred":[
+        "Trep\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Trep\u010da b\u00e1nya"
+    ],
+    "name:pol_x_preferred":[
+        "Trep\u00e7a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u043f\u0447\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Trep\u010da"
+    ],
     "name:sqi_x_preferred":[
         "Trep\u010d\u00eb"
     ],
@@ -33,7 +57,8 @@
         "Trep\u010da"
     ],
     "name:srp_x_variant":[
-        "Trep\u010dani"
+        "Trep\u010dani",
+        "\u0420\u0443\u0434\u043d\u0438\u043a \u0422\u0440\u0435\u043f\u0447\u0430"
     ],
     "name:und_x_variant":[
         "Trep\u010dani",
@@ -63,7 +88,7 @@
         }
     ],
     "wof:id":1327467445,
-    "wof:lastmodified":1537715002,
+    "wof:lastmodified":1564100036,
     "wof:name":"Trepca",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

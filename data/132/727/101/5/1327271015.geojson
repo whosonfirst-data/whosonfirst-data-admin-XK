@@ -26,11 +26,17 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gazi"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0430\u0448\u0438"
     ],
     "name:srp_x_variant":[
         "Ga\u0161i"
+    ],
+    "name:swe_x_preferred":[
+        "Gazi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327271015,
-    "wof:lastmodified":1537715000,
+    "wof:lastmodified":1564100054,
     "wof:name":"Gasi",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Popovci"
+    ],
+    "name:fra_x_preferred":[
+        "Popovci"
+    ],
     "name:sqi_x_preferred":[
         "Popoc"
     ],
@@ -38,6 +44,9 @@
     "name:srp_x_variant":[
         "\u041f\u043e\u043f\u043e\u0432\u0446\u0438",
         "\u041f\u043e\u043f\u043e\u0432\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Popovci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1209846139,
-    "wof:lastmodified":1537714817,
+    "wof:lastmodified":1564100194,
     "wof:name":"Popovci",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

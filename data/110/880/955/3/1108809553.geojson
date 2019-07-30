@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04118,
-    "geom:area_square_m":373970096.872898,
+    "geom:area_square_m":373970096.872902,
     "geom:bbox":"20.621249,42.6029375,20.9452995,42.8627855",
     "geom:latitude":42.741031,
     "geom:longitude":20.756097,
@@ -22,9 +22,66 @@
     "meso:name_local":"Skenderaj",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0643\u0646\u062f\u0631\u0627\u064a"
+    ],
+    "name:deu_x_preferred":[
+        "Sk\u00ebnderaj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0631\u0628\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Sk\u00ebnderaj"
+    ],
+    "name:fra_x_preferred":[
+        "Skenderaj"
+    ],
+    "name:hrv_x_preferred":[
+        "Srbica"
+    ],
+    "name:ita_x_preferred":[
+        "Sk\u00ebnderaj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30b1\u30f3\u30c7\u30e9\u30a4"
+    ],
+    "name:lit_x_preferred":[
+        "Srbica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Sk\u00ebnderaj"
+    ],
+    "name:pol_x_preferred":[
+        "Srbica"
+    ],
+    "name:por_x_preferred":[
+        "Sk\u00ebnderaj"
+    ],
+    "name:ron_x_preferred":[
+        "Srbica"
+    ],
+    "name:sqi_x_preferred":[
+        "Sk\u00ebnderaj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00ebnderaj"
+    ],
+    "name:tur_x_preferred":[
+        "Skenderay"
+    ],
     "name:und_x_variant":[
         "Srbica",
         "Sk\u00ebnderaj"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u723e\u6bd4\u5bdf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +104,7 @@
         }
     ],
     "wof:id":1108809553,
-    "wof:lastmodified":1512517087,
+    "wof:lastmodified":1564100440,
     "wof:name":"Skenderaj",
     "wof:parent_id":1108808605,
     "wof:placetype":"localadmin",

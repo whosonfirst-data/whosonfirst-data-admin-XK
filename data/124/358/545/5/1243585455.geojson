@@ -26,17 +26,36 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ra\u010dak"
+    ],
+    "name:deu_x_preferred":[
+        "Re\u00e7ak"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u010dak"
+    ],
+    "name:ita_x_preferred":[
+        "Ra\u010dak"
+    ],
     "name:sqi_x_preferred":[
         "Ra\u00e7ak"
     ],
     "name:sqi_x_variant":[
-        "Re\u00e7ak"
+        "Re\u00e7ak",
+        "Re\u00e7aku"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0447\u0430\u043a"
     ],
     "name:srp_x_variant":[
         "Ra\u010dak"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u010dak"
+    ],
+    "name:tur_x_preferred":[
+        "Re\u00e7ak"
     ],
     "name:und_x_variant":[
         "Re\u00e7ak"
@@ -65,7 +84,7 @@
         }
     ],
     "wof:id":1243585455,
-    "wof:lastmodified":1537714988,
+    "wof:lastmodified":1564100546,
     "wof:name":"Racak",
     "wof:parent_id":1108809523,
     "wof:placetype":"locality",

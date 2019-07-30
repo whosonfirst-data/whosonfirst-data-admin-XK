@@ -26,6 +26,12 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Radici"
+    ],
+    "name:ita_x_preferred":[
+        "Radici"
+    ],
     "name:srp_x_preferred":[
         "Radi\u0107i"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293237161,
-    "wof:lastmodified":1537715015,
+    "wof:lastmodified":1564100112,
     "wof:name":"Radici",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

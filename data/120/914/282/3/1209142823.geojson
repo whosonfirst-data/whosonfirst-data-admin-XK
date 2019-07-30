@@ -26,6 +26,15 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zhaq"
+    ],
+    "name:fra_x_preferred":[
+        "\u017da\u010d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30eb\u30c1"
+    ],
     "name:sqi_x_preferred":[
         "Zhaq"
     ],
@@ -40,6 +49,9 @@
     ],
     "name:srp_x_variant":[
         "\u017da\u010d"
+    ],
+    "name:swe_x_preferred":[
+        "Zhaq"
     ],
     "name:und_x_variant":[
         "Zallq",
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1209142823,
-    "wof:lastmodified":1537714762,
+    "wof:lastmodified":1564100386,
     "wof:name":"Zhaq",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

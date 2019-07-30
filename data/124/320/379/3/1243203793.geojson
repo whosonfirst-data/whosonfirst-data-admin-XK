@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0431\u0430\u043d"
+    ],
     "name:sqi_x_preferred":[
         "V\u00ebrbani"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243203793,
-    "wof:lastmodified":1537714766,
+    "wof:lastmodified":1564100557,
     "wof:name":"Vrban",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

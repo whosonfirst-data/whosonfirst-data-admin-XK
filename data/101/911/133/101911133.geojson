@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001379,
-    "geom:area_square_m":12630967.674694,
+    "geom:area_square_m":12630967.674698,
     "geom:bbox":"20.6997164164,42.1928955663,20.764987072,42.2486528502",
     "geom:latitude":42.218976,
     "geom:longitude":20.730599,
@@ -21,14 +21,41 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0632\u0631\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Prizren"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0437\u0440\u0430\u043d"
+    ],
     "name:bos_x_preferred":[
+        "Prizren"
+    ],
+    "name:bre_x_preferred":[
         "Prizren"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Prizreni"
+    ],
+    "name:ceb_x_preferred":[
+        "Prizren"
+    ],
+    "name:ces_x_preferred":[
+        "Prizren"
+    ],
     "name:chu_x_preferred":[
         "\u041f\u0440\u0438\ua641\u0440\u0463\u043d\u044c"
+    ],
+    "name:cym_x_preferred":[
+        "Prizren"
+    ],
+    "name:dan_x_preferred":[
+        "Prizren"
     ],
     "name:deu_x_preferred":[
         "Prizren"
@@ -39,13 +66,46 @@
     "name:eng_x_preferred":[
         "Prizren"
     ],
+    "name:epo_x_preferred":[
+        "Prizren"
+    ],
+    "name:est_x_preferred":[
+        "Prizren"
+    ],
+    "name:eus_x_preferred":[
+        "Prizren"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u06cc\u0632\u0631\u0646"
     ],
     "name:fin_x_preferred":[
         "Prizren"
     ],
+    "name:fra_x_preferred":[
+        "Prizren"
+    ],
+    "name:gle_x_preferred":[
+        "Prizren"
+    ],
+    "name:glg_x_preferred":[
+        "Prizren"
+    ],
     "name:hbs_x_preferred":[
+        "Prizren"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d6\u05e8\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Prizren"
+    ],
+    "name:hun_x_preferred":[
+        "Prizren"
+    ],
+    "name:ile_x_preferred":[
+        "Prizren"
+    ],
+    "name:ind_x_preferred":[
         "Prizren"
     ],
     "name:ita_x_preferred":[
@@ -63,14 +123,35 @@
     "name:lit_x_preferred":[
         "Prizrenas"
     ],
+    "name:ltz_x_preferred":[
+        "Prizren"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Prizren"
     ],
     "name:nor_x_preferred":[
         "Prizren"
     ],
+    "name:pol_x_preferred":[
+        "Prizren"
+    ],
+    "name:por_x_preferred":[
+        "Prizren"
+    ],
+    "name:ron_x_preferred":[
+        "Prizren"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Prizren"
+    ],
+    "name:slk_x_preferred":[
+        "Prizren"
     ],
     "name:slv_x_preferred":[
         "Prizren"
@@ -93,11 +174,38 @@
     "name:swe_x_preferred":[
         "Prizren"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e34\u0e2a\u0e40\u0e23\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Prizren"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0456\u0437\u0440\u0435\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
+    ],
     "name:unk_x_variant":[
         "P\u00ebrzeren"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u06cc\u0632\u0631\u06cc\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Prizren"
+    ],
+    "name:vie_x_preferred":[
+        "Prizren"
+    ],
+    "name:vol_x_preferred":[
+        "Prizren"
+    ],
+    "name:war_x_preferred":[
+        "Prizren"
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u5179\u4f26"
@@ -237,7 +345,7 @@
         }
     ],
     "wof:id":101911133,
-    "wof:lastmodified":1505338652,
+    "wof:lastmodified":1564100501,
     "wof:name":"Prizren",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

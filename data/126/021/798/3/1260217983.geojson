@@ -26,8 +26,20 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Boletin"
+    ],
+    "name:fra_x_preferred":[
+        "Boljetin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0435\u0442\u0438\u043d"
+    ],
     "name:sqi_x_preferred":[
         "Boletin"
+    ],
+    "name:sqi_x_variant":[
+        "Boletini"
     ],
     "name:srp_x_preferred":[
         "Boljetin"
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1260217983,
-    "wof:lastmodified":1537715002,
+    "wof:lastmodified":1564100431,
     "wof:name":"Boljetin",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

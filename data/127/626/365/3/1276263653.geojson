@@ -26,6 +26,15 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u00c7yshk"
+    ],
+    "name:deu_x_preferred":[
+        "Qyshk"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106u\u0161ka"
+    ],
     "name:sqi_x_preferred":[
         "Qushk\u00eb"
     ],
@@ -33,6 +42,13 @@
         "\u00c7ushk\u00eb",
         "\u00c3ushk\u00eb",
         "Qyshk",
+        "\u00c7yshk",
+        "Qyshku"
+    ],
+    "name:srp_x_preferred":[
+        "\u040b\u0443\u0448\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
         "\u00c7yshk"
     ],
     "name:und_x_variant":[
@@ -62,7 +78,7 @@
         }
     ],
     "wof:id":1276263653,
-    "wof:lastmodified":1537714936,
+    "wof:lastmodified":1564100141,
     "wof:name":"Cyshk",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

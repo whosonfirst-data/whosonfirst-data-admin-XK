@@ -26,7 +26,25 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Mahala"
+    ],
     "name:srp_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Donja Mahala"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276690165,
-    "wof:lastmodified":1537715023,
+    "wof:lastmodified":1564100150,
     "wof:name":"Donja Mahala",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

@@ -26,18 +26,28 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Livadica"
+    ],
+    "name:fra_x_preferred":[
+        "Livadica"
+    ],
     "name:sqi_x_preferred":[
         "Livadic\u00eb"
     ],
     "name:sqi_x_variant":[
         "Livadhi",
         "Livadhia",
-        "Livadhia e Poshtme"
+        "Livadhia e Poshtme",
+        "Livadica"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0432\u0430\u0434\u0438\u0446\u0430"
     ],
     "name:srp_x_variant":[
+        "Livadica"
+    ],
+    "name:swe_x_preferred":[
         "Livadica"
     ],
     "name:und_x_variant":[
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1242709097,
-    "wof:lastmodified":1537714856,
+    "wof:lastmodified":1564100548,
     "wof:name":"Livadica",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

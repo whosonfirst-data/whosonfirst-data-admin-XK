@@ -26,11 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Poslishta"
+    ],
+    "name:fra_x_preferred":[
+        "Posli\u0161te"
+    ],
     "name:sqi_x_preferred":[
         "Poslisht\u00eb"
     ],
     "name:sqi_x_variant":[
-        "Polishte"
+        "Polishte",
+        "Poslishti"
     ],
     "name:srp_x_preferred":[
         "Posli\u0161te"
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":1310341069,
-    "wof:lastmodified":1537714817,
+    "wof:lastmodified":1564100478,
     "wof:name":"Poslishte",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

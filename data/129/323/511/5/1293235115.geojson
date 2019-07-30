@@ -26,8 +26,29 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lepaja"
+    ],
+    "name:fra_x_preferred":[
+        "Lepaja"
+    ],
+    "name:msa_x_preferred":[
+        "Lepaja"
+    ],
+    "name:por_x_preferred":[
+        "Lepaja"
+    ],
+    "name:slv_x_preferred":[
+        "Lepaja"
+    ],
+    "name:sqi_x_preferred":[
+        "Lepaja"
+    ],
     "name:srp_x_preferred":[
         "Lepaja"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u043f\u0430\u0458\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1293235115,
-    "wof:lastmodified":1537715001,
+    "wof:lastmodified":1564100110,
     "wof:name":"Lepaja",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

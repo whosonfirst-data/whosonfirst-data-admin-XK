@@ -26,6 +26,21 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stublina"
+    ],
+    "name:fra_x_preferred":[
+        "Stublina"
+    ],
+    "name:msa_x_preferred":[
+        "Stublina"
+    ],
+    "name:por_x_preferred":[
+        "Stublina"
+    ],
+    "name:slv_x_preferred":[
+        "Stublina"
+    ],
     "name:sqi_x_preferred":[
         "Stubllin\u00eb"
     ],
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1309940519,
-    "wof:lastmodified":1537714788,
+    "wof:lastmodified":1564100508,
     "wof:name":"Stublina",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

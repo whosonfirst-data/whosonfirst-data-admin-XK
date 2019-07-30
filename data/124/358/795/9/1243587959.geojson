@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gradis"
+    ],
     "name:srp_x_preferred":[
         "Gradi\u0161"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243587959,
-    "wof:lastmodified":1537715004,
+    "wof:lastmodified":1564096555,
     "wof:name":"Gradis",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

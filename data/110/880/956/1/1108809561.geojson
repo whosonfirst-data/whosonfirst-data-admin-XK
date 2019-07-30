@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03679,
-    "geom:area_square_m":333078228.770057,
+    "geom:area_square_m":333078228.770073,
     "geom:bbox":"20.485747,42.808451,20.7973105,43.035641",
     "geom:latitude":42.931495,
     "geom:longitude":20.651088,
@@ -22,8 +22,65 @@
     "meso:name_local":"Zubin Potok",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:ces_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:deu_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0628\u06cc\u0646 \u067e\u0648\u062a\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:hrv_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:hun_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:ita_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:lit_x_preferred":[
+        "Zubin Potokas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0443\u0431\u0438\u043d \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:pol_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:ron_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:sco_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:spa_x_preferred":[
+        "Zubin Potok"
+    ],
+    "name:sqi_x_preferred":[
+        "Zubin Potoku"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0443\u0431\u0438\u043d \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Zubin Potok"
+    ],
     "name:und_x_variant":[
         "Zubin Potok"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u8cd3\u6ce2\u6258\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -46,7 +103,7 @@
         }
     ],
     "wof:id":1108809561,
-    "wof:lastmodified":1512517087,
+    "wof:lastmodified":1564100449,
     "wof:name":"Zubin Potok",
     "wof:parent_id":1108808605,
     "wof:placetype":"localadmin",

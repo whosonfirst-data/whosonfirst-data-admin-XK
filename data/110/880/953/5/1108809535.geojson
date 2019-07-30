@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042762,
-    "geom:area_square_m":390280100.515088,
+    "geom:area_square_m":390280100.515081,
     "geom:bbox":"21.271566,42.2473155,21.646467,42.5660515",
     "geom:latitude":42.429532,
     "geom:longitude":21.46756,
@@ -22,9 +22,108 @@
     "meso:name_local":"Gjilan",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0644\u0627\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043d\u0438\u043b\u044f\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Gjilani"
+    ],
+    "name:ceb_x_preferred":[
+        "Gjilan"
+    ],
+    "name:ces_x_preferred":[
+        "Gnjilane"
+    ],
+    "name:deu_x_preferred":[
+        "Gjilan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bd\u03af\u03bb\u03b1\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u06cc\u06cc\u0644\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Gjilan"
+    ],
+    "name:gle_x_preferred":[
+        "Gjilan"
+    ],
+    "name:hrv_x_preferred":[
+        "Gnjilane"
+    ],
+    "name:ile_x_preferred":[
+        "Gjilan"
+    ],
+    "name:ita_x_preferred":[
+        "Gjilan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e9\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Gnilan\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Gjilan"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043d\u0438\u043b\u0430\u043d\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Gjilan"
+    ],
+    "name:pol_x_preferred":[
+        "Gnjilane"
+    ],
+    "name:por_x_preferred":[
+        "Gjilan"
+    ],
+    "name:ron_x_preferred":[
+        "Gnjilane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043d\u0438\u043b\u0430\u043d\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Gjilan"
+    ],
+    "name:spa_x_preferred":[
+        "Gnjilane"
+    ],
+    "name:sqi_x_preferred":[
+        "Gjilani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u045a\u0438\u043b\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Gjilan"
+    ],
+    "name:szl_x_preferred":[
+        "Gnjilane"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043d\u0438\u043b\u044f\u043d\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Gilan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413'\u0457\u043b\u0430\u043d\u0456"
+    ],
     "name:und_x_variant":[
         "Gnjilane",
         "Gjilan"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0644\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5c3c\u62c9\u5185"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +146,7 @@
         }
     ],
     "wof:id":1108809535,
-    "wof:lastmodified":1512517087,
+    "wof:lastmodified":1564100438,
     "wof:name":"Gjilan",
     "wof:parent_id":1108808601,
     "wof:placetype":"localadmin",

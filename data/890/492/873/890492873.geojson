@@ -16,6 +16,33 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Magura"
+    ],
+    "name:ces_x_preferred":[
+        "Magura"
+    ],
+    "name:deu_x_preferred":[
+        "Magura"
+    ],
+    "name:epo_x_preferred":[
+        "Magura"
+    ],
+    "name:nld_x_preferred":[
+        "Magura"
+    ],
+    "name:pol_x_preferred":[
+        "Magura"
+    ],
+    "name:ron_x_preferred":[
+        "Magura"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u0443\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Magura"
+    ],
     "name:sqi_x_preferred":[
         "Magur\u00eb"
     ],
@@ -24,6 +51,12 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u0433\u0443\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Magura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0491\u0443\u0440\u0430"
     ],
     "qs:name":"Magura",
     "qs:name_adm0":"Serbia",
@@ -64,7 +97,7 @@
         }
     ],
     "wof:id":890492873,
-    "wof:lastmodified":1527793022,
+    "wof:lastmodified":1564100513,
     "wof:name":"Magura",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gornje \u017dabare"
+    ],
     "name:sqi_x_preferred":[
         "Zabari i Ep\u00ebrm"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326566197,
-    "wof:lastmodified":1537714896,
+    "wof:lastmodified":1564100024,
     "wof:name":"Zhabari i Eperm",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

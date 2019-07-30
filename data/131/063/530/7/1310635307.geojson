@@ -26,6 +26,18 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ratkovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Ratkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Ratkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Ratkovac"
+    ],
     "name:sqi_x_preferred":[
         "Ratkovc"
     ],
@@ -37,6 +49,9 @@
     ],
     "name:srp_x_variant":[
         "\u0420\u0430\u0442\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ratkovac"
     ],
     "name:und_x_variant":[
         "Ratkovce"
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1310635307,
-    "wof:lastmodified":1537714809,
+    "wof:lastmodified":1564100466,
     "wof:name":"Ratkovac",
     "wof:parent_id":1108809509,
     "wof:placetype":"locality",

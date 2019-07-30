@@ -26,18 +26,31 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bublje"
+    ],
+    "name:fra_x_preferred":[
+        "Bublje"
+    ],
+    "name:pol_x_preferred":[
+        "Bub\u00ebl"
+    ],
     "name:sqi_x_preferred":[
         "Bubl\u00eb"
     ],
     "name:sqi_x_variant":[
         "Bub\u00eb",
-        "Bub\u00ebl"
+        "Bub\u00ebl",
+        "Bubli"
     ],
     "name:srp_x_preferred":[
         "Bublje"
     ],
     "name:srp_x_variant":[
         "\u0411\u0443\u0431\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bublje"
     ],
     "name:und_x_variant":[
         "Bub\u00eb",
@@ -69,7 +82,7 @@
         }
     ],
     "wof:id":1293129671,
-    "wof:lastmodified":1537714946,
+    "wof:lastmodified":1564100112,
     "wof:name":"Bublje",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

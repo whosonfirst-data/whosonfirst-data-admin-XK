@@ -26,6 +26,24 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lipovica"
+    ],
+    "name:ceb_x_preferred":[
+        "Lipovica"
+    ],
+    "name:deu_x_preferred":[
+        "Lipovica"
+    ],
+    "name:fra_x_preferred":[
+        "Lipovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Lipovica"
+    ],
     "name:sqi_x_preferred":[
         "Lipovic\u00eb"
     ],
@@ -37,6 +55,12 @@
     ],
     "name:srp_x_variant":[
         "Lipovica"
+    ],
+    "name:swe_x_preferred":[
+        "Lipovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
         "Lovic\u00eb"
@@ -64,7 +88,7 @@
         }
     ],
     "wof:id":1259417839,
-    "wof:lastmodified":1537714857,
+    "wof:lastmodified":1564100573,
     "wof:name":"Lipovica",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

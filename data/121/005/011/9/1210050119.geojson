@@ -26,17 +26,24 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grebno"
+    ],
     "name:sqi_x_preferred":[
         "Greme"
     ],
     "name:sqi_x_variant":[
-        "Grem\u00eb"
+        "Grem\u00eb",
+        "Grema"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0435\u0431\u043d\u043e"
     ],
     "name:srp_x_variant":[
         "Grebno"
+    ],
+    "name:swe_x_preferred":[
+        "Grema"
     ],
     "name:und_x_variant":[
         "Grem\u00eb"
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":1210050119,
-    "wof:lastmodified":1537714890,
+    "wof:lastmodified":1564100409,
     "wof:name":"Grebno",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

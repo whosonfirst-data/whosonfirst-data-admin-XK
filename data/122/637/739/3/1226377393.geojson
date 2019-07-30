@@ -26,6 +26,60 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u0437\u0456\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Rezina"
+    ],
+    "name:crh_x_preferred":[
+        "Rezina"
+    ],
+    "name:fin_x_preferred":[
+        "Rezina"
+    ],
+    "name:fra_x_preferred":[
+        "Rezina"
+    ],
+    "name:hsb_x_preferred":[
+        "Rezina"
+    ],
+    "name:ita_x_preferred":[
+        "Rezina"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uc9c0\ub098"
+    ],
+    "name:lit_x_preferred":[
+        "Rezina"
+    ],
+    "name:nld_x_preferred":[
+        "Rezina"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u06cc\u0632\u06cc\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Rezina"
+    ],
+    "name:ron_x_preferred":[
+        "Rezina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rezina"
+    ],
     "name:sqi_x_preferred":[
         "Rezin\u00eb"
     ],
@@ -37,6 +91,15 @@
     ],
     "name:srp_x_variant":[
         "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rezina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u6fdf\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +124,7 @@
         }
     ],
     "wof:id":1226377393,
-    "wof:lastmodified":1537715004,
+    "wof:lastmodified":1564100623,
     "wof:name":"Rezina",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

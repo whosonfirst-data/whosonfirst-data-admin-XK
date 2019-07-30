@@ -26,8 +26,26 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u043d\u044f\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Trnjane"
+    ],
+    "name:deu_x_preferred":[
+        "Trnjane"
+    ],
+    "name:fra_x_preferred":[
+        "Trnjane"
+    ],
+    "name:slv_x_preferred":[
+        "Trnjane"
+    ],
     "name:srp_x_preferred":[
         "Trnjane"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u045a\u0430\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1242809329,
-    "wof:lastmodified":1537715027,
+    "wof:lastmodified":1564100531,
     "wof:name":"Trnjane",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

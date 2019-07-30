@@ -26,6 +26,9 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Duska"
+    ],
     "name:srp_x_preferred":[
         "Du\u0161ka"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276152505,
-    "wof:lastmodified":1537715027,
+    "wof:lastmodified":1564096341,
     "wof:name":"Duska",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

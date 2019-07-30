@@ -26,6 +26,39 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u0437\u043d\u0456\u043a"
+    ],
+    "name:bos_x_preferred":[
+        "Resnik"
+    ],
+    "name:ceb_x_preferred":[
+        "Resnik"
+    ],
+    "name:deu_x_preferred":[
+        "Resnik"
+    ],
+    "name:fra_x_preferred":[
+        "Resnik"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d6\u05e0\u05d9\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "Resnik"
+    ],
+    "name:ita_x_preferred":[
+        "Resnik"
+    ],
+    "name:nld_x_preferred":[
+        "Resnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0437\u043d\u0438\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Resnik"
+    ],
     "name:sqi_x_preferred":[
         "Reznik"
     ],
@@ -37,6 +70,12 @@
     ],
     "name:srp_x_variant":[
         "Resnik"
+    ],
+    "name:swe_x_preferred":[
+        "Resnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0454\u0437\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
         "Reshik"
@@ -64,7 +103,7 @@
         }
     ],
     "wof:id":1310630061,
-    "wof:lastmodified":1537715006,
+    "wof:lastmodified":1564100465,
     "wof:name":"Resnik",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

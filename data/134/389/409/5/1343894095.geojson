@@ -26,16 +26,29 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Desivojce"
+    ],
+    "name:deu_x_preferred":[
+        "Desivojca"
+    ],
+    "name:fra_x_preferred":[
+        "Desivojce"
+    ],
     "name:sqi_x_preferred":[
         "Desivojc\u00eb"
     ],
     "name:sqi_x_variant":[
-        "Desivojs\u00eb"
+        "Desivojs\u00eb",
+        "Desivojca"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0441\u0438\u0432\u043e\u0458\u0446\u0435"
     ],
     "name:srp_x_variant":[
+        "Desivojce"
+    ],
+    "name:swe_x_preferred":[
         "Desivojce"
     ],
     "name:und_x_variant":[
@@ -66,7 +79,7 @@
         }
     ],
     "wof:id":1343894095,
-    "wof:lastmodified":1537714933,
+    "wof:lastmodified":1564100093,
     "wof:name":"Desivojce",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

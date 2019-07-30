@@ -26,8 +26,32 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Radujevac"
+    ],
+    "name:deu_x_preferred":[
+        "Radujevac"
+    ],
+    "name:fra_x_preferred":[
+        "Radujevac"
+    ],
+    "name:msa_x_preferred":[
+        "Radujevac"
+    ],
+    "name:nld_x_preferred":[
+        "Radujevac"
+    ],
+    "name:por_x_preferred":[
+        "Radujevac"
+    ],
+    "name:slv_x_preferred":[
+        "Radujevac"
+    ],
     "name:srp_x_preferred":[
         "Radujevac"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0434\u0443\u0458\u0435\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1209552631,
-    "wof:lastmodified":1537715043,
+    "wof:lastmodified":1564100192,
     "wof:name":"Radujevac",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

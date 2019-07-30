@@ -26,11 +26,32 @@
     "iso:country":"XK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0456\u043d"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0438\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Kusmin"
+    ],
+    "name:fra_x_preferred":[
+        "Kouzmine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0438\u043d"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0437\u043c\u0438\u043d"
     ],
     "name:srp_x_variant":[
         "Kuzmin"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0456\u043d"
     ],
     "name:und_x_variant":[
         "Kuzmini"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1310340115,
-    "wof:lastmodified":1537714970,
+    "wof:lastmodified":1564100479,
     "wof:name":"Kuzmin",
     "wof:parent_id":1108809539,
     "wof:placetype":"locality",
