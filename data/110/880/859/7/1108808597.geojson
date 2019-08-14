@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PZ"
+    ],
     "lbl:latitude":42.179945,
     "lbl:longitude":20.699701,
     "meso:name_local":"Prizren",
@@ -276,7 +279,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1563578385,
+    "wof:lastmodified":1565739727,
     "wof:name":"Prizren",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

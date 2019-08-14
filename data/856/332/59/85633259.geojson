@@ -16,6 +16,9 @@
     "itu:country_code":[
         "383"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "XK"
+    ],
     "lbl:latitude":42.590239,
     "lbl:longitude":20.875449,
     "mps:latitude":42.590239,
@@ -719,10 +722,6 @@
         }
     ],
     "wof:id":85633259,
-    "wof:lang":[
-        "sqi",
-        "srp"
-    ],
     "wof:lang_x_official":[
         "sqi",
         "srp"
@@ -734,14 +733,14 @@
         "bos",
         "rom"
     ],
-    "wof:lastmodified":1563578234,
+    "wof:lastmodified":1565804922,
     "wof:name":"Kosovo",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
     "wof:population":1800000,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-xk",
-    "wof:shortcode":"XKX",
+    "wof:shortcode":"XK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

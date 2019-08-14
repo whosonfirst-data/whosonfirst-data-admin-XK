@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PE"
+    ],
     "lbl:latitude":42.696128,
     "lbl:longitude":20.430073,
     "meso:name_local":"Peja-Pec",
@@ -70,7 +73,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1553551430,
+    "wof:lastmodified":1565739727,
     "wof:name":"Peja-Pec",
     "wof:parent_id":85633259,
     "wof:placetype":"region",
