@@ -11,11 +11,15 @@
     "geom:longitude":21.07667,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"XK",
+    "lbl:bbox":"21.05667,43.05194,21.09667,43.09194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brze\u0107e"
     ],
@@ -53,7 +57,7 @@
         "Brece",
         "\u0411\u0440\u0437\u0435\u045b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Breca"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":792334,
         "gp:id":533002,
-        "qs:id":1165753,
+        "qs_pg:id":1165753,
         "wd:id":"Q2630828",
         "wk:page":"Brze\u0107e"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890492865,
-    "wof:lastmodified":1563578474,
+    "wof:lastmodified":1566653024,
     "wof:name":"Brze\u0107e",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

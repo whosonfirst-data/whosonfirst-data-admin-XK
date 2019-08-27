@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.83722,42.91556,20.87722,42.95556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Boletin"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:srp_x_variant":[
         "\u0411\u043e\u0459\u0435\u0442\u0438\u043d"
-    ],
-    "name:und_x_variant":[
-        "Boletini"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1260217983,
-    "wof:lastmodified":1564100431,
+    "wof:lastmodified":1566652952,
     "wof:name":"Boljetin",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

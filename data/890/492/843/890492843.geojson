@@ -11,10 +11,14 @@
     "geom:longitude":21.12583,
     "gn:country":"XK",
     "gn:fcode":"PPLA",
-    "gn:pop":9047,
+    "gn:population":9047,
     "iso:country":"XK",
+    "lbl:bbox":"21.10583,42.50167,21.14583,42.54167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u0644\u064a\u0627\u0646"
     ],
@@ -151,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u043b\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipljane"
     ],
     "name:urd_x_preferred":[
@@ -179,12 +183,12 @@
     "wof:concordances":{
         "gn:id":788652,
         "gp:id":535018,
-        "qs:id":275763,
+        "qs_pg:id":275763,
         "wd:id":"Q994730",
         "wk:page":"Lipljan"
     },
     "wof:concordances_alt":{
-        "qs:id":1327085
+        "qs_pg:id":1327085
     },
     "wof:country":"XK",
     "wof:created":1469054908,
@@ -199,7 +203,7 @@
         }
     ],
     "wof:id":890492843,
-    "wof:lastmodified":1563578464,
+    "wof:lastmodified":1566653020,
     "wof:name":"Lipljan",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

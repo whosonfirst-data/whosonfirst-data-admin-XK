@@ -24,16 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.69278,43.015,20.73278,43.055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Han-Grizhani"
     ],
     "name:srp_x_preferred":[
         "Han Gri\u017eani"
-    ],
-    "name:und_x_variant":[
-        "Han-Grizhani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1210050215,
-    "wof:lastmodified":1537714981,
+    "wof:lastmodified":1566652936,
     "wof:name":"Han Grizani",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

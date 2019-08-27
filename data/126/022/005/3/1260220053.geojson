@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.55889,42.24556,20.59889,42.28556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Mahala Bogza"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260220053,
-    "wof:lastmodified":1537715029,
+    "wof:lastmodified":1566652944,
     "wof:name":"Mahala Bogza",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

@@ -11,11 +11,13 @@
     "geom:longitude":21.164781,
     "gn:country":"XK",
     "gn:fcode":"PPLC",
-    "gn:pop":550000,
+    "gn:population":550000,
     "gp:adm0":20069818,
     "iso:country":"XK",
     "lbl:latitude":42.67272,
     "lbl:longitude":21.16688,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -435,7 +437,7 @@
     "wof:concordances":{
         "gn:id":786714,
         "gp:id":536151,
-        "qs:id":235291,
+        "qs_pg:id":235291,
         "wd:id":"Q3625575"
     },
     "wof:country":"XK",
@@ -451,7 +453,7 @@
         }
     ],
     "wof:id":890492875,
-    "wof:lastmodified":1563578463,
+    "wof:lastmodified":1566653019,
     "wof:name":"Pristina",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

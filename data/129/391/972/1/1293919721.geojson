@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.05861,42.35028,21.09861,42.39028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nerodima e Ep\u00ebrme"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:swe_x_preferred":[
         "Nerodima e Ep\u00ebrme"
-    ],
-    "name:und_x_variant":[
-        "Nerodime e Ep\u00ebrme"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1293919721,
-    "wof:lastmodified":1564100099,
+    "wof:lastmodified":1566652835,
     "wof:name":"Gornje Nerodimlje",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

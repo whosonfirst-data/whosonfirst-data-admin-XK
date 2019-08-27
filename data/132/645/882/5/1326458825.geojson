@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.94944,42.83306,20.98944,42.87306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u06cc\u0626\u0627"
     ],
@@ -119,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Sllatina"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1326458825,
-    "wof:lastmodified":1564100023,
+    "wof:lastmodified":1566652766,
     "wof:name":"Slatina",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

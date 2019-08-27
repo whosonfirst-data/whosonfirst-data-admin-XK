@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.81472,42.89333,20.85472,42.93333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Korilj\u00eb"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242809383,
-    "wof:lastmodified":1537714872,
+    "wof:lastmodified":1566653035,
     "wof:name":"Korilje",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

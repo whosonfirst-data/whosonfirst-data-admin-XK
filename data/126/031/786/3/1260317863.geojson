@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.17083,42.8325,21.21083,42.8725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Sibovci i Ep\u00ebrm"
     ],
@@ -42,9 +46,6 @@
         "\u0413\u043e\u0440\u045a\u0438 \u0421\u0438\u0431\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
-        "Vindeni i Ep\u00ebrm",
-        "Siboci i Ep\u00ebrm",
-        "Sibolci i Ep\u00ebrm",
         "Sibovac"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1260317863,
-    "wof:lastmodified":1537714989,
+    "wof:lastmodified":1566652946,
     "wof:name":"Gornji Sibovac",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

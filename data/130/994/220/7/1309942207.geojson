@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.93389,42.83861,20.97389,42.87861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Banjska"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:srp_x_variant":[
         "Banjska"
-    ],
-    "name:und_x_variant":[
-        "Banjsk\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1309942207,
-    "wof:lastmodified":1564100507,
+    "wof:lastmodified":1566653012,
     "wof:name":"Banjska",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

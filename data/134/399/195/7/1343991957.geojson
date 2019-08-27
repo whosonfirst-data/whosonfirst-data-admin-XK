@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.41694,42.6025,20.45694,42.6425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00ebrstovc"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343991957,
-    "wof:lastmodified":1537714865,
+    "wof:lastmodified":1566652798,
     "wof:name":"Kerstec",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

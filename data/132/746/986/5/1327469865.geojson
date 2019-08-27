@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.65528,42.57167,20.69528,42.61167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Gllarev\u00eb"
     ],
@@ -39,12 +43,6 @@
     ],
     "name:srp_x_variant":[
         "Iglarevo"
-    ],
-    "name:und_x_variant":[
-        "Q\u00ebndresa",
-        "Gllareva",
-        "Q\u00ebndres\u00eb",
-        "Gllarev\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +67,7 @@
         }
     ],
     "wof:id":1327469865,
-    "wof:lastmodified":1537714886,
+    "wof:lastmodified":1566652777,
     "wof:name":"Iglarevo",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

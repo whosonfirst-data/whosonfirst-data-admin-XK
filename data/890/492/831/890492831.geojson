@@ -11,10 +11,14 @@
     "geom:longitude":20.28793,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":50500,
+    "gn:population":50500,
     "iso:country":"XK",
+    "lbl:bbox":"20.26793,42.52018,20.30793,42.56018",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0643\u0627\u0646"
     ],
@@ -171,7 +175,7 @@
     "wof:concordances":{
         "gn:id":791580,
         "gp:id":533316,
-        "qs:id":1029117,
+        "qs_pg:id":1029117,
         "wd:id":"Q939112",
         "wk:page":"De\u00e7an"
     },
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":890492831,
-    "wof:lastmodified":1563578473,
+    "wof:lastmodified":1566653024,
     "wof:name":"De\u00e7an",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

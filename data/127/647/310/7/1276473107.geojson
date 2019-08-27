@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.53889,42.25361,21.57889,42.29361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Dunav"
     ],
@@ -40,10 +44,7 @@
         "Dunavo"
     ],
     "name:und_x_variant":[
-        "Tunaj",
-        "Dunav\u00eb",
-        "Dunavi",
-        "Dunav"
+        "Tunaj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1276473107,
-    "wof:lastmodified":1537714911,
+    "wof:lastmodified":1566652884,
     "wof:name":"Dunavo",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

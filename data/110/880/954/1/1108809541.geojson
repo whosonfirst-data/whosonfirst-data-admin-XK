@@ -12,6 +12,8 @@
     "iso:country":"XK",
     "lbl:latitude":42.610813,
     "lbl:longitude":20.598266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:admin_1":"Peja-Pec",
     "meso:gadm_adm2":"Klina",
     "meso:gadm_alt":"\u041a\u043b\u0438\u043d\u0430",
@@ -22,6 +24,7 @@
     "meso:name_local":"Kline",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kline"
     ],
@@ -57,7 +60,7 @@
         "Kline"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633259,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108809541,
-    "wof:lastmodified":1564100437,
+    "wof:lastmodified":1566652957,
     "wof:name":"Kline",
     "wof:parent_id":1108808591,
     "wof:placetype":"localadmin",

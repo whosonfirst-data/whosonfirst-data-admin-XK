@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.85528,42.14028,20.89528,42.18028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Draj\u010di\u0107i"
     ],
@@ -47,10 +51,6 @@
     "name:srp_x_variant":[
         "\u0414\u0440\u0430\u0458\u0447\u0438\u045b\u0438",
         "Draj\u010di\u0107e"
-    ],
-    "name:und_x_variant":[
-        "Draj\u010di\u0107e",
-        "Draj\u00e7iqi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1226081221,
-    "wof:lastmodified":1564100628,
+    "wof:lastmodified":1566653116,
     "wof:name":"Drajcici",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

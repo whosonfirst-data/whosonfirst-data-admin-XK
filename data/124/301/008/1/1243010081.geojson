@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.65806,42.91167,20.69806,42.95167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Breg i Madh"
     ],
@@ -40,7 +44,6 @@
         "Velji Breg"
     ],
     "name:und_x_variant":[
-        "Bregu i Madh",
         "Velibreg",
         "Velji Brijeg"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1243010081,
-    "wof:lastmodified":1537714771,
+    "wof:lastmodified":1566653031,
     "wof:name":"Velji Breg",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

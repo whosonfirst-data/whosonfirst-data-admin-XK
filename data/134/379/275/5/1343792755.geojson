@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.64083,42.26222,20.68083,42.30222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Krajk\u00eb"
     ],
@@ -36,8 +40,7 @@
         "Krajk"
     ],
     "name:und_x_variant":[
-        "Krajka",
-        "Krajk\u00eb"
+        "Krajka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343792755,
-    "wof:lastmodified":1537714869,
+    "wof:lastmodified":1566652805,
     "wof:name":"Krajk",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

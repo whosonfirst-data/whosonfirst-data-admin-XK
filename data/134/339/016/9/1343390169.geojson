@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.56083,42.73611,20.60083,42.77611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Novi Tu\u010dep"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343390169,
-    "wof:lastmodified":1537715022,
+    "wof:lastmodified":1566652797,
     "wof:name":"Novi Tucep",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

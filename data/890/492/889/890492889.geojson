@@ -11,10 +11,14 @@
     "geom:longitude":20.35111,
     "gn:country":"XK",
     "gn:fcode":"PPLL",
-    "gn:pop":700,
+    "gn:population":700,
     "iso:country":"XK",
+    "lbl:bbox":"20.33111,42.51722,20.37111,42.55722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Po\u017ear"
     ],
@@ -36,7 +40,7 @@
     "name:srp_x_variant":[
         "\u041f\u043e\u0436\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pozhari"
     ],
     "qs:name":"Pozhar",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":786828,
         "gp:id":533316,
-        "qs:id":553744,
+        "qs_pg:id":553744,
         "wd:id":"Q3301870"
     },
     "wof:country":"XK",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890492889,
-    "wof:lastmodified":1563578459,
+    "wof:lastmodified":1566653018,
     "wof:name":"Pozhar",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

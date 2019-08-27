@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.41111,42.69361,20.45111,42.73361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Dobrush\u00eb"
     ],
@@ -34,9 +38,7 @@
         "Butin\u00eb"
     ],
     "name:und_x_variant":[
-        "Butin\u00eb",
-        "Butina",
-        "Dobrusha"
+        "Butina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1243491433,
-    "wof:lastmodified":1537714929,
+    "wof:lastmodified":1566653045,
     "wof:name":"Dobrushe (Butina)",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

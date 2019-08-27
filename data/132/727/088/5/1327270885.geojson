@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.79333,43.11278,20.83333,43.15278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Kostinpotok"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:srp_x_variant":[
         "\u041a\u043e\u0441\u0442\u0438\u043d \u041f\u043e\u0442\u043e\u043a",
-        "Kontin Potik"
-    ],
-    "name:und_x_variant":[
         "Kontin Potik"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1327270885,
-    "wof:lastmodified":1537714871,
+    "wof:lastmodified":1566652792,
     "wof:name":"Kostinpotok",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

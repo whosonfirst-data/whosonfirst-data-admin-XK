@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.40306,42.40611,20.44306,42.44611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Trakaniq"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310241059,
-    "wof:lastmodified":1537714783,
+    "wof:lastmodified":1566652966,
     "wof:name":"Trakaniq",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.08443,42.6787,21.12443,42.7187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0413\u043e\u0440\u045a\u0438 \u041c\u0430\u0437\u0433\u0438\u0442"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243203643,
-    "wof:lastmodified":1537715030,
+    "wof:lastmodified":1566653055,
     "wof:name":"Gornji Mazgit",
     "wof:parent_id":1108809551,
     "wof:placetype":"locality",

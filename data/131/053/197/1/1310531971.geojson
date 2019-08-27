@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.65556,42.48639,20.69556,42.52639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Turjak"
     ],
@@ -60,7 +64,6 @@
         "\u0422\u0443\u0440\u044f\u043a"
     ],
     "name:und_x_variant":[
-        "Turjak\u00eb",
         "Turijak"
     ],
     "name:urd_x_preferred":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1310531971,
-    "wof:lastmodified":1564100460,
+    "wof:lastmodified":1566652974,
     "wof:name":"Turjak",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

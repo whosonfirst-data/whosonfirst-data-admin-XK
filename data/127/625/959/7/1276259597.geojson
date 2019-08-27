@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.73333,43.0075,20.77333,43.0475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Pejovi\u0107i"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276259597,
-    "wof:lastmodified":1537714980,
+    "wof:lastmodified":1566652881,
     "wof:name":"Pejovici",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

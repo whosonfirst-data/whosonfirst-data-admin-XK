@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.37417,42.63611,20.41417,42.67611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Llabjan"
     ],
     "name:und_x_variant":[
-        "Labjan",
-        "Llabjan"
+        "Labjan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1360120627,
-    "wof:lastmodified":1537714861,
+    "wof:lastmodified":1566652990,
     "wof:name":"Llabjan",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

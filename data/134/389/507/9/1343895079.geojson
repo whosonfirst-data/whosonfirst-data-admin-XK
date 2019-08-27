@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.6425,42.56833,20.6825,42.60833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Krivoc"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343895079,
-    "wof:lastmodified":1537714980,
+    "wof:lastmodified":1566652826,
     "wof:name":"Krivoc",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.82306,42.8975,20.86306,42.9375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Rudar i Madh"
     ],
@@ -39,11 +43,6 @@
         "\u0412\u0435\u043b\u0438\u043a\u043e \u0420\u0443\u0434\u0430\u0440\u0435",
         "Rudare",
         "Donje Rudare"
-    ],
-    "name:und_x_variant":[
-        "Donje Rudare",
-        "Rudari i Madh",
-        "Rudare"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +67,7 @@
         }
     ],
     "wof:id":1276473869,
-    "wof:lastmodified":1537714771,
+    "wof:lastmodified":1566652884,
     "wof:name":"Veliko Rudare",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

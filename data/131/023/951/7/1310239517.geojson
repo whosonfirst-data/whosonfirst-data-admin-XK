@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.00037,42.58376,21.04037,42.62376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Sllatin\u00eb e Madhe"
     ],
@@ -41,11 +45,7 @@
         "Velika Sletina"
     ],
     "name:und_x_variant":[
-        "Slatina",
-        "Albana e Madhe",
-        "Velika Sletina",
-        "Sllatin\u00eb e Madhe",
-        "Sllatina e Madhe"
+        "Slatina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1310239517,
-    "wof:lastmodified":1537714773,
+    "wof:lastmodified":1566652969,
     "wof:name":"Velika Slatina",
     "wof:parent_id":1108809539,
     "wof:placetype":"locality",

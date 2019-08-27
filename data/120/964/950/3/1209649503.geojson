@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.64139,42.19528,20.68139,42.23528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Grazhdenik"
     ],
@@ -44,11 +48,6 @@
         "Gro\u017edanik",
         "\u0413\u0440\u043e\u0436\u0434\u0430\u043d\u0438\u043a"
     ],
-    "name:und_x_variant":[
-        "Vneshtaje",
-        "Grazhdenk",
-        "Grazhdaniku"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633259
@@ -66,7 +65,7 @@
         }
     ],
     "wof:id":1209649503,
-    "wof:lastmodified":1537714891,
+    "wof:lastmodified":1566652905,
     "wof:name":"Grazhdanik",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

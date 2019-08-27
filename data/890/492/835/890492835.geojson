@@ -11,10 +11,14 @@
     "geom:longitude":20.74583,
     "gn:country":"XK",
     "gn:fcode":"PPLA",
-    "gn:pop":2300,
+    "gn:population":2300,
     "iso:country":"XK",
+    "lbl:bbox":"20.72583,42.46222,20.76583,42.50222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u064a\u062a\u0633\u064a\u0641\u0648"
     ],
@@ -184,7 +188,7 @@
     "wof:concordances":{
         "gn:id":788239,
         "gp:id":532541,
-        "qs:id":129538,
+        "qs_pg:id":129538,
         "wd:id":"Q59089",
         "wk:page":"Mali\u0161evo"
     },
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":890492835,
-    "wof:lastmodified":1563578465,
+    "wof:lastmodified":1566653020,
     "wof:name":"Mali\u0161evo",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

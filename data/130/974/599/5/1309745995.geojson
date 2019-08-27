@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.41778,42.64306,21.45778,42.68306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Suljinar"
     ],
     "name:srp_x_variant":[
-        "Mahala Sjulinar"
-    ],
-    "name:und_x_variant":[
         "Mahala Sjulinar"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1309745995,
-    "wof:lastmodified":1537715017,
+    "wof:lastmodified":1566653015,
     "wof:name":"Suljinar",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.19528,42.3125,21.23528,42.3525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Tafali-Mahala"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259416627,
-    "wof:lastmodified":1537714991,
+    "wof:lastmodified":1566653071,
     "wof:name":"Tafali-Mahala",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

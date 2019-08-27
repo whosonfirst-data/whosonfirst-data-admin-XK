@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.73361,42.13167,20.77361,42.17167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Lez"
     ],
@@ -35,9 +39,6 @@
     "name:srp_x_variant":[
         "\u041b\u0435\u0437",
         "Les"
-    ],
-    "name:und_x_variant":[
-        "Lez"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1310339215,
-    "wof:lastmodified":1537714967,
+    "wof:lastmodified":1566652990,
     "wof:name":"Les",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

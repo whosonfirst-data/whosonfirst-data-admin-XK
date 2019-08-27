@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.42222,42.58056,20.46222,42.62056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rosulje"
     ],
@@ -62,9 +66,6 @@
     "name:swe_x_preferred":[
         "Rosulje"
     ],
-    "name:und_x_variant":[
-        "Rosuj\u00eb"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1327066149,
-    "wof:lastmodified":1564100015,
+    "wof:lastmodified":1566652760,
     "wof:name":"Rosulje",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

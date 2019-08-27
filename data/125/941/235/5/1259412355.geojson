@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.01639,42.44778,21.05639,42.48778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Godan i Ep\u00ebrm"
     ],
@@ -40,9 +44,6 @@
     ],
     "name:srp_x_variant":[
         "\u0413\u043e\u0440\u045a\u0435 \u0413\u043e\u0434\u0430\u043d\u0446\u0435"
-    ],
-    "name:und_x_variant":[
-        "Godanci i Ep\u00ebrm"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1259412355,
-    "wof:lastmodified":1537714899,
+    "wof:lastmodified":1566653069,
     "wof:name":"Gornje Godance",
     "wof:parent_id":1108809523,
     "wof:placetype":"locality",

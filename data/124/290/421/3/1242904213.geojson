@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.55139,42.90722,20.59139,42.94722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0435\u043a\u0430"
     ],
@@ -60,9 +64,6 @@
     "name:swe_x_preferred":[
         "Preseka"
     ],
-    "name:und_x_variant":[
-        "Presjeka"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1242904213,
-    "wof:lastmodified":1564100554,
+    "wof:lastmodified":1566653054,
     "wof:name":"Preseka",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

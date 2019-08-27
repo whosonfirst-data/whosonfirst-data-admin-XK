@@ -11,10 +11,14 @@
     "geom:longitude":20.31778,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":2500,
+    "gn:population":2500,
     "iso:country":"XK",
+    "lbl:bbox":"20.29778,42.4875,20.33778,42.5275",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Prilep"
     ],
@@ -48,9 +52,6 @@
     "name:swe_x_preferred":[
         "Prilep"
     ],
-    "name:unk_x_variant":[
-        "P\u00ebrlep"
-    ],
     "qs:name":"Prilep",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":786734,
         "gp:id":534449,
-        "qs:id":275741,
+        "qs_pg:id":275741,
         "wd:id":"Q15577530",
         "wk:page":"Prilep"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890492799,
-    "wof:lastmodified":1563578457,
+    "wof:lastmodified":1566653017,
     "wof:name":"Prilep",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.77944,42.15167,20.81944,42.19167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lokvica"
     ],
@@ -59,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043a\u0432\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "Llokvic"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1276474233,
-    "wof:lastmodified":1564100160,
+    "wof:lastmodified":1566652882,
     "wof:name":"Lokvica",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

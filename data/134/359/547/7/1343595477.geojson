@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.35532,42.6075,21.39532,42.6475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Golema Livada"
     ],
     "name:srp_x_variant":[
-        "Mahala Goleme Livada"
-    ],
-    "name:und_x_variant":[
         "Mahala Goleme Livada"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1343595477,
-    "wof:lastmodified":1537715012,
+    "wof:lastmodified":1566652814,
     "wof:name":"Golema Livada",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

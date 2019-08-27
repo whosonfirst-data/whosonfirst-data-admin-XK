@@ -24,8 +24,12 @@
     "gn:population":6720,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.41405,42.5959,21.45405,42.6359",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0431\u044a\u0440\u0434\u043e"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1209043229,
-    "wof:lastmodified":1564100394,
+    "wof:lastmodified":1566652923,
     "wof:name":"Novo Brdo",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.53139,42.27694,20.57139,42.31694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Maros"
     ],
@@ -43,10 +47,6 @@
     ],
     "name:srp_x_preferred":[
         "Maro\u0161"
-    ],
-    "name:und_x_variant":[
-        "Marash",
-        "Marosh"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u7f57\u65af"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1293134801,
-    "wof:lastmodified":1564100116,
+    "wof:lastmodified":1566652849,
     "wof:name":"Maros",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

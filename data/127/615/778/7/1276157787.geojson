@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.52889,42.60389,20.56889,42.64389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Videj\u00eb"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276157787,
-    "wof:lastmodified":1537714770,
+    "wof:lastmodified":1566652886,
     "wof:name":"Vidanje",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

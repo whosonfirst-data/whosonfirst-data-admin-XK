@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.1742,42.86816,21.2142,42.90816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Poljanica"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226479461,
-    "wof:lastmodified":1537715042,
+    "wof:lastmodified":1566653105,
     "wof:name":"Poljanica",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.0129,42.74821,21.0529,42.78821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Cak Mahala"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293725153,
-    "wof:lastmodified":1537715043,
+    "wof:lastmodified":1566652865,
     "wof:name":"Cak Mahala",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

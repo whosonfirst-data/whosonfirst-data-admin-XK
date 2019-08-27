@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.90028,42.76333,20.94028,42.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brusnik"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1276588397,
-    "wof:lastmodified":1564100157,
+    "wof:lastmodified":1566652880,
     "wof:name":"Brusnik",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

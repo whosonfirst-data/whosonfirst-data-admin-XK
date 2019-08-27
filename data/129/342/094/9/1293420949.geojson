@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.80333,42.71778,20.84333,42.75778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poljance"
     ],
@@ -47,9 +51,6 @@
     ],
     "name:swe_x_preferred":[
         "Poljance"
-    ],
-    "name:und_x_variant":[
-        "Velji\u0107 Mahala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1293420949,
-    "wof:lastmodified":1564100130,
+    "wof:lastmodified":1566652861,
     "wof:name":"Poljance",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

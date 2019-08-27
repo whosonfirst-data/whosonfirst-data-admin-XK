@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.71917,43.12917,20.75917,43.16917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Jezerine"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343390547,
-    "wof:lastmodified":1537714977,
+    "wof:lastmodified":1566652795,
     "wof:name":"Jezerine",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

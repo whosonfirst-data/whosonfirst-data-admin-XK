@@ -12,6 +12,8 @@
     "iso:country":"XK",
     "lbl:latitude":42.731929,
     "lbl:longitude":20.753645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:admin_1":"Mitrovica",
     "meso:gadm_adm2":"Srbica",
     "meso:gadm_alt":"\u0421\u0440\u0431\u0438\u0446\u0430",
@@ -22,6 +24,7 @@
     "meso:name_local":"Skenderaj",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0646\u062f\u0631\u0627\u064a"
     ],
@@ -76,15 +79,11 @@
     "name:tur_x_preferred":[
         "Skenderay"
     ],
-    "name:und_x_variant":[
-        "Srbica",
-        "Sk\u00ebnderaj"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u723e\u6bd4\u5bdf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633259,
@@ -104,7 +103,7 @@
         }
     ],
     "wof:id":1108809553,
-    "wof:lastmodified":1564100440,
+    "wof:lastmodified":1566652959,
     "wof:name":"Skenderaj",
     "wof:parent_id":1108808605,
     "wof:placetype":"localadmin",

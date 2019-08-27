@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.50167,42.44778,21.54167,42.48778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gornje Male\u0161evo"
     ],
     "name:srp_x_variant":[
-        "Gornja Male\u0161evo"
-    ],
-    "name:und_x_variant":[
         "Gornja Male\u0161evo"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1344193903,
-    "wof:lastmodified":1537715034,
+    "wof:lastmodified":1566652818,
     "wof:name":"Gornje Malesevo",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

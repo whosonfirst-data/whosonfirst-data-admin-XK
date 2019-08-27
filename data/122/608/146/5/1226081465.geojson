@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.09361,43.03333,21.13361,43.07333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Pollat\u00eb"
     ],
@@ -40,9 +44,6 @@
         "Palatna"
     ],
     "name:und_x_variant":[
-        "Pollat\u00eb",
-        "Pollata",
-        "Pollat",
         "Polatna"
     ],
     "src:geom":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1226081465,
-    "wof:lastmodified":1537714967,
+    "wof:lastmodified":1566653116,
     "wof:name":"Palatna",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.52056,42.51528,21.56056,42.55528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Rajanovc"
     ],
@@ -42,9 +46,7 @@
         "\u0420\u0430\u0458\u0430\u043d\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Rajanoci",
-        "Rajnoc",
-        "Rajnofci"
+        "Rajnoc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1343296921,
-    "wof:lastmodified":1537714811,
+    "wof:lastmodified":1566652823,
     "wof:name":"Rajanovce",
     "wof:parent_id":1108809579,
     "wof:placetype":"locality",

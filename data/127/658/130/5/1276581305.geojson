@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.11944,42.46583,21.15944,42.50583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Konjsko"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1276581305,
-    "wof:lastmodified":1564100156,
+    "wof:lastmodified":1566652879,
     "wof:name":"Konjsko",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

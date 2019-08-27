@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.13278,42.74694,21.17278,42.78694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vrani Do"
     ],
@@ -51,7 +55,6 @@
         "Vrani Do"
     ],
     "name:und_x_variant":[
-        "Vranidoll",
         "Vrani Dol"
     ],
     "src:geom":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1243103591,
-    "wof:lastmodified":1564100565,
+    "wof:lastmodified":1566653063,
     "wof:name":"Vrani Do",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

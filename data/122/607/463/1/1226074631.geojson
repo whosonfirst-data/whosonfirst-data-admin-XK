@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.50389,42.67278,20.54389,42.71278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Drenje"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1226074631,
-    "wof:lastmodified":1564100629,
+    "wof:lastmodified":1566653117,
     "wof:name":"Drenje",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

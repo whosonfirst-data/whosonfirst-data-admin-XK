@@ -24,16 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.75417,42.32806,20.79417,42.36806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Kosaniq"
     ],
     "name:srp_x_preferred":[
         "Kosan\u010di\u0107"
-    ],
-    "name:und_x_variant":[
-        "Kosaniq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1343888817,
-    "wof:lastmodified":1537715001,
+    "wof:lastmodified":1566652827,
     "wof:name":"Kosancic",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

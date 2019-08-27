@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.14333,42.94694,21.18333,42.98694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dobri Do"
     ],
@@ -57,12 +61,6 @@
     "name:swe_x_preferred":[
         "Dobri Do"
     ],
-    "name:und_x_variant":[
-        "Dob\u00ebrdoli",
-        "Dobri Dol",
-        "Buz\u00ebllapi",
-        "Buz\u00ebllap"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +84,7 @@
         }
     ],
     "wof:id":1259513939,
-    "wof:lastmodified":1564100587,
+    "wof:lastmodified":1566653081,
     "wof:name":"Dobri Do",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

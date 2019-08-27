@@ -13,10 +13,13 @@
     "iso:country":"XK",
     "lbl:latitude":42.822879,
     "lbl:longitude":20.969388,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":42.822879,
     "mps:longitude":20.969388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bos_x_preferred":[
         "Vu\u010ditrn"
     ],
@@ -140,7 +143,7 @@
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":944.0,
     "wd:latitude":42.822222,
@@ -156,7 +159,7 @@
     "wof:concordances":{
         "gn:id":784097,
         "gp:id":537628,
-        "qs:id":129380,
+        "qs_pg:id":129380,
         "wd:id":"Q911241",
         "wk:page":"Vu\u010ditrn"
     },
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101911019,
-    "wof:lastmodified":1563578444,
+    "wof:lastmodified":1566653006,
     "wof:name":"Vu\u010ditrn",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

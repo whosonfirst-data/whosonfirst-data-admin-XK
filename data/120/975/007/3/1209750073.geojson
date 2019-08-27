@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.57028,42.79611,20.61028,42.83611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Zhakov\u00eb"
     ],
@@ -40,10 +44,7 @@
         "\u017dakovo"
     ],
     "name:und_x_variant":[
-        "Dardh\u00eb",
-        "Zhakov\u00eb",
-        "Dardha",
-        "Zhakova"
+        "Dardha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1209750073,
-    "wof:lastmodified":1537714761,
+    "wof:lastmodified":1566652933,
     "wof:name":"Zakovo",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

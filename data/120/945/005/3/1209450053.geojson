@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.50472,42.63806,20.54472,42.67806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Krushev\u00eb e Madhe"
     ],
@@ -41,12 +45,6 @@
     "name:srp_x_variant":[
         "\u0412\u0435\u043b\u0438\u043a\u043e \u041a\u0440\u0443\u0448\u0435\u0432\u043e",
         "Kru\u0161evo"
-    ],
-    "name:und_x_variant":[
-        "Drinishti i Madh",
-        "Kryshev\u00eb",
-        "Kru\u0161evo",
-        "Krusheva e Madhe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +63,7 @@
         }
     ],
     "wof:id":1209450053,
-    "wof:lastmodified":1537714863,
+    "wof:lastmodified":1566652931,
     "wof:name":"Krusheva e Madhe",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.42972,42.52333,20.46972,42.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Mazniku"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:srp_x_variant":[
         "Maznik"
-    ],
-    "name:und_x_variant":[
-        "Mazniku"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1243396941,
-    "wof:lastmodified":1537714843,
+    "wof:lastmodified":1566653033,
     "wof:name":"Maznik",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

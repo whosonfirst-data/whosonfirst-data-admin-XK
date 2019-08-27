@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.09278,43.01167,21.13278,43.05167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pwela"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:srp_x_preferred":[
         "Poila"
-    ],
-    "name:und_x_variant":[
-        "Pailla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1276803673,
-    "wof:lastmodified":1564100146,
+    "wof:lastmodified":1566652872,
     "wof:name":"Poila",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

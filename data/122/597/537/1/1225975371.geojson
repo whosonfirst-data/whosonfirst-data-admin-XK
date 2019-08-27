@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.42222,42.34,21.46222,42.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ribnik"
     ],
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1225975371,
-    "wof:lastmodified":1564100612,
+    "wof:lastmodified":1566653102,
     "wof:name":"Ribnik",
     "wof:parent_id":1108809519,
     "wof:placetype":"locality",

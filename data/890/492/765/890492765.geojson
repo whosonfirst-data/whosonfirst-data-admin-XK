@@ -11,14 +11,18 @@
     "geom:longitude":20.36972,
     "gn:country":"XK",
     "gn:fcode":"PPLL",
-    "gn:pop":1050,
+    "gn:population":1050,
     "iso:country":"XK",
+    "lbl:bbox":"20.34972,42.69194,20.38972,42.73194",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:sqi_x_preferred":[
         "Dubov\u00eb"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubova"
     ],
     "qs:name":"Dubova (Driloni)",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":790977,
         "gp:id":537465,
-        "qs:id":129626
+        "qs_pg:id":129626
     },
     "wof:country":"XK",
     "wof:created":1469054905,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890492765,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1566653017,
     "wof:name":"Dubova (Driloni)",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

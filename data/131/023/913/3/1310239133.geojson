@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.16389,42.82111,21.20389,42.86111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Donja Penduha"
     ],
     "name:srp_x_variant":[
-        "Donja Penduja"
-    ],
-    "name:und_x_variant":[
         "Donja Penduja"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1310239133,
-    "wof:lastmodified":1537715023,
+    "wof:lastmodified":1566652968,
     "wof:name":"Donja Penduha",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

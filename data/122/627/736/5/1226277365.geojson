@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.54306,42.67444,20.58306,42.71444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qo\u015f"
     ],
@@ -53,9 +57,6 @@
     "name:swe_x_preferred":[
         "Kosh"
     ],
-    "name:und_x_variant":[
-        "Koshi"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1226277365,
-    "wof:lastmodified":1564100597,
+    "wof:lastmodified":1566653089,
     "wof:name":"Kosh",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

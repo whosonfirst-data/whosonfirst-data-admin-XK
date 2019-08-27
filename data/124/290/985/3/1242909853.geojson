@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.3231,42.48591,21.3631,42.52591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Zhegoc"
     ],
@@ -40,11 +44,6 @@
         "\u0416\u0435\u0433\u043e\u0432\u0446\u0435",
         "\u017degovce",
         "Gornje \u017degovce"
-    ],
-    "name:und_x_variant":[
-        "Gornje \u017degovce",
-        "\u017degovce",
-        "Zhegovc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +68,7 @@
         }
     ],
     "wof:id":1242909853,
-    "wof:lastmodified":1537714758,
+    "wof:lastmodified":1566653054,
     "wof:name":"Zhegoc",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

@@ -24,16 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.52389,42.92722,20.56389,42.96722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Jakmi\u00e7i"
     ],
     "name:srp_x_preferred":[
         "Jaremi\u0107i"
-    ],
-    "name:und_x_variant":[
-        "Jakmi\u00e7i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1360221425,
-    "wof:lastmodified":1537715015,
+    "wof:lastmodified":1566652992,
     "wof:name":"Jaremici",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.76667,42.49889,20.80667,42.53889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0421\u0443\u0432\u043e \u041f\u043e\u0459\u0435"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209846083,
-    "wof:lastmodified":1537715024,
+    "wof:lastmodified":1566652909,
     "wof:name":"Suvo Polje",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

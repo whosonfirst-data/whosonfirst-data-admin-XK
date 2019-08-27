@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.64444,42.57722,21.68444,42.61722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Shipashnica i Ult\u00eb"
     ],
@@ -40,12 +44,6 @@
     "name:srp_x_variant":[
         "\u0413\u043e\u0440\u045a\u0430 \u0428\u0438\u043f\u0430\u0448\u043d\u0438\u0446\u0430",
         "\u0160ipa\u0161nica Gornja"
-    ],
-    "name:und_x_variant":[
-        "Shpati i Ep\u00ebrm",
-        "\u0160ipa\u0161nica Gornja",
-        "Shipashic\u00eb",
-        "Shipashnic\u00eb e Ep\u00ebrme"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +68,7 @@
         }
     ],
     "wof:id":1226478725,
-    "wof:lastmodified":1537714900,
+    "wof:lastmodified":1566653104,
     "wof:name":"Shipashnica i Ulte",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

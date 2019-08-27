@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":42.498795,
     "lbl:longitude":21.493793,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Gjilan",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -123,7 +124,7 @@
         "\u683c\u5c3c\u62c9\u5185"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633259
@@ -149,7 +150,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1564100443,
+    "wof:lastmodified":1566652960,
     "wof:name":"Gjilan",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

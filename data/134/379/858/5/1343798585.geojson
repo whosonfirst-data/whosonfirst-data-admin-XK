@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.95056,42.41278,20.99056,42.45278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Rance"
     ],
@@ -58,7 +62,6 @@
     ],
     "name:und_x_variant":[
         "Ronce",
-        "Rranc\u00eb",
         "Rorice"
     ],
     "src:geom":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1343798585,
-    "wof:lastmodified":1564100069,
+    "wof:lastmodified":1566652805,
     "wof:name":"Rance",
     "wof:parent_id":1108809523,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.37667,42.59972,21.41667,42.63972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Vllasali"
     ],
@@ -37,11 +41,6 @@
     ],
     "name:srp_x_variant":[
         "Mahala Vlase"
-    ],
-    "name:und_x_variant":[
-        "Mahala Vlase",
-        "Vllasaj",
-        "Vllasali"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +65,7 @@
         }
     ],
     "wof:id":1242611753,
-    "wof:lastmodified":1537715011,
+    "wof:lastmodified":1566653041,
     "wof:name":"Vlase",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.36639,42.79667,21.40639,42.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Kalatic\u00eb"
     ],
@@ -41,12 +45,9 @@
         "\u041a\u0430\u0459\u0430\u0442\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
-        "Lug\u00ebz",
         "Koljetica",
-        "Lug\u00ebza",
         "Kaljetica",
-        "Kalatica",
-        "Kaletic\u00eb"
+        "Kalatica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1276909457,
-    "wof:lastmodified":1537714879,
+    "wof:lastmodified":1566652892,
     "wof:name":"Kaljatica",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.77194,42.83417,20.81194,42.87417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kopriva"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1210051237,
-    "wof:lastmodified":1564100411,
+    "wof:lastmodified":1566652937,
     "wof:name":"Kopriva",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

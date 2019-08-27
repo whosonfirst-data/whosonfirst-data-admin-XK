@@ -11,10 +11,14 @@
     "geom:longitude":21.42611,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":288,
+    "gn:population":288,
     "iso:country":"XK",
+    "lbl:bbox":"21.40611,42.58139,21.44611,42.62139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0441\u0442\u0430\u043d\u0435"
     ],
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "Bostane"
     ],
-    "name:unk_x_variant":[
-        "Bostani"
-    ],
     "qs:name":"Bostane",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":792409,
         "gp:id":535662,
-        "qs:id":129660,
+        "qs_pg:id":129660,
         "wd:id":"Q15710469"
     },
     "wof:country":"XK",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":890492825,
-    "wof:lastmodified":1563578472,
+    "wof:lastmodified":1566653024,
     "wof:name":"Bostane",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

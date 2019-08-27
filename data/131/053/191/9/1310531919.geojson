@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.83611,42.80972,20.87611,42.84972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Slavkovi\u0107i"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310531919,
-    "wof:lastmodified":1537715022,
+    "wof:lastmodified":1566652974,
     "wof:name":"Slavkovici",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

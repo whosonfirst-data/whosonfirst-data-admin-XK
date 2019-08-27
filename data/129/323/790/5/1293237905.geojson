@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.44222,42.6575,21.48222,42.6975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Krilev\u00eb"
     ],
@@ -41,9 +45,7 @@
     ],
     "name:und_x_variant":[
         "Krljevo",
-        "Krileva",
-        "Kryelum",
-        "Kryelumi"
+        "Krileva"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1293237905,
-    "wof:lastmodified":1537714867,
+    "wof:lastmodified":1566652843,
     "wof:name":"Kriljevo",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.97167,42.82889,21.01167,42.86889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gojbulja"
     ],
@@ -47,10 +51,6 @@
     ],
     "name:swe_x_preferred":[
         "Gojbulja"
-    ],
-    "name:und_x_variant":[
-        "Gojbul\u00eb",
-        "Gojbuj\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1277110821,
-    "wof:lastmodified":1564100181,
+    "wof:lastmodified":1566652898,
     "wof:name":"Gojbulja",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

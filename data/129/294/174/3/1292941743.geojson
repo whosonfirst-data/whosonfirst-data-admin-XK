@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.435,42.48972,20.475,42.52972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "G\u00ebrgoc"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:srp_x_variant":[
         "Grgoc"
-    ],
-    "name:und_x_variant":[
-        "G\u00ebrgoc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1292941743,
-    "wof:lastmodified":1537714889,
+    "wof:lastmodified":1566652841,
     "wof:name":"Grgoc",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

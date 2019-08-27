@@ -11,10 +11,14 @@
     "geom:longitude":21.49556,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"XK",
+    "lbl:bbox":"21.47556,42.38694,21.51556,42.42694",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pasjane"
     ],
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Pasjane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Posjane"
     ],
     "qs:name":"Pasjane",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":787182,
         "gp:id":535878,
-        "qs:id":83621,
+        "qs_pg:id":83621,
         "wd:id":"Q12757060"
     },
     "wof:country":"XK",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890492881,
-    "wof:lastmodified":1563578461,
+    "wof:lastmodified":1566653019,
     "wof:name":"Pasjane",
     "wof:parent_id":1108809517,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.97969,42.88867,21.01969,42.92867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donja Mahala"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1344087139,
-    "wof:lastmodified":1564100064,
+    "wof:lastmodified":1566652801,
     "wof:name":"Donja Mahala",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

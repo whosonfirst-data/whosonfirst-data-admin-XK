@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.53444,42.6625,21.57444,42.7025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Kurtaj"
     ],
     "name:srp_x_variant":[
-        "Mahala Kurtovi\u0107"
-    ],
-    "name:und_x_variant":[
         "Mahala Kurtovi\u0107"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1293619909,
-    "wof:lastmodified":1537715017,
+    "wof:lastmodified":1566652850,
     "wof:name":"Kurtaj",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

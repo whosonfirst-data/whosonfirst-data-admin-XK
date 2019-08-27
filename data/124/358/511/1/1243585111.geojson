@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.67583,42.61944,21.71583,42.65944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Vruqevc"
     ],
@@ -42,13 +46,6 @@
     "name:srp_x_variant":[
         "\u0412\u0440\u0443\u045b\u0435\u0432\u0446\u0435",
         "Vru\u0107evci"
-    ],
-    "name:und_x_variant":[
-        "V\u00ebrrin",
-        "Vruqec",
-        "V\u00ebrrini",
-        "Vru\u0107evci",
-        "Vri\u00e7efci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":1243585111,
-    "wof:lastmodified":1537714763,
+    "wof:lastmodified":1566653048,
     "wof:name":"Vriqec",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

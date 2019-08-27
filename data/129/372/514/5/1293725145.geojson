@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.875,42.74556,20.915,42.78556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dubovac"
     ],
@@ -63,8 +67,7 @@
         "Dubovac"
     ],
     "name:und_x_variant":[
-        "Dubovce",
-        "Dubovc"
+        "Dubovce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1293725145,
-    "wof:lastmodified":1564100135,
+    "wof:lastmodified":1566652865,
     "wof:name":"Dubovac",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

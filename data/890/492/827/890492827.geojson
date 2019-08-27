@@ -11,10 +11,14 @@
     "geom:longitude":20.82194,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":1883,
+    "gn:population":1883,
     "iso:country":"XK",
+    "lbl:bbox":"20.80194,42.36361,20.84194,42.40361",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:sqi_x_preferred":[
         "Peqan"
     ],
@@ -26,9 +30,6 @@
     ],
     "name:srp_x_variant":[
         "Pe\u0107ane"
-    ],
-    "name:unk_x_variant":[
-        "Re\u00e7an"
     ],
     "qs:name":"Peqan",
     "qs:photos_9r":0,
@@ -45,7 +46,7 @@
     "wof:concordances":{
         "gn:id":787155,
         "gp:id":537027,
-        "qs:id":1029008
+        "qs_pg:id":1029008
     },
     "wof:country":"XK",
     "wof:created":1469054908,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":890492827,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1566653017,
     "wof:name":"Peqan",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.21,42.35778,21.25,42.39778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Draga\u0161-Mahala"
     ],
     "name:srp_x_variant":[
-        "Drago\u0161-Mahala"
-    ],
-    "name:und_x_variant":[
         "Drago\u0161-Mahala"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1193168021,
-    "wof:lastmodified":1537714991,
+    "wof:lastmodified":1566652941,
     "wof:name":"Dragas-Mahala",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

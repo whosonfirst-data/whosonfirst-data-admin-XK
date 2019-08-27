@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.64222,42.18306,20.68222,42.22306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vlashnje"
     ],
@@ -53,9 +57,7 @@
         "Vlashnje"
     ],
     "name:und_x_variant":[
-        "Vllashnj\u00eb",
-        "Vlajsh\u00eb",
-        "Vlja\u0161na"
+        "Vlajsh\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":1293235243,
-    "wof:lastmodified":1564100111,
+    "wof:lastmodified":1566652845,
     "wof:name":"Vlashnje",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

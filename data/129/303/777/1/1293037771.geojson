@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.60194,42.48278,20.64194,42.52278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ponorac"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Panoc",
-        "Ponorce",
-        "Panorc"
+        "Ponorce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1293037771,
-    "wof:lastmodified":1564100120,
+    "wof:lastmodified":1566652852,
     "wof:name":"Ponorac",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

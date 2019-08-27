@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.38944,42.44889,21.42944,42.48889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Jabu\u010dani"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293426451,
-    "wof:lastmodified":1537714972,
+    "wof:lastmodified":1566652859,
     "wof:name":"Jabucani",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",
