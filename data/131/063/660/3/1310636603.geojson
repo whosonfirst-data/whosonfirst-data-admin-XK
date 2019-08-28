@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.24361,42.1425,21.28361,42.1825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Bushal\u00eb"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:srp_x_variant":[
         "Pustenik"
-    ],
-    "name:und_x_variant":[
-        "Bushal\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1310636603,
-    "wof:lastmodified":1537714814,
+    "wof:lastmodified":1566652978,
     "wof:name":"Pustenik",
     "wof:parent_id":1108809497,
     "wof:placetype":"locality",

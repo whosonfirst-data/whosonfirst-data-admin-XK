@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.17194,42.47417,21.21194,42.51417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Marec"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u0440\u0435\u0432\u0446\u0435"
-    ],
-    "name:und_x_variant":[
-        "Marevc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1309746523,
-    "wof:lastmodified":1537714845,
+    "wof:lastmodified":1566653016,
     "wof:name":"Marevce",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

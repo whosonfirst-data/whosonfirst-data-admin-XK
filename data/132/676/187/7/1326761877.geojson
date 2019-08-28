@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.7275,42.51333,20.7675,42.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Llashkadrenoc"
     ],
@@ -39,10 +43,6 @@
     ],
     "name:srp_x_variant":[
         "Vla\u0161ki Drenovac"
-    ],
-    "name:und_x_variant":[
-        "Llashkadr\u00ebnoc",
-        "Vlavshki Drenovac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1326761877,
-    "wof:lastmodified":1537714769,
+    "wof:lastmodified":1566652778,
     "wof:name":"Llashkadrenoc",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

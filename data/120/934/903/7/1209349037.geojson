@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.37139,42.70694,20.41139,42.74694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Banja"
     ],
@@ -73,10 +77,6 @@
         "Banja"
     ],
     "name:und_x_variant":[
-        "Pe\u0107ska Banja",
-        "Baj\u00eb",
-        "Pe\u0107ka Banja",
-        "Baja e Pej\u00ebs",
         "Baja"
     ],
     "src:geom":"geonames",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1209349037,
-    "wof:lastmodified":1564100398,
+    "wof:lastmodified":1566652926,
     "wof:name":"Banja",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

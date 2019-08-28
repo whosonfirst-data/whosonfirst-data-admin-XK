@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.02222,42.33333,21.06222,42.37333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0160ajkovac"
     ],
     "name:srp_x_variant":[
-        "\u0160ajkoc"
-    ],
-    "name:und_x_variant":[
         "\u0160ajkoc"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1327066215,
-    "wof:lastmodified":1537714996,
+    "wof:lastmodified":1566652758,
     "wof:name":"Sajkovac",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.17241,42.95734,21.21241,42.99734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Llaush\u00eb"
     ],
@@ -38,11 +42,6 @@
     ],
     "name:srp_x_variant":[
         "Lau\u0161a"
-    ],
-    "name:und_x_variant":[
-        "Llausa",
-        "Llausha",
-        "Llaush\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +66,7 @@
         }
     ],
     "wof:id":1259416535,
-    "wof:lastmodified":1537715033,
+    "wof:lastmodified":1566653071,
     "wof:name":"Lausa",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

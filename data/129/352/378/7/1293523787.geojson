@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.06028,42.50387,21.10028,42.54387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Rufc i Ri"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:srp_x_variant":[
         "\u041d\u043e\u0432\u043e \u0420\u0443\u0458\u0446\u0435",
-        "Novo Ruici"
-    ],
-    "name:und_x_variant":[
         "Novo Ruici"
     ],
     "src:geom":"geonames",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1293523787,
-    "wof:lastmodified":1537714969,
+    "wof:lastmodified":1566652839,
     "wof:name":"Novo Rujce",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

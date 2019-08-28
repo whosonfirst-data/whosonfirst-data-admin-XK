@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.34972,42.62056,20.38972,42.66056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gorazhdec"
     ],
@@ -54,12 +58,7 @@
         "Gorazhdec"
     ],
     "name:und_x_variant":[
-        "Kastrati",
-        "Gorazhdvec",
-        "Kastrat",
-        "Gorazhdec",
-        "Gorazhdeci",
-        "Gorazhdevc"
+        "Kastrat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +84,7 @@
         }
     ],
     "wof:id":1277019597,
-    "wof:lastmodified":1564100138,
+    "wof:lastmodified":1566652867,
     "wof:name":"Gorazhdec",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

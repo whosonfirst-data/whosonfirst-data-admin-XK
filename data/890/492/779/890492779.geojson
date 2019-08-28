@@ -11,11 +11,15 @@
     "geom:longitude":20.35278,
     "gn:country":"XK",
     "gn:fcode":"PPLL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"XK",
+    "lbl:bbox":"20.33278,42.65361,20.37278,42.69361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Fusha"
     ],
     "qs:name":"Tropoviq",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":784965,
         "gp:id":537465,
-        "qs:id":553618
+        "qs_pg:id":553618
     },
     "wof:country":"XK",
     "wof:created":1469054906,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890492779,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1566653022,
     "wof:name":"Tropoviq",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

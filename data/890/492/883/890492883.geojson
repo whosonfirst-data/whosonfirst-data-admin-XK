@@ -11,10 +11,14 @@
     "geom:longitude":20.36278,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":2000,
+    "gn:population":2000,
     "iso:country":"XK",
+    "lbl:bbox":"20.34278,42.48722,20.38278,42.52722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Beziak Gjakova"
     ],
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u044f\u043a\u043e\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gla\u0111ane"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":790704,
         "gp:id":536687,
-        "qs:id":129618,
+        "qs_pg:id":129618,
         "wd:id":"Q1059386",
         "wk:page":"District of Gjakova"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890492883,
-    "wof:lastmodified":1563578470,
+    "wof:lastmodified":1566653023,
     "wof:name":"Gllogjan",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

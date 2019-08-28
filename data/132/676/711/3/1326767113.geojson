@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.3425,42.74833,20.3825,42.78833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Cakuti\u0107"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326767113,
-    "wof:lastmodified":1537715018,
+    "wof:lastmodified":1566652779,
     "wof:name":"Cakutic",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

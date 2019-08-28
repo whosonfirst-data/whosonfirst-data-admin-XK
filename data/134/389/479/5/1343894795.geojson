@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.42194,42.75694,20.46194,42.79694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Lubozhd\u00eb"
     ],
@@ -41,12 +45,6 @@
     ],
     "name:srp_x_variant":[
         "Ljubo\u017eda"
-    ],
-    "name:und_x_variant":[
-        "N\u00ebngurra",
-        "Lubozhda",
-        "N\u00ebngurr\u00eb",
-        "Lupizhd\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +69,7 @@
         }
     ],
     "wof:id":1343894795,
-    "wof:lastmodified":1537714853,
+    "wof:lastmodified":1566652825,
     "wof:name":"Ljubozda",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

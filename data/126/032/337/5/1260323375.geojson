@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.59389,42.95778,20.63389,42.99778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Bub\u00eb"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260323375,
-    "wof:lastmodified":1537714946,
+    "wof:lastmodified":1566652954,
     "wof:name":"Bube",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

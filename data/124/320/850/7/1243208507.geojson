@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.16579,42.91135,21.20579,42.95135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Letani\u00e7"
     ],
@@ -41,9 +45,6 @@
         "Letance"
     ],
     "name:und_x_variant":[
-        "Letanci",
-        "Letanc",
-        "Letani",
         "Letan"
     ],
     "src:geom":"geonames",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1243208507,
-    "wof:lastmodified":1537714858,
+    "wof:lastmodified":1566653056,
     "wof:name":"Letance",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

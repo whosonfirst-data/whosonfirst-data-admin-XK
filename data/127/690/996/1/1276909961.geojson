@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.91083,42.44111,20.95083,42.48111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u0443\u0433\u0430"
     ],
@@ -65,9 +69,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0433\u0430"
     ],
-    "name:und_x_variant":[
-        "Duk\u00eb"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1276909961,
-    "wof:lastmodified":1564100171,
+    "wof:lastmodified":1566652890,
     "wof:name":"Duga",
     "wof:parent_id":1108809523,
     "wof:placetype":"locality",

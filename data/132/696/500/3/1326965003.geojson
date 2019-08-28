@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.28167,42.15111,21.32167,42.19111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Ne\u00e7avac"
     ],
@@ -45,10 +49,6 @@
     ],
     "name:tur_x_preferred":[
         "Ne\u00e7ava\u00e7"
-    ],
-    "name:und_x_variant":[
-        "Ne\u00e7avc",
-        "Ne\u00e7ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1326965003,
-    "wof:lastmodified":1537714835,
+    "wof:lastmodified":1566652783,
     "wof:name":"Naqafc",
     "wof:parent_id":1108809497,
     "wof:placetype":"locality",

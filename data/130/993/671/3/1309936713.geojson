@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.92944,42.93861,20.96944,42.97861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Vidishiq"
     ],
@@ -35,10 +39,6 @@
     "name:srp_x_variant":[
         "Vidu\u0161i\u0107",
         "Vitu\u0161i\u0107"
-    ],
-    "name:und_x_variant":[
-        "Vitu\u0161i\u0107",
-        "Vidishiq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1309936713,
-    "wof:lastmodified":1537714770,
+    "wof:lastmodified":1566653011,
     "wof:name":"Vidishiq",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

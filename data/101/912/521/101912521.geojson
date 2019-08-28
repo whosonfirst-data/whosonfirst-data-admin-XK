@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":3176874.993718,
+    "geom:area_square_m":3176874.993717,
     "geom:bbox":"20.3079179791,42.6563000292,20.3593899116,42.7074582706",
     "geom:latitude":42.686384,
     "geom:longitude":20.330451,
@@ -13,10 +13,13 @@
     "iso:country":"XK",
     "lbl:latitude":42.688072,
     "lbl:longitude":20.322656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":42.688072,
     "mps:longitude":20.322656,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Du\u0161an Mugo\u0161a"
     ],
@@ -43,7 +46,7 @@
         "Vitomirica",
         "\u0412\u0438\u0442\u043e\u043c\u0438\u0440\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arbnia"
     ],
     "qs:a0":"Kosovo",
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,8 +77,10 @@
     "wof:concordances":{
         "gn:id":784365,
         "gp:id":537465,
-        "qs:id":464252,
         "qs_pg:id":83542
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":464252
     },
     "wof:country":"XK",
     "wof:geomhash":"92d849e238acfb7180ab78cf999aec80",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101912521,
-    "wof:lastmodified":1505338654,
+    "wof:lastmodified":1566653005,
     "wof:name":"Vitomirica",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

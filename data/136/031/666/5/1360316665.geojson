@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.88083,42.88389,20.92083,42.92389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Reka"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1360316665,
-    "wof:lastmodified":1564100486,
+    "wof:lastmodified":1566652994,
     "wof:name":"Reka",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

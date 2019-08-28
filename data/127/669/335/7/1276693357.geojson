@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.77417,42.82417,20.81417,42.86417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Braboniq"
     ],
@@ -47,9 +51,7 @@
         "Braboni\u0107"
     ],
     "name:und_x_variant":[
-        "Gradevac",
-        "Braboniq",
-        "Braboni\u0107"
+        "Gradevac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1276693357,
-    "wof:lastmodified":1564100149,
+    "wof:lastmodified":1566652875,
     "wof:name":"Broboniq",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

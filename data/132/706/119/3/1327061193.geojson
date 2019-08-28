@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.62806,42.64278,21.66806,42.68278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Lisock\u00eb"
     ],
@@ -40,8 +44,6 @@
         "\u041b\u0438\u0441\u0430\u0446\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Lesock\u00eb",
-        "Lisori",
         "Lisor",
         "Lisocka",
         "Lisoca"
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1327061193,
-    "wof:lastmodified":1537714856,
+    "wof:lastmodified":1566652759,
     "wof:name":"Lisacka",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

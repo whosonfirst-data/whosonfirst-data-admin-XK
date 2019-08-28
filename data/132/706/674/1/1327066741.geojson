@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.45333,42.72167,20.49333,42.76167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Tomanc"
     ],
@@ -35,8 +39,6 @@
         "Kushtrimi"
     ],
     "name:und_x_variant":[
-        "Kushtrimi",
-        "Kushtrim",
         "Tomane"
     ],
     "src:geom":"geonames",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1327066741,
-    "wof:lastmodified":1537714783,
+    "wof:lastmodified":1566652758,
     "wof:name":"Tomane (Kushtrim)",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

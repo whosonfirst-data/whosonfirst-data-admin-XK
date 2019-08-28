@@ -11,14 +11,18 @@
     "geom:longitude":20.34667,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":1500,
+    "gn:population":1500,
     "iso:country":"XK",
+    "lbl:bbox":"20.32667,42.52667,20.36667,42.56667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "\u041b\u0443\u043c\u0431\u0430\u0440\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lumbardh"
     ],
     "qs:name":"Lumbardhi",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":788536,
         "gp:id":533316,
-        "qs:id":275758
+        "qs_pg:id":275758
     },
     "wof:country":"XK",
     "wof:created":1469054907,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890492801,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1566653025,
     "wof:name":"Lumbardhi",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

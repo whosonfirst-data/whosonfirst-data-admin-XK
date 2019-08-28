@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.75361,42.99944,20.79361,43.03944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Danovi\u0107i"
     ],
     "name:srp_x_variant":[
-        "Danovi\u0107"
-    ],
-    "name:und_x_variant":[
         "Danovi\u0107"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1309936211,
-    "wof:lastmodified":1537715022,
+    "wof:lastmodified":1566653010,
     "wof:name":"Danovici",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

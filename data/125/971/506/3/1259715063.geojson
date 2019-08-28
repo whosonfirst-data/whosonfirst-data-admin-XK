@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.75944,42.92361,20.79944,42.96361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Lokva"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259715063,
-    "wof:lastmodified":1564100578,
+    "wof:lastmodified":1566653073,
     "wof:name":"Lokva",
     "wof:parent_id":1108809563,
     "wof:placetype":"locality",

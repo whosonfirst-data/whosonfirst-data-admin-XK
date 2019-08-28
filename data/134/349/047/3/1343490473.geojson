@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.47917,42.30806,20.51917,42.34806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Po\u0161tra"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343490473,
-    "wof:lastmodified":1537715028,
+    "wof:lastmodified":1566652808,
     "wof:name":"Postra",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

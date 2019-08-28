@@ -24,18 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.24222,42.2925,21.28222,42.3325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gornja Lju\u017ea"
     ],
     "name:srp_x_variant":[
         "Lu\u017ea",
         "Lju\u017ea"
-    ],
-    "name:und_x_variant":[
-        "Lju\u017ea",
-        "Lu\u017ea"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1343490805,
-    "wof:lastmodified":1537714993,
+    "wof:lastmodified":1566652809,
     "wof:name":"Gornja Ljuza",
     "wof:parent_id":1108809505,
     "wof:placetype":"locality",

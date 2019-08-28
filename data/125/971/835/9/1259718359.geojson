@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.51028,42.52472,21.55028,42.56472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Bozhevc"
     ],
@@ -44,12 +48,6 @@
         "\u0411\u043e\u0436\u043e\u0432\u0446\u0435",
         "Bo\u017eevce",
         "Bo\u017eovce"
-    ],
-    "name:und_x_variant":[
-        "Bo\u017eovce",
-        "Bozhefci",
-        "Bozheci",
-        "Bozhec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +72,7 @@
         }
     ],
     "wof:id":1259718359,
-    "wof:lastmodified":1537714950,
+    "wof:lastmodified":1566653072,
     "wof:name":"Bozhec",
     "wof:parent_id":1108809579,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.20056,42.85639,21.24056,42.89639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Sfe\u00e7\u00ebl"
     ],
@@ -48,12 +52,7 @@
         "Sve\u0107nje"
     ],
     "name:und_x_variant":[
-        "Laberioni",
-        "Sfe\u00e7\u00ebl",
-        "Laberion",
-        "Sve\u00e7\u00ebl",
-        "Sfe\u00e7la",
-        "Sve\u0107nje"
+        "Laberion"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1343394817,
-    "wof:lastmodified":1564096229,
+    "wof:lastmodified":1566652797,
     "wof:name":"Svetlje",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

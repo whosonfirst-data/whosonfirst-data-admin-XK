@@ -11,11 +11,15 @@
     "geom:longitude":21.14083,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"XK",
+    "lbl:bbox":"21.12083,42.57667,21.16083,42.61667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laplje Selo"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Laplje Selo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kadikej"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":788794,
         "gp:id":534944,
-        "qs:id":1165760,
+        "qs_pg:id":1165760,
         "wd:id":"Q6488292",
         "wk:page":"Laplje Selo"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890492867,
-    "wof:lastmodified":1563578466,
+    "wof:lastmodified":1566653021,
     "wof:name":"Laplje Selo",
     "wof:parent_id":1108809537,
     "wof:placetype":"locality",

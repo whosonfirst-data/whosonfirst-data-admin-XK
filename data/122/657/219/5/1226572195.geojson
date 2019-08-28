@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.74444,43.07472,20.78444,43.11472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Desetak"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226572195,
-    "wof:lastmodified":1537714933,
+    "wof:lastmodified":1566653096,
     "wof:name":"Desetak",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

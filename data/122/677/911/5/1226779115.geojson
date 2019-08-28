@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.41389,42.70861,21.45389,42.74861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Dabishec"
     ],
@@ -39,11 +43,6 @@
         "\u0414\u0430\u0431\u0438\u0448\u0435\u0432\u0430\u0446",
         "Dobi\u0161evci",
         "Dabi\u0161evci"
-    ],
-    "name:und_x_variant":[
-        "Dabishefc",
-        "Dabi\u0161evci",
-        "Dobi\u0161evci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +67,7 @@
         }
     ],
     "wof:id":1226779115,
-    "wof:lastmodified":1537714936,
+    "wof:lastmodified":1566653111,
     "wof:name":"Dabishec",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

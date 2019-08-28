@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.83,42.51333,20.87,42.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Berish\u00eb"
     ],
@@ -38,9 +42,6 @@
     ],
     "name:srp_x_variant":[
         "Beri\u0161a"
-    ],
-    "name:und_x_variant":[
-        "Berisha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1243100873,
-    "wof:lastmodified":1537714954,
+    "wof:lastmodified":1566653063,
     "wof:name":"Berisa",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

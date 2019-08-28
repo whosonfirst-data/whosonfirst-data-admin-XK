@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.435,42.38972,21.475,42.42972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Donja Budriga"
     ],
@@ -45,11 +49,6 @@
     ],
     "name:srp_x_variant":[
         "\u0414\u043e\u045a\u0430 \u0411\u0443\u0434\u0440\u0438\u0433\u0430"
-    ],
-    "name:und_x_variant":[
-        "Butrik\u00eb e Posht\u00ebme",
-        "Budriga e Posht\u00ebme",
-        "Budriga e Sip\u00ebrme"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +73,7 @@
         }
     ],
     "wof:id":1243488275,
-    "wof:lastmodified":1564100541,
+    "wof:lastmodified":1566653043,
     "wof:name":"Donja Budriga",
     "wof:parent_id":1108809517,
     "wof:placetype":"locality",

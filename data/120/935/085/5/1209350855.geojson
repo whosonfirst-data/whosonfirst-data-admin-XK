@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.20431,42.66879,21.24431,42.70879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Butovac"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209350855,
-    "wof:lastmodified":1537714972,
+    "wof:lastmodified":1566652920,
     "wof:name":"Butovac",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

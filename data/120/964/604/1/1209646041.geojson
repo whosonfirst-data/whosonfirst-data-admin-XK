@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.63694,42.9725,20.67694,43.0125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Ran\u00e7iq"
     ],
@@ -35,9 +39,6 @@
     "name:srp_x_variant":[
         "\u0420\u0430\u0438\u0447\u0438\u045b\u0435",
         "Ran\u010di\u0107e",
-        "Rai\u010di\u0107e"
-    ],
-    "name:und_x_variant":[
         "Rai\u010di\u0107e"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1209646041,
-    "wof:lastmodified":1537714810,
+    "wof:lastmodified":1566652904,
     "wof:name":"Rancice",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

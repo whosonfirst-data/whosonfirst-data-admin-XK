@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.95639,42.94167,20.99639,42.98167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bare"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1310036889,
-    "wof:lastmodified":1564100472,
+    "wof:lastmodified":1566652984,
     "wof:name":"Bare",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

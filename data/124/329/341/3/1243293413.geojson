@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.48472,42.57611,20.52472,42.61611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Arat e Gjata"
     ],
@@ -42,9 +46,7 @@
         "Dugonjive"
     ],
     "name:und_x_variant":[
-        "Dugonjive",
         "Duge Njuve",
-        "Dukajev\u00eb",
         "Duganjive",
         "Dukati",
         "Dukat",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1243293413,
-    "wof:lastmodified":1537714912,
+    "wof:lastmodified":1566653060,
     "wof:name":"Dugenjive",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

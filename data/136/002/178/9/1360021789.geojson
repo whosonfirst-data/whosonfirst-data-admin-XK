@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.00811,42.58611,21.04811,42.62611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Sllatin\u00eb e Vog\u00ebl"
     ],
@@ -38,10 +42,6 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u043b\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Albana e Vog\u00ebl",
-        "Sllatina e Vog\u00ebl"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1360021789,
-    "wof:lastmodified":1537714848,
+    "wof:lastmodified":1566653005,
     "wof:name":"Mala Slatina",
     "wof:parent_id":1108809539,
     "wof:placetype":"locality",

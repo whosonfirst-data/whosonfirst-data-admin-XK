@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.33889,42.63361,21.37889,42.67361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gornja Vitija"
     ],
     "name:srp_x_variant":[
-        "Gornja Mahala Vitinje"
-    ],
-    "name:und_x_variant":[
         "Gornja Mahala Vitinje"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1276371021,
-    "wof:lastmodified":1537715016,
+    "wof:lastmodified":1566652893,
     "wof:name":"Gornja Vitija",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":20.29139,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":970,
+    "gn:population":970,
     "iso:country":"XK",
+    "lbl:bbox":"20.27139,42.57778,20.31139,42.61778",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Drinishti"
     ],
     "qs:name":"Lybeniq",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":788571,
         "gp:id":536926,
-        "qs:id":553843
+        "qs_pg:id":553843
     },
     "wof:country":"XK",
     "wof:created":1469054910,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890492891,
-    "wof:lastmodified":1505343801,
+    "wof:lastmodified":1566653024,
     "wof:name":"Lybeniq",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

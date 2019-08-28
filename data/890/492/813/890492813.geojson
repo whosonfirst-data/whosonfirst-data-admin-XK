@@ -11,11 +11,15 @@
     "geom:longitude":20.76333,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":19863,
+    "gn:population":19863,
     "iso:country":"XK",
+    "lbl:bbox":"20.74333,42.53528,20.78333,42.57528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Llozic\u00eb"
     ],
     "qs:name":"Llazic\u00eb",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":788470,
         "gp:id":535761,
-        "qs:id":129543
+        "qs_pg:id":129543
     },
     "wof:country":"XK",
     "wof:created":1469054907,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890492813,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1566653023,
     "wof:name":"Llazic\u00eb",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

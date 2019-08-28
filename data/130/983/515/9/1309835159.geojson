@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.9525,42.89389,20.9925,42.93389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "T\u00ebrsten\u00eb"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:srp_x_variant":[
         "Trstena"
-    ],
-    "name:und_x_variant":[
-        "T\u00ebrsten\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1309835159,
-    "wof:lastmodified":1537714780,
+    "wof:lastmodified":1566653008,
     "wof:name":"Trstena",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

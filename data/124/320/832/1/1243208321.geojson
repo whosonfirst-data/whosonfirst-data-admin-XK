@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.34111,42.63667,20.38111,42.67667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Pllavlane"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243208321,
-    "wof:lastmodified":1537714821,
+    "wof:lastmodified":1566653056,
     "wof:name":"Pavllan",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

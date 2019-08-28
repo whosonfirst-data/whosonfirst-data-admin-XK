@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.92333,42.37944,20.96333,42.41944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Ra\u0161an Mahala"
     ],
     "name:srp_x_variant":[
-        "Gri\u010dec"
-    ],
-    "name:und_x_variant":[
         "Gri\u010dec"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1343692219,
-    "wof:lastmodified":1537715001,
+    "wof:lastmodified":1566652815,
     "wof:name":"Rasan Mahala",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.80472,43.13083,20.84472,43.17083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Krush\u00e7ic\u00eb"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243399335,
-    "wof:lastmodified":1537714865,
+    "wof:lastmodified":1566653034,
     "wof:name":"Krusheica",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

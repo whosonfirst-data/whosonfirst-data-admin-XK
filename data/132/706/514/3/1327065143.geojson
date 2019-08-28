@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.4141,42.50729,21.4541,42.54729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Strazh\u00eb"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327065143,
-    "wof:lastmodified":1537714789,
+    "wof:lastmodified":1566652761,
     "wof:name":"Straza",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

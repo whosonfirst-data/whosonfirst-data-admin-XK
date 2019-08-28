@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.48278,42.76611,20.52278,42.80611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Yaxalay\u0131c\u0131"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1293329217,
-    "wof:lastmodified":1564100125,
+    "wof:lastmodified":1566652857,
     "wof:name":"Grab",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",

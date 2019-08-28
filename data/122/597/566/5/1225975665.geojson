@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.75694,42.50472,20.79694,42.54472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Skorashnik"
     ],
@@ -39,10 +43,6 @@
     ],
     "name:srp_x_variant":[
         "Skoro\u0161nik"
-    ],
-    "name:und_x_variant":[
-        "Shkorashnik",
-        "Skarashnik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1225975665,
-    "wof:lastmodified":1537714797,
+    "wof:lastmodified":1566653100,
     "wof:name":"Skorashnik",
     "wof:parent_id":1108809533,
     "wof:placetype":"locality",

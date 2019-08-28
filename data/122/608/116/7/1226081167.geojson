@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.88722,42.29056,20.92722,42.33056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dvorane"
     ],
@@ -51,7 +55,6 @@
         "Dvorane"
     ],
     "name:und_x_variant":[
-        "Dvoran",
         "Duran"
     ],
     "src:geom":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226081167,
-    "wof:lastmodified":1564100627,
+    "wof:lastmodified":1566653115,
     "wof:name":"Dvorane",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

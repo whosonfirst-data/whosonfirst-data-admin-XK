@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.98982,42.5749,21.02982,42.6149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Tre\u0161njevo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209749905,
-    "wof:lastmodified":1537715029,
+    "wof:lastmodified":1566652928,
     "wof:name":"Tresnjevo",
     "wof:parent_id":1108809539,
     "wof:placetype":"locality",

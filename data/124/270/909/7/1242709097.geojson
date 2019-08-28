@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.20667,42.90389,21.24667,42.94389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Livadica"
     ],
@@ -51,10 +55,6 @@
         "Livadica"
     ],
     "name:und_x_variant":[
-        "Livadhia",
-        "Livadic\u00eb",
-        "Livadhia e Poshtme",
-        "Livadhi",
         "Livadce"
     ],
     "src:geom":"geonames",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1242709097,
-    "wof:lastmodified":1564100548,
+    "wof:lastmodified":1566653049,
     "wof:name":"Livadica",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

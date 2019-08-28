@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.1678,42.80318,21.2078,42.84318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0443\u0433"
     ],
@@ -94,8 +98,6 @@
         "\u041b\u0443\u0433"
     ],
     "name:und_x_variant":[
-        "Lluga",
-        "Lugaj\u00eb",
         "Lugaja"
     ],
     "src:geom":"geonames",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":1209852097,
-    "wof:lastmodified":1564100198,
+    "wof:lastmodified":1566652912,
     "wof:name":"Lug",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

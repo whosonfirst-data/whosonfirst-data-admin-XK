@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.36917,42.69667,20.40917,42.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Banjica"
     ],
@@ -57,11 +61,7 @@
         "Banjica"
     ],
     "name:und_x_variant":[
-        "Llixh\u00eb e Pej\u00ebs",
-        "Baica",
-        "Baj\u00ebz",
-        "Baic\u00eb",
-        "Baj\u00ebza"
+        "Baica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1209248429,
-    "wof:lastmodified":1564100195,
+    "wof:lastmodified":1566652910,
     "wof:name":"Banjica",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

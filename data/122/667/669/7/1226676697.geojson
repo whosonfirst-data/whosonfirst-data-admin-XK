@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.01583,43.07583,21.05583,43.11583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bela Stena"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226676697,
-    "wof:lastmodified":1564100601,
+    "wof:lastmodified":1566653092,
     "wof:name":"Bela Stena",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

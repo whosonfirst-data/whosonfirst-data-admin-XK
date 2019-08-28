@@ -11,11 +11,15 @@
     "geom:longitude":21.19306,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":35000,
+    "gn:population":35000,
     "gp:adm0":20069818,
     "iso:country":"XK",
+    "lbl:bbox":"21.17306,42.89056,21.21306,42.93056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aln_x_preferred":[
         "Besiana"
     ],
@@ -227,7 +231,7 @@
     "wof:concordances":{
         "gn:id":786950,
         "gp:id":536015,
-        "qs:id":502255,
+        "qs_pg:id":502255,
         "wd:id":"Q994245",
         "wk:page":"Podujevo"
     },
@@ -244,7 +248,7 @@
         }
     ],
     "wof:id":890492845,
-    "wof:lastmodified":1563578459,
+    "wof:lastmodified":1566653018,
     "wof:name":"Podujevo",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

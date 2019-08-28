@@ -11,14 +11,18 @@
     "geom:longitude":20.29222,
     "gn:country":"XK",
     "gn:fcode":"PPLL",
-    "gn:pop":2000,
+    "gn:population":2000,
     "iso:country":"XK",
+    "lbl:bbox":"20.27222,42.49556,20.31222,42.53556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drenoci"
     ],
     "qs:name":"Dranoc",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":791043,
         "gp:id":534449,
-        "qs:id":129628
+        "qs_pg:id":129628
     },
     "wof:country":"XK",
     "wof:created":1469054905,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890492767,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1566653022,
     "wof:name":"Dranoc",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

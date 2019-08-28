@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.01167,42.82778,21.05167,42.86778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Studimla e Ep\u00ebrme"
     ],
@@ -39,9 +43,6 @@
         "\u0413\u043e\u0440\u045a\u0430 \u0421\u0443\u0434\u0438\u043c\u0459\u0430",
         "Gornja Studimlja",
         "\u0413\u043e\u0440\u045a\u0430 \u0421\u0442\u0443\u0434\u0438\u043c\u0459\u0430",
-        "Gornje Studimlje"
-    ],
-    "name:und_x_variant":[
         "Gornje Studimlje"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1260217641,
-    "wof:lastmodified":1537714899,
+    "wof:lastmodified":1566652952,
     "wof:name":"Gornja Sudimlja",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

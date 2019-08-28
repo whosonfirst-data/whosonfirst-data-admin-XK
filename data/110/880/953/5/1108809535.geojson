@@ -12,6 +12,8 @@
     "iso:country":"XK",
     "lbl:latitude":42.4591,
     "lbl:longitude":21.51422,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:admin_1":"Gjilan",
     "meso:gadm_adm2":"Gnjilane",
     "meso:gadm_alt":"\u0413\u045a\u0438\u043b\u0430\u043d\u0435",
@@ -22,6 +24,7 @@
     "meso:name_local":"Gjilan",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0644\u0627\u0646"
     ],
@@ -115,10 +118,6 @@
     "name:ukr_x_preferred":[
         "\u0413'\u0457\u043b\u0430\u043d\u0456"
     ],
-    "name:und_x_variant":[
-        "Gnjilane",
-        "Gjilan"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u06cc\u0644\u0627\u0646"
     ],
@@ -126,7 +125,7 @@
         "\u683c\u5c3c\u62c9\u5185"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633259,
@@ -146,7 +145,7 @@
         }
     ],
     "wof:id":1108809535,
-    "wof:lastmodified":1564100438,
+    "wof:lastmodified":1566652958,
     "wof:name":"Gjilan",
     "wof:parent_id":1108808601,
     "wof:placetype":"localadmin",

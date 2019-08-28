@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.02077,42.72115,21.06077,42.76115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Stanoc i Posht\u00ebm"
     ],
@@ -38,10 +42,6 @@
     ],
     "name:srp_x_variant":[
         "Donje Stanovce",
-        "\u010cerkez-kej"
-    ],
-    "name:und_x_variant":[
-        "Stanofc i Posht\u00ebm",
         "\u010cerkez-kej"
     ],
     "src:geom":"geonames",
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1309741471,
-    "wof:lastmodified":1537714920,
+    "wof:lastmodified":1566653016,
     "wof:name":"Donje Stanovce",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",

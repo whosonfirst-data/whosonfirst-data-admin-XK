@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.52556,42.62972,21.56556,42.66972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Meshin\u00eb"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0435\u0448\u0438\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Meshina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1326563705,
-    "wof:lastmodified":1537714842,
+    "wof:lastmodified":1566652768,
     "wof:name":"Mesina",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

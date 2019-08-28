@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.87083,42.53306,20.91083,42.57306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Kishnarek\u00eb"
     ],
@@ -43,14 +47,6 @@
     "name:srp_x_variant":[
         "Ki\u0161na Reka",
         "Kr\u017ena Reka"
-    ],
-    "name:und_x_variant":[
-        "Lumisht\u00eb",
-        "Kishna Reka",
-        "Lumishta",
-        "Kizhareka",
-        "Kr\u017ena Reka",
-        "Kisha e Nrek\u00ebs"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +71,7 @@
         }
     ],
     "wof:id":1193047505,
-    "wof:lastmodified":1537714877,
+    "wof:lastmodified":1566652938,
     "wof:name":"Kisna Reka",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

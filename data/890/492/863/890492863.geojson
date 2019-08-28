@@ -11,17 +11,21 @@
     "geom:longitude":20.34722,
     "gn:country":"XK",
     "gn:fcode":"PPL",
-    "gn:pop":2200,
+    "gn:population":2200,
     "iso:country":"XK",
+    "lbl:bbox":"20.32722,42.5,20.36722,42.54",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Rzni\u0107"
     ],
     "name:srp_x_variant":[
         "\u0420\u0437\u043d\u0438\u045b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irzniqi"
     ],
     "qs:name":"Irzniq",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":786156,
         "gp:id":533316,
-        "qs:id":56507
+        "qs_pg:id":56507
     },
     "wof:country":"XK",
     "wof:created":1469054909,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890492863,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1566653025,
     "wof:name":"Irzniq",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

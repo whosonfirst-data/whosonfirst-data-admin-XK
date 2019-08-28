@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.70806,43.02528,20.74806,43.06528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "C\u00ebrven"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:srp_x_variant":[
         "\u0426\u0440\u0432\u0435\u043d\u0438"
-    ],
-    "name:und_x_variant":[
-        "C\u00ebrvenik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1326566423,
-    "wof:lastmodified":1537714936,
+    "wof:lastmodified":1566652767,
     "wof:name":"Crveni",
     "wof:parent_id":1108809569,
     "wof:placetype":"locality",

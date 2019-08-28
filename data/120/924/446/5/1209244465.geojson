@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.04198,42.62137,21.08198,42.66137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dobri Dub"
     ],
@@ -62,11 +66,6 @@
     "name:srp_x_variant":[
         "\u0414\u043e\u0431\u0440\u0438 \u0414\u0443\u0431"
     ],
-    "name:und_x_variant":[
-        "Lismiri",
-        "Dob\u00ebrdupi",
-        "Dob\u00ebr Dup"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633259
@@ -84,7 +83,7 @@
         }
     ],
     "wof:id":1209244465,
-    "wof:lastmodified":1564100195,
+    "wof:lastmodified":1566652910,
     "wof:name":"Dobri Dub",
     "wof:parent_id":85633259,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.60667,42.91167,20.64667,42.95167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Rezall\u00eb"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:srp_x_variant":[
         "Rezala"
-    ],
-    "name:und_x_variant":[
-        "Rezall\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1193047151,
-    "wof:lastmodified":1537714807,
+    "wof:lastmodified":1566652937,
     "wof:name":"Rezala",
     "wof:parent_id":1108809561,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.95889,42.21667,20.99889,42.25667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "V\u00ebrbeshtic\u00eb"
     ],
@@ -38,10 +42,6 @@
     ],
     "name:srp_x_variant":[
         "Vrbe\u0161tica"
-    ],
-    "name:und_x_variant":[
-        "Vrebishtic\u00eb",
-        "Verbeshtic\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1343695783,
-    "wof:lastmodified":1537714766,
+    "wof:lastmodified":1566652817,
     "wof:name":"Vrbestica",
     "wof:parent_id":1108809503,
     "wof:placetype":"locality",

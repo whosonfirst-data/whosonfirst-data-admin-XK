@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.19722,42.83472,21.23722,42.87472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Dumosh"
     ],
@@ -66,11 +70,6 @@
     "name:swe_x_preferred":[
         "Dumosh"
     ],
-    "name:und_x_variant":[
-        "Dumoshi",
-        "Duma\u0161",
-        "Dumosh"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +93,7 @@
         }
     ],
     "wof:id":1226579375,
-    "wof:lastmodified":1564100604,
+    "wof:lastmodified":1566653095,
     "wof:name":"Dumosh",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.39028,42.54833,21.43028,42.58833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Manishinc\u00eb"
     ],
@@ -40,13 +44,6 @@
     "name:srp_x_variant":[
         "Mani\u0161ince",
         "Manj\u0161ince"
-    ],
-    "name:und_x_variant":[
-        "Manj\u0161ince",
-        "Manishinc\u00eb",
-        "Manishinic\u00eb",
-        "Manishinc",
-        "Manishinca"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":1210052301,
-    "wof:lastmodified":1537714845,
+    "wof:lastmodified":1566652936,
     "wof:name":"Manisince",
     "wof:parent_id":1108809543,
     "wof:placetype":"locality",

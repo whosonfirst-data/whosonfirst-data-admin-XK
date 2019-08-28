@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.41333,42.46333,20.45333,42.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Radoniq"
     ],
@@ -39,10 +43,6 @@
         "\u0420\u0430\u0434\u0435\u045a\u0438\u045b",
         "\u0420\u0430\u0434\u043e\u045a\u0438\u045b",
         "Radonji\u0107"
-    ],
-    "name:und_x_variant":[
-        "Radonji\u0107",
-        "Radoni\u00e7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1343397323,
-    "wof:lastmodified":1537714812,
+    "wof:lastmodified":1566652796,
     "wof:name":"Radoniq",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.13386,42.97935,21.17386,43.01935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Mahalla e Posht\u00ebme"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260114073,
-    "wof:lastmodified":1537715040,
+    "wof:lastmodified":1566652950,
     "wof:name":"Gornja Mahala",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

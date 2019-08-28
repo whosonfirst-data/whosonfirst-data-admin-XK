@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.03389,42.98,21.07389,43.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ka\u010dandol"
     ],
@@ -41,9 +45,6 @@
     ],
     "name:srp_x_variant":[
         "\u041a\u0430\u0447\u0430\u043d\u0434\u043e\u043b"
-    ],
-    "name:und_x_variant":[
-        "Ka\u00e7anoll"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1344190911,
-    "wof:lastmodified":1564100085,
+    "wof:lastmodified":1566652818,
     "wof:name":"Kacandol",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":2551,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.35444,42.35139,21.39444,42.39139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Klokot"
     ],
@@ -70,7 +74,6 @@
         "Klokot"
     ],
     "name:und_x_variant":[
-        "Kllotkot",
         "Klokot-Vrbovac"
     ],
     "name:zho_x_preferred":[
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1259620493,
-    "wof:lastmodified":1564100571,
+    "wof:lastmodified":1566653067,
     "wof:name":"Klokot",
     "wof:parent_id":1108809507,
     "wof:placetype":"locality",

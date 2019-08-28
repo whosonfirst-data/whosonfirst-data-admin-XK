@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.1075,42.70417,20.1475,42.74417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Pepiq"
     ],
@@ -43,10 +47,6 @@
         "Pepi\u0107e"
     ],
     "name:und_x_variant":[
-        "Pepajt",
-        "Pepiqi",
-        "Pepi\u0107e",
-        "Pepi\u0107",
         "Pepaj"
     ],
     "src:geom":"geonames",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1277016657,
-    "wof:lastmodified":1537714824,
+    "wof:lastmodified":1566652868,
     "wof:name":"Pepiq",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",

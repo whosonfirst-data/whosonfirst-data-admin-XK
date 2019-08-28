@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.8925,42.91778,20.9325,42.95778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u043f\u0447\u0430"
     ],
@@ -60,10 +64,6 @@
         "Trep\u010dani",
         "\u0420\u0443\u0434\u043d\u0438\u043a \u0422\u0440\u0435\u043f\u0447\u0430"
     ],
-    "name:und_x_variant":[
-        "Trep\u010dani",
-        "Trep\u010d\u00eb"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1327467445,
-    "wof:lastmodified":1564100036,
+    "wof:lastmodified":1566652776,
     "wof:name":"Trepca",
     "wof:parent_id":1108809571,
     "wof:placetype":"locality",

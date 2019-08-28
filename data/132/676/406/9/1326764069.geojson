@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.43306,42.41111,21.47306,42.45111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Livoq i Posht\u00ebm"
     ],
@@ -42,9 +46,7 @@
         "\u0414\u043e\u045a\u0438 \u041b\u0438\u0432\u043e\u0447"
     ],
     "name:und_x_variant":[
-        "Livo\u00e7i i Posht\u00ebm",
-        "Livoc",
-        "Livo\u00e7 i Posht\u00ebm"
+        "Livoc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1326764069,
-    "wof:lastmodified":1537714918,
+    "wof:lastmodified":1566652777,
     "wof:name":"Livoc",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",

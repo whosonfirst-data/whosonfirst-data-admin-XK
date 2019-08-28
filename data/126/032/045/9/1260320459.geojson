@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.11806,42.92028,21.15806,42.96028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Bradash"
     ],
@@ -38,11 +42,6 @@
     "name:srp_x_variant":[
         "\u0411\u0440\u0430\u0434\u0430\u0448",
         "Brade\u0161",
-        "Brada\u0161a"
-    ],
-    "name:und_x_variant":[
-        "Brade\u0161",
-        "Bradashi",
         "Brada\u0161a"
     ],
     "src:geom":"geonames",
@@ -68,7 +67,7 @@
         }
     ],
     "wof:id":1260320459,
-    "wof:lastmodified":1537714950,
+    "wof:lastmodified":1566652956,
     "wof:name":"Bradash",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

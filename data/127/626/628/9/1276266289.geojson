@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.80056,42.56722,20.84056,42.60722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Vu\u00e7ak"
     ],
@@ -39,11 +43,6 @@
     ],
     "name:srp_x_variant":[
         "\u0412\u0443\u0447\u0430\u043a"
-    ],
-    "name:und_x_variant":[
-        "N\u00ebnkala",
-        "Vu\u00e7aku",
-        "N\u00ebnkalaja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +67,7 @@
         }
     ],
     "wof:id":1276266289,
-    "wof:lastmodified":1537714762,
+    "wof:lastmodified":1566652869,
     "wof:name":"Vucak",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",

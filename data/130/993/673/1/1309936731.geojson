@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"21.70167,42.6275,21.74167,42.6675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Laj\u00e7iq"
     ],
@@ -39,12 +43,6 @@
     ],
     "name:srp_x_variant":[
         "\u0409\u0430\u0458\u0447\u0438\u045b",
-        "Laj\u010di\u0107"
-    ],
-    "name:und_x_variant":[
-        "La\u00e7iqi",
-        "La\u00e7i",
-        "La\u00e7",
         "Laj\u010di\u0107"
     ],
     "src:geom":"geonames",
@@ -70,7 +68,7 @@
         }
     ],
     "wof:id":1309936731,
-    "wof:lastmodified":1537714856,
+    "wof:lastmodified":1566653010,
     "wof:name":"Ljajcic",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"XK",
+    "lbl:bbox":"20.91389,42.58444,20.95389,42.62444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gornja Koretica"
     ],
@@ -54,13 +58,7 @@
         "Gornja Koretica"
     ],
     "name:und_x_variant":[
-        "Kruembret",
-        "Gornja Koratica",
-        "Korratica e Ep\u00ebrme",
-        "Gornja Korotica",
-        "Korotica e Ep\u00ebrme",
-        "Kruembreti",
-        "Korrotic\u00eb e Ep\u00ebrme"
+        "Kruembret"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +84,7 @@
         }
     ],
     "wof:id":1276151799,
-    "wof:lastmodified":1564100167,
+    "wof:lastmodified":1566652888,
     "wof:name":"Gornja Koretica",
     "wof:parent_id":1108809545,
     "wof:placetype":"locality",
