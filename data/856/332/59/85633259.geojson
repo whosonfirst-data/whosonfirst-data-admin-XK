@@ -711,6 +711,9 @@
     },
     "wof:country":"XK",
     "wof:country_alpha3":"XKX",
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"799e3a80c1d5f17e6d6a47a200b2cd53",
     "wof:hierarchy":[
         {
@@ -730,7 +733,7 @@
         "bos",
         "rom"
     ],
-    "wof:lastmodified":1566652830,
+    "wof:lastmodified":1582314048,
     "wof:name":"Kosovo",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

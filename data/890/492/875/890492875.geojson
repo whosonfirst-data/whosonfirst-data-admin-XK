@@ -442,6 +442,9 @@
     },
     "wof:country":"XK",
     "wof:created":1469054909,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"31c50e5efeb88566562f898255f084ea",
     "wof:hierarchy":[
         {
@@ -453,7 +456,7 @@
         }
     ],
     "wof:id":890492875,
-    "wof:lastmodified":1566653019,
+    "wof:lastmodified":1582314051,
     "wof:name":"Pristina",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",

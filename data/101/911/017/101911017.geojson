@@ -196,6 +196,9 @@
         "wd:id":"Q991332"
     },
     "wof:country":"XK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d92ed73536057dfba95c794ca4d29baa",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":101911017,
-    "wof:lastmodified":1566653006,
+    "wof:lastmodified":1582314050,
     "wof:name":"Istok",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",
