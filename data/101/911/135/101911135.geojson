@@ -209,6 +209,9 @@
         "wd:id":"Q59086"
     },
     "wof:country":"XK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"957c41a3bcc70462ed7feefd7080a2e0",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":101911135,
-    "wof:lastmodified":1566653005,
+    "wof:lastmodified":1582314050,
     "wof:name":"Suva Reka",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

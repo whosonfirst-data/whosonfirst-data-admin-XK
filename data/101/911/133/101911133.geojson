@@ -335,6 +335,9 @@
         "qs_pg:id":1078942
     },
     "wof:country":"XK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbbc63654fd7bf8c080468ce7173851f",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
         }
     ],
     "wof:id":101911133,
-    "wof:lastmodified":1566653006,
+    "wof:lastmodified":1582314050,
     "wof:name":"Prizren",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",
