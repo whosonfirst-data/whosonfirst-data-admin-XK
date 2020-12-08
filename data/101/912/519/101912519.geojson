@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000972,
     "geom:area_square_m":8866124.684125,
-    "geom:bbox":"21.433845707,42.4392826402,21.4887757253,42.4802160844",
+    "geom:bbox":"21.4338457069506,42.4392826401767,21.4887757252764,42.480216084444",
     "geom:latitude":42.460793,
     "geom:longitude":21.465116,
     "gn:population":51912,
@@ -57,10 +57,10 @@
         "\u03a4\u03b6\u03b9\u03bb\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Gnjilane"
+        "Gjilan"
     ],
     "name:eng_x_variant":[
-        "Gjilan"
+        "Gnjilane"
     ],
     "name:fas_x_preferred":[
         "\u06af\u0646\u06cc\u06cc\u0644\u0627\u0646"
@@ -228,8 +228,8 @@
     "wd:wordcount":2630,
     "wof:belongsto":[
         102191581,
-        1108809535,
         85633259,
+        1108809535,
         1108808601
     ],
     "wof:breaches":[],
@@ -251,8 +251,8 @@
         }
     ],
     "wof:id":101912519,
-    "wof:lastmodified":1566653005,
-    "wof:name":"Gnjilane",
+    "wof:lastmodified":1607387478,
+    "wof:name":"Gjilan",
     "wof:parent_id":1108809535,
     "wof:placetype":"locality",
     "wof:population":51912,
