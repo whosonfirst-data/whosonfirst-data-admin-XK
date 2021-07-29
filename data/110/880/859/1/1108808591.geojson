@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Pec"
     ],
+    "name:fra_x_preferred":[
+        "Pej\u00eb-Pe\u0107"
+    ],
     "name:tur_x_preferred":[
         "\u0130pek"
     ],
@@ -77,7 +80,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1614894982,
+    "wof:lastmodified":1627523010,
     "wof:name":"Peja-Pec",
     "wof:parent_id":85633259,
     "wof:placetype":"region",
