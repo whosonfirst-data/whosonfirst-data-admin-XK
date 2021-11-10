@@ -143,6 +143,9 @@
         "\u0e0b\u0e2d\u0e32\u0e23\u0e4c\u0e1a\u0e34\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
+        "Srbica"
+    ],
+    "name:tur_x_variant":[
         "Skenderay"
     ],
     "name:ukr_x_preferred":[
@@ -153,6 +156,12 @@
     ],
     "name:vie_x_preferred":[
         "Srbica"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u65af\u5c14\u6bd4\u5bdf"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65af\u723e\u6bd4\u5bdf"
     ],
     "name:zho_x_preferred":[
         "\u65af\u723e\u6bd4\u5bdf"
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":890492775,
-    "wof:lastmodified":1566653025,
+    "wof:lastmodified":1636494840,
     "wof:name":"Srbica",
     "wof:parent_id":1108809553,
     "wof:placetype":"locality",

@@ -100,7 +100,22 @@
         "Rezina"
     ],
     "name:ukr_x_preferred":[
+        "\u0420\u0435\u0437\u0456\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0632\u06cc\u0646\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Rezina"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u96f7\u6d4e\u7eb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u96f7\u6fdf\u7d0d"
     ],
     "name:zho_x_preferred":[
         "\u96f7\u6fdf\u7d0d"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":1226377393,
-    "wof:lastmodified":1566653112,
+    "wof:lastmodified":1636494842,
     "wof:name":"Rezina",
     "wof:parent_id":1108809525,
     "wof:placetype":"locality",

@@ -98,6 +98,9 @@
         "Klina"
     ],
     "name:nld_x_preferred":[
+        "Klina"
+    ],
+    "name:nld_x_variant":[
         "Klin\u00eb"
     ],
     "name:nob_x_preferred":[
@@ -163,6 +166,12 @@
     "name:vie_x_preferred":[
         "Klina"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u514b\u5229\u7eb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u514b\u91cc\u7d0d"
+    ],
     "name:zho_x_preferred":[
         "\u514b\u5229\u7d0d"
     ],
@@ -199,7 +208,7 @@
         }
     ],
     "wof:id":890492821,
-    "wof:lastmodified":1566653019,
+    "wof:lastmodified":1636494839,
     "wof:name":"Klina",
     "wof:parent_id":1108809541,
     "wof:placetype":"locality",

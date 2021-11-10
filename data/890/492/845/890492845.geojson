@@ -200,10 +200,19 @@
         "\u041f\u043e\u0434\u0443\u0454\u0432\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u067e\u0648\u0688\u0648\u062c\u06cc\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u067e\u0648\u062f\u0648\u062c\u06cc\u0648\u0648"
     ],
     "name:vie_x_preferred":[
         "Podujevo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6ce2\u675c\u8036\u6c83"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6ce2\u675c\u8036\u6c83"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u675c\u8036\u6c83"
@@ -248,7 +257,7 @@
         }
     ],
     "wof:id":890492845,
-    "wof:lastmodified":1566653018,
+    "wof:lastmodified":1636494839,
     "wof:name":"Podujevo",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

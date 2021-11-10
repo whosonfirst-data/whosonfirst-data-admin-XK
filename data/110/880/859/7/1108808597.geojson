@@ -73,6 +73,9 @@
         "\u0aaa\u0acd\u0ab0\u0abf\u0a9d\u0acd\u0ab0\u0ac7\u0aa8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d6\u05e8\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d7\u05d5\u05d6 \u05e4\u05e8\u05d9\u05d6\u05e8\u05df"
     ],
     "name:hin_x_preferred":[
@@ -80,6 +83,9 @@
     ],
     "name:hrv_x_preferred":[
         "Prizrenski okrug"
+    ],
+    "name:hun_x_preferred":[
+        "Prizren"
     ],
     "name:ind_x_preferred":[
         "Distrik Prizren"
@@ -283,7 +289,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1614894981,
+    "wof:lastmodified":1636494838,
     "wof:name":"Prizren",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

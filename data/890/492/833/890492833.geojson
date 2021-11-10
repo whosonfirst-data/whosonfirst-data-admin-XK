@@ -118,7 +118,22 @@
         "Kosova Ovas\u0131"
     ],
     "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "name:ukr_x_variant":[
         "\u041a\u043e\u0441\u043e\u0432\u043e \u041f\u043e\u043b\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0633\u0648\u0648 \u067e\u0648\u0644\u062c\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Kosovo Polje"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u79d1\u7d22\u6c83\u6ce2\u5c14\u8036"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u79d1\u7d22\u6c83\u6ce2\u723e\u8036"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7d22\u6c83\u6ce2\u723e\u8036"
@@ -158,7 +173,7 @@
         }
     ],
     "wof:id":890492833,
-    "wof:lastmodified":1566653021,
+    "wof:lastmodified":1636494840,
     "wof:name":"Kosovo Polje",
     "wof:parent_id":1108809551,
     "wof:placetype":"locality",
