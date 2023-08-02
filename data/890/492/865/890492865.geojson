@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Brze\u0107e"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0632\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
         "Brze\u0107e"
     ],
@@ -36,6 +39,9 @@
         "Brze\u0107e"
     ],
     "name:nld_x_preferred":[
+        "Brze\u0107e"
+    ],
+    "name:pol_x_preferred":[
         "Brze\u0107e"
     ],
     "name:por_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":890492865,
-    "wof:lastmodified":1566653024,
+    "wof:lastmodified":1690921771,
     "wof:name":"Brze\u0107e",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

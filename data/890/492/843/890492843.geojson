@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u0644\u064a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0628\u0644\u064a\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Lipljan"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09aa\u09cd\u09b2\u09bf\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:bos_x_preferred":[
+        "Lipljan"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u043b\u044f\u043d"
@@ -212,7 +221,7 @@
         }
     ],
     "wof:id":890492843,
-    "wof:lastmodified":1636494840,
+    "wof:lastmodified":1690921766,
     "wof:name":"Lipljan",
     "wof:parent_id":1108809575,
     "wof:placetype":"locality",

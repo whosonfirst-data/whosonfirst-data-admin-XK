@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Leshan"
+    ],
     "name:eng_x_preferred":[
         "Le\u0161ane"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:srp_x_variant":[
         "\u041b\u0435\u0448\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Leshan"
     ],
     "name:zho_x_preferred":[
         "\u4e50\u5c71\u6751"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890492849,
-    "wof:lastmodified":1636494840,
+    "wof:lastmodified":1690921770,
     "wof:name":"Leshan",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u0646\u064a\u0643"
+    ],
+    "name:arz_x_preferred":[
+        "\u064a\u0648\u0646\u064a\u0643"
+    ],
     "name:ceb_x_preferred":[
         "Junik"
     ],
@@ -36,6 +42,12 @@
     ],
     "name:hrv_x_preferred":[
         "Junik"
+    ],
+    "name:ind_x_preferred":[
+        "Junik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30cb\u30af"
     ],
     "name:lit_x_preferred":[
         "Junikas"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":890492855,
-    "wof:lastmodified":1566653025,
+    "wof:lastmodified":1690921773,
     "wof:name":"Junik",
     "wof:parent_id":1108809515,
     "wof:placetype":"locality",
