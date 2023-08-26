@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u0632\u0627\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Ferizaj"
+    ],
     "name:aze_x_preferred":[
         "Ferizovik"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:bos_x_preferred":[
         "Ferizovi\u0107i"
+    ],
+    "name:bos_x_variant":[
+        "Uro\u0161evac"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0435\u0440\u0438\u0437\u043e\u0432\u043e"
@@ -72,6 +78,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac7\u0ab0\u0abf\u0a9d\u0abe\u0a9c"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d6'\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u0947\u0930\u0940\u091c\u093c\u093e\u091c"
@@ -150,6 +159,9 @@
     ],
     "name:slv_x_preferred":[
         "Ferizaj"
+    ],
+    "name:slv_x_variant":[
+        "Uro\u0161evac"
     ],
     "name:spa_x_preferred":[
         "Uro\u0161evac"
@@ -231,7 +243,7 @@
         }
     ],
     "wof:id":890492829,
-    "wof:lastmodified":1566653017,
+    "wof:lastmodified":1690921763,
     "wof:name":"Ferizaj",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",

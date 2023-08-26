@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062c\u0627\u0643\u0648\u0641\u0627"
+    ],
     "name:bar_x_preferred":[
         "Beziak Gjakova"
     ],
     "name:bel_x_preferred":[
         "\u0413'\u044f\u043a\u043e\u045e\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u2019\u044f\u043a\u043e\u045e\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
     "name:bul_x_preferred":[
         "\u0414\u044f\u043a\u043e\u0432\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
@@ -31,17 +37,32 @@
     "name:ces_x_preferred":[
         "Djakovick\u00fd okruh"
     ],
+    "name:ces_x_variant":[
+        "\u0110akovick\u00fd okruh"
+    ],
     "name:deu_x_preferred":[
         "Verwaltungsbezirk Gjakova"
     ],
     "name:eng_x_preferred":[
         "\u0110akovica District"
     ],
+    "name:eng_x_variant":[
+        "Gjakova District"
+    ],
     "name:eus_x_preferred":[
         "\u0110akovica"
     ],
+    "name:fin_x_preferred":[
+        "Gjakovan piiri"
+    ],
     "name:hrv_x_preferred":[
         "\u0110akovi\u010dki okrug"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u056f\u0578\u057e\u056b\u0581\u0561 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Gjakova"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30b3\u30f4\u30a1\u90e1"
@@ -70,6 +91,9 @@
     "name:srp_x_variant":[
         "\u0402\u0430\u043a\u043e\u0432\u0438\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
     ],
+    "name:swe_x_preferred":[
+        "Gjakova"
+    ],
     "name:tur_x_preferred":[
         "Yakova ili"
     ],
@@ -81,6 +105,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8cc8\u79d1\u7dad\u5bdf\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u8d3e\u79d1\u7ef4\u5bdf\u533a"
     ],
     "qs:name":"Gllogjan",
     "qs:photos_9r":0,
@@ -115,7 +142,7 @@
         }
     ],
     "wof:id":890492883,
-    "wof:lastmodified":1566653023,
+    "wof:lastmodified":1690921769,
     "wof:name":"Gllogjan",
     "wof:parent_id":1108809529,
     "wof:placetype":"locality",

@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0634\u0627 \u0643\u0648\u0633\u0648\u0641\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Fush\u00eb Kosova"
+    ],
     "name:bos_x_preferred":[
         "Kosovo Polje"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u043e\u0432\u043e \u043f\u043e\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Kosovo Polje"
     ],
     "name:ceb_x_preferred":[
         "Kosovo Polje"
@@ -39,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Kosovo Polje"
+    ],
+    "name:eng_x_variant":[
+        "Fush\u00eb Kosova"
     ],
     "name:est_x_preferred":[
         "Fush\u00eb Kosov\u00eb"
@@ -60,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "Fush\u00eb-Kosova"
+    ],
+    "name:ind_x_preferred":[
+        "Fush\u00eb Kosova"
     ],
     "name:ita_x_preferred":[
         "Kosovo Polje"
@@ -173,7 +188,7 @@
         }
     ],
     "wof:id":890492833,
-    "wof:lastmodified":1636494840,
+    "wof:lastmodified":1690921768,
     "wof:name":"Kosovo Polje",
     "wof:parent_id":1108809551,
     "wof:placetype":"locality",

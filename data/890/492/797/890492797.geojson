@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0634\u062a\u064a\u0645\u0644\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u062a\u064a\u0645\u0644\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Shtime"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u099f\u09bf\u09ae\u09b2\u09c7"
     ],
@@ -146,6 +152,9 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e0a\u0e44\u0e17\u0e21\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e15\u0e34\u0e40\u0e21"
+    ],
     "name:tur_x_preferred":[
         "\u015etimle"
     ],
@@ -192,7 +201,7 @@
         }
     ],
     "wof:id":890492797,
-    "wof:lastmodified":1566653017,
+    "wof:lastmodified":1690921762,
     "wof:name":"Shtime",
     "wof:parent_id":1108809523,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0441\u044f\u043d\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Pasjane"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890492881,
-    "wof:lastmodified":1566653019,
+    "wof:lastmodified":1690921765,
     "wof:name":"Pasjane",
     "wof:parent_id":1108809517,
     "wof:placetype":"locality",

@@ -26,14 +26,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062f\u0648\u064a\u064a\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062f\u0648\u064a\u064a\u0641\u0648"
+    ],
     "name:ast_x_preferred":[
         "Podujevo"
+    ],
+    "name:ast_x_variant":[
+        "Podujeva"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09a1\u09cb\u099c\u09c7\u09ac\u09c1"
     ],
     "name:bos_x_preferred":[
         "Podujevo"
+    ],
+    "name:bos_x_variant":[
+        "Podujeva"
     ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0434\u0443\u0435\u0432\u043e"
@@ -50,6 +59,9 @@
     "name:dan_x_preferred":[
         "Podujevo"
     ],
+    "name:dan_x_variant":[
+        "Podujeva"
+    ],
     "name:deu_x_preferred":[
         "Podujevo"
     ],
@@ -61,6 +73,9 @@
     ],
     "name:eng_x_preferred":[
         "Podujevo"
+    ],
+    "name:eng_x_variant":[
+        "Podujeva"
     ],
     "name:epo_x_preferred":[
         "Podujevo"
@@ -78,7 +93,8 @@
         "Podujev\u00eb"
     ],
     "name:fra_x_variant":[
-        "Podujevo"
+        "Podujevo",
+        "Podujeva"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0aa1\u0ac1\u0a9c\u0ac7\u0ab5\u0acb"
@@ -89,17 +105,24 @@
     "name:hrv_x_preferred":[
         "Podujevo"
     ],
+    "name:hrv_x_variant":[
+        "Podujeva"
+    ],
     "name:hun_x_preferred":[
         "Podujev\u00f3"
     ],
     "name:hun_x_variant":[
-        "Podujevo"
+        "Podujevo",
+        "Podujeva"
     ],
     "name:ind_x_preferred":[
         "Podujevo"
     ],
     "name:ita_x_preferred":[
         "Podujevo"
+    ],
+    "name:ita_x_variant":[
+        "Podujeva"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30c9\u30a5\u30a4\u30a7\u30f4\u30a1"
@@ -125,6 +148,9 @@
     "name:msa_x_preferred":[
         "Podujevo"
     ],
+    "name:msa_x_variant":[
+        "Podujeva"
+    ],
     "name:nds_x_preferred":[
         "Podujevo"
     ],
@@ -134,8 +160,14 @@
     "name:nld_x_variant":[
         "Podujev\u00eb"
     ],
+    "name:nno_x_preferred":[
+        "Podujeva"
+    ],
     "name:nob_x_preferred":[
         "Podujevo"
+    ],
+    "name:nob_x_variant":[
+        "Podujeva"
     ],
     "name:nor_x_preferred":[
         "Podujev\u00eb"
@@ -143,11 +175,20 @@
     "name:pol_x_preferred":[
         "Podujevo"
     ],
+    "name:pol_x_variant":[
+        "Podujeva"
+    ],
     "name:por_x_preferred":[
         "Podujevo"
     ],
+    "name:por_x_variant":[
+        "Podujeva"
+    ],
     "name:ron_x_preferred":[
         "Podujevo"
+    ],
+    "name:ron_x_variant":[
+        "Podujeva"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0434\u0443\u0435\u0432\u043e"
@@ -160,6 +201,9 @@
     ],
     "name:spa_x_preferred":[
         "Podujevo"
+    ],
+    "name:spa_x_variant":[
+        "Podujeva"
     ],
     "name:sqi_x_preferred":[
         "Besiana"
@@ -257,7 +301,7 @@
         }
     ],
     "wof:id":890492845,
-    "wof:lastmodified":1636494839,
+    "wof:lastmodified":1690921764,
     "wof:name":"Podujevo",
     "wof:parent_id":1108809565,
     "wof:placetype":"locality",

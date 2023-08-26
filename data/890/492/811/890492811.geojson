@@ -46,6 +46,9 @@
     "name:eng_x_preferred":[
         "Kamenica"
     ],
+    "name:eng_x_variant":[
+        "\u0437\u0430\u0441\u0435\u043e\u043a \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
     "name:epo_x_preferred":[
         "Kamenica"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\uba54\ub2c8\ucc28"
+    ],
+    "name:lit_x_preferred":[
+        "Kamenica"
     ],
     "name:nld_x_preferred":[
         "Kamenica"
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":890492811,
-    "wof:lastmodified":1566653018,
+    "wof:lastmodified":1690921764,
     "wof:name":"Kamenica",
     "wof:parent_id":1108809581,
     "wof:placetype":"locality",

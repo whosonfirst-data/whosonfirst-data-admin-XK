@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Districte de Prizren"
     ],
+    "name:ceb_x_preferred":[
+        "Prizren District"
+    ],
     "name:ces_x_preferred":[
         "Prizrensk\u00fd okruh"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:eng_x_variant":[
         "Prizren District"
+    ],
+    "name:est_x_preferred":[
+        "Prizreni rajoon"
     ],
     "name:eus_x_preferred":[
         "Prizren"
@@ -159,6 +165,9 @@
     "name:swe_x_preferred":[
         "Prizen distriktet"
     ],
+    "name:swe_x_variant":[
+        "Prizren distrikt"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcd\u0bb0\u0bbf\u0bb8\u0bcd\u0bb1\u0bc7\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
@@ -185,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u8332\u502b\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u91cc\u5179\u4f26\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KOS",
@@ -289,7 +301,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1636494838,
+    "wof:lastmodified":1690921758,
     "wof:name":"Prizren",
     "wof:parent_id":85633259,
     "wof:placetype":"region",
