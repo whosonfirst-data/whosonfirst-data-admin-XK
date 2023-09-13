@@ -919,7 +919,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"",
+    "src:population_date":"",
     "statoids:dial":"383",
     "wd:wordcount":15690,
     "wof:belongsto":[
@@ -967,7 +967,7 @@
         "bos",
         "rom"
     ],
-    "wof:lastmodified":1694492121,
+    "wof:lastmodified":1694639574,
     "wof:name":"Kosovo",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
