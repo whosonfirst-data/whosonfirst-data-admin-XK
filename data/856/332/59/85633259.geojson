@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2008-02~",
     "geom:area":1.195703,
-    "geom:area_square_m":10885425380.160507,
+    "geom:area_square_m":10886398982.472132,
     "geom:bbox":"20.014338,41.857641,21.789972,43.267953",
     "geom:latitude":42.581367,
     "geom:longitude":20.88938,
@@ -15,6 +15,9 @@
     "iso:country":"XK",
     "itu:country_code":[
         "383"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "disputed territory"
     ],
     "label:eng_x_preferred_shortcode":[
         "XK"
@@ -915,7 +918,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"",
     "statoids:dial":"383",
     "wd:wordcount":15690,
     "wof:belongsto":[
@@ -944,7 +948,7 @@
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"19d63e5d9545e7b020b8cb41ec0a3fda",
+    "wof:geomhash":"3afbb79011895c369b6268ca073d5ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -963,12 +967,12 @@
         "bos",
         "rom"
     ],
-    "wof:lastmodified":1690921757,
+    "wof:lastmodified":1694639574,
     "wof:name":"Kosovo",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":1800000,
-    "wof:population_rank":12,
+    "wof:population":1794248,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-xk",
     "wof:shortcode":"XK",
     "wof:superseded_by":[],

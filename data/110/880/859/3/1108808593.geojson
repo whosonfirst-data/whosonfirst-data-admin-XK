@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135101,
-    "geom:area_square_m":1232720689.854419,
+    "geom:area_square_m":1232720689.854423,
     "geom:bbox":"20.0734455,42.2516075,20.7338185,42.6583625",
     "geom:latitude":42.445962,
     "geom:longitude":20.401325,
@@ -40,6 +40,9 @@
         "\u0110akovica"
     ],
     "name:deu_x_preferred":[
+        "Gjakova"
+    ],
+    "name:eng_x_preferred":[
         "Gjakova"
     ],
     "name:est_x_preferred":[
@@ -130,7 +133,7 @@
     "wof:concordances":{},
     "wof:country":"XK",
     "wof:created":1486424205,
-    "wof:geomhash":"7ea79fda012c62261d6dda7f4eacdd3e",
+    "wof:geomhash":"cfbfb9afff7c4ec21cfc66de1a585153",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +150,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1566652960,
+    "wof:lastmodified":1694493129,
     "wof:name":"Gjakova",
     "wof:parent_id":85633259,
     "wof:placetype":"region",
