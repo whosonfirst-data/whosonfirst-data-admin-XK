@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189811,
-    "geom:area_square_m":1737534720.030995,
+    "geom:area_square_m":1737534379.861577,
     "geom:bbox":"20.480709,41.852799,20.986,42.607984",
     "geom:latitude":42.242105,
     "geom:longitude":20.745537,
@@ -279,12 +279,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RS.PZ",
+        "iso:code_pseudo":"XK-PZ",
         "iso:id":"RS-27",
         "wd:id":"Q1048331"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"XK",
     "wof:created":1486424205,
-    "wof:geomhash":"aff00424760daa7930f9024bcb601fbf",
+    "wof:geomhash":"dc32190bd5b526ebc5f80dc373974c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -301,7 +303,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1690921758,
+    "wof:lastmodified":1695884778,
     "wof:name":"Prizren",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

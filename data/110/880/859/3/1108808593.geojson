@@ -130,7 +130,10 @@
         85633259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code_pseudo":"XK-GK"
+    },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"XK",
     "wof:created":1486424205,
     "wof:geomhash":"cfbfb9afff7c4ec21cfc66de1a585153",
@@ -150,7 +153,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1695884327,
     "wof:name":"Gjakova",
     "wof:parent_id":85633259,
     "wof:placetype":"region",
