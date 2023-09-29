@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150171,
-    "geom:area_square_m":1364688822.196325,
+    "geom:area_square_m":1364689238.322784,
     "geom:bbox":"20.01455,42.516574,20.766965,42.890897",
     "geom:latitude":42.6984,
     "geom:longitude":20.4244,
@@ -59,11 +59,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RS.PE",
+        "iso:code_pseudo":"XK-PP",
         "iso:id":"RS-26"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"XK",
     "wof:created":1486424205,
-    "wof:geomhash":"1a4398dd299fd3d5847c9df5a7d023c3",
+    "wof:geomhash":"31001c6602c9240b0864db66cc1c7878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +82,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1627523010,
+    "wof:lastmodified":1695884756,
     "wof:name":"Peja-Pec",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

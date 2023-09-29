@@ -142,7 +142,10 @@
         85633259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code_pseudo":"XK-FR"
+    },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"XK",
     "wof:created":1486424205,
     "wof:geomhash":"79059694100ac091915daa9858e0ec32",
@@ -162,7 +165,7 @@
         "sqi",
         "srp"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1695884327,
     "wof:name":"Ferizaj",
     "wof:parent_id":85633259,
     "wof:placetype":"region",

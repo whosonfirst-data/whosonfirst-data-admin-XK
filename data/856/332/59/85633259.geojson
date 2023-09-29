@@ -935,6 +935,7 @@
         "fips:code":"KV",
         "gn:id":831053,
         "gp:id":29389201,
+        "iso:code":"XK",
         "mzb:id":"republic-of-kosovo",
         "ne:id":1159321007,
         "nyt:id":"60407210899880878081",
@@ -942,6 +943,7 @@
         "wd:id":"Q1246",
         "wk:page":"Kosovo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"XK",
     "wof:country_alpha3":"XKX",
     "wof:geom_alt":[
@@ -967,7 +969,7 @@
         "bos",
         "rom"
     ],
-    "wof:lastmodified":1694639574,
+    "wof:lastmodified":1695881233,
     "wof:name":"Kosovo",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
