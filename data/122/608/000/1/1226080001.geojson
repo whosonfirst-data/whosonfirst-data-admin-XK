@@ -70,6 +70,11 @@
     "wof:concordances":{
         "gn:id":787931
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            830291
+        ]
+    },
     "wof:country":"XK",
     "wof:geomhash":"e3778a230e7690b24af7a3a4979dbc81",
     "wof:hierarchy":[
@@ -82,13 +87,15 @@
         }
     ],
     "wof:id":1226080001,
-    "wof:lastmodified":1566653114,
+    "wof:lastmodified":1706241114,
     "wof:name":"Mirash",
     "wof:parent_id":1108809521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293718661
+    ],
     "wof:tags":[]
 },
   "bbox": [
