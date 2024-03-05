@@ -11,6 +11,7 @@
     "geom:longitude":20.488913,
     "gn:population":40000,
     "iso:country":"XK",
+    "lbl:bbox":"20.463632,42.7609365,20.503632,42.8009365",
     "lbl:latitude":42.780991,
     "lbl:longitude":20.49005,
     "lbl:max_zoom":14.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u0648\u0643"
     ],
@@ -206,6 +208,21 @@
     "qs:pop":0,
     "qs:source":"Custom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Istok",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Pech",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1186827,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":534303,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -215,6 +232,10 @@
     "wd:latitude":42.783333,
     "wd:longitude":20.483333,
     "wd:wordcount":533,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Pech",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108809555,
@@ -227,6 +248,17 @@
         "gp:id":534303,
         "qs_pg:id":129592,
         "wd:id":"Q991332"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            534303
+        ],
+        "qs_pg:id":[
+            1186827
+        ],
+        "wd:id":[
+            "Q991332"
+        ]
     },
     "wof:country":"XK",
     "wof:geom_alt":[
@@ -243,7 +275,7 @@
         }
     ],
     "wof:id":101911017,
-    "wof:lastmodified":1690921761,
+    "wof:lastmodified":1706241113,
     "wof:name":"Istok",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",
@@ -251,7 +283,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-xk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125973217
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -12,6 +12,7 @@
     "gn:elevation":516,
     "gn:population":81800,
     "iso:country":"XK",
+    "lbl:bbox":"20.280331,42.639577,20.320331,42.679577",
     "lbl:latitude":42.656064,
     "lbl:longitude":20.299068,
     "lbl:max_zoom":14.0,
@@ -21,6 +22,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062e\u0627"
     ],
@@ -172,8 +174,14 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0447"
     ],
+    "name:sco_x_preferred":[
+        "Pec"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd9\u0da2\u0dda"
+    ],
+    "name:slk_x_preferred":[
+        "Pec"
     ],
     "name:slv_x_preferred":[
         "Pe\u0107"
@@ -324,12 +332,31 @@
     "qs:pop":0,
     "qs:source":"Custom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Pec",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Pech",
+    "qs_pg:photos":273,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":273,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478780,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":535891,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Pech",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108809547,
@@ -345,7 +372,12 @@
         "wk:page":"Pe\u0107"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":478780
+        "gp:id":[
+            535891
+        ],
+        "qs_pg:id":[
+            478780
+        ]
     },
     "wof:country":"XK",
     "wof:geom_alt":[
@@ -362,7 +394,7 @@
         }
     ],
     "wof:id":101912609,
-    "wof:lastmodified":1690921760,
+    "wof:lastmodified":1706241114,
     "wof:name":"Pec",
     "wof:parent_id":1108809547,
     "wof:placetype":"locality",
@@ -370,7 +402,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-xk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125915595
+    ],
     "wof:tags":[]
 },
   "bbox": [

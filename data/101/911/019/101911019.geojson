@@ -11,6 +11,7 @@
     "geom:longitude":20.973782,
     "gn:population":30651,
     "iso:country":"XK",
+    "lbl:bbox":"20.954906,42.7952755,20.994906,42.8352755",
     "lbl:latitude":42.822879,
     "lbl:longitude":20.969388,
     "lbl:max_zoom":14.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0648\u0634\u064a\u062a\u0631\u064a"
     ],
@@ -168,6 +170,21 @@
     "qs:pop":0,
     "qs:source":"Custom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Vu\u010ditrn",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Kosovska Mitrovica",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":31158,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":537628,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -176,6 +193,10 @@
     "wd:latitude":42.822222,
     "wd:longitude":20.966667,
     "wd:wordcount":6255,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Kosovska Mitrovica",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108809559,
@@ -190,6 +211,17 @@
         "wd:id":"Q911241",
         "wk:page":"Vu\u010ditrn"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            537628
+        ],
+        "qs_pg:id":[
+            31158
+        ],
+        "wd:id":[
+            "Q911241"
+        ]
+    },
     "wof:country":"XK",
     "wof:geomhash":"e5f8452ac5bf550220810f565c69708b",
     "wof:hierarchy":[
@@ -202,7 +234,7 @@
         }
     ],
     "wof:id":101911019,
-    "wof:lastmodified":1690921762,
+    "wof:lastmodified":1706241113,
     "wof:name":"Vu\u010ditrn",
     "wof:parent_id":1108809559,
     "wof:placetype":"locality",
@@ -210,7 +242,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-xk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125935907
+    ],
     "wof:tags":[]
 },
   "bbox": [
