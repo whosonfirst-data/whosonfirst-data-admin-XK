@@ -77,7 +77,7 @@
         "Pristina"
     ],
     "name:deu_x_preferred":[
-        "Pri\u0161tina"
+        "Pristina"
     ],
     "name:deu_x_variant":[
         "Gemeinde Pristina"
@@ -452,8 +452,8 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1108809557,
         85633259,
+        1108809557,
         1108808603
     ],
     "wof:breaches":[],
@@ -482,7 +482,7 @@
         }
     ],
     "wof:id":890492875,
-    "wof:lastmodified":1690921766,
+    "wof:lastmodified":1709837101,
     "wof:name":"Pristina",
     "wof:parent_id":1108809557,
     "wof:placetype":"locality",
